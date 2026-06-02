@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "id": 33532,
+      "attributes": {
+        "diary_hour": "18:00:00",
+        "diary_description": "Primera División: Peñarol vs Central Español",
+        "date_diary": "2026-06-01",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkxMA=="
+              }
+            },
+            {
+              "id": 5225,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC14LXktei53cy9nbG9iYWwxLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2024-01-07T23:51:20.902Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 132,
+                  "attributes": {
+                    "name": "uruguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.8,
+                    "url": "/uploads/uruguay_e2b9597af8.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:18.898Z",
+                    "updatedAt": "2024-01-07T23:51:18.898Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33531,
+      "attributes": {
+        "diary_hour": "18:00:00",
+        "diary_description": "Amistoso: Colombia vs Costa Rica",
+        "date_diary": "2026-06-01",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 462,
+              "attributes": {
+                "embed_name": "Sportv",
+                "idioma": "Portugués",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
+              }
+            },
+            {
+              "id": 436,
+              "attributes": {
+                "embed_name": "Caracol TV",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s"
+              }
+            },
+            {
+              "id": 8787,
+              "attributes": {
+                "embed_name": "SporTV",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT1zcG9ydHY="
+              }
+            },
+            {
+              "id": 11533,
+              "attributes": {
+                "embed_name": "Gol Caracol",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1ldmVudG8x"
+              }
+            },
+            {
+              "id": 11776,
+              "attributes": {
+                "embed_name": "Caracol TV",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC14LXktei53cy9nbG9iYWwxLnBocD9zdHJlYW09Y2FyYWNvbHR2"
+              }
+            },
+            {
+              "id": 5607,
+              "attributes": {
+                "embed_name": "Deportes RCN",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1ldmVudG8y"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 62,
+            "attributes": {
+              "name": "Amistoso Paises",
+              "createdAt": "2024-03-20T12:50:38.850Z",
+              "updatedAt": "2024-03-20T12:50:40.247Z",
+              "publishedAt": "2024-03-20T12:50:40.246Z",
+              "image": {
+                "data": {
+                  "id": 193,
+                  "attributes": {
+                    "name": "amistoso_paises.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistoso_paises_b9febc0d3c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.95,
+                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-03-20T12:50:35.124Z",
+                    "updatedAt": "2024-03-20T12:50:35.124Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
