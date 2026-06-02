@@ -17,7 +17,7 @@ jobs:
     - name: Instalar Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '20'
+        node-version: '22' # <-- CAMBIADO AQUÍ A NODE 22 🚀
 
     - name: Instalar dependencias (Fetch y Cheerio)
       run: npm install
