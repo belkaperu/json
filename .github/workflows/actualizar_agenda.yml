@@ -1,0 +1,33 @@
+name: Actualizador de Agenda Automático
+
+on:
+  schedule:
+    # Corre automáticamente cada 15 minutos de forma perpetua
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Te permite activar el script manualmente desde la web de GitHub cuando quieras
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Descargar el repositorio actual
+      uses: actions/checkout@v4
+
+    - name: Instalar Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22' # <-- CAMBIADO AQUÍ A NODE 22 🚀
+
+    - name: Instalar dependencias (Fetch y Cheerio)
+      run: npm install
+
+    - name: Ejecutar el Scraper Inteligente
+      run: node index.js
+
+    - name: Subir el archivo JSON actualizado al repositorio
+      run: |
+        git config --global user.name "Agenda Bot"
+        git config --global user.email "bot@agenda.com"
+        git add agenda_combinada.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Agenda actualizada automáticamente" && git push)
