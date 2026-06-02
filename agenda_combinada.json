@@ -1,123 +1,36 @@
 {
   "data": [
     {
-      "id": 33532,
+      "id": 33533,
       "attributes": {
-        "diary_hour": "18:00:00",
-        "diary_description": "Primera División: Peñarol vs Central Español",
+        "diary_hour": "20:00:00",
+        "diary_description": "Amistoso: Canadá vs Uzbekistán",
         "date_diary": "2026-06-01",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 831,
+              "id": 872,
               "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkxMA=="
+                "embed_name": "FOX Sports 2 USA",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMyX3VzYQ=="
               }
             },
             {
-              "id": 14250,
+              "id": 5812,
               "attributes": {
-                "embed_name": "Disney+",
+                "embed_name": "TSN 1 CA",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC14LXktei53cy9nbG9iYWwxLnBocD9zdHJlYW09ZGlzbmV5MQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2024-01-07T23:51:20.902Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 132,
-                  "attributes": {
-                    "name": "uruguay.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/uruguay_e2b9597af8.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:18.898Z",
-                    "updatedAt": "2024-01-07T23:51:18.898Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33531,
-      "attributes": {
-        "diary_hour": "18:00:00",
-        "diary_description": "Amistoso: Colombia vs Costa Rica",
-        "date_diary": "2026-06-01",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 462,
-              "attributes": {
-                "embed_name": "Sportv",
-                "idioma": "Portugués",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC14LXktei53cy9nbG9iYWwxLnBocD9zdHJlYW09dHNuMQ=="
               }
             },
             {
-              "id": 436,
+              "id": 12823,
               "attributes": {
-                "embed_name": "Caracol TV",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s"
-              }
-            },
-            {
-              "id": 10876,
-              "attributes": {
-                "embed_name": "SporTV",
+                "embed_name": "Fox Sports 2 USA",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT1zcG9ydHY="
-              }
-            },
-            {
-              "id": 7387,
-              "attributes": {
-                "embed_name": "Gol Caracol",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1ldmVudG8x"
-              }
-            },
-            {
-              "id": 6473,
-              "attributes": {
-                "embed_name": "Caracol TV",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC14LXktei53cy9nbG9iYWwxLnBocD9zdHJlYW09Y2FyYWNvbHR2"
-              }
-            },
-            {
-              "id": 9729,
-              "attributes": {
-                "embed_name": "Deportes RCN",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1ldmVudG8y"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1mMnVzYQ=="
               }
             }
           ]
