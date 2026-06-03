@@ -1,195 +1,6 @@
 {
   "data": [
     {
-      "id": 33547,
-      "attributes": {
-        "diary_hour": "12:30:00",
-        "diary_description": "MLB – Minnesota Twins vs Chicago White Sox",
-        "date_diary": "2026-06-03",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 672,
-              "attributes": {
-                "embed_name": "ESPN5",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ=="
-              }
-            },
-            {
-              "id": 1208,
-              "attributes": {
-                "embed_name": "ESPN5 Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2VzcG41dHYuaHRtbA=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 82,
-            "attributes": {
-              "name": "MLB",
-              "createdAt": "2025-02-22T01:36:58.525Z",
-              "updatedAt": "2025-02-22T01:37:00.922Z",
-              "publishedAt": "2025-02-22T01:37:00.921Z",
-              "image": {
-                "data": {
-                  "id": 252,
-                  "attributes": {
-                    "name": "mlb.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "mlb_f5711cc440",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.77,
-                    "url": "/uploads/mlb_f5711cc440.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-02-22T01:36:52.220Z",
-                    "updatedAt": "2025-02-22T01:36:52.220Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33550,
-      "attributes": {
-        "diary_hour": "13:00:00",
-        "diary_description": "Amistoso: Albania vs Israel",
-        "date_diary": "2026-06-03",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 765,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
-              }
-            },
-            {
-              "id": 9345,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT1kaXNuZXky"
-              }
-            },
-            {
-              "id": 8421,
-              "attributes": {
-                "embed_name": "Vix",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT12aXgz"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 62,
-            "attributes": {
-              "name": "Amistoso Paises",
-              "createdAt": "2024-03-20T12:50:38.850Z",
-              "updatedAt": "2024-03-20T12:50:40.247Z",
-              "publishedAt": "2024-03-20T12:50:40.246Z",
-              "image": {
-                "data": {
-                  "id": 193,
-                  "attributes": {
-                    "name": "amistoso_paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.95,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-20T12:50:35.124Z",
-                    "updatedAt": "2024-03-20T12:50:35.124Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33552,
-      "attributes": {
-        "diary_hour": "11:30:00",
-        "diary_description": "Torneo Maurice Revello Sub-20 : Costa de Marfil vs Venezuela",
-        "date_diary": "2026-06-03",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "FOX Deportes",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 23,
-            "attributes": {
-              "name": "FIFA",
-              "createdAt": "2023-11-24T11:43:09.315Z",
-              "updatedAt": "2024-01-07T23:43:59.909Z",
-              "publishedAt": "2023-11-24T11:43:11.351Z",
-              "image": {
-                "data": {
-                  "id": 124,
-                  "attributes": {
-                    "name": "fifa.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "fifa_ee72f5c955",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.42,
-                    "url": "/uploads/fifa_ee72f5c955.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:43:56.994Z",
-                    "updatedAt": "2024-01-07T23:43:56.994Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33554,
       "attributes": {
         "diary_hour": "13:45:00",
@@ -207,7 +18,7 @@
               }
             },
             {
-              "id": 5733,
+              "id": 10346,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -215,7 +26,7 @@
               }
             },
             {
-              "id": 5405,
+              "id": 14168,
               "attributes": {
                 "embed_name": "Vix",
                 "idioma": "Español/Alternativo",
@@ -275,6 +86,30 @@
                 "embed_name": "Sportv",
                 "idioma": "Portugués",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
+              }
+            },
+            {
+              "id": 7358,
+              "attributes": {
+                "embed_name": "SporTV",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT1zcG9ydHY="
+              }
+            },
+            {
+              "id": 11167,
+              "attributes": {
+                "embed_name": "SporTV OP2",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1zcG9ydHR2YnIx"
+              }
+            },
+            {
+              "id": 14817,
+              "attributes": {
+                "embed_name": "SporTV OP3",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDIucGhwP3N0cmVhbT1zcG9ydHYx"
               }
             }
           ]
@@ -339,6 +174,22 @@
                 "idioma": null,
                 "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s"
               }
+            },
+            {
+              "id": 11970,
+              "attributes": {
+                "embed_name": "TyC Sports",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT10eWNzcG9ydHM="
+              }
+            },
+            {
+              "id": 8454,
+              "attributes": {
+                "embed_name": "TyC Sports OP2",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT10eWNzcG9ydHM="
+              }
             }
           ]
         },
@@ -394,210 +245,21 @@
                 "idioma": "español",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zNA=="
               }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 62,
-            "attributes": {
-              "name": "Amistoso Paises",
-              "createdAt": "2024-03-20T12:50:38.850Z",
-              "updatedAt": "2024-03-20T12:50:40.247Z",
-              "publishedAt": "2024-03-20T12:50:40.246Z",
-              "image": {
-                "data": {
-                  "id": 193,
-                  "attributes": {
-                    "name": "amistoso_paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.95,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-20T12:50:35.124Z",
-                    "updatedAt": "2024-03-20T12:50:35.124Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33548,
-      "attributes": {
-        "diary_hour": "13:00:00",
-        "diary_description": "Amistoso: RD del Congo vs Dinamarca",
-        "date_diary": "2026-06-03",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 745,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
-              }
             },
             {
-              "id": 7794,
+              "id": 12319,
               "attributes": {
-                "embed_name": "Disney+",
+                "embed_name": "Eventos",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT1kaXNuZXkx"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT1ldmVudG9zNA=="
               }
             },
             {
-              "id": 5633,
+              "id": 13270,
               "attributes": {
-                "embed_name": "Vix",
+                "embed_name": "Telemetro",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT12aXgy"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 62,
-            "attributes": {
-              "name": "Amistoso Paises",
-              "createdAt": "2024-03-20T12:50:38.850Z",
-              "updatedAt": "2024-03-20T12:50:40.247Z",
-              "publishedAt": "2024-03-20T12:50:40.246Z",
-              "image": {
-                "data": {
-                  "id": 193,
-                  "attributes": {
-                    "name": "amistoso_paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.95,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-20T12:50:35.124Z",
-                    "updatedAt": "2024-03-20T12:50:35.124Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33549,
-      "attributes": {
-        "diary_hour": "13:00:00",
-        "diary_description": "Torneo de Reserva: Rosario Central vs Racing Club",
-        "date_diary": "2026-06-03",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 670,
-              "attributes": {
-                "embed_name": "ESPN3",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw=="
-              }
-            },
-            {
-              "id": 1214,
-              "attributes": {
-                "embed_name": "ESPN3 Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2VzcG4zdHYuaHRtbA=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 3,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2023-11-22T14:52:41.307Z",
-              "updatedAt": "2023-11-22T17:59:52.523Z",
-              "publishedAt": "2023-11-22T14:54:38.957Z",
-              "image": {
-                "data": {
-                  "id": 29,
-                  "attributes": {
-                    "name": "argentina.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/argentina_2bd748026e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:59:33.800Z",
-                    "updatedAt": "2023-11-22T17:59:33.800Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33551,
-      "attributes": {
-        "diary_hour": "12:00:00",
-        "diary_description": "Amistoso: Gibraltar vs Islas Vírgenes Británicas",
-        "date_diary": "2026-06-03",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkxMA=="
-              }
-            },
-            {
-              "id": 13897,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1kaXNuZXk1"
-              }
-            },
-            {
-              "id": 6874,
-              "attributes": {
-                "embed_name": "Vix",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT12aXgx"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1ldmVudG85"
               }
             }
           ]
@@ -672,7 +334,7 @@
               }
             },
             {
-              "id": 7722,
+              "id": 10453,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -680,7 +342,7 @@
               }
             },
             {
-              "id": 12016,
+              "id": 14207,
               "attributes": {
                 "embed_name": "Vix",
                 "idioma": "Español/Alternativo",
@@ -688,7 +350,7 @@
               }
             },
             {
-              "id": 10743,
+              "id": 12314,
               "attributes": {
                 "embed_name": "ESPN AR",
                 "idioma": "Español/Alternativo",
@@ -751,7 +413,7 @@
               }
             },
             {
-              "id": 8320,
+              "id": 11592,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -759,7 +421,7 @@
               }
             },
             {
-              "id": 6564,
+              "id": 8990,
               "attributes": {
                 "embed_name": "Vix",
                 "idioma": "Español/Alternativo",
@@ -819,6 +481,22 @@
                 "embed_name": "ESPN Deportes",
                 "idioma": "español",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+              }
+            },
+            {
+              "id": 10280,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+              }
+            },
+            {
+              "id": 6972,
+              "attributes": {
+                "embed_name": "NBA League Pass",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1uYmEx"
               }
             }
           ]
