@@ -1,178 +1,76 @@
 {
   "data": [
     {
-      "id": 33560,
+      "id": 33565,
       "attributes": {
-        "diary_hour": "11:00:00",
-        "diary_description": "Amistoso: Irlanda del Norte vs Guinea",
+        "diary_hour": "14:15:00",
+        "diary_description": "Amistoso: Francia vs Costa de Marfil",
         "date_diary": "2026-06-04",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 745,
+              "id": 746,
+              "attributes": {
+                "embed_name": "ESPN",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+              }
+            },
+            {
+              "id": 815,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk2"
               }
             },
             {
-              "id": 9410,
+              "id": 1200,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2VzcG4xdHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 12266,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkx"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk2"
               }
             },
             {
-              "id": 14941,
+              "id": 14330,
               "attributes": {
-                "embed_name": "Disney+ OP2",
+                "embed_name": "ESPN",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT1kaXNuZXkx"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 62,
-            "attributes": {
-              "name": "Amistoso Paises",
-              "createdAt": "2024-03-20T12:50:38.850Z",
-              "updatedAt": "2024-03-20T12:50:40.247Z",
-              "publishedAt": "2024-03-20T12:50:40.246Z",
-              "image": {
-                "data": {
-                  "id": 193,
-                  "attributes": {
-                    "name": "amistoso_paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.95,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-20T12:50:35.124Z",
-                    "updatedAt": "2024-03-20T12:50:35.124Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33562,
-      "attributes": {
-        "diary_hour": "12:00:00",
-        "diary_description": "Amistoso: Andorra vs Liechtenstein",
-        "date_diary": "2026-06-04",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 783,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkz"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
               }
             },
             {
-              "id": 10641,
+              "id": 14791,
               "attributes": {
-                "embed_name": "Disney+",
+                "embed_name": "ESPN AR",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkz"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1lc3BuYXI="
               }
             },
             {
-              "id": 11297,
+              "id": 13869,
               "attributes": {
                 "embed_name": "Vix",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT12aXgz"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 62,
-            "attributes": {
-              "name": "Amistoso Paises",
-              "createdAt": "2024-03-20T12:50:38.850Z",
-              "updatedAt": "2024-03-20T12:50:40.247Z",
-              "publishedAt": "2024-03-20T12:50:40.246Z",
-              "image": {
-                "data": {
-                  "id": 193,
-                  "attributes": {
-                    "name": "amistoso_paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.95,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-20T12:50:35.124Z",
-                    "updatedAt": "2024-03-20T12:50:35.124Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33561,
-      "attributes": {
-        "diary_hour": "11:00:00",
-        "diary_description": "Amistoso: Eslovenia vs Chipre",
-        "date_diary": "2026-06-04",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 765,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT12aXg2"
               }
             },
             {
-              "id": 11667,
+              "id": 9406,
               "attributes": {
-                "embed_name": "Disney+",
+                "embed_name": "SporTV BR",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky"
-              }
-            },
-            {
-              "id": 11285,
-              "attributes": {
-                "embed_name": "Disney+ OP2",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT1kaXNuZXky"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1zcG9ydHR2YnIx"
               }
             }
           ]
@@ -231,7 +129,7 @@
               }
             },
             {
-              "id": 13424,
+              "id": 13894,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -239,7 +137,7 @@
               }
             },
             {
-              "id": 5129,
+              "id": 7906,
               "attributes": {
                 "embed_name": "Vix",
                 "idioma": "Español/Alternativo",
@@ -310,7 +208,7 @@
               }
             },
             {
-              "id": 8758,
+              "id": 8383,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -318,7 +216,7 @@
               }
             },
             {
-              "id": 8556,
+              "id": 8980,
               "attributes": {
                 "embed_name": "Disney+ OP2",
                 "idioma": "Español/Alternativo",
@@ -326,7 +224,7 @@
               }
             },
             {
-              "id": 13311,
+              "id": 7913,
               "attributes": {
                 "embed_name": "La 1 ES",
                 "idioma": "Español/Alternativo",
@@ -334,7 +232,7 @@
               }
             },
             {
-              "id": 5471,
+              "id": 11321,
               "attributes": {
                 "embed_name": "Vix",
                 "idioma": "Español/Alternativo",
