@@ -1,3 +1,114 @@
 {
-  "data": []
+  "data": [
+    {
+      "id": 33560,
+      "attributes": {
+        "diary_hour": "11:00:00",
+        "diary_description": "Amistoso: Irlanda del Norte vs Guinea",
+        "date_diary": "2026-06-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 745,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 62,
+            "attributes": {
+              "name": "Amistoso Paises",
+              "createdAt": "2024-03-20T12:50:38.850Z",
+              "updatedAt": "2024-03-20T12:50:40.247Z",
+              "publishedAt": "2024-03-20T12:50:40.246Z",
+              "image": {
+                "data": {
+                  "id": 193,
+                  "attributes": {
+                    "name": "amistoso_paises.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistoso_paises_b9febc0d3c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.95,
+                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-03-20T12:50:35.124Z",
+                    "updatedAt": "2024-03-20T12:50:35.124Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33561,
+      "attributes": {
+        "diary_hour": "11:00:00",
+        "diary_description": "Amistoso: Eslovenia vs Chipre",
+        "date_diary": "2026-06-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 765,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 62,
+            "attributes": {
+              "name": "Amistoso Paises",
+              "createdAt": "2024-03-20T12:50:38.850Z",
+              "updatedAt": "2024-03-20T12:50:40.247Z",
+              "publishedAt": "2024-03-20T12:50:40.246Z",
+              "image": {
+                "data": {
+                  "id": 193,
+                  "attributes": {
+                    "name": "amistoso_paises.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistoso_paises_b9febc0d3c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.95,
+                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-03-20T12:50:35.124Z",
+                    "updatedAt": "2024-03-20T12:50:35.124Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
 }
