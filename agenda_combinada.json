@@ -1,242 +1,171 @@
 {
   "data": [
     {
-      "id": 33565,
+      "id": 33566,
       "attributes": {
-        "diary_hour": "14:15:00",
-        "diary_description": "Amistoso: Francia vs Costa de Marfil",
+        "diary_hour": "19:00:00",
+        "diary_description": "Amistoso: República Checa vs Guatemala",
         "date_diary": "2026-06-04",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 746,
+              "id": 462,
               "attributes": {
-                "embed_name": "ESPN",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+                "embed_name": "Sportv",
+                "idioma": "Portugués",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
               }
             },
             {
-              "id": 815,
+              "id": 872,
               "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk2"
+                "embed_name": "FOX Sports 2 USA",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMyX3VzYQ=="
               }
             },
             {
-              "id": 1200,
+              "id": 6589,
               "attributes": {
-                "embed_name": "ESPN Movil",
+                "embed_name": "Vix",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT12aXgx"
+              }
+            },
+            {
+              "id": 6067,
+              "attributes": {
+                "embed_name": "Vix OP2",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT12aXg3"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 62,
+            "attributes": {
+              "name": "Amistoso Paises",
+              "createdAt": "2024-03-20T12:50:38.850Z",
+              "updatedAt": "2024-03-20T12:50:40.247Z",
+              "publishedAt": "2024-03-20T12:50:40.246Z",
+              "image": {
+                "data": {
+                  "id": 193,
+                  "attributes": {
+                    "name": "amistoso_paises.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistoso_paises_b9febc0d3c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.95,
+                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-03-20T12:50:35.124Z",
+                    "updatedAt": "2024-03-20T12:50:35.124Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33567,
+      "attributes": {
+        "diary_hour": "21:00:00",
+        "diary_description": "Amistoso: México vs Serbia",
+        "date_diary": "2026-06-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 732,
+              "attributes": {
+                "embed_name": "Azteca 7",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3"
+              }
+            },
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu"
+              }
+            },
+            {
+              "id": 1203,
+              "attributes": {
+                "embed_name": "Azteca 7 Movil",
                 "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2VzcG4xdHYuaHRtbA=="
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2F6dGVjYTd0di5odG1s"
               }
             },
             {
-              "id": 10710,
+              "id": 1202,
               "attributes": {
-                "embed_name": "Disney+",
+                "embed_name": "TUDN USA Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3R1ZG51c2F0di5odG1s"
+              }
+            },
+            {
+              "id": 7901,
+              "attributes": {
+                "embed_name": "TUDN",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk2"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10dWRuX3VzYQ=="
               }
             },
             {
-              "id": 8228,
+              "id": 12111,
               "attributes": {
-                "embed_name": "ESPN",
+                "embed_name": "TUDN OP2",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT10dWRu"
               }
             },
             {
-              "id": 12892,
+              "id": 6936,
               "attributes": {
-                "embed_name": "ESPN AR",
+                "embed_name": "VIX+",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1lc3BuYXI="
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT12aXgy"
               }
             },
             {
-              "id": 5138,
+              "id": 11962,
               "attributes": {
-                "embed_name": "Vix",
+                "embed_name": "Vix OP2",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT12aXg2"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT12aXg4"
               }
             },
             {
-              "id": 5666,
+              "id": 12221,
               "attributes": {
-                "embed_name": "SporTV BR",
+                "embed_name": "Canal 5",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1zcG9ydHR2YnIx"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 62,
-            "attributes": {
-              "name": "Amistoso Paises",
-              "createdAt": "2024-03-20T12:50:38.850Z",
-              "updatedAt": "2024-03-20T12:50:40.247Z",
-              "publishedAt": "2024-03-20T12:50:40.246Z",
-              "image": {
-                "data": {
-                  "id": 193,
-                  "attributes": {
-                    "name": "amistoso_paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.95,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-20T12:50:35.124Z",
-                    "updatedAt": "2024-03-20T12:50:35.124Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33563,
-      "attributes": {
-        "diary_hour": "14:00:00",
-        "diary_description": "Amistoso: Suecia vs Grecia",
-        "date_diary": "2026-06-04",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 784,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk0"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC14LXktei53cy9nbG9iYWwxLnBocD9zdHJlYW09Y2FuYWw1bXg="
               }
             },
             {
-              "id": 7721,
+              "id": 5629,
               "attributes": {
-                "embed_name": "Disney+",
+                "embed_name": "Azteca 7",
                 "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk0"
-              }
-            },
-            {
-              "id": 8824,
-              "attributes": {
-                "embed_name": "Vix",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT12aXg0"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 62,
-            "attributes": {
-              "name": "Amistoso Paises",
-              "createdAt": "2024-03-20T12:50:38.850Z",
-              "updatedAt": "2024-03-20T12:50:40.247Z",
-              "publishedAt": "2024-03-20T12:50:40.246Z",
-              "image": {
-                "data": {
-                  "id": 193,
-                  "attributes": {
-                    "name": "amistoso_paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.95,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-20T12:50:35.124Z",
-                    "updatedAt": "2024-03-20T12:50:35.124Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33564,
-      "attributes": {
-        "diary_hour": "14:00:00",
-        "diary_description": " Amistoso: España vs Iraq",
-        "date_diary": "2026-06-04",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 789,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1"
-              }
-            },
-            {
-              "id": 337,
-              "attributes": {
-                "embed_name": "TVE La 1 ES",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di5sYTE0aGQuY29tL21wZC9kcm0ucGhwP3VybD1hSFIwY0hNNkx5OXZkSFJsTG14cGRtVXVabXg1TG5kM0xtRnBkaTFqWkc0dWJtVjBMMnhvY2kxdWFYUnlieTlzYVhabEwyTnNhV1Z1ZEhNdlpHRnphQzlsYm1Ndk5qSnhaR3RsWm5ZNVppOXZkWFF2ZGpFdlpqZGtOV0l6TlRabE1EUTRORGswWVRnek1qVTFOak5sT0RreE5tUTFNR0l2WTJWdVl5NXRjR1E9Jms9Wm1RNE5tUmtaVEJoWlRObE1UUm1aalV4WXpobVl6aG1NalE0WVRVd1pHSTZaREV3Tm1GbE56aGlNRGc1TTJSaE1tVTBNemt6WldObE9UazBNakJpWVdFPQ=="
-              }
-            },
-            {
-              "id": 7462,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk1"
-              }
-            },
-            {
-              "id": 12005,
-              "attributes": {
-                "embed_name": "Disney+ OP2",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDMucGhwP3N0cmVhbT1kaXNuZXk1"
-              }
-            },
-            {
-              "id": 9471,
-              "attributes": {
-                "embed_name": "La 1 ES",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT1ldmVudG8x"
-              }
-            },
-            {
-              "id": 14879,
-              "attributes": {
-                "embed_name": "Vix",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDQucGhwP3N0cmVhbT12aXg1"
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly90dnR2cGwuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1henRlY2E3"
               }
             }
           ]
