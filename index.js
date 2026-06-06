@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import * as cheerio from 'cheerio';
 import fs from 'fs';
 
-const URL_FUTBOLAZO = 'https://fubolazo.com/agenda.json?v=1.12';
+const URL_FUTBOLAZO = 'https://agenda18.com/agenda.json?v=1.12';
 const URL_MEGADEPORTES = 'https://megadeportes.de/agenda.html';
 
 // NUEVA FUNCIÓN: Elimina tildes, convierte a minúsculas y limpia códigos como \u00e1
