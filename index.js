@@ -2,27 +2,69 @@ import fetch from 'node-fetch';
 import * as cheerio from 'cheerio';
 import fs from 'fs';
 
-const URL_FUTBOLAZO = 'https://agenda18.com/agenda.json?v=1.12';
-const URL_MEGADEPORTES = 'https://megadeportes.de/agenda.html';
+// Constantes
+const CONFIG_URL = 'https://futbollibregol.pe/js/config.js?v=1.12';
+const DEFAULT_URL = 'https://agenda18.com/agenda.json?v=1.12';  // Tu URL original que funciona
+const URL_MEGADEPORTES = 'https://megadeportesplus.su/agenda.php';
 
-// NUEVA FUNCIÓN: Elimina tildes, convierte a minúsculas y limpia códigos como \u00e1
+// Función para obtener la URL desde config.js (con fallback a la original)
+async function obtenerAgendaUrl() {
+    try {
+        const response = await fetch(CONFIG_URL);
+        const texto = await response.text();
+        const match = texto.match(/export\s+const\s+AGENDA_URL\s*=\s*["']([^"']+)["']/);
+        if (match && match[1]) {
+            console.log(`📡 URL obtenida de config.js: ${match[1]}`);
+            // Verificamos si la URL es accesible y devuelve JSON válido
+            try {
+                const testResp = await fetch(match[1]);
+                const testJson = await testResp.json();
+                if (testJson && testJson.data && Array.isArray(testJson.data)) {
+                    console.log('✅ La URL funciona correctamente. Se usará esta.');
+                    return match[1];
+                } else {
+                    console.warn('⚠️ La URL de config.js no devuelve la estructura esperada. Usando URL por defecto.');
+                    return DEFAULT_URL;
+                }
+            } catch (err) {
+                console.warn(`⚠️ Error al probar URL de config.js: ${err.message}. Usando URL por defecto.`);
+                return DEFAULT_URL;
+            }
+        } else {
+            console.warn('⚠️ No se encontró AGENDA_URL en config.js. Usando URL por defecto.');
+            return DEFAULT_URL;
+        }
+    } catch (error) {
+        console.error('❌ Error leyendo config.js:', error.message);
+        console.log('📌 Usando URL por defecto.');
+        return DEFAULT_URL;
+    }
+}
+
+// El resto del script es EXACTAMENTE IGUAL (solo cambia la forma de obtener URL_FUTBOLAZO)
 function limpiarTexto(texto) {
   if (!texto) return "";
   return texto
     .toLowerCase()
-    // Decodifica caracteres Unicode si vienen en formato de texto puro
     .normalize("NFD")
-    // Elimina físicamente las tildes (las separa de las letras y las borra)
     .replace(/[\u0300-\u036f]/g, "")
-    // Por si acaso, limpiamos eñes o caracteres especiales comunes
     .replace(/[^a-z0-9 ]/g, ""); 
 }
 
 async function combinarAgendas() {
   try {
-    console.log("1. Descargando datos de Fútbolazo...");
+    // Aquí se obtiene la URL dinámica (con fallback garantizado)
+    const URL_FUTBOLAZO = await obtenerAgendaUrl();
+    console.log("1. Descargando datos desde:", URL_FUTBOLAZO);
+    
     const resFutbolazo = await fetch(URL_FUTBOLAZO);
     const dataFutbolazo = await resFutbolazo.json();
+
+    // Verificación extra: si no tiene datos, abortar con mensaje claro
+    if (!dataFutbolazo.data || dataFutbolazo.data.length === 0) {
+        console.error("❌ El JSON descargado no contiene datos de partidos. Revisa la URL.");
+        return;
+    }
 
     console.log("2. Descargando HTML de Megadeportes...");
     const resMegadeportes = await fetch(URL_MEGADEPORTES);
@@ -38,11 +80,9 @@ async function combinarAgendas() {
       
       if (!textoPartidoMega) return;
 
-      // Limpiamos el texto completo de Megadeportes usando la nueva función
       const textoMegaLimpio = limpiarTexto(textoPartidoMega)
         .replace(/amistoso internacional|primera division|sub\d+|serie a de ecuador/gi, '');
 
-      // Creamos las palabras clave basadas en el texto ya limpio (sin tildes)
       const palabrasClave = textoMegaLimpio
         .replace(/vs/gi, '')
         .split(' ')
@@ -56,10 +96,8 @@ async function combinarAgendas() {
           const atributos = partidoFutbolazo.attributes;
           if (!atributos || !atributos.diary_description || !atributos.embeds || !atributos.embeds.data) return;
 
-          // CAMBIO CLAVE: Limpiamos también el texto de Fútbolazo antes de comparar
           const descripcionFutbolazoLimpia = limpiarTexto(atributos.diary_description);
 
-          // Ahora la comparación es 100% limpia: "canada" incluirá a "canada"
           const esMismoPartido = palabrasClave.some(palabra => descripcionFutbolazoLimpia.includes(palabra));
 
           if (esMismoPartido) {
