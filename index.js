@@ -1,180 +1,165 @@
+import fetch from 'node-fetch';
 import * as cheerio from 'cheerio';
 import fs from 'fs';
-import crypto from 'crypto';
 
 // Constantes
 const CONFIG_URL = 'https://futbollibregol.pe/js/config.js?v=1.12';
-const DEFAULT_URL = 'https://agenda18.com/agenda.json?v=1.12';  
-const URL_MEGADEPORTES = 'https://futbol-libres.su/agenda/';
+const DEFAULT_URL = 'https://agenda18.com/agenda.json?v=1.12';
+const URL_MEGADEPORTES = 'https://megadeportesplus.su/agenda.php';
 
-/**
- * Obtiene los datos base de la agenda
- */
-async function obtenerDatosAgendaBase() {
-    try {
-        const response = await fetch(CONFIG_URL);
-        const texto = await response.text();
-        const match = texto.match(/export\s+const\s+AGENDA_URL\s*=\s*["']([^"']+)["']/);
-        
-        let urlDestino = DEFAULT_URL;
-        if (match && match[1]) {
-            console.log(`📡 URL encontrada en config.js: ${match[1]}`);
-            urlDestino = match[1];
+// Obtener la URL dinámica de la agenda
+async function obtenerAgendaUrl() {
+  try {
+    const response = await fetch(CONFIG_URL);
+    const texto = await response.text();
+    const match = texto.match(/export\s+const\s+AGENDA_URL\s*=\s*["']([^"']+)["']/);
+    if (match && match[1]) {
+      try {
+        const testResp = await fetch(match[1]);
+        const testJson = await testResp.json();
+        if (testJson && testJson.data && Array.isArray(testJson.data)) {
+          return match[1];
         }
-
-        try {
-            const res = await fetch(urlDestino);
-            const json = await res.json();
-            if (json && json.data && Array.isArray(json.data)) {
-                return json;
-            }
-            throw new Error('Estructura de JSON inválida');
-        } catch (err) {
-            console.warn(`⚠️ Error en URL dinámica. Usando URL por defecto...`);
-            const resDefault = await fetch(DEFAULT_URL);
-            return await resDefault.json();
-        }
-    } catch (error) {
-        console.error('❌ Error crítico al obtener agenda base:', error.message);
-        return null;
+      } catch (err) {
+        return DEFAULT_URL;
+      }
     }
+    return DEFAULT_URL;
+  } catch (error) {
+    return DEFAULT_URL;
+  }
 }
 
-/**
- * Limpia el texto de forma profunda para emparejar cadenas con acentos o caracteres extraños
- */
-function limpiarTexto(texto) {
-    if (!texto) return "";
-    return texto
-        .toLowerCase()
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "") // Remueve acentos de "Perú" o "España" -> "peru", "espana"
-        .replace(/[^a-z0-9 ]/g, "")      // Remueve caracteres especiales y símbolos
-        .trim();
+// Limpieza profunda de texto para normalizar strings
+function normalizarTexto(texto) {
+  if (!texto) return "";
+  return texto
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "") // Quitar acentos
+    .replace(/[^a-z0-9]/g, "");     // Quitar TODO lo que no sea letra o número (espacios, vs, guiones)
 }
 
-/**
- * Valida la coincidencia exacta de los equipos del partido
- */
-function esMismoPartido(textoMega, textoFutbolazo) {
-    const limpiarMega = limpiarTexto(textoMega).replace(/\bvs\b/gi, ' ');
-    const limpiarFutbolazo = limpiarTexto(textoFutbolazo).replace(/\bvs\b/gi, ' ');
+// Algoritmo de Coeficiente de Dice para calcular similitud de strings (0 a 1)
+function calcularSimilitud(str1, str2) {
+  const s1 = normalizarTexto(str1);
+  const s2 = normalizarTexto(str2);
+  
+  if (s1 === s2) return 1.0;
+  if (s1.length < 2 || s2.length < 2) return 0.0;
 
-    // Lista de palabras a ignorar (comunes en eventos de fútbol)
-    const palabrasAIgnorar = ['amistoso', 'internacional', 'primera', 'division', 'serie', 'en', 'vivo', 'online', 'gratis'];
+  const obternerBigramas = (str) => {
+    const bigramas = new Set();
+    for (let i = 0; i < str.length - 1; i++) {
+      bigramas.add(str.substring(i, i + 2));
+    }
+    return bigramas;
+  };
 
-    // Filtro optimizado: Ahora acepta palabras de 3 letras o más para no ignorar países/equipos cortos (ej. "usa", "peru")
-    const palabrasMega = limpiarMega
-        .split(/\s+/)
-        .map(p => p.trim())
-        .filter(p => p.length >= 3 && !palabrasAIgnorar.includes(p));
+  const bigramas1 = obternerBigramas(s1);
+  const bigramas2 = obternerBigramas(s2);
+  
+  let interseccion = 0;
+  for (const bigrama of bigramas1) {
+    if (bigramas2.has(bigrama)) interseccion++;
+  }
 
-    if (palabrasMega.length === 0) return false;
-
-    let coincidencias = 0;
-    palabrasMega.forEach(palabra => {
-        if (limpiarFutbolazo.includes(palabra)) {
-            coincidencias++;
-        }
-    });
-
-    // Si el evento tiene pocas palabras clave (ej: "Peru" "Espana" = 2 palabras), basta con que coincida 1 para eventos de corto nombre
-    // Si tiene más palabras (ej: "Real Madrid vs Atletico Madrid"), exigirá al menos 2.
-    const umbralMinimo = palabrasMega.length <= 2 ? 1 : 2;
-    
-    return coincidencias >= umbralMinimo;
+  return (2.0 * interseccion) / (bigramas1.size + bigramas2.size);
 }
 
 async function combinarAgendas() {
-    try {
-        console.log("1. Cargando datos de la agenda base...");
-        const dataFutbolazo = await obtenerDatosAgendaBase();
+  try {
+    const URL_FUTBULAZO = await obtenerAgendaUrl();
+    console.log("🚀 Iniciando sincronización definitiva...");
+    
+    const resFutbolazo = await fetch(URL_FUTBULAZO);
+    const dataFutbolazo = await resFutbolazo.json();
 
-        if (!dataFutbolazo || !dataFutbolazo.data || dataFutbolazo.data.length === 0) {
-            console.error("❌ No se obtuvieron partidos base. Abortando proceso.");
-            return;
-        }
-
-        console.log("2. Descargando HTML de Megadeportes...");
-        const resMegadeportes = await fetch(URL_MEGADEPORTES);
-        const htmlMegadeportes = await resMegadeportes.text();
-
-        const $ = cheerio.load(htmlMegadeportes);
-        let canalesAgregadosTotales = 0;
-
-        console.log("3. Analizando partidos e inyectando canales faltantes...");
-
-        // Iterar sobre los bloques de partidos de Megadeportes
-        $('.menu > li').each((i, elementoPartido) => {
-            const textoPartidoMega = $(elementoPartido).find('> a').text();
-            if (!textoPartidoMega) return;
-
-            // Buscar coincidencia usando el comparador mejorado de países y equipos cortos
-            const partidoBaseEncontrado = dataFutbolazo.data.find(partidoFutbolazo => {
-                const atributos = partidoFutbolazo.attributes;
-                if (!atributos || !atributos.diary_description) return false;
-                
-                return esMismoPartido(textoPartidoMega, atributos.diary_description);
-            });
-
-            // Si hay match (ej: "Peru vs España" coincide con "Perú vs España" en el JSON)
-            if (partidoBaseEncontrado) {
-                const atributos = partidoBaseEncontrado.attributes;
-                
-                if (!atributos.embeds) atributos.embeds = { data: [] };
-                if (!atributos.embeds.data) atributos.embeds.data = [];
-
-                // Buscar los enlaces dentro del submenú <ul> <li> de este partido específico
-                $(elementoPartido).find('ul li a').each((j, linkCanal) => {
-                    const clonLink = $(linkCanal).clone();
-                    clonLink.find('span, img, i').remove(); // Limpia iconos, imágenes o badges de canales
-                    
-                    let textoCanal = clonLink.text().trim();
-                    const enlace = $(linkCanal).attr('href');
-
-                    if (textoCanal && enlace) {
-                        // Limpiar el nombre del canal para que quede legible (ej: "Movistar Deportes", "VIX+")
-                        textoCanal = textoCanal
-                            .replace(/megadeportes/gi, '')
-                            .replace(/[-\|()]/g, '')
-                            .replace(/\s+/g, ' ')
-                            .trim();
-
-                        // Verificar que no se duplique el enlace iframe exacto
-                        const yaExisteEnlace = atributos.embeds.data.some(emb => 
-                            emb.attributes && emb.attributes.embed_iframe === enlace
-                        );
-
-                        if (!yaExisteEnlace) {
-                            const nuevoId = crypto.randomBytes(2).readUInt16BE(0) + 10000;
-
-                            atributos.embeds.data.push({
-                                id: nuevoId,
-                                attributes: {
-                                    embed_name: textoCanal,
-                                    idioma: "Español/Alternativo",
-                                    embed_iframe: enlace
-                                }
-                            });
-                            console.log(` ✅ Canal [${textoCanal}] inyectado con éxito en: "${atributos.diary_description}"`);
-                            canalesAgregadosTotales++;
-                        }
-                    }
-                });
-            }
-        });
-
-        console.log(`\n=== 🏁 PROCESO COMPLETADO: Se inyectaron ${canalesAgregadosTotales} canales en total ===`);
-        
-        // Guardar el archivo final unificado
-        fs.writeFileSync('agenda_combinada.json', JSON.stringify(dataFutbolazo, null, 2), 'utf-8');
-        console.log("-> Archivo 'agenda_combinada.json' actualizado y guardado.");
-
-        return dataFutbolazo;
-
-    } catch (error) {
-        console.error("❌ Ocurrió un error crítico unificando las agendas:", error);
+    if (!dataFutbolazo.data || dataFutbolazo.data.length === 0) {
+      console.error("❌ Error: La agenda base no contiene partidos.");
+      return;
     }
+
+    const resMegadeportes = await fetch(URL_MEGADEPORTES);
+    const htmlMegadeportes = await resMegadeportes.text();
+    const $ = cheerio.load(htmlMegadeportes);
+    
+    let canalesAgregadosTotales = 0;
+
+    // Buscamos de manera más abierta en el menú (manejando variaciones de marcado de Megadeportes)
+    const elementosPartidos = $('.menu li, .menu > li').filter((i, el) => $(el).find('ul').length > 0);
+
+    elementosPartidos.each((i, elementoPartido) => {
+      const textoPartidoMega = $(elementoPartido).find('> a').first().text().trim();
+      if (!textoPartidoMega) return;
+
+      // Ignorar ligas o textos fijos informativos si los hubiera
+      if (textoPartidoMega.toLowerCase().includes("ver canales") || textoPartidoMega.length < 5) return;
+
+      let mejorCoincidencia = null;
+      let scoreMaximo = 0.45; // Umbral de tolerancia (45% de similitud estructural de letras)
+
+      // Buscar el partido más idóneo en el JSON base
+      dataFutbolazo.data.forEach(partidoFutbolazo => {
+        const atributos = partidoFutbolazo.attributes;
+        if (!atributos || !atributos.diary_description) return;
+
+        const score = calcularSimilitud(textoPartidoMega, atributos.diary_description);
+        
+        if (score > scoreMaximo) {
+          scoreMaximo = score;
+          mejorCoincidencia = partidoFutbolazo;
+        }
+      });
+
+      // Si encontramos un partido que coincide por estructura
+      if (mejorCoincidencia) {
+        const atributos = mejorCoincidencia.attributes;
+        console.log(`🎯 [MATCH ${(scoreMaximo * 100).toFixed(0)}%] "${textoPartidoMega}" ➔ "${atributos.diary_description}"`);
+
+        $(elementoPartido).find('ul li a, ul li span a').each((j, linkCanal) => {
+          const clonLink = $(linkCanal).clone();
+          clonLink.find('span').remove(); // Remover badges internos de texto si existen
+          
+          let textoCanal = clonLink.text().trim();
+          const enlace = $(linkCanal).attr('href');
+
+          if (textoCanal && enlace && enlace !== '#') {
+            // Limpieza estética del canal
+            textoCanal = textoCanal
+              .replace(/megadeportes/gi, '')
+              .replace(/[-\|()]/g, '')
+              .trim();
+
+            // Evitar duplicados de enlaces idénticos
+            const yaExisteEnlace = atributos.embeds.data.some(emb => emb.attributes.embed_iframe === enlace);
+
+            if (!yaExisteEnlace) {
+              const nuevoId = Math.floor(Math.random() * 20000) + 10000;
+
+              atributos.embeds.data.push({
+                id: nuevoId,
+                attributes: {
+                  embed_name: textoCanal, // Nombre 100% limpio
+                  idioma: "Español/Alternativo",
+                  embed_iframe: enlace
+                }
+              });
+              canalesAgregadosTotales++;
+            }
+          }
+        });
+      }
+    });
+
+    console.log(`\n🎉 PROCESO FINALIZADO: Se inyectaron exitosamente ${canalesAgregadosTotales} canales.`);
+    
+    fs.writeFileSync('agenda_combinada.json', JSON.stringify(dataFutbolazo, null, 2), 'utf-8');
+    return dataFutbolazo;
+
+  } catch (error) {
+    console.error("❌ Error crítico en el motor de combinación:", error);
+  }
 }
 
 combinarAgendas();
