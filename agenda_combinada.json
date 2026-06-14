@@ -1,77 +1,6 @@
 {
   "data": [
     {
-      "id": 33694,
-      "attributes": {
-        "diary_hour": "16:30:00",
-        "diary_description": "Primera División de Chile: Universidad Católica vs Univ. Concepción",
-        "date_diary": "2026-06-14",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 424,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-              }
-            },
-            {
-              "id": 1226,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3RudGNoaWxlLmh0bWw="
-              }
-            },
-            {
-              "id": 28652,
-              "attributes": {
-                "embed_name": "MAX",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDEucGhwP3N0cmVhbT1tYXg0"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2024-01-07T23:47:58.476Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 128,
-                  "attributes": {
-                    "name": "chile.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/chile_86c07a7b38.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:47:55.957Z",
-                    "updatedAt": "2024-01-07T23:47:55.957Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33695,
       "attributes": {
         "diary_hour": "18:00:00",
@@ -145,7 +74,7 @@
               }
             },
             {
-              "id": 10973,
+              "id": 27365,
               "attributes": {
                 "embed_name": "DSports",
                 "idioma": "Español/Alternativo",
@@ -153,7 +82,7 @@
               }
             },
             {
-              "id": 15371,
+              "id": 25921,
               "attributes": {
                 "embed_name": "DSports OP2",
                 "idioma": "Español/Alternativo",
@@ -161,23 +90,15 @@
               }
             },
             {
-              "id": 16155,
+              "id": 11289,
               "attributes": {
-                "embed_name": "ITV 1",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvaXR2MWdiLmh0bWw="
-              }
-            },
-            {
-              "id": 29612,
-              "attributes": {
-                "embed_name": "DSports OP2",
+                "embed_name": "DSports  OP 2",
                 "idioma": "Español/Alternativo",
                 "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9sYXRhbXg3MDEub3JnL2dsb2JhbDIucGhwP3N0cmVhbT1kc3BvcnRz"
               }
             },
             {
-              "id": 24338,
+              "id": 12973,
               "attributes": {
                 "embed_name": "Win Sports",
                 "idioma": "Español/Alternativo",
@@ -185,7 +106,7 @@
               }
             },
             {
-              "id": 10402,
+              "id": 29943,
               "attributes": {
                 "embed_name": "Telemundo",
                 "idioma": "Español/Alternativo",
@@ -193,7 +114,7 @@
               }
             },
             {
-              "id": 15823,
+              "id": 25002,
               "attributes": {
                 "embed_name": "Win Sports",
                 "idioma": "Español/Alternativo",
@@ -201,7 +122,7 @@
               }
             },
             {
-              "id": 15405,
+              "id": 20289,
               "attributes": {
                 "embed_name": "Telemundo OP2",
                 "idioma": "Español/Alternativo",
@@ -209,7 +130,7 @@
               }
             },
             {
-              "id": 25210,
+              "id": 24725,
               "attributes": {
                 "embed_name": "SporTV",
                 "idioma": "Español/Alternativo",
@@ -217,7 +138,7 @@
               }
             },
             {
-              "id": 18282,
+              "id": 28512,
               "attributes": {
                 "embed_name": "Telefe",
                 "idioma": "Español/Alternativo",
@@ -328,7 +249,7 @@
               }
             },
             {
-              "id": 12328,
+              "id": 12628,
               "attributes": {
                 "embed_name": "DSports",
                 "idioma": "Español/Alternativo",
@@ -336,7 +257,7 @@
               }
             },
             {
-              "id": 13316,
+              "id": 25690,
               "attributes": {
                 "embed_name": "DSports OP2",
                 "idioma": "Español/Alternativo",
@@ -344,7 +265,7 @@
               }
             },
             {
-              "id": 28923,
+              "id": 11536,
               "attributes": {
                 "embed_name": "ITV 1",
                 "idioma": "Español/Alternativo",
@@ -352,7 +273,7 @@
               }
             },
             {
-              "id": 26741,
+              "id": 17603,
               "attributes": {
                 "embed_name": "TyC Sports",
                 "idioma": "Español/Alternativo",
@@ -360,7 +281,7 @@
               }
             },
             {
-              "id": 20242,
+              "id": 21961,
               "attributes": {
                 "embed_name": "TyC Sports OP2",
                 "idioma": "Español/Alternativo",
@@ -368,7 +289,7 @@
               }
             },
             {
-              "id": 19256,
+              "id": 29420,
               "attributes": {
                 "embed_name": "Telemundo",
                 "idioma": "Español/Alternativo",
@@ -376,7 +297,7 @@
               }
             },
             {
-              "id": 19036,
+              "id": 23760,
               "attributes": {
                 "embed_name": "Telemundo OP2",
                 "idioma": "Español/Alternativo",
@@ -384,7 +305,7 @@
               }
             },
             {
-              "id": 27867,
+              "id": 26035,
               "attributes": {
                 "embed_name": "SporTV",
                 "idioma": "Español/Alternativo",
@@ -392,114 +313,11 @@
               }
             },
             {
-              "id": 29398,
+              "id": 16038,
               "attributes": {
                 "embed_name": "Caze TV BR",
                 "idioma": "Español/Alternativo",
                 "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvY2F6ZXR2Lmh0bWw="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 23,
-            "attributes": {
-              "name": "FIFA",
-              "createdAt": "2023-11-24T11:43:09.315Z",
-              "updatedAt": "2024-01-07T23:43:59.909Z",
-              "publishedAt": "2023-11-24T11:43:11.351Z",
-              "image": {
-                "data": {
-                  "id": 124,
-                  "attributes": {
-                    "name": "fifa.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "fifa_ee72f5c955",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.42,
-                    "url": "/uploads/fifa_ee72f5c955.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:43:56.994Z",
-                    "updatedAt": "2024-01-07T23:43:56.994Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33691,
-      "attributes": {
-        "diary_hour": "12:00:00",
-        "diary_description": "Copa del Mundo: Alemania vs Curazao",
-        "date_diary": "2026-06-14",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 1166,
-              "attributes": {
-                "embed_name": "Telemundo 2",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9tcGQucjJpbWctc3RvY2s3MDkud29ya2Vycy5kZXYvbXBkL2RybT91cmw9YUhSMGNITTZMeTlzYVhabExXOXVaV0Z3Y0Mxd2NtUXRibVYzY3k1aGEyRnRZV2w2WldRdWJtVjBMME52Ym5SbGJuUXZRMDFCUmw5UFRESXRRMVJTTFRSekwweHBkbVV2WTJoaGJtNWxiQ2hYVGtwVktTOXRZWE4wWlhJdWJYQmsmaz1ZemN4Wm1VM1ltTTRNbVl3TXpkak5tRm1NakZtWkRJNU9XUTJNelF4WWpBNk1UTXlNak5qT1RnNE9EWm1aalF6WkROak5XWXlOekZsWldJME5UZGpZelk9"
-              }
-            },
-            {
-              "id": 337,
-              "attributes": {
-                "embed_name": "TVE La 1 ES",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9tcGQucjJpbWctc3RvY2s3MDkud29ya2Vycy5kZXYvbXBkL2RybT91cmw9YUhSMGNITTZMeTl2ZEhSbExteHBkbVV1Wm14NUxuZDNMbUZwZGkxalpHNHVibVYwTDJ4b2NpMXVhWFJ5Ynk5c2FYWmxMMk5zYVdWdWRITXZaR0Z6YUM5bGJtTXZOakp4Wkd0bFpuWTVaaTl2ZFhRdmRqRXZaamRrTldJek5UWmxNRFE0TkRrMFlUZ3pNalUxTmpObE9Ea3hObVExTUdJdlkyVnVZeTV0Y0dRPSZrPVptUTRObVJrWlRCaFpUTmxNVFJtWmpVeFl6aG1ZemhtTWpRNFlUVXdaR0k2WkRFd05tRmxOemhpTURnNU0yUmhNbVUwTXprelpXTmxPVGswTWpCaVlXRT0="
-              }
-            },
-            {
-              "id": 1260,
-              "attributes": {
-                "embed_name": "Tipik",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9tcGQucjJpbWctc3RvY2s3MDkud29ya2Vycy5kZXYvbXBkL2RybT91cmw9YUhSMGNITTZMeTlqT1RnMU1XVmpMWEppYlMxb2FXeDJMV1p6YkhrdVkyUnVMbkpsWkdKbFpTNXNhWFpsTDB3eU5pODJZalkwTUdaaE1pOWhOelkxWkRBM05DNXBjMjFzTDJSaGMyZ3ZMbTF3WkE9PSZrPVlXUmpZVEkxWWpnM056bGxOREUyT0dFd1kyUTNNVEJtTlRsbU5qRmpZMlk2WW1VMU16Z3paV1F6WTJRNE1EYzVaalJtWm1VM09HRmtNRFkzWmpRM05tRT0="
-              }
-            },
-            {
-              "id": 20,
-              "attributes": {
-                "embed_name": "Dsports",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
-              }
-            },
-            {
-              "id": 1201,
-              "attributes": {
-                "embed_name": "Dsports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
-              }
-            },
-            {
-              "id": 451,
-              "attributes": {
-                "embed_name": "Dsports | OP2",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
-              }
-            },
-            {
-              "id": 824,
-              "attributes": {
-                "embed_name": "Cazé TV",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL21wZC9kcm0ucGhwP3VybD1hSFIwY0hNNkx5OXZkSFJsTG14cGRtVXVabXg1TG5kM0xtRnBkaTFqWkc0dWJtVjBMMmR5ZFMxdWFYUnlieTlzYVhabEwyTnNhV1Z1ZEhNdlpHRnphQzF6WkM5bGJtTXZkSGR5ZFd4a2FtY3lieTl2ZFhRdmRqRXZNamxoTkRNMk1ETTRNVFU1TkRZek1UZ3paall5TkdObE9EWmtObVZrTkdFdlkyVnVZeTF6WkM1dGNHUT0maz1PV1JrTXpSaFpUazNZMll4TkRkaVlUaG1OVFUyT1RkbU16Y3lNVEk0T0RjNll6WmxZVGsxWm1aa05UZG1ZamMwTlRNeFpEVmpZekl3TkRaaU9UYzJNelk9"
               }
             }
           ]
@@ -566,27 +384,11 @@
               }
             },
             {
-              "id": 20,
+              "id": 669,
               "attributes": {
-                "embed_name": "Dsports",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
-              }
-            },
-            {
-              "id": 1201,
-              "attributes": {
-                "embed_name": "Dsports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
-              }
-            },
-            {
-              "id": 451,
-              "attributes": {
-                "embed_name": "Dsports | OP2",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
+                "embed_name": "Dsports+",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw=="
               }
             },
             {
@@ -598,6 +400,14 @@
               }
             },
             {
+              "id": 1250,
+              "attributes": {
+                "embed_name": "Dsports+ Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RzcG9ydHNwbHVzLmh0bWw="
+              }
+            },
+            {
               "id": 1211,
               "attributes": {
                 "embed_name": "TyC Sports Movil",
@@ -606,19 +416,11 @@
               }
             },
             {
-              "id": 630,
+              "id": 1261,
               "attributes": {
-                "embed_name": "America TV",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY="
-              }
-            },
-            {
-              "id": 1215,
-              "attributes": {
-                "embed_name": "America TV Movil",
+                "embed_name": "Dsports+ | OP2",
                 "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2FtZXJpY2F0djEuaHRtbA=="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zMTU="
               }
             },
             {
@@ -646,7 +448,7 @@
               }
             },
             {
-              "id": 12437,
+              "id": 29161,
               "attributes": {
                 "embed_name": "Telemundo",
                 "idioma": "Español/Alternativo",
@@ -654,7 +456,7 @@
               }
             },
             {
-              "id": 23071,
+              "id": 25751,
               "attributes": {
                 "embed_name": "Dsports 2",
                 "idioma": "Español/Alternativo",
@@ -662,7 +464,7 @@
               }
             },
             {
-              "id": 25908,
+              "id": 11173,
               "attributes": {
                 "embed_name": "SporTV BR",
                 "idioma": "Español/Alternativo",
@@ -670,7 +472,7 @@
               }
             },
             {
-              "id": 21228,
+              "id": 19040,
               "attributes": {
                 "embed_name": "Caracol TV",
                 "idioma": "Español/Alternativo",
@@ -678,7 +480,7 @@
               }
             },
             {
-              "id": 20696,
+              "id": 13744,
               "attributes": {
                 "embed_name": "Caze TV BR",
                 "idioma": "Español/Alternativo",
@@ -686,7 +488,7 @@
               }
             },
             {
-              "id": 22831,
+              "id": 25339,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -694,7 +496,7 @@
               }
             },
             {
-              "id": 24862,
+              "id": 16419,
               "attributes": {
                 "embed_name": "Telemundo OP2",
                 "idioma": "Español/Alternativo",
@@ -702,7 +504,7 @@
               }
             },
             {
-              "id": 16218,
+              "id": 29746,
               "attributes": {
                 "embed_name": "DSports 2 OP2",
                 "idioma": "Español/Alternativo",
@@ -748,6 +550,69 @@
       }
     },
     {
+      "id": 33697,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "LaLiga 2: Málaga vs Almería | Final 1/2",
+        "date_diary": "2026-06-14",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1049,
+              "attributes": {
+                "embed_name": "Espn+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucGx1czE="
+              }
+            },
+            {
+              "id": 1050,
+              "attributes": {
+                "embed_name": "Espn+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucGx1czI="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2024-08-15T19:18:48.458Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 138,
+                  "attributes": {
+                    "name": "espana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/espana_a8510f9b5f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:55:12.045Z",
+                    "updatedAt": "2024-08-15T16:50:04.760Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 33692,
       "attributes": {
         "diary_hour": "14:00:00",
@@ -773,11 +638,98 @@
               }
             },
             {
-              "id": 22463,
+              "id": 889,
+              "attributes": {
+                "embed_name": "MAX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1tYXgx"
+              }
+            },
+            {
+              "id": 29519,
               "attributes": {
                 "embed_name": "MAX",
                 "idioma": "Español/Alternativo",
                 "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDEucGhwP3N0cmVhbT1tYXgz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2024-01-07T23:47:58.476Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 128,
+                  "attributes": {
+                    "name": "chile.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "chile_86c07a7b38",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/chile_86c07a7b38.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:47:55.957Z",
+                    "updatedAt": "2024-01-07T23:47:55.957Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33694,
+      "attributes": {
+        "diary_hour": "16:30:00",
+        "diary_description": "Primera División de Chile: Universidad Católica vs Univ. Concepción",
+        "date_diary": "2026-06-14",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 424,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+              }
+            },
+            {
+              "id": 1226,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3RudGNoaWxlLmh0bWw="
+              }
+            },
+            {
+              "id": 889,
+              "attributes": {
+                "embed_name": "MAX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1tYXgx"
+              }
+            },
+            {
+              "id": 19987,
+              "attributes": {
+                "embed_name": "MAX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDEucGhwP3N0cmVhbT1tYXg0"
               }
             }
           ]
