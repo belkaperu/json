@@ -3,7 +3,7 @@ import * as cheerio from 'cheerio';
 import fs from 'fs';
 
 // Constantes
-const CONFIG_URL = 'https://futbollibregol.pe/js/config.js?v=1.12';
+const CONFIG_URL = 'https://futbollibreoficial.pe/js/config.js?v=1.12';
 const DEFAULT_URL = 'https://agenda18.com/agenda.json?v=1.12';
 const URL_MEGADEPORTES = 'https://megadeportesplus.su/agenda.php';
 
