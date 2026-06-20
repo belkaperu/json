@@ -1,107 +1,68 @@
 {
   "data": [
     {
-      "id": 33722,
+      "id": 33731,
       "attributes": {
-        "diary_hour": "08:00:00",
-        "diary_description": "Segunda División: Deportivo Colonia vs River Plate",
+        "diary_hour": "11:30:00",
+        "diary_description": "Copa Chile: Coquimbo Unido vs Deportes Iquique",
         "date_diary": "2026-06-20",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 745,
+              "id": 424,
               "attributes": {
-                "embed_name": "Disney+",
+                "embed_name": "TNT Sports Premium CL",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+              }
+            },
+            {
+              "id": 1226,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3RudGNoaWxlLmh0bWw="
+              }
+            },
+            {
+              "id": 13232,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14NzQxLmNvbS9nbG9iYWwxLnBocD9jaGFubmVsPXRudHNwb3J0c2Ns"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 16,
+            "id": 12,
             "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2024-01-07T23:51:20.902Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2024-01-07T23:47:58.476Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
               "image": {
                 "data": {
-                  "id": 132,
+                  "id": 128,
                   "attributes": {
-                    "name": "uruguay.png",
+                    "name": "chile.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "uruguay_e2b9597af8",
+                    "hash": "chile_86c07a7b38",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/uruguay_e2b9597af8.png",
+                    "size": 0.79,
+                    "url": "/uploads/chile_86c07a7b38.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:18.898Z",
-                    "updatedAt": "2024-01-07T23:51:18.898Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33723,
-      "attributes": {
-        "diary_hour": "11:00:00",
-        "diary_description": "Segunda División: Fénix vs Oriental",
-        "date_diary": "2026-06-20",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 765,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2024-01-07T23:51:20.902Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 132,
-                  "attributes": {
-                    "name": "uruguay.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/uruguay_e2b9597af8.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:18.898Z",
-                    "updatedAt": "2024-01-07T23:51:18.898Z"
+                    "createdAt": "2024-01-07T23:47:55.957Z",
+                    "updatedAt": "2024-01-07T23:47:55.957Z"
                   }
                 }
               }
@@ -125,6 +86,14 @@
                 "embed_name": "Dsports",
                 "idioma": "Español",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
+              }
+            },
+            {
+              "id": 384,
+              "attributes": {
+                "embed_name": "Telemundo",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
               }
             },
             {
@@ -184,11 +153,83 @@
               }
             },
             {
-              "id": 384,
+              "id": 23432,
               "attributes": {
-                "embed_name": "Telemundo",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
+                "embed_name": "DSports",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvY3phX2RzcG9ydHMuaHRtbA=="
+              }
+            },
+            {
+              "id": 23298,
+              "attributes": {
+                "embed_name": "TVE La 1",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvdHZsYTFlcy5odG1s"
+              }
+            },
+            {
+              "id": 26292,
+              "attributes": {
+                "embed_name": "Canal 5 MX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvMjFjYW5hbGZpdmUuaHRtbA=="
+              }
+            },
+            {
+              "id": 14026,
+              "attributes": {
+                "embed_name": "ZDF",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvemRmMS5odG1s"
+              }
+            },
+            {
+              "id": 13560,
+              "attributes": {
+                "embed_name": "M6 FR",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvbTY2MS5odG1s"
+              }
+            },
+            {
+              "id": 29900,
+              "attributes": {
+                "embed_name": "DSports OP2",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDIucGhwP3N0cmVhbT1kc3BvcnRz"
+              }
+            },
+            {
+              "id": 23973,
+              "attributes": {
+                "embed_name": "TyC Sports",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDIucGhwP3N0cmVhbT10eWNzcG9ydHM="
+              }
+            },
+            {
+              "id": 18776,
+              "attributes": {
+                "embed_name": "DSports OP3",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 20927,
+              "attributes": {
+                "embed_name": "America TV",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWFtZXJpY2F0dg=="
+              }
+            },
+            {
+              "id": 16186,
+              "attributes": {
+                "embed_name": "TyC Sports OP3",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
               }
             }
           ]
@@ -221,6 +262,61 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:43:56.994Z",
                     "updatedAt": "2024-01-07T23:43:56.994Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33723,
+      "attributes": {
+        "diary_hour": "11:00:00",
+        "diary_description": "Segunda División: Fénix vs Oriental",
+        "date_diary": "2026-06-20",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 765,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2024-01-07T23:51:20.902Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 132,
+                  "attributes": {
+                    "name": "uruguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.8,
+                    "url": "/uploads/uruguay_e2b9597af8.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:18.898Z",
+                    "updatedAt": "2024-01-07T23:51:18.898Z"
                   }
                 }
               }
