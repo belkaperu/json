@@ -1,44 +1,52 @@
 {
   "data": [
     {
-      "id": 33766,
+      "id": 33770,
       "attributes": {
-        "diary_hour": "21:00:00",
-        "diary_description": "Copa del Mundo:  Paraguay vs Australia",
-        "date_diary": "2026-06-25",
+        "diary_hour": "22:00:00",
+        "diary_description": "Copa del Mundo: Egipto vs Irán",
+        "date_diary": "2026-06-26",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 939,
+              "id": 669,
               "attributes": {
-                "embed_name": "Dsports 2 HD",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHMyYXIucGhw"
-              }
-            },
-            {
-              "id": 181,
-              "attributes": {
-                "embed_name": "Dsports 2",
+                "embed_name": "Dsports+",
                 "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzMg=="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw=="
               }
             },
             {
-              "id": 1218,
+              "id": 1261,
               "attributes": {
-                "embed_name": "Dsports 2 Movil",
+                "embed_name": "Dsports+ | OP2",
                 "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RzcG9ydHMyLmh0bWw="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zMTU="
               }
             },
             {
-              "id": 717,
+              "id": 1250,
               "attributes": {
-                "embed_name": "Telefe",
+                "embed_name": "Dsports+ Movil",
                 "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlZmU="
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RzcG9ydHNwbHVzLmh0bWw="
+              }
+            },
+            {
+              "id": 101,
+              "attributes": {
+                "embed_name": "TyC Sports",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM="
+              }
+            },
+            {
+              "id": 1211,
+              "attributes": {
+                "embed_name": "TyC Sports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s"
               }
             },
             {
@@ -56,85 +64,100 @@
                 "idioma": "Inglés",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMxX3VzYQ=="
               }
-            },
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "FIFA",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2024-01-07T23:43:59.909Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 124,
+                  "attributes": {
+                    "name": "fifa.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "fifa_ee72f5c955",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.42,
+                    "url": "/uploads/fifa_ee72f5c955.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:43:56.994Z",
+                    "updatedAt": "2024-01-07T23:43:56.994Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33771,
+      "attributes": {
+        "diary_hour": "22:00:00",
+        "diary_description": "Copa del Mundo: Nueva Zelanda vs Bélgica",
+        "date_diary": "2026-06-26",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
             {
-              "id": 14643,
+              "id": 766,
               "attributes": {
-                "embed_name": "DSports 2",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvZHNwb3J0czIuaHRtbA=="
+                "embed_name": "Dsports HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA="
               }
             },
             {
-              "id": 10059,
+              "id": 910,
               "attributes": {
-                "embed_name": "Trece PY",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly8vc3VkYW1lcmljYXBsYXkyLmNvbS9jYW5hbF80MS90cmVjZXB5LnBocA=="
+                "embed_name": "Dsports HD LATAM",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNsYXRhbS5waHA="
               }
             },
             {
-              "id": 12053,
+              "id": 1201,
               "attributes": {
-                "embed_name": "Das De",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvZGFzX2RlLmh0bWw="
+                "embed_name": "Dsports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
               }
             },
             {
-              "id": 17770,
+              "id": 20,
               "attributes": {
-                "embed_name": "Caze TV",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvMzRjYXpldHYuaHRtbA=="
+                "embed_name": "Dsports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
               }
             },
             {
-              "id": 19047,
+              "id": 451,
               "attributes": {
-                "embed_name": "Fox Sports 1 US",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvMWZveDF1c2EuaHRtbA=="
+                "embed_name": "Dsports | OP2",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
               }
             },
             {
-              "id": 25093,
+              "id": 384,
               "attributes": {
-                "embed_name": "DSports 2",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHMy"
-              }
-            },
-            {
-              "id": 10394,
-              "attributes": {
-                "embed_name": "Telefe",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVmZQ=="
-              }
-            },
-            {
-              "id": 16296,
-              "attributes": {
-                "embed_name": "VIX",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXZpeDE="
-              }
-            },
-            {
-              "id": 13565,
-              "attributes": {
-                "embed_name": "TSN 2",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXRzbjI="
-              }
-            },
-            {
-              "id": 26058,
-              "attributes": {
-                "embed_name": "Fox Sports 1 US OP2",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPWZveDF1c2E="
+                "embed_name": "Telemundo",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
               }
             }
           ]
@@ -178,9 +201,9 @@
     {
       "id": 33767,
       "attributes": {
-        "diary_hour": "21:00:00",
-        "diary_description": "Copa del Mundo: Turquía vs EE. UU.",
-        "date_diary": "2026-06-25",
+        "diary_hour": "14:00:00",
+        "diary_description": "Copa del Mundo: Noruega vs Francia",
+        "date_diary": "2026-06-26",
         "deportes": "Futbol",
         "embeds": {
           "data": [
@@ -217,6 +240,14 @@
               }
             },
             {
+              "id": 745,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
+              }
+            },
+            {
               "id": 101,
               "attributes": {
                 "embed_name": "TyC Sports",
@@ -241,83 +272,376 @@
               }
             },
             {
-              "id": 22283,
+              "id": 630,
               "attributes": {
-                "embed_name": "DSports",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvY3phX2RzcG9ydHMuaHRtbA=="
+                "embed_name": "America TV",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY="
               }
             },
             {
-              "id": 24988,
+              "id": 1215,
               "attributes": {
-                "embed_name": "Fox ONE",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvMWZveG9uZS5odG1s"
+                "embed_name": "America TV Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2FtZXJpY2F0djEuaHRtbA=="
               }
             },
             {
-              "id": 14360,
+              "id": 717,
               "attributes": {
-                "embed_name": "TSN 1",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvMXRzbjEuaHRtbA=="
+                "embed_name": "Telefe",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlZmU="
               }
             },
             {
-              "id": 11180,
+              "id": 453,
               "attributes": {
-                "embed_name": "DSports OP2",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDIucGhwP3N0cmVhbT1kc3BvcnRz"
+                "embed_name": "Win Sports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHM="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "FIFA",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2024-01-07T23:43:59.909Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 124,
+                  "attributes": {
+                    "name": "fifa.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "fifa_ee72f5c955",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.42,
+                    "url": "/uploads/fifa_ee72f5c955.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:43:56.994Z",
+                    "updatedAt": "2024-01-07T23:43:56.994Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33766,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "Copa del Mundo:  Senegal vs Iraq",
+        "date_diary": "2026-06-26",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 939,
+              "attributes": {
+                "embed_name": "Dsports 2 HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHMyYXIucGhw"
               }
             },
             {
-              "id": 18954,
+              "id": 181,
               "attributes": {
-                "embed_name": "VIX",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDIucGhwP3N0cmVhbT12aXgy"
+                "embed_name": "Dsports 2",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzMg=="
               }
             },
             {
-              "id": 26414,
+              "id": 1218,
+              "attributes": {
+                "embed_name": "Dsports 2 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RzcG9ydHMyLmh0bWw="
+              }
+            },
+            {
+              "id": 780,
+              "attributes": {
+                "embed_name": "Universo",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzbw=="
+              }
+            },
+            {
+              "id": 798,
+              "attributes": {
+                "embed_name": "FOX Sports 1 USA",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMxX3VzYQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "FIFA",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2024-01-07T23:43:59.909Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 124,
+                  "attributes": {
+                    "name": "fifa.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "fifa_ee72f5c955",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.42,
+                    "url": "/uploads/fifa_ee72f5c955.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:43:56.994Z",
+                    "updatedAt": "2024-01-07T23:43:56.994Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33768,
+      "attributes": {
+        "diary_hour": "19:00:00",
+        "diary_description": "Copa del Mundo: Islas de Cabo Verde vs Arabia Saudita",
+        "date_diary": "2026-06-26",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 939,
+              "attributes": {
+                "embed_name": "Dsports 2 HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHMyYXIucGhw"
+              }
+            },
+            {
+              "id": 181,
+              "attributes": {
+                "embed_name": "Dsports 2",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzMg=="
+              }
+            },
+            {
+              "id": 1218,
+              "attributes": {
+                "embed_name": "Dsports 2 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RzcG9ydHMyLmh0bWw="
+              }
+            },
+            {
+              "id": 780,
+              "attributes": {
+                "embed_name": "Universo",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzbw=="
+              }
+            },
+            {
+              "id": 1160,
+              "attributes": {
+                "embed_name": "Sportv2",
+                "idioma": "Portugués",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHYy"
+              }
+            },
+            {
+              "id": 798,
+              "attributes": {
+                "embed_name": "FOX Sports 1 USA",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMxX3VzYQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "FIFA",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2024-01-07T23:43:59.909Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 124,
+                  "attributes": {
+                    "name": "fifa.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "fifa_ee72f5c955",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.42,
+                    "url": "/uploads/fifa_ee72f5c955.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:43:56.994Z",
+                    "updatedAt": "2024-01-07T23:43:56.994Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33769,
+      "attributes": {
+        "diary_hour": "19:15:00",
+        "diary_description": "Copa del Mundo: Uruguay vs España",
+        "date_diary": "2026-06-26",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 766,
+              "attributes": {
+                "embed_name": "Dsports HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA="
+              }
+            },
+            {
+              "id": 910,
+              "attributes": {
+                "embed_name": "Dsports HD LATAM",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNsYXRhbS5waHA="
+              }
+            },
+            {
+              "id": 1201,
+              "attributes": {
+                "embed_name": "Dsports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
+              }
+            },
+            {
+              "id": 20,
+              "attributes": {
+                "embed_name": "Dsports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
+              }
+            },
+            {
+              "id": 765,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
+              }
+            },
+            {
+              "id": 451,
+              "attributes": {
+                "embed_name": "Dsports | OP2",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
+              }
+            },
+            {
+              "id": 630,
+              "attributes": {
+                "embed_name": "America TV",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY="
+              }
+            },
+            {
+              "id": 1215,
+              "attributes": {
+                "embed_name": "America TV Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2FtZXJpY2F0djEuaHRtbA=="
+              }
+            },
+            {
+              "id": 101,
               "attributes": {
                 "embed_name": "TyC Sports",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDEucGhwP3N0cmVhbT10eWNzcG9ydHM="
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM="
               }
             },
             {
-              "id": 13307,
+              "id": 1211,
               "attributes": {
-                "embed_name": "TyC Sports OP2",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+                "embed_name": "TyC Sports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s"
               }
             },
             {
-              "id": 11400,
+              "id": 436,
               "attributes": {
-                "embed_name": "Telemundo US",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
+                "embed_name": "Caracol TV",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s"
               }
             },
             {
-              "id": 16350,
+              "id": 501,
               "attributes": {
-                "embed_name": "VIX OP2",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXZpeDI="
+                "embed_name": "Canal 5 MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2NhbmFsNW14LnBocA=="
               }
             },
             {
-              "id": 23526,
+              "id": 337,
               "attributes": {
-                "embed_name": "TyC Sports OP3",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXR5Yw=="
+                "embed_name": "TVE La 1  HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2xhMXR2ZS5waHA="
+              }
+            },
+            {
+              "id": 384,
+              "attributes": {
+                "embed_name": "Telemundo",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
               }
             }
           ]
