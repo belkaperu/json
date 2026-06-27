@@ -1,61 +1,6 @@
 {
   "data": [
     {
-      "id": 33774,
-      "attributes": {
-        "diary_hour": "14:00:00",
-        "diary_description": "Segunda División: Huracán vs Rentistas",
-        "date_diary": "2026-06-27",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 783,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkz"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2024-01-07T23:51:20.902Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 132,
-                  "attributes": {
-                    "name": "uruguay.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/uruguay_e2b9597af8.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:18.898Z",
-                    "updatedAt": "2024-01-07T23:51:18.898Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33775,
       "attributes": {
         "diary_hour": "16:00:00",
@@ -105,7 +50,7 @@
               }
             },
             {
-              "id": 27030,
+              "id": 15447,
               "attributes": {
                 "embed_name": "DSports 2",
                 "idioma": "Español/Alternativo",
@@ -113,7 +58,7 @@
               }
             },
             {
-              "id": 10849,
+              "id": 17050,
               "attributes": {
                 "embed_name": "Trece PY",
                 "idioma": "Español/Alternativo",
@@ -121,7 +66,7 @@
               }
             },
             {
-              "id": 25236,
+              "id": 16716,
               "attributes": {
                 "embed_name": "Caze TV",
                 "idioma": "Español/Alternativo",
@@ -129,7 +74,7 @@
               }
             },
             {
-              "id": 15657,
+              "id": 21230,
               "attributes": {
                 "embed_name": "FOX",
                 "idioma": "Español/Alternativo",
@@ -137,7 +82,7 @@
               }
             },
             {
-              "id": 22639,
+              "id": 27383,
               "attributes": {
                 "embed_name": "ZDF",
                 "idioma": "Español/Alternativo",
@@ -145,7 +90,7 @@
               }
             },
             {
-              "id": 28437,
+              "id": 11336,
               "attributes": {
                 "embed_name": "DSports 2 OP2",
                 "idioma": "Español/Alternativo",
@@ -153,7 +98,7 @@
               }
             },
             {
-              "id": 14310,
+              "id": 28078,
               "attributes": {
                 "embed_name": "VIX",
                 "idioma": "Español/Alternativo",
@@ -161,7 +106,7 @@
               }
             },
             {
-              "id": 10110,
+              "id": 16623,
               "attributes": {
                 "embed_name": "VIX OP2",
                 "idioma": "Español/Alternativo",
@@ -169,7 +114,7 @@
               }
             },
             {
-              "id": 25405,
+              "id": 29185,
               "attributes": {
                 "embed_name": "Universo US",
                 "idioma": "Español/Alternativo",
@@ -177,7 +122,7 @@
               }
             },
             {
-              "id": 21143,
+              "id": 23845,
               "attributes": {
                 "embed_name": "TSN 2",
                 "idioma": "Español/Alternativo",
@@ -288,7 +233,7 @@
               }
             },
             {
-              "id": 14780,
+              "id": 10546,
               "attributes": {
                 "embed_name": "DSports",
                 "idioma": "Español/Alternativo",
@@ -296,7 +241,7 @@
               }
             },
             {
-              "id": 29491,
+              "id": 11333,
               "attributes": {
                 "embed_name": "Canal 5 MX",
                 "idioma": "Español/Alternativo",
@@ -304,7 +249,7 @@
               }
             },
             {
-              "id": 15882,
+              "id": 26537,
               "attributes": {
                 "embed_name": "RPC",
                 "idioma": "Español/Alternativo",
@@ -312,7 +257,7 @@
               }
             },
             {
-              "id": 10126,
+              "id": 21206,
               "attributes": {
                 "embed_name": "FOX",
                 "idioma": "Español/Alternativo",
@@ -320,7 +265,7 @@
               }
             },
             {
-              "id": 14111,
+              "id": 23346,
               "attributes": {
                 "embed_name": "DSports OP2",
                 "idioma": "Español/Alternativo",
@@ -328,7 +273,7 @@
               }
             },
             {
-              "id": 26978,
+              "id": 25531,
               "attributes": {
                 "embed_name": "VIX",
                 "idioma": "Español/Alternativo",
@@ -336,7 +281,7 @@
               }
             },
             {
-              "id": 14905,
+              "id": 20863,
               "attributes": {
                 "embed_name": "VIX OP2",
                 "idioma": "Español/Alternativo",
@@ -344,7 +289,7 @@
               }
             },
             {
-              "id": 19082,
+              "id": 14181,
               "attributes": {
                 "embed_name": "Telemundo US",
                 "idioma": "Español/Alternativo",
@@ -352,7 +297,7 @@
               }
             },
             {
-              "id": 10848,
+              "id": 15083,
               "attributes": {
                 "embed_name": "TUDN MX",
                 "idioma": "Español/Alternativo",
@@ -360,7 +305,7 @@
               }
             },
             {
-              "id": 15238,
+              "id": 23223,
               "attributes": {
                 "embed_name": "Canal 5 MX OP2",
                 "idioma": "Español/Alternativo",
@@ -368,7 +313,7 @@
               }
             },
             {
-              "id": 16316,
+              "id": 16831,
               "attributes": {
                 "embed_name": "DSports OP3",
                 "idioma": "Español/Alternativo",
@@ -563,6 +508,118 @@
                 "embed_name": "Telemundo",
                 "idioma": "Español",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
+              }
+            },
+            {
+              "id": 13344,
+              "attributes": {
+                "embed_name": "DSports",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi9jemFfZHNwb3J0cy5odG1s"
+              }
+            },
+            {
+              "id": 23150,
+              "attributes": {
+                "embed_name": "Caracol TV",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly8vc3VkYW1lcmljYXBsYXkuc2JzL2NhbmFsXzQxL2NhcmFjb2x0djQxLnBocA=="
+              }
+            },
+            {
+              "id": 28327,
+              "attributes": {
+                "embed_name": "RPC",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly8vc3VkYW1lcmljYXBsYXkuc2JzL2NhbmFsXzQxL3JwYy5waHA="
+              }
+            },
+            {
+              "id": 27054,
+              "attributes": {
+                "embed_name": "Teleamazonas",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly8vc3VkYW1lcmljYXBsYXkuc2JzL2NhbmFsXzQxL3RlbGVhbWF6b25hcy5waHA="
+              }
+            },
+            {
+              "id": 24146,
+              "attributes": {
+                "embed_name": "FOX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi8xZm94b25lLmh0bWw="
+              }
+            },
+            {
+              "id": 23458,
+              "attributes": {
+                "embed_name": "TSN 1",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi90c24xLmh0bWw="
+              }
+            },
+            {
+              "id": 23194,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDIucGhwP3N0cmVhbT1kaXNuZXkx"
+              }
+            },
+            {
+              "id": 27703,
+              "attributes": {
+                "embed_name": "DSports OP2",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDIucGhwP3N0cmVhbT1kc3BvcnRz"
+              }
+            },
+            {
+              "id": 20967,
+              "attributes": {
+                "embed_name": "VIX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cGRheTEueHl6L2dsb2JhbDIucGhwP3N0cmVhbT12aXgz"
+              }
+            },
+            {
+              "id": 28905,
+              "attributes": {
+                "embed_name": "VIX OP2",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXZpeDM="
+              }
+            },
+            {
+              "id": 18003,
+              "attributes": {
+                "embed_name": "RCN",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXJjbg=="
+              }
+            },
+            {
+              "id": 19987,
+              "attributes": {
+                "embed_name": "TUDN MX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXR1ZG5teA=="
+              }
+            },
+            {
+              "id": 26790,
+              "attributes": {
+                "embed_name": "Canal 5 MX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPWNhbmFsNW14"
+              }
+            },
+            {
+              "id": 27318,
+              "attributes": {
+                "embed_name": "Chilevision",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPWNoaWxldmlzaW9u"
               }
             }
           ]
