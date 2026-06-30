@@ -1,117 +1,6 @@
 {
   "data": [
     {
-      "id": 33790,
-      "attributes": {
-        "diary_hour": "12:00:00",
-        "diary_description": "Copa del Mundo: Costa de Marfil vs Noruega",
-        "date_diary": "2026-06-30",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 766,
-              "attributes": {
-                "embed_name": "Dsports HD",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA="
-              }
-            },
-            {
-              "id": 910,
-              "attributes": {
-                "embed_name": "Dsports HD LATAM",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNsYXRhbS5waHA="
-              }
-            },
-            {
-              "id": 1201,
-              "attributes": {
-                "embed_name": "Dsports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
-              }
-            },
-            {
-              "id": 20,
-              "attributes": {
-                "embed_name": "Dsports",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
-              }
-            },
-            {
-              "id": 451,
-              "attributes": {
-                "embed_name": "Dsports | OP2",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
-              }
-            },
-            {
-              "id": 630,
-              "attributes": {
-                "embed_name": "America TV",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY="
-              }
-            },
-            {
-              "id": 1215,
-              "attributes": {
-                "embed_name": "America TV Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2FtZXJpY2F0djEuaHRtbA=="
-              }
-            },
-            {
-              "id": 384,
-              "attributes": {
-                "embed_name": "Telemundo",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 23,
-            "attributes": {
-              "name": "FIFA",
-              "createdAt": "2023-11-24T11:43:09.315Z",
-              "updatedAt": "2024-01-07T23:43:59.909Z",
-              "publishedAt": "2023-11-24T11:43:11.351Z",
-              "image": {
-                "data": {
-                  "id": 124,
-                  "attributes": {
-                    "name": "fifa.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "fifa_ee72f5c955",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.42,
-                    "url": "/uploads/fifa_ee72f5c955.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:43:56.994Z",
-                    "updatedAt": "2024-01-07T23:43:56.994Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33792,
       "attributes": {
         "diary_hour": "20:00:00",
@@ -336,7 +225,7 @@
               }
             },
             {
-              "id": 18328,
+              "id": 19368,
               "attributes": {
                 "embed_name": "DSports",
                 "idioma": "Español/Alternativo",
@@ -344,7 +233,7 @@
               }
             },
             {
-              "id": 14100,
+              "id": 29842,
               "attributes": {
                 "embed_name": "Caracol TV",
                 "idioma": "Español/Alternativo",
@@ -352,7 +241,7 @@
               }
             },
             {
-              "id": 12423,
+              "id": 20770,
               "attributes": {
                 "embed_name": "TVE La 1",
                 "idioma": "Español/Alternativo",
@@ -360,7 +249,7 @@
               }
             },
             {
-              "id": 24413,
+              "id": 13442,
               "attributes": {
                 "embed_name": "America TV",
                 "idioma": "Español/Alternativo",
@@ -368,7 +257,7 @@
               }
             },
             {
-              "id": 19774,
+              "id": 16417,
               "attributes": {
                 "embed_name": "Caze TV",
                 "idioma": "Español/Alternativo",
@@ -376,7 +265,7 @@
               }
             },
             {
-              "id": 22227,
+              "id": 16099,
               "attributes": {
                 "embed_name": "TSN 1",
                 "idioma": "Español/Alternativo",
@@ -384,7 +273,7 @@
               }
             },
             {
-              "id": 12484,
+              "id": 24553,
               "attributes": {
                 "embed_name": "FOX",
                 "idioma": "Español/Alternativo",
@@ -392,7 +281,7 @@
               }
             },
             {
-              "id": 18499,
+              "id": 11878,
               "attributes": {
                 "embed_name": "VIX",
                 "idioma": "Español/Alternativo",
@@ -400,7 +289,7 @@
               }
             },
             {
-              "id": 16003,
+              "id": 10417,
               "attributes": {
                 "embed_name": "TyC Sports",
                 "idioma": "Español/Alternativo",
@@ -408,7 +297,7 @@
               }
             },
             {
-              "id": 27537,
+              "id": 22920,
               "attributes": {
                 "embed_name": "TyC Sports OP2",
                 "idioma": "Español/Alternativo",
@@ -416,7 +305,7 @@
               }
             },
             {
-              "id": 23075,
+              "id": 14165,
               "attributes": {
                 "embed_name": "Caracol TV OP2",
                 "idioma": "Español/Alternativo",
@@ -424,7 +313,7 @@
               }
             },
             {
-              "id": 28031,
+              "id": 23176,
               "attributes": {
                 "embed_name": "America TV OP2",
                 "idioma": "Español/Alternativo",
@@ -432,11 +321,27 @@
               }
             },
             {
-              "id": 28018,
+              "id": 22737,
               "attributes": {
                 "embed_name": "DSports OP2",
                 "idioma": "Español/Alternativo",
                 "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 18847,
+              "attributes": {
+                "embed_name": "VIX OP2",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXZpeDI="
+              }
+            },
+            {
+              "id": 23525,
+              "attributes": {
+                "embed_name": "Telemundo",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXRlbGVtdW5kbw=="
               }
             }
           ]
@@ -503,7 +408,7 @@
               }
             },
             {
-              "id": 22684,
+              "id": 20344,
               "attributes": {
                 "embed_name": "TNT Sports Premium CL",
                 "idioma": "Español/Alternativo",
@@ -574,7 +479,7 @@
               }
             },
             {
-              "id": 22686,
+              "id": 12682,
               "attributes": {
                 "embed_name": "TNT Sports Premium CL",
                 "idioma": "Español/Alternativo",
