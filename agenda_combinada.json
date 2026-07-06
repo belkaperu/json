@@ -1,77 +1,6 @@
 {
   "data": [
     {
-      "id": 33818,
-      "attributes": {
-        "diary_hour": "16:00:00",
-        "diary_description": "Copa Chile: Unión Española vs O'Higgins",
-        "date_diary": "2026-07-05",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 424,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-              }
-            },
-            {
-              "id": 1226,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
-              }
-            },
-            {
-              "id": 18780,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXRudHNwb3J0c2Ns"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2024-01-07T23:47:58.476Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 128,
-                  "attributes": {
-                    "name": "chile.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/chile_86c07a7b38.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:47:55.957Z",
-                    "updatedAt": "2024-01-07T23:47:55.957Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33819,
       "attributes": {
         "diary_hour": "19:00:00",
@@ -97,7 +26,7 @@
               }
             },
             {
-              "id": 28103,
+              "id": 21257,
               "attributes": {
                 "embed_name": "TNT Sports Premium CL",
                 "idioma": "Español/Alternativo",
@@ -145,7 +74,7 @@
     {
       "id": 33816,
       "attributes": {
-        "diary_hour": "19:00:00",
+        "diary_hour": "20:00:00",
         "diary_description": "Copa del Mundo: México vs Inglaterra",
         "date_diary": "2026-07-05",
         "deportes": "Futbol",
@@ -232,7 +161,79 @@
               }
             },
             {
-              "id": 15035,
+              "id": 20157,
+              "attributes": {
+                "embed_name": "DSports",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi9jemFfZHNwb3J0cy5odG1s"
+              }
+            },
+            {
+              "id": 13504,
+              "attributes": {
+                "embed_name": "Canal 5 MX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi8yMWNhbmFsZml2ZS5odG1s"
+              }
+            },
+            {
+              "id": 27793,
+              "attributes": {
+                "embed_name": "TUDN MX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi90dWRubXgxMi5odG1s"
+              }
+            },
+            {
+              "id": 13762,
+              "attributes": {
+                "embed_name": "Nueve MX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi9udWV2ZW14Lmh0bWw="
+              }
+            },
+            {
+              "id": 26596,
+              "attributes": {
+                "embed_name": "TSN 1",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi90c24xLmh0bWw="
+              }
+            },
+            {
+              "id": 16717,
+              "attributes": {
+                "embed_name": "FOX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi8xZm94b25lLmh0bWw="
+              }
+            },
+            {
+              "id": 18201,
+              "attributes": {
+                "embed_name": "DSports OP2",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC5zYnMvZ2xvYmFsMi5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 25018,
+              "attributes": {
+                "embed_name": "VIX OP2",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC5zYnMvZ2xvYmFsMi5waHA/c3RyZWFtPXZpeDE="
+              }
+            },
+            {
+              "id": 13708,
+              "attributes": {
+                "embed_name": "Telemundo OP2",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC5zYnMvZ2xvYmFsMi5waHA/c3RyZWFtPXRlbGVtdW5kb3VzYQ=="
+              }
+            },
+            {
+              "id": 25869,
               "attributes": {
                 "embed_name": "Telemundo",
                 "idioma": "Español/Alternativo",
@@ -240,7 +241,7 @@
               }
             },
             {
-              "id": 21523,
+              "id": 20630,
               "attributes": {
                 "embed_name": "TUDN MX",
                 "idioma": "Español/Alternativo",
@@ -248,7 +249,7 @@
               }
             },
             {
-              "id": 21708,
+              "id": 22845,
               "attributes": {
                 "embed_name": "Canal 5 MX",
                 "idioma": "Español/Alternativo",
@@ -256,7 +257,7 @@
               }
             },
             {
-              "id": 15407,
+              "id": 13268,
               "attributes": {
                 "embed_name": "Universo",
                 "idioma": "Español/Alternativo",
@@ -264,7 +265,7 @@
               }
             },
             {
-              "id": 21762,
+              "id": 19977,
               "attributes": {
                 "embed_name": "TSN 1",
                 "idioma": "Español/Alternativo",
