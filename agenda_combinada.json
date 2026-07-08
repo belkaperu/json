@@ -18,15 +18,15 @@
               }
             },
             {
-              "id": 18743,
+              "id": 26408,
               "attributes": {
-                "embed_name": "SporTV BR",
+                "embed_name": "SporTV",
                 "idioma": "Español/Alternativo",
                 "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXNwb3J0djE="
               }
             },
             {
-              "id": 22192,
+              "id": 12028,
               "attributes": {
                 "embed_name": "Premiere BR",
                 "idioma": "Español/Alternativo",
@@ -126,6 +126,77 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:47:55.957Z",
                     "updatedAt": "2024-01-07T23:47:55.957Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33829,
+      "attributes": {
+        "diary_hour": "19:00:00",
+        "diary_description": "Amistoso: Boca juniors vs Paranaense",
+        "date_diary": "2026-07-08",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 745,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
+              }
+            },
+            {
+              "id": 24791,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC5zYnMvZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            },
+            {
+              "id": 18991,
+              "attributes": {
+                "embed_name": "ESPN 3 MX",
+                "idioma": "Español/Alternativo",
+                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPWVzcG4zbXg="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 41,
+            "attributes": {
+              "name": "Amistosos de Clubes",
+              "createdAt": "2023-12-22T02:50:39.355Z",
+              "updatedAt": "2024-01-07T23:29:04.864Z",
+              "publishedAt": "2023-12-22T02:50:51.600Z",
+              "image": {
+                "data": {
+                  "id": 117,
+                  "attributes": {
+                    "name": "amistosos.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistosos_bbe2ec4c17",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/amistosos_bbe2ec4c17.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:29:02.061Z",
+                    "updatedAt": "2024-01-07T23:29:02.061Z"
                   }
                 }
               }
