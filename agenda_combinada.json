@@ -1,77 +1,6 @@
 {
   "data": [
     {
-      "id": 33827,
-      "attributes": {
-        "diary_hour": "14:30:00",
-        "diary_description": "Partido Amistoso Internacional: Lausanne Sport vs Flamengo",
-        "date_diary": "2026-07-08",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 462,
-              "attributes": {
-                "embed_name": "Sportv",
-                "idioma": "Portugués",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
-              }
-            },
-            {
-              "id": 26408,
-              "attributes": {
-                "embed_name": "SporTV",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXNwb3J0djE="
-              }
-            },
-            {
-              "id": 12028,
-              "attributes": {
-                "embed_name": "Premiere BR",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXByZW1pZXJlMQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 62,
-            "attributes": {
-              "name": "Amistoso Paises",
-              "createdAt": "2024-03-20T12:50:38.850Z",
-              "updatedAt": "2024-03-20T12:50:40.247Z",
-              "publishedAt": "2024-03-20T12:50:40.246Z",
-              "image": {
-                "data": {
-                  "id": 193,
-                  "attributes": {
-                    "name": "amistoso_paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.95,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-20T12:50:35.124Z",
-                    "updatedAt": "2024-03-20T12:50:35.124Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33828,
       "attributes": {
         "diary_hour": "18:00:00",
@@ -152,7 +81,7 @@
               }
             },
             {
-              "id": 24791,
+              "id": 22809,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -160,7 +89,7 @@
               }
             },
             {
-              "id": 18991,
+              "id": 24121,
               "attributes": {
                 "embed_name": "ESPN 3 MX",
                 "idioma": "Español/Alternativo",
