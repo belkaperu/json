@@ -1,156 +1,6 @@
 {
   "data": [
     {
-      "id": 33848,
-      "attributes": {
-        "diary_hour": "14:00:00",
-        "diary_description": "Partido Amistoso: Fluminense vs Bahia",
-        "date_diary": "2026-07-12",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 1160,
-              "attributes": {
-                "embed_name": "Sportv2",
-                "idioma": "Portugués",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHYy"
-              }
-            },
-            {
-              "id": 180,
-              "attributes": {
-                "embed_name": "Premiere BR ",
-                "idioma": "Portugués",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-              }
-            },
-            {
-              "id": 26594,
-              "attributes": {
-                "embed_name": "Premiere BR",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXByZW1pZXJlMQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 41,
-            "attributes": {
-              "name": "Amistosos de Clubes",
-              "createdAt": "2023-12-22T02:50:39.355Z",
-              "updatedAt": "2024-01-07T23:29:04.864Z",
-              "publishedAt": "2023-12-22T02:50:51.600Z",
-              "image": {
-                "data": {
-                  "id": 117,
-                  "attributes": {
-                    "name": "amistosos.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistosos_bbe2ec4c17",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/amistosos_bbe2ec4c17.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:29:02.061Z",
-                    "updatedAt": "2024-01-07T23:29:02.061Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33850,
-      "attributes": {
-        "diary_hour": "14:15:00",
-        "diary_description": "Copa Argentina: Independiente Rivadavia vs Tigre",
-        "date_diary": "2026-07-12",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 101,
-              "attributes": {
-                "embed_name": "TyC Sports",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM="
-              }
-            },
-            {
-              "id": 1211,
-              "attributes": {
-                "embed_name": "TyC Sports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s"
-              }
-            },
-            {
-              "id": 21185,
-              "attributes": {
-                "embed_name": "TyC Sports",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXR5Yw=="
-              }
-            },
-            {
-              "id": 24397,
-              "attributes": {
-                "embed_name": "TyC Sports Internacional",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXR5Y2ludA=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 3,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2023-11-22T14:52:41.307Z",
-              "updatedAt": "2023-11-22T17:59:52.523Z",
-              "publishedAt": "2023-11-22T14:54:38.957Z",
-              "image": {
-                "data": {
-                  "id": 29,
-                  "attributes": {
-                    "name": "argentina.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/argentina_2bd748026e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:59:33.800Z",
-                    "updatedAt": "2023-11-22T17:59:33.800Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33851,
       "attributes": {
         "diary_hour": "16:30:00",
@@ -168,7 +18,7 @@
               }
             },
             {
-              "id": 26316,
+              "id": 23647,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -176,7 +26,7 @@
               }
             },
             {
-              "id": 12261,
+              "id": 23011,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -184,7 +34,7 @@
               }
             },
             {
-              "id": 23020,
+              "id": 11614,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -230,77 +80,6 @@
       }
     },
     {
-      "id": 33852,
-      "attributes": {
-        "diary_hour": "14:00:00",
-        "diary_description": "Copa de la Liga: Coquimbo Unido vs Unión La Calera",
-        "date_diary": "2026-07-12",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 424,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-              }
-            },
-            {
-              "id": 1226,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
-              }
-            },
-            {
-              "id": 15094,
-              "attributes": {
-                "embed_name": "MAX",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPW1heDE="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2024-01-07T23:47:58.476Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 128,
-                  "attributes": {
-                    "name": "chile.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/chile_86c07a7b38.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:47:55.957Z",
-                    "updatedAt": "2024-01-07T23:47:55.957Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33853,
       "attributes": {
         "diary_hour": "19:00:00",
@@ -326,7 +105,7 @@
               }
             },
             {
-              "id": 19128,
+              "id": 16784,
               "attributes": {
                 "embed_name": "MAX",
                 "idioma": "Español/Alternativo",
@@ -395,72 +174,9 @@
                 "idioma": null,
                 "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2FtZXJpY2F0djEuaHRtbA=="
               }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 41,
-            "attributes": {
-              "name": "Amistosos de Clubes",
-              "createdAt": "2023-12-22T02:50:39.355Z",
-              "updatedAt": "2024-01-07T23:29:04.864Z",
-              "publishedAt": "2023-12-22T02:50:51.600Z",
-              "image": {
-                "data": {
-                  "id": 117,
-                  "attributes": {
-                    "name": "amistosos.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistosos_bbe2ec4c17",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/amistosos_bbe2ec4c17.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:29:02.061Z",
-                    "updatedAt": "2024-01-07T23:29:02.061Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33849,
-      "attributes": {
-        "diary_hour": "14:00:00",
-        "diary_description": "Partido Amistoso: Cascavel vs Corinthians",
-        "date_diary": "2026-07-12",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 462,
-              "attributes": {
-                "embed_name": "Sportv",
-                "idioma": "Portugués",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
-              }
             },
             {
-              "id": 264,
-              "attributes": {
-                "embed_name": "Premiere 3 BR ",
-                "idioma": "Portugués",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMw=="
-              }
-            },
-            {
-              "id": 21081,
+              "id": 12954,
               "attributes": {
                 "embed_name": "Premiere 4 BR",
                 "idioma": "Español/Alternativo",
