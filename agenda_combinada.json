@@ -1,24 +1,79 @@
 {
   "data": [
     {
-      "id": 33851,
+      "id": 33855,
       "attributes": {
-        "diary_hour": "16:30:00",
-        "diary_description": "Primera División: Racing vs Peñarol",
-        "date_diary": "2026-07-12",
+        "diary_hour": "13:00:00",
+        "diary_description": "Segunda División: La Luz vs Tacuarembó",
+        "date_diary": "2026-07-13",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 815,
+              "id": 745,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk2"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2024-01-07T23:51:20.902Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 132,
+                  "attributes": {
+                    "name": "uruguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.8,
+                    "url": "/uploads/uruguay_e2b9597af8.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:18.898Z",
+                    "updatedAt": "2024-01-07T23:51:18.898Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33856,
+      "attributes": {
+        "diary_hour": "17:00:00",
+        "diary_description": "Primera División: Cerro Largo vs Defensor Sporting",
+        "date_diary": "2026-07-13",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 765,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
               }
             },
             {
-              "id": 12973,
+              "id": 15015,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -26,7 +81,7 @@
               }
             },
             {
-              "id": 15984,
+              "id": 16499,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -34,7 +89,7 @@
               }
             },
             {
-              "id": 21785,
+              "id": 28919,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español/Alternativo",
@@ -80,139 +135,52 @@
       }
     },
     {
-      "id": 33853,
+      "id": 33857,
       "attributes": {
-        "diary_hour": "19:00:00",
-        "diary_description": "Copa de la Liga: O'Higgins vs Ñublense",
-        "date_diary": "2026-07-12",
+        "diary_hour": "17:00:00",
+        "diary_description": "Segunda División: Paysandu vs Fénix",
+        "date_diary": "2026-07-13",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 424,
+              "id": 783,
               "attributes": {
-                "embed_name": "TNT Sports Premium CL",
+                "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-              }
-            },
-            {
-              "id": 1226,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
-              }
-            },
-            {
-              "id": 10846,
-              "attributes": {
-                "embed_name": "MAX",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPW1heDI="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 12,
+            "id": 16,
             "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2024-01-07T23:47:58.476Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2024-01-07T23:51:20.902Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
               "image": {
                 "data": {
-                  "id": 128,
+                  "id": 132,
                   "attributes": {
-                    "name": "chile.png",
+                    "name": "uruguay.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "chile_86c07a7b38",
+                    "hash": "uruguay_e2b9597af8",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/chile_86c07a7b38.png",
+                    "size": 0.8,
+                    "url": "/uploads/uruguay_e2b9597af8.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:47:55.957Z",
-                    "updatedAt": "2024-01-07T23:47:55.957Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33854,
-      "attributes": {
-        "diary_hour": "15:30:00",
-        "diary_description": "Partido Amistoso: Alianza Lima vs. Deportivo Cali",
-        "date_diary": "2026-07-12",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 630,
-              "attributes": {
-                "embed_name": "America TV",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY="
-              }
-            },
-            {
-              "id": 1215,
-              "attributes": {
-                "embed_name": "America TV Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2FtZXJpY2F0djEuaHRtbA=="
-              }
-            },
-            {
-              "id": 28948,
-              "attributes": {
-                "embed_name": "Premiere 4 BR",
-                "idioma": "Español/Alternativo",
-                "embed_iframe": "/eventos.html?r=aHR0cHM6Ly9zdHJlYW14OTk2Lm9uZS9nbG9iYWwxLnBocD9jaGFubmVsPXByZW1pZXJlNA=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 41,
-            "attributes": {
-              "name": "Amistosos de Clubes",
-              "createdAt": "2023-12-22T02:50:39.355Z",
-              "updatedAt": "2024-01-07T23:29:04.864Z",
-              "publishedAt": "2023-12-22T02:50:51.600Z",
-              "image": {
-                "data": {
-                  "id": 117,
-                  "attributes": {
-                    "name": "amistosos.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistosos_bbe2ec4c17",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/amistosos_bbe2ec4c17.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:29:02.061Z",
-                    "updatedAt": "2024-01-07T23:29:02.061Z"
+                    "createdAt": "2024-01-07T23:51:18.898Z",
+                    "updatedAt": "2024-01-07T23:51:18.898Z"
                   }
                 }
               }
