@@ -174,69 +174,6 @@
       }
     },
     {
-      "id": 33885,
-      "attributes": {
-        "diary_hour": "13:00:00",
-        "diary_description": "Liga 1: ADT vs Universitario",
-        "date_diary": "2026-07-18",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 230,
-              "attributes": {
-                "embed_name": "Liga1max",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            },
-            {
-              "id": 1205,
-              "attributes": {
-                "embed_name": "Liga1max Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2023-11-22T18:05:40.140Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 28,
-                  "attributes": {
-                    "name": "peru.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "peru_ddc4e685cf",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/peru_ddc4e685cf.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:57:17.008Z",
-                    "updatedAt": "2023-11-22T18:05:27.397Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33886,
       "attributes": {
         "diary_hour": "14:00:00",
@@ -283,61 +220,6 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:51:18.898Z",
                     "updatedAt": "2024-01-07T23:51:18.898Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 33887,
-      "attributes": {
-        "diary_hour": "15:00:00",
-        "diary_description": "Partido Amistoso: Millonarios vs Colo-Colo",
-        "date_diary": "2026-07-18",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 789,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 41,
-            "attributes": {
-              "name": "Amistosos de Clubes",
-              "createdAt": "2023-12-22T02:50:39.355Z",
-              "updatedAt": "2024-01-07T23:29:04.864Z",
-              "publishedAt": "2023-12-22T02:50:51.600Z",
-              "image": {
-                "data": {
-                  "id": 117,
-                  "attributes": {
-                    "name": "amistosos.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistosos_bbe2ec4c17",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/amistosos_bbe2ec4c17.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:29:02.061Z",
-                    "updatedAt": "2024-01-07T23:29:02.061Z"
                   }
                 }
               }
@@ -528,6 +410,124 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:43:56.994Z",
                     "updatedAt": "2024-01-07T23:43:56.994Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33885,
+      "attributes": {
+        "diary_hour": "13:15:00",
+        "diary_description": "Liga 1: ADT vs Universitario",
+        "date_diary": "2026-07-18",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 230,
+              "attributes": {
+                "embed_name": "Liga1max",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 1205,
+              "attributes": {
+                "embed_name": "Liga1max Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2023-11-22T18:05:40.140Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 28,
+                  "attributes": {
+                    "name": "peru.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "peru_ddc4e685cf",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/peru_ddc4e685cf.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:57:17.008Z",
+                    "updatedAt": "2023-11-22T18:05:27.397Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33887,
+      "attributes": {
+        "diary_hour": "17:45:00",
+        "diary_description": "Partido Amistoso: Millonarios vs Colo-Colo",
+        "date_diary": "2026-07-18",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 789,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 41,
+            "attributes": {
+              "name": "Amistosos de Clubes",
+              "createdAt": "2023-12-22T02:50:39.355Z",
+              "updatedAt": "2024-01-07T23:29:04.864Z",
+              "publishedAt": "2023-12-22T02:50:51.600Z",
+              "image": {
+                "data": {
+                  "id": 117,
+                  "attributes": {
+                    "name": "amistosos.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistosos_bbe2ec4c17",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/amistosos_bbe2ec4c17.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:29:02.061Z",
+                    "updatedAt": "2024-01-07T23:29:02.061Z"
                   }
                 }
               }
