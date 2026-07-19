@@ -488,7 +488,7 @@
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk2"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
               }
             }
           ]
@@ -584,6 +584,61 @@
                     "provider_metadata": null,
                     "createdAt": "2023-11-22T17:57:17.008Z",
                     "updatedAt": "2023-11-22T18:05:27.397Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33906,
+      "attributes": {
+        "diary_hour": "09:30:00",
+        "diary_description": "LA PREVIA: España vs Argentina | Final COPA MUNDO 2026",
+        "date_diary": "2026-07-19",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 815,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "FIFA",
+              "createdAt": "2023-11-24T11:43:09.315Z",
+              "updatedAt": "2024-01-07T23:43:59.909Z",
+              "publishedAt": "2023-11-24T11:43:11.351Z",
+              "image": {
+                "data": {
+                  "id": 124,
+                  "attributes": {
+                    "name": "fifa.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "fifa_ee72f5c955",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.42,
+                    "url": "/uploads/fifa_ee72f5c955.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:43:56.994Z",
+                    "updatedAt": "2024-01-07T23:43:56.994Z"
                   }
                 }
               }
