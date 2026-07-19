@@ -1,69 +1,6 @@
 {
   "data": [
     {
-      "id": 33899,
-      "attributes": {
-        "diary_hour": "11:00:00",
-        "diary_description": "Liga 1: Los Chankas vs Sport Boys",
-        "date_diary": "2026-07-19",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 230,
-              "attributes": {
-                "embed_name": "Liga1max",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            },
-            {
-              "id": 1205,
-              "attributes": {
-                "embed_name": "Liga1max Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2023-11-22T18:05:40.140Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 28,
-                  "attributes": {
-                    "name": "peru.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "peru_ddc4e685cf",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/peru_ddc4e685cf.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:57:17.008Z",
-                    "updatedAt": "2023-11-22T18:05:27.397Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33902,
       "attributes": {
         "diary_hour": "14:00:00",
