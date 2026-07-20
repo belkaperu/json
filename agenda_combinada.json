@@ -1,60 +1,107 @@
 {
   "data": [
     {
-      "id": 33905,
+      "id": 33907,
       "attributes": {
-        "diary_hour": "19:00:00",
-        "diary_description": "Liga 1: Alianza Lima vs. Sport Huancayo",
-        "date_diary": "2026-07-19",
+        "diary_hour": "15:00:00",
+        "diary_description": "Primera División: Torque vs Danubio",
+        "date_diary": "2026-07-20",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 230,
+              "id": 745,
               "attributes": {
-                "embed_name": "Liga1max",
+                "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            },
-            {
-              "id": 1205,
-              "attributes": {
-                "embed_name": "Liga1max Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 2,
+            "id": 16,
             "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2023-11-22T18:05:40.140Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2024-01-07T23:51:20.902Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
               "image": {
                 "data": {
-                  "id": 28,
+                  "id": 132,
                   "attributes": {
-                    "name": "peru.png",
+                    "name": "uruguay.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 128,
-                    "height": 128,
+                    "width": 64,
+                    "height": 64,
                     "formats": null,
-                    "hash": "peru_ddc4e685cf",
+                    "hash": "uruguay_e2b9597af8",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/peru_ddc4e685cf.png",
+                    "size": 0.8,
+                    "url": "/uploads/uruguay_e2b9597af8.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:57:17.008Z",
-                    "updatedAt": "2023-11-22T18:05:27.397Z"
+                    "createdAt": "2024-01-07T23:51:18.898Z",
+                    "updatedAt": "2024-01-07T23:51:18.898Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33908,
+      "attributes": {
+        "diary_hour": "18:00:00",
+        "diary_description": "Primera División: Defensor Sporting vs Liverpool",
+        "date_diary": "2026-07-20",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 765,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2024-01-07T23:51:20.902Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 132,
+                  "attributes": {
+                    "name": "uruguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.8,
+                    "url": "/uploads/uruguay_e2b9597af8.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:18.898Z",
+                    "updatedAt": "2024-01-07T23:51:18.898Z"
                   }
                 }
               }
