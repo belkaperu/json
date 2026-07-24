@@ -356,77 +356,6 @@
       }
     },
     {
-      "id": 33934,
-      "attributes": {
-        "diary_hour": "19:30:00",
-        "diary_description": "Copa Sudamericana: Boca Juniors vs O'Higgins",
-        "date_diary": "2026-07-23",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 20,
-              "attributes": {
-                "embed_name": "Dsports",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
-              }
-            },
-            {
-              "id": 1201,
-              "attributes": {
-                "embed_name": "Dsports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
-              }
-            },
-            {
-              "id": 786,
-              "attributes": {
-                "embed_name": "ESPN3 MX",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 60,
-            "attributes": {
-              "name": "Copa Sudamericana 2025",
-              "createdAt": "2024-03-05T12:36:41.960Z",
-              "updatedAt": "2025-04-08T20:54:21.836Z",
-              "publishedAt": "2024-03-05T12:36:43.447Z",
-              "image": {
-                "data": {
-                  "id": 190,
-                  "attributes": {
-                    "name": "image-modified.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 137,
-                    "height": 137,
-                    "formats": null,
-                    "hash": "image_modified_f8ce531f01",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 4.09,
-                    "url": "/uploads/image_modified_f8ce531f01.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-05T12:36:38.762Z",
-                    "updatedAt": "2024-03-05T12:36:38.762Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 33936,
       "attributes": {
         "diary_hour": "19:45:00",
@@ -481,6 +410,148 @@
                     "provider_metadata": null,
                     "createdAt": "2023-11-22T17:59:33.800Z",
                     "updatedAt": "2023-11-22T17:59:33.800Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33934,
+      "attributes": {
+        "diary_hour": "19:30:00",
+        "diary_description": "Copa Sudamericana: Boca Juniors vs O'Higgins",
+        "date_diary": "2026-07-23",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 451,
+              "attributes": {
+                "embed_name": "Dsports | OP2",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
+              }
+            },
+            {
+              "id": 370,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 786,
+              "attributes": {
+                "embed_name": "ESPN3 MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 60,
+            "attributes": {
+              "name": "Copa Sudamericana 2025",
+              "createdAt": "2024-03-05T12:36:41.960Z",
+              "updatedAt": "2025-04-08T20:54:21.836Z",
+              "publishedAt": "2024-03-05T12:36:43.447Z",
+              "image": {
+                "data": {
+                  "id": 190,
+                  "attributes": {
+                    "name": "image-modified.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 137,
+                    "height": 137,
+                    "formats": null,
+                    "hash": "image_modified_f8ce531f01",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 4.09,
+                    "url": "/uploads/image_modified_f8ce531f01.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-03-05T12:36:38.762Z",
+                    "updatedAt": "2024-03-05T12:36:38.762Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 33935,
+      "attributes": {
+        "diary_hour": "19:30:00",
+        "diary_description": "Copa Sudamericana: Santa Fe vs Caracas",
+        "date_diary": "2026-07-23",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 943,
+              "attributes": {
+                "embed_name": "ESPN CO",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
+              }
+            },
+            {
+              "id": 20,
+              "attributes": {
+                "embed_name": "Dsports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 1201,
+              "attributes": {
+                "embed_name": "Dsports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 60,
+            "attributes": {
+              "name": "Copa Sudamericana 2025",
+              "createdAt": "2024-03-05T12:36:41.960Z",
+              "updatedAt": "2025-04-08T20:54:21.836Z",
+              "publishedAt": "2024-03-05T12:36:43.447Z",
+              "image": {
+                "data": {
+                  "id": 190,
+                  "attributes": {
+                    "name": "image-modified.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 137,
+                    "height": 137,
+                    "formats": null,
+                    "hash": "image_modified_f8ce531f01",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 4.09,
+                    "url": "/uploads/image_modified_f8ce531f01.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-03-05T12:36:38.762Z",
+                    "updatedAt": "2024-03-05T12:36:38.762Z"
                   }
                 }
               }
