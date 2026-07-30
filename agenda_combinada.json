@@ -1,61 +1,6 @@
 {
   "data": [
     {
-      "id": 34058,
-      "attributes": {
-        "diary_hour": "14:00:00",
-        "diary_description": "Liga Paraguaya: Sportivo San Lorenzo vs Guaraní",
-        "date_diary": "2026-07-30",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 984,
-              "attributes": {
-                "embed_name": "Fanatiz01",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 14,
-            "attributes": {
-              "name": "Paraguay",
-              "createdAt": "2023-11-22T15:48:24.480Z",
-              "updatedAt": "2024-01-07T23:49:12.172Z",
-              "publishedAt": "2023-11-22T15:48:26.018Z",
-              "image": {
-                "data": {
-                  "id": 130,
-                  "attributes": {
-                    "name": "paraguay.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "paraguay_fc9dd78de7",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/paraguay_fc9dd78de7.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:49:09.758Z",
-                    "updatedAt": "2024-01-07T23:49:09.758Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 34059,
       "attributes": {
         "diary_hour": "16:30:00",
@@ -111,266 +56,6 @@
       }
     },
     {
-      "id": 34060,
-      "attributes": {
-        "diary_hour": "17:00:00",
-        "diary_description": "Liga Profesional: Talleres Córdoba vs Vélez Sarsfield",
-        "date_diary": "2026-07-30",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 745,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-              }
-            },
-            {
-              "id": 713,
-              "attributes": {
-                "embed_name": "ESPN Premium",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            },
-            {
-              "id": 1213,
-              "attributes": {
-                "embed_name": "ESPN Premium Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 3,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2023-11-22T14:52:41.307Z",
-              "updatedAt": "2023-11-22T17:59:52.523Z",
-              "publishedAt": "2023-11-22T14:54:38.957Z",
-              "image": {
-                "data": {
-                  "id": 29,
-                  "attributes": {
-                    "name": "argentina.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/argentina_2bd748026e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:59:33.800Z",
-                    "updatedAt": "2023-11-22T17:59:33.800Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 34061,
-      "attributes": {
-        "diary_hour": "17:00:00",
-        "diary_description": "Liga Profesional: Independiente Rivadavia vs Huracán\n\n",
-        "date_diary": "2026-07-30",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 523,
-              "attributes": {
-                "embed_name": "TNT Sports",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1212,
-              "attributes": {
-                "embed_name": "TNT Sports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 3,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2023-11-22T14:52:41.307Z",
-              "updatedAt": "2023-11-22T17:59:52.523Z",
-              "publishedAt": "2023-11-22T14:54:38.957Z",
-              "image": {
-                "data": {
-                  "id": 29,
-                  "attributes": {
-                    "name": "argentina.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/argentina_2bd748026e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:59:33.800Z",
-                    "updatedAt": "2023-11-22T17:59:33.800Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 34062,
-      "attributes": {
-        "diary_hour": "17:00:00",
-        "diary_description": "Copa Sudamericana: Grêmio vs Bolívar",
-        "date_diary": "2026-07-30",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 451,
-              "attributes": {
-                "embed_name": "Dsports | OP2",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
-              }
-            },
-            {
-              "id": 943,
-              "attributes": {
-                "embed_name": "ESPN CO",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
-              }
-            },
-            {
-              "id": 988,
-              "attributes": {
-                "embed_name": "Fanatiz05",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 60,
-            "attributes": {
-              "name": "Copa Sudamericana 2025",
-              "createdAt": "2024-03-05T12:36:41.960Z",
-              "updatedAt": "2025-04-08T20:54:21.836Z",
-              "publishedAt": "2024-03-05T12:36:43.447Z",
-              "image": {
-                "data": {
-                  "id": 190,
-                  "attributes": {
-                    "name": "image-modified.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 137,
-                    "height": 137,
-                    "formats": null,
-                    "hash": "image_modified_f8ce531f01",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 4.09,
-                    "url": "/uploads/image_modified_f8ce531f01.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-05T12:36:38.762Z",
-                    "updatedAt": "2024-03-05T12:36:38.762Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 34063,
-      "attributes": {
-        "diary_hour": "17:30:00",
-        "diary_description": "Brasileirão: Corinthians vs Athletico-PR",
-        "date_diary": "2026-07-30",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 180,
-              "attributes": {
-                "embed_name": "Premiere BR ",
-                "idioma": "Portugués",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2024-01-07T23:56:59.376Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 141,
-                  "attributes": {
-                    "name": "brasil.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "brasil_25a533e5f7",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.85,
-                    "url": "/uploads/brasil_25a533e5f7.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:56:57.083Z",
-                    "updatedAt": "2024-01-07T23:56:57.083Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 34064,
       "attributes": {
         "diary_hour": "18:30:00",
@@ -417,69 +102,6 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:29:02.061Z",
                     "updatedAt": "2024-01-07T23:29:02.061Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 34066,
-      "attributes": {
-        "diary_hour": "19:15:00",
-        "diary_description": "Liga Profesional: Central Córdoba SdE vs Atlético Tucumán",
-        "date_diary": "2026-07-30",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 523,
-              "attributes": {
-                "embed_name": "TNT Sports",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1212,
-              "attributes": {
-                "embed_name": "TNT Sports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 3,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2023-11-22T14:52:41.307Z",
-              "updatedAt": "2023-11-22T17:59:52.523Z",
-              "publishedAt": "2023-11-22T14:54:38.957Z",
-              "image": {
-                "data": {
-                  "id": 29,
-                  "attributes": {
-                    "name": "argentina.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/argentina_2bd748026e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:59:33.800Z",
-                    "updatedAt": "2023-11-22T17:59:33.800Z"
                   }
                 }
               }
@@ -559,85 +181,6 @@
                     "provider_metadata": null,
                     "createdAt": "2024-03-05T12:36:38.762Z",
                     "updatedAt": "2024-03-05T12:36:38.762Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 34065,
-      "attributes": {
-        "diary_hour": "19:15:00",
-        "diary_description": "Liga Profesional: Independiente vs Newell's Old Boys",
-        "date_diary": "2026-07-30",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 765,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-              }
-            },
-            {
-              "id": 713,
-              "attributes": {
-                "embed_name": "ESPN Premium",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-              }
-            },
-            {
-              "id": 990,
-              "attributes": {
-                "embed_name": "Fanatiz07",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo3"
-              }
-            },
-            {
-              "id": 1213,
-              "attributes": {
-                "embed_name": "ESPN Premium Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 3,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2023-11-22T14:52:41.307Z",
-              "updatedAt": "2023-11-22T17:59:52.523Z",
-              "publishedAt": "2023-11-22T14:54:38.957Z",
-              "image": {
-                "data": {
-                  "id": 29,
-                  "attributes": {
-                    "name": "argentina.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/argentina_2bd748026e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:59:33.800Z",
-                    "updatedAt": "2023-11-22T17:59:33.800Z"
                   }
                 }
               }
@@ -906,6 +449,432 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:35:10.805Z",
                     "updatedAt": "2024-01-07T23:35:10.805Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34062,
+      "attributes": {
+        "diary_hour": "17:00:00",
+        "diary_description": "Copa Sudamericana: Grêmio vs Bolívar",
+        "date_diary": "2026-07-30",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 451,
+              "attributes": {
+                "embed_name": "Dsports | OP2",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
+              }
+            },
+            {
+              "id": 988,
+              "attributes": {
+                "embed_name": "Fanatiz05",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 60,
+            "attributes": {
+              "name": "Copa Sudamericana 2025",
+              "createdAt": "2024-03-05T12:36:41.960Z",
+              "updatedAt": "2025-04-08T20:54:21.836Z",
+              "publishedAt": "2024-03-05T12:36:43.447Z",
+              "image": {
+                "data": {
+                  "id": 190,
+                  "attributes": {
+                    "name": "image-modified.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 137,
+                    "height": 137,
+                    "formats": null,
+                    "hash": "image_modified_f8ce531f01",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 4.09,
+                    "url": "/uploads/image_modified_f8ce531f01.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-03-05T12:36:38.762Z",
+                    "updatedAt": "2024-03-05T12:36:38.762Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34060,
+      "attributes": {
+        "diary_hour": "17:00:00",
+        "diary_description": "Liga Profesional: Talleres Córdoba vs Vélez Sarsfield",
+        "date_diary": "2026-07-30",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 745,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            },
+            {
+              "id": 713,
+              "attributes": {
+                "embed_name": "ESPN Premium",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 1213,
+              "attributes": {
+                "embed_name": "ESPN Premium Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
+              }
+            },
+            {
+              "id": 986,
+              "attributes": {
+                "embed_name": "Fanatiz03",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2023-11-22T14:52:41.307Z",
+              "updatedAt": "2023-11-22T17:59:52.523Z",
+              "publishedAt": "2023-11-22T14:54:38.957Z",
+              "image": {
+                "data": {
+                  "id": 29,
+                  "attributes": {
+                    "name": "argentina.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/argentina_2bd748026e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:59:33.800Z",
+                    "updatedAt": "2023-11-22T17:59:33.800Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34061,
+      "attributes": {
+        "diary_hour": "17:00:00",
+        "diary_description": "Liga Profesional: Independiente Rivadavia vs Huracán\n\n",
+        "date_diary": "2026-07-30",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 523,
+              "attributes": {
+                "embed_name": "TNT Sports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1212,
+              "attributes": {
+                "embed_name": "TNT Sports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
+              }
+            },
+            {
+              "id": 987,
+              "attributes": {
+                "embed_name": "Fanatiz04",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2023-11-22T14:52:41.307Z",
+              "updatedAt": "2023-11-22T17:59:52.523Z",
+              "publishedAt": "2023-11-22T14:54:38.957Z",
+              "image": {
+                "data": {
+                  "id": 29,
+                  "attributes": {
+                    "name": "argentina.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/argentina_2bd748026e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:59:33.800Z",
+                    "updatedAt": "2023-11-22T17:59:33.800Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34063,
+      "attributes": {
+        "diary_hour": "17:30:00",
+        "diary_description": "Brasileirão: Corinthians vs Athletico-PR",
+        "date_diary": "2026-07-30",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 180,
+              "attributes": {
+                "embed_name": "Premiere BR ",
+                "idioma": "Portugués",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            },
+            {
+              "id": 230,
+              "attributes": {
+                "embed_name": "Liga1max",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 1205,
+              "attributes": {
+                "embed_name": "Liga1max Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2024-01-07T23:56:59.376Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 141,
+                  "attributes": {
+                    "name": "brasil.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.85,
+                    "url": "/uploads/brasil_25a533e5f7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:56:57.083Z",
+                    "updatedAt": "2024-01-07T23:56:57.083Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34065,
+      "attributes": {
+        "diary_hour": "19:15:00",
+        "diary_description": "Liga Profesional: Independiente vs Newell's Old Boys",
+        "date_diary": "2026-07-30",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 713,
+              "attributes": {
+                "embed_name": "ESPN Premium",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 990,
+              "attributes": {
+                "embed_name": "Fanatiz07",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo3"
+              }
+            },
+            {
+              "id": 1213,
+              "attributes": {
+                "embed_name": "ESPN Premium Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2023-11-22T14:52:41.307Z",
+              "updatedAt": "2023-11-22T17:59:52.523Z",
+              "publishedAt": "2023-11-22T14:54:38.957Z",
+              "image": {
+                "data": {
+                  "id": 29,
+                  "attributes": {
+                    "name": "argentina.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/argentina_2bd748026e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:59:33.800Z",
+                    "updatedAt": "2023-11-22T17:59:33.800Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34066,
+      "attributes": {
+        "diary_hour": "19:15:00",
+        "diary_description": "Liga Profesional: Central Córdoba SdE vs Atlético Tucumán",
+        "date_diary": "2026-07-30",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 523,
+              "attributes": {
+                "embed_name": "TNT Sports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 1212,
+              "attributes": {
+                "embed_name": "TNT Sports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
+              }
+            },
+            {
+              "id": 995,
+              "attributes": {
+                "embed_name": "Fanatiz08",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo4"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2023-11-22T14:52:41.307Z",
+              "updatedAt": "2023-11-22T17:59:52.523Z",
+              "publishedAt": "2023-11-22T14:54:38.957Z",
+              "image": {
+                "data": {
+                  "id": 29,
+                  "attributes": {
+                    "name": "argentina.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/argentina_2bd748026e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:59:33.800Z",
+                    "updatedAt": "2023-11-22T17:59:33.800Z"
                   }
                 }
               }
