@@ -1,68 +1,52 @@
 {
   "data": [
     {
-      "id": 34151,
+      "id": 34154,
       "attributes": {
-        "diary_hour": "20:00:00",
-        "diary_description": "Liga Colombia: Santa Fe vs Once Caldas",
-        "date_diary": "2026-08-02",
+        "diary_hour": "14:00:00",
+        "diary_description": "Copa de Primera: Sportivo Trinidense vs Sportivo San Lorenzo",
+        "date_diary": "2026-08-03",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 616,
+              "id": 984,
               "attributes": {
-                "embed_name": "Win Sports +",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
-              }
-            },
-            {
-              "id": 753,
-              "attributes": {
-                "embed_name": "Win Sports + HD",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-              }
-            },
-            {
-              "id": 1004,
-              "attributes": {
-                "embed_name": "Win Sports + |  opc3",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
+                "embed_name": "Fanatiz01",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 17,
+            "id": 14,
             "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2024-01-07T23:51:34.518Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "name": "Paraguay",
+              "createdAt": "2023-11-22T15:48:24.480Z",
+              "updatedAt": "2024-01-07T23:49:12.172Z",
+              "publishedAt": "2023-11-22T15:48:26.018Z",
               "image": {
                 "data": {
-                  "id": 133,
+                  "id": 130,
                   "attributes": {
-                    "name": "colombia.png",
+                    "name": "paraguay.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "colombia_dcf9cc2637",
+                    "hash": "paraguay_fc9dd78de7",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.57,
-                    "url": "/uploads/colombia_dcf9cc2637.png",
+                    "size": 0.92,
+                    "url": "/uploads/paraguay_fc9dd78de7.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:32.399Z",
-                    "updatedAt": "2024-01-07T23:51:32.399Z"
+                    "createdAt": "2024-01-07T23:49:09.758Z",
+                    "updatedAt": "2024-01-07T23:49:09.758Z"
                   }
                 }
               }
@@ -72,60 +56,68 @@
       }
     },
     {
-      "id": 34152,
+      "id": 34155,
       "attributes": {
-        "diary_hour": "20:00:00",
-        "diary_description": "Liga MX: Toluca vs Necaxa",
-        "date_diary": "2026-08-02",
+        "diary_hour": "14:45:00",
+        "diary_description": "Liga Profesional: Sarmiento vs Independiente Rivadavia",
+        "date_diary": "2026-08-03",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 206,
+              "id": 713,
               "attributes": {
-                "embed_name": "TUDN USA",
+                "embed_name": "ESPN Premium",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
               }
             },
             {
-              "id": 1202,
+              "id": 985,
               "attributes": {
-                "embed_name": "TUDN USA Movil",
+                "embed_name": "Fanatiz02",
                 "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+              }
+            },
+            {
+              "id": 1213,
+              "attributes": {
+                "embed_name": "ESPN Premium Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 5,
+            "id": 3,
             "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2024-01-07T23:56:44.462Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "name": "Argentina",
+              "createdAt": "2023-11-22T14:52:41.307Z",
+              "updatedAt": "2023-11-22T17:59:52.523Z",
+              "publishedAt": "2023-11-22T14:54:38.957Z",
               "image": {
                 "data": {
-                  "id": 140,
+                  "id": 29,
                   "attributes": {
-                    "name": "bandera.png",
+                    "name": "argentina.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 64,
-                    "height": 64,
+                    "width": 128,
+                    "height": 128,
                     "formats": null,
-                    "hash": "bandera_fbc29cb609",
+                    "hash": "argentina_2bd748026e",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.04,
-                    "url": "/uploads/bandera_fbc29cb609.png",
+                    "size": 0.92,
+                    "url": "/uploads/argentina_2bd748026e.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:56:40.086Z",
-                    "updatedAt": "2024-01-07T23:56:40.086Z"
+                    "createdAt": "2023-11-22T17:59:33.800Z",
+                    "updatedAt": "2023-11-22T17:59:33.800Z"
                   }
                 }
               }
@@ -135,36 +127,91 @@
       }
     },
     {
-      "id": 34150,
+      "id": 34156,
       "attributes": {
-        "diary_hour": "19:30:00",
-        "diary_description": "Liga Profesional: Lanús vs Instituto",
-        "date_diary": "2026-08-02",
+        "diary_hour": "16:30:00",
+        "diary_description": "Copa de Primera: Deportivo Recoleta vs Nacional Asunción",
+        "date_diary": "2026-08-03",
         "deportes": "Futbol",
         "embeds": {
           "data": [
-            {
-              "id": 523,
-              "attributes": {
-                "embed_name": "TNT Sports",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1212,
-              "attributes": {
-                "embed_name": "TNT Sports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
-              }
-            },
             {
               "id": 986,
               "attributes": {
                 "embed_name": "Fanatiz03",
                 "idioma": null,
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "Paraguay",
+              "createdAt": "2023-11-22T15:48:24.480Z",
+              "updatedAt": "2024-01-07T23:49:12.172Z",
+              "publishedAt": "2023-11-22T15:48:26.018Z",
+              "image": {
+                "data": {
+                  "id": 130,
+                  "attributes": {
+                    "name": "paraguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "paraguay_fc9dd78de7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/paraguay_fc9dd78de7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:49:09.758Z",
+                    "updatedAt": "2024-01-07T23:49:09.758Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34157,
+      "attributes": {
+        "diary_hour": "17:00:00",
+        "diary_description": "Liga Profesional: Vélez Sarsfield vs Independiente",
+        "date_diary": "2026-08-03",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 713,
+              "attributes": {
+                "embed_name": "ESPN Premium",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 1213,
+              "attributes": {
+                "embed_name": "ESPN Premium Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
+              }
+            },
+            {
+              "id": 987,
+              "attributes": {
+                "embed_name": "Fanatiz04",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
               }
             }
           ]
