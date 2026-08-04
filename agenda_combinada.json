@@ -382,6 +382,171 @@
           }
         }
       }
+    },
+    {
+      "id": 34174,
+      "attributes": {
+        "diary_hour": "18:45:00",
+        "diary_description": "League Cup: Cincinnati vs Pachuca",
+        "date_diary": "2026-08-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1126,
+              "attributes": {
+                "embed_name": "MLS02EN",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2024-01-07T23:46:22.789Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 126,
+                  "attributes": {
+                    "name": "estados-unidos-de-america.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.29,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:46:20.342Z",
+                    "updatedAt": "2024-01-07T23:46:20.342Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34175,
+      "attributes": {
+        "diary_hour": "18:45:00",
+        "diary_description": "League Cup: Charlotte vs Pumas UNAM",
+        "date_diary": "2026-08-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1127,
+              "attributes": {
+                "embed_name": "MLS03EN",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczNlbg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2024-01-07T23:46:22.789Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 126,
+                  "attributes": {
+                    "name": "estados-unidos-de-america.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.29,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:46:20.342Z",
+                    "updatedAt": "2024-01-07T23:46:20.342Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34176,
+      "attributes": {
+        "diary_hour": "19:00:00",
+        "diary_description": "Copa Centroamericana de CONCACAF: Plaza Amador vs Firpo",
+        "date_diary": "2026-08-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 765,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 34,
+            "attributes": {
+              "name": "Copa Centroamericana",
+              "createdAt": "2023-11-28T14:54:06.416Z",
+              "updatedAt": "2024-01-07T23:35:14.051Z",
+              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "image": {
+                "data": {
+                  "id": 120,
+                  "attributes": {
+                    "name": "copa_centroamericana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_centroamericana_59d23aa32c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 4.26,
+                    "url": "/uploads/copa_centroamericana_59d23aa32c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:35:10.805Z",
+                    "updatedAt": "2024-01-07T23:35:10.805Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   ]
 }
