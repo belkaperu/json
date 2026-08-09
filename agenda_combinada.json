@@ -1285,93 +1285,6 @@
       }
     },
     {
-      "id": 34294,
-      "attributes": {
-        "diary_hour": "06:00:00",
-        "diary_description": "Amistoso: Manchester City vs Atlético Madrid",
-        "date_diary": "2026-08-09",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 746,
-              "attributes": {
-                "embed_name": "ESPN",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 765,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-              }
-            },
-            {
-              "id": 1200,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
-              }
-            },
-            {
-              "id": 704,
-              "attributes": {
-                "embed_name": "ESPN MX",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
-              }
-            },
-            {
-              "id": 1228,
-              "attributes": {
-                "embed_name": "ESPN MX MOVIL",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 62,
-            "attributes": {
-              "name": "Amistoso Paises",
-              "createdAt": "2024-03-20T12:50:38.850Z",
-              "updatedAt": "2024-03-20T12:50:40.247Z",
-              "publishedAt": "2024-03-20T12:50:40.246Z",
-              "image": {
-                "data": {
-                  "id": 193,
-                  "attributes": {
-                    "name": "amistoso_paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "amistoso_paises_b9febc0d3c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.95,
-                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-20T12:50:35.124Z",
-                    "updatedAt": "2024-03-20T12:50:35.124Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 34317,
       "attributes": {
         "diary_hour": "15:45:00",
@@ -1507,19 +1420,19 @@
         "embeds": {
           "data": [
             {
-              "id": 984,
-              "attributes": {
-                "embed_name": "Fanatiz01",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
-              }
-            },
-            {
               "id": 981,
               "attributes": {
                 "embed_name": "Amazon Prime",
                 "idioma": "Portugués",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
+              }
+            },
+            {
+              "id": 984,
+              "attributes": {
+                "embed_name": "Fanatiz01",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
               }
             }
           ]
