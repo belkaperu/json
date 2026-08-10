@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "id": 34336,
+      "id": 34340,
       "attributes": {
-        "diary_hour": "16:00:00",
-        "diary_description": "Liga Colombia: Rionegro Águilas vs Llaneros",
+        "diary_hour": "18:00:00",
+        "diary_description": "Liga Colombia: Medellín vs Millonarios",
         "date_diary": "2026-08-10",
         "deportes": "Futbol",
         "embeds": {
@@ -72,10 +72,10 @@
       }
     },
     {
-      "id": 34340,
+      "id": 34336,
       "attributes": {
-        "diary_hour": "18:00:00",
-        "diary_description": "Liga Colombia: Medellín vs Millonarios",
+        "diary_hour": "16:00:00",
+        "diary_description": "Liga Colombia: Rionegro Águilas vs Llaneros",
         "date_diary": "2026-08-10",
         "deportes": "Futbol",
         "embeds": {
@@ -86,6 +86,14 @@
                 "embed_name": "Win Sports +",
                 "idioma": "Español",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
+              }
+            },
+            {
+              "id": 453,
+              "attributes": {
+                "embed_name": "Win Sports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
               }
             },
             {
@@ -567,6 +575,61 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:51:18.898Z",
                     "updatedAt": "2024-01-07T23:51:18.898Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34344,
+      "attributes": {
+        "diary_hour": "16:30:00",
+        "diary_description": "Serie A de Ecuador: Libertad vs Universidad Católica",
+        "date_diary": "2026-08-10",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 743,
+              "attributes": {
+                "embed_name": "ECDF LigaPro",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 13,
+            "attributes": {
+              "name": "Ecuador",
+              "createdAt": "2023-11-22T15:42:56.252Z",
+              "updatedAt": "2024-01-07T23:48:11.367Z",
+              "publishedAt": "2023-11-22T15:42:57.903Z",
+              "image": {
+                "data": {
+                  "id": 129,
+                  "attributes": {
+                    "name": "ecuador.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "ecuador_6b5e87e044",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.91,
+                    "url": "/uploads/ecuador_6b5e87e044.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:48:09.254Z",
+                    "updatedAt": "2024-01-07T23:48:09.254Z"
                   }
                 }
               }
