@@ -1,44 +1,454 @@
 {
   "data": [
     {
-      "id": 34341,
+      "id": 34347,
       "attributes": {
-        "diary_hour": "19:15:00",
-        "diary_description": " Liga Profesional: Unión Santa Fe vs Central Córdoba SdE",
-        "date_diary": "2026-08-10",
+        "diary_hour": "17:00:00",
+        "diary_description": "Copa Libertadores: Fluminense vs Independiente Rivadavia",
+        "date_diary": "2026-08-11",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 784,
+              "id": 370,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 745,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
               }
             },
             {
-              "id": 713,
+              "id": 1204,
               "attributes": {
-                "embed_name": "ESPN Premium",
+                "embed_name": "ESPN2 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 655,
+              "attributes": {
+                "embed_name": "Fox Sports ",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
               }
             },
             {
-              "id": 1213,
+              "id": 786,
               "attributes": {
-                "embed_name": "ESPN Premium Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
+                "embed_name": "ESPN3 MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg="
               }
             },
             {
-              "id": 988,
+              "id": 984,
               "attributes": {
-                "embed_name": "Fanatiz05",
+                "embed_name": "Fanatiz01",
                 "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 55,
+            "attributes": {
+              "name": "Copa Libertadores",
+              "createdAt": "2024-02-06T12:14:59.467Z",
+              "updatedAt": "2024-02-06T12:15:00.695Z",
+              "publishedAt": "2024-02-06T12:15:00.694Z",
+              "image": {
+                "data": {
+                  "id": 182,
+                  "attributes": {
+                    "name": "copa_libertadores.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_libertadores_f60faf808a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.5,
+                    "url": "/uploads/copa_libertadores_f60faf808a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-02-06T12:14:56.951Z",
+                    "updatedAt": "2024-02-06T12:14:56.951Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34348,
+      "attributes": {
+        "diary_hour": "17:00:00",
+        "diary_description": "Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
+        "date_diary": "2026-08-11",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 746,
+              "attributes": {
+                "embed_name": "ESPN",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 765,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            },
+            {
+              "id": 1200,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 20,
+              "attributes": {
+                "embed_name": "Dsports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 1201,
+              "attributes": {
+                "embed_name": "Dsports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
+              }
+            },
+            {
+              "id": 985,
+              "attributes": {
+                "embed_name": "Fanatiz02",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 60,
+            "attributes": {
+              "name": "Copa Sudamericana 2025",
+              "createdAt": "2024-03-05T12:36:41.960Z",
+              "updatedAt": "2025-04-08T20:54:21.836Z",
+              "publishedAt": "2024-03-05T12:36:43.447Z",
+              "image": {
+                "data": {
+                  "id": 190,
+                  "attributes": {
+                    "name": "image-modified.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 137,
+                    "height": 137,
+                    "formats": null,
+                    "hash": "image_modified_f8ce531f01",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 4.09,
+                    "url": "/uploads/image_modified_f8ce531f01.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-03-05T12:36:38.762Z",
+                    "updatedAt": "2024-03-05T12:36:38.762Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34349,
+      "attributes": {
+        "diary_hour": "18:30:00",
+        "diary_description": "Leagues Cup: Charlotte vs Pachuca",
+        "date_diary": "2026-08-11",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 560,
+              "attributes": {
+                "embed_name": "MLS01ES",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 76,
+            "attributes": {
+              "name": "Leagues Cup",
+              "createdAt": "2024-07-26T22:55:17.612Z",
+              "updatedAt": "2024-07-26T22:55:19.447Z",
+              "publishedAt": "2024-07-26T22:55:19.444Z",
+              "image": {
+                "data": {
+                  "id": 209,
+                  "attributes": {
+                    "name": "leagues-cup.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "leagues_cup_f7b23c5e8d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.96,
+                    "url": "/uploads/leagues_cup_f7b23c5e8d.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-07-26T22:55:14.732Z",
+                    "updatedAt": "2024-07-26T22:55:14.732Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34350,
+      "attributes": {
+        "diary_hour": "18:30:00",
+        "diary_description": "Leagues Cup: Columbus Crew vs Pumas UNAM",
+        "date_diary": "2026-08-11",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1126,
+              "attributes": {
+                "embed_name": "MLS02EN",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 76,
+            "attributes": {
+              "name": "Leagues Cup",
+              "createdAt": "2024-07-26T22:55:17.612Z",
+              "updatedAt": "2024-07-26T22:55:19.447Z",
+              "publishedAt": "2024-07-26T22:55:19.444Z",
+              "image": {
+                "data": {
+                  "id": 209,
+                  "attributes": {
+                    "name": "leagues-cup.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "leagues_cup_f7b23c5e8d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.96,
+                    "url": "/uploads/leagues_cup_f7b23c5e8d.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-07-26T22:55:14.732Z",
+                    "updatedAt": "2024-07-26T22:55:14.732Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34351,
+      "attributes": {
+        "diary_hour": "19:00:00",
+        "diary_description": "Leagues Cup: Cincinnati vs Atlas",
+        "date_diary": "2026-08-11",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1127,
+              "attributes": {
+                "embed_name": "MLS03EN",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczNlbg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 76,
+            "attributes": {
+              "name": "Leagues Cup",
+              "createdAt": "2024-07-26T22:55:17.612Z",
+              "updatedAt": "2024-07-26T22:55:19.447Z",
+              "publishedAt": "2024-07-26T22:55:19.444Z",
+              "image": {
+                "data": {
+                  "id": 209,
+                  "attributes": {
+                    "name": "leagues-cup.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "leagues_cup_f7b23c5e8d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.96,
+                    "url": "/uploads/leagues_cup_f7b23c5e8d.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-07-26T22:55:14.732Z",
+                    "updatedAt": "2024-07-26T22:55:14.732Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34352,
+      "attributes": {
+        "diary_hour": "19:00:00",
+        "diary_description": "Copa Centroamericana de CONCACAF: Plaza Amador vs Xelajú",
+        "date_diary": "2026-08-11",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 783,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 34,
+            "attributes": {
+              "name": "Copa Centroamericana",
+              "createdAt": "2023-11-28T14:54:06.416Z",
+              "updatedAt": "2024-01-07T23:35:14.051Z",
+              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "image": {
+                "data": {
+                  "id": 120,
+                  "attributes": {
+                    "name": "copa_centroamericana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_centroamericana_59d23aa32c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 4.26,
+                    "url": "/uploads/copa_centroamericana_59d23aa32c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:35:10.805Z",
+                    "updatedAt": "2024-01-07T23:35:10.805Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34353,
+      "attributes": {
+        "diary_hour": "19:00:00",
+        "diary_description": "Liga Profesional: Talleres Córdoba vs Lanús",
+        "date_diary": "2026-08-11",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 523,
+              "attributes": {
+                "embed_name": "TNT Sports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 590,
+              "attributes": {
+                "embed_name": "TyC Sports Internacional",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR5Y2ludGVybmFjaW9uYWw="
+              }
+            },
+            {
+              "id": 1212,
+              "attributes": {
+                "embed_name": "TNT Sports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
+              }
+            },
+            {
+              "id": 986,
+              "attributes": {
+                "embed_name": "Fanatiz03",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
               }
             }
           ]
