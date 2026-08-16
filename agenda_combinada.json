@@ -1,6 +1,140 @@
 {
   "data": [
     {
+      "id": 34518,
+      "attributes": {
+        "diary_hour": "13:45:00",
+        "diary_description": "Trophée des Champions: Lens vs PSG",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
+              }
+            },
+            {
+              "id": 746,
+              "attributes": {
+                "embed_name": "ESPN",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 1200,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 637,
+              "attributes": {
+                "embed_name": "TVC Deportes MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR2Y19kZXBvcnRlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 11,
+            "attributes": {
+              "name": "Francia",
+              "createdAt": "2023-11-22T15:36:32.644Z",
+              "updatedAt": "2024-01-07T23:54:10.948Z",
+              "publishedAt": "2023-11-22T15:36:34.086Z",
+              "image": {
+                "data": {
+                  "id": 137,
+                  "attributes": {
+                    "name": "francia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "francia_e9d1a8ab33",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.58,
+                    "url": "/uploads/francia_e9d1a8ab33.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:54:08.582Z",
+                    "updatedAt": "2024-01-07T23:54:08.582Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34519,
+      "attributes": {
+        "diary_hour": "13:45:00",
+        "diary_description": "Copa de Italia: Verona vs Virtus Entella",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1263,
+              "attributes": {
+                "embed_name": "Dsports ARG",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "Italia",
+              "createdAt": "2023-11-22T15:35:39.269Z",
+              "updatedAt": "2024-01-07T23:53:57.125Z",
+              "publishedAt": "2023-11-22T15:35:40.668Z",
+              "image": {
+                "data": {
+                  "id": 136,
+                  "attributes": {
+                    "name": "italia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "italia_cb19445d70",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.64,
+                    "url": "/uploads/italia_cb19445d70.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:53:53.740Z",
+                    "updatedAt": "2024-01-07T23:53:53.740Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 34502,
       "attributes": {
         "diary_hour": "10:00:00",
@@ -457,6 +591,69 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:53:53.740Z",
                     "updatedAt": "2024-01-07T23:53:53.740Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34520,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "Primera División: Cobresal vs Deportes Concepción",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 424,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+              }
+            },
+            {
+              "id": 1226,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2024-01-07T23:47:58.476Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 128,
+                  "attributes": {
+                    "name": "chile.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "chile_86c07a7b38",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/chile_86c07a7b38.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:47:55.957Z",
+                    "updatedAt": "2024-01-07T23:47:55.957Z"
                   }
                 }
               }
@@ -962,6 +1159,124 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:55:12.045Z",
                     "updatedAt": "2024-08-15T16:50:04.760Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34521,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "Copa de Primera: Sportivo Luqueño vs Libertad",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 990,
+              "attributes": {
+                "embed_name": "Fanatiz07",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo3"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "Paraguay",
+              "createdAt": "2023-11-22T15:48:24.480Z",
+              "updatedAt": "2024-01-07T23:49:12.172Z",
+              "publishedAt": "2023-11-22T15:48:26.018Z",
+              "image": {
+                "data": {
+                  "id": 130,
+                  "attributes": {
+                    "name": "paraguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "paraguay_fc9dd78de7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/paraguay_fc9dd78de7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:49:09.758Z",
+                    "updatedAt": "2024-01-07T23:49:09.758Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34522,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "Brasileirão: Vasco da Gama vs Santos",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 180,
+              "attributes": {
+                "embed_name": "Premiere BR",
+                "idioma": "Portugués",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            },
+            {
+              "id": 995,
+              "attributes": {
+                "embed_name": "Fanatiz08",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo4"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2024-01-07T23:56:59.376Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 141,
+                  "attributes": {
+                    "name": "brasil.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.85,
+                    "url": "/uploads/brasil_25a533e5f7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:56:57.083Z",
+                    "updatedAt": "2024-01-07T23:56:57.083Z"
                   }
                 }
               }
@@ -1672,52 +1987,572 @@
       }
     },
     {
-      "id": 34518,
+      "id": 34523,
       "attributes": {
-        "diary_hour": "13:45:00",
-        "diary_description": "Trophée des Champions: Lens vs PSG",
+        "diary_hour": "14:00:00",
+        "diary_description": "Brasileirão: Atlético Mineiro vs Grêmio",
         "date_diary": "2026-08-16",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 849,
+              "id": 264,
               "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
+                "embed_name": "Premiere 3 BR ",
+                "idioma": "Portugués",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMw=="
+              }
+            },
+            {
+              "id": 996,
+              "attributes": {
+                "embed_name": "Fanatiz09",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo5"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 11,
+            "id": 1,
             "attributes": {
-              "name": "Francia",
-              "createdAt": "2023-11-22T15:36:32.644Z",
-              "updatedAt": "2024-01-07T23:54:10.948Z",
-              "publishedAt": "2023-11-22T15:36:34.086Z",
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2024-01-07T23:56:59.376Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
               "image": {
                 "data": {
-                  "id": 137,
+                  "id": 141,
                   "attributes": {
-                    "name": "francia.png",
+                    "name": "brasil.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "francia_e9d1a8ab33",
+                    "hash": "brasil_25a533e5f7",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.58,
-                    "url": "/uploads/francia_e9d1a8ab33.png",
+                    "size": 0.85,
+                    "url": "/uploads/brasil_25a533e5f7.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:54:08.582Z",
-                    "updatedAt": "2024-01-07T23:54:08.582Z"
+                    "createdAt": "2024-01-07T23:56:57.083Z",
+                    "updatedAt": "2024-01-07T23:56:57.083Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34524,
+      "attributes": {
+        "diary_hour": "14:15:00",
+        "diary_description": "Copa de Italia: Lazio vs Mantova",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 181,
+              "attributes": {
+                "embed_name": "Dsports 2",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 1218,
+              "attributes": {
+                "embed_name": "Dsports 2 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHMyLmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "Italia",
+              "createdAt": "2023-11-22T15:35:39.269Z",
+              "updatedAt": "2024-01-07T23:53:57.125Z",
+              "publishedAt": "2023-11-22T15:35:40.668Z",
+              "image": {
+                "data": {
+                  "id": 136,
+                  "attributes": {
+                    "name": "italia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "italia_cb19445d70",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.64,
+                    "url": "/uploads/italia_cb19445d70.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:53:53.740Z",
+                    "updatedAt": "2024-01-07T23:53:53.740Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34525,
+      "attributes": {
+        "diary_hour": "14:30:00",
+        "diary_description": "LaLiga 2: Las Palmas vs Albacete",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 356,
+              "attributes": {
+                "embed_name": "LaLiga TV Hypermotion",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2024-08-15T19:18:48.458Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 138,
+                  "attributes": {
+                    "name": "espana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/espana_a8510f9b5f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:55:12.045Z",
+                    "updatedAt": "2024-08-15T16:50:04.760Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34526,
+      "attributes": {
+        "diary_hour": "14:30:00",
+        "diary_description": "Primeira Liga: Sporting Braga vs Gil Vicente",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 466,
+              "attributes": {
+                "embed_name": "Sport TV1",
+                "idioma": "portugues",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHYx"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 25,
+            "attributes": {
+              "name": "Portugal",
+              "createdAt": "2023-11-24T13:52:13.028Z",
+              "updatedAt": "2023-11-24T13:52:35.439Z",
+              "publishedAt": "2023-11-24T13:52:35.436Z",
+              "image": {
+                "data": {
+                  "id": 48,
+                  "attributes": {
+                    "name": "portugal.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "portugal_914accbdd5",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.2,
+                    "url": "/uploads/portugal_914accbdd5.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-24T13:52:10.229Z",
+                    "updatedAt": "2023-11-24T13:52:10.229Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34527,
+      "attributes": {
+        "diary_hour": "15:30:00",
+        "diary_description": "Liga 1: FC Cajamarca vs Universitario",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 230,
+              "attributes": {
+                "embed_name": "Liga1max",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 1205,
+              "attributes": {
+                "embed_name": "Liga1max Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2023-11-22T18:05:40.140Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 28,
+                  "attributes": {
+                    "name": "peru.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "peru_ddc4e685cf",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/peru_ddc4e685cf.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:57:17.008Z",
+                    "updatedAt": "2023-11-22T18:05:27.397Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34528,
+      "attributes": {
+        "diary_hour": "16:00:00",
+        "diary_description": "Liga Profesional: River Plate vs Argentinos Juniors",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 746,
+              "attributes": {
+                "embed_name": "ESPN",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 850,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1"
+              }
+            },
+            {
+              "id": 1200,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 713,
+              "attributes": {
+                "embed_name": "ESPN Premium",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 1213,
+              "attributes": {
+                "embed_name": "ESPN Premium Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
+              }
+            },
+            {
+              "id": 774,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+              }
+            },
+            {
+              "id": 903,
+              "attributes": {
+                "embed_name": "FOX Deportes | Móvil",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2023-11-22T14:52:41.307Z",
+              "updatedAt": "2023-11-22T17:59:52.523Z",
+              "publishedAt": "2023-11-22T14:54:38.957Z",
+              "image": {
+                "data": {
+                  "id": 29,
+                  "attributes": {
+                    "name": "argentina.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/argentina_2bd748026e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:59:33.800Z",
+                    "updatedAt": "2023-11-22T17:59:33.800Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34529,
+      "attributes": {
+        "diary_hour": "16:15:00",
+        "diary_description": "Serie A de Ecuador: Emelec vs Técnico Universitario",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 743,
+              "attributes": {
+                "embed_name": "ECDF LigaPro",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 13,
+            "attributes": {
+              "name": "Ecuador",
+              "createdAt": "2023-11-22T15:42:56.252Z",
+              "updatedAt": "2024-01-07T23:48:11.367Z",
+              "publishedAt": "2023-11-22T15:42:57.903Z",
+              "image": {
+                "data": {
+                  "id": 129,
+                  "attributes": {
+                    "name": "ecuador.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "ecuador_6b5e87e044",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.91,
+                    "url": "/uploads/ecuador_6b5e87e044.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:48:09.254Z",
+                    "updatedAt": "2024-01-07T23:48:09.254Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34530,
+      "attributes": {
+        "diary_hour": "16:30:00",
+        "diary_description": " Primera División: Colo-Colo vs O'Higgins",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 424,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+              }
+            },
+            {
+              "id": 1226,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2024-01-07T23:47:58.476Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 128,
+                  "attributes": {
+                    "name": "chile.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "chile_86c07a7b38",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/chile_86c07a7b38.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:47:55.957Z",
+                    "updatedAt": "2024-01-07T23:47:55.957Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34531,
+      "attributes": {
+        "diary_hour": "16:30:00",
+        "diary_description": "Primera División: Peñarol vs Central Español",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 851,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2024-01-07T23:51:20.902Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 132,
+                  "attributes": {
+                    "name": "uruguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.8,
+                    "url": "/uploads/uruguay_e2b9597af8.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:18.898Z",
+                    "updatedAt": "2024-01-07T23:51:18.898Z"
                   }
                 }
               }
