@@ -411,6 +411,69 @@
       }
     },
     {
+      "id": 34504,
+      "attributes": {
+        "diary_hour": "11:00:00",
+        "diary_description": "Liga 1: Sporting Cristal vs Sport Huancayo",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 230,
+              "attributes": {
+                "embed_name": "Liga1max",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 1205,
+              "attributes": {
+                "embed_name": "Liga1max Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2023-11-22T18:05:40.140Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 28,
+                  "attributes": {
+                    "name": "peru.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "peru_ddc4e685cf",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/peru_ddc4e685cf.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:57:17.008Z",
+                    "updatedAt": "2023-11-22T18:05:27.397Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 34497,
       "attributes": {
         "diary_hour": "09:45:00",
@@ -478,6 +541,109 @@
               }
             }
           }
+        }
+      }
+    },
+    {
+      "id": 34505,
+      "attributes": {
+        "diary_hour": "11:00:00",
+        "diary_description": " Copa de Italia: Frosinone vs Juve Stabia",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1261,
+              "attributes": {
+                "embed_name": "Dsports+ | OP2",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3MxNQ=="
+              }
+            },
+            {
+              "id": 1250,
+              "attributes": {
+                "embed_name": "Dsports+ Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHNwbHVzLmh0bWw="
+              }
+            },
+            {
+              "id": 669,
+              "attributes": {
+                "embed_name": "Dsports+",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "Italia",
+              "createdAt": "2023-11-22T15:35:39.269Z",
+              "updatedAt": "2024-01-07T23:53:57.125Z",
+              "publishedAt": "2023-11-22T15:35:40.668Z",
+              "image": {
+                "data": {
+                  "id": 136,
+                  "attributes": {
+                    "name": "italia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "italia_cb19445d70",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.64,
+                    "url": "/uploads/italia_cb19445d70.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:53:53.740Z",
+                    "updatedAt": "2024-01-07T23:53:53.740Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34506,
+      "attributes": {
+        "diary_hour": "11:30:00",
+        "diary_description": "Copa de Italia: Genoa vs Ascoli",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 181,
+              "attributes": {
+                "embed_name": "Dsports 2",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 1218,
+              "attributes": {
+                "embed_name": "Dsports 2 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHMyLmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": null
         }
       }
     },
@@ -640,10 +806,302 @@
       }
     },
     {
+      "id": 34507,
+      "attributes": {
+        "diary_hour": "11:30:00",
+        "diary_description": " Primera División: Ñublense vs Unión La Calera",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 424,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+              }
+            },
+            {
+              "id": 1226,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2024-01-07T23:47:58.476Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 128,
+                  "attributes": {
+                    "name": "chile.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "chile_86c07a7b38",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/chile_86c07a7b38.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:47:55.957Z",
+                    "updatedAt": "2024-01-07T23:47:55.957Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 34501,
       "attributes": {
         "diary_hour": "10:00:00",
         "diary_description": "LaLiga 2: Eibar vs Tenerife",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 356,
+              "attributes": {
+                "embed_name": "LaLiga TV Hypermotion",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2024-08-15T19:18:48.458Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 138,
+                  "attributes": {
+                    "name": "espana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/espana_a8510f9b5f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:55:12.045Z",
+                    "updatedAt": "2024-08-15T16:50:04.760Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34508,
+      "attributes": {
+        "diary_hour": "12:00:00",
+        "diary_description": "Partido Amistoso: Liverpool vs Como",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 101,
+              "attributes": {
+                "embed_name": "TyC Sports",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+              }
+            },
+            {
+              "id": 1211,
+              "attributes": {
+                "embed_name": "TyC Sports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s"
+              }
+            },
+            {
+              "id": 1225,
+              "attributes": {
+                "embed_name": "Claro Sports",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNsYXJvc3BvcnRzMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 41,
+            "attributes": {
+              "name": "Amistosos de Clubes",
+              "createdAt": "2023-12-22T02:50:39.355Z",
+              "updatedAt": "2024-01-07T23:29:04.864Z",
+              "publishedAt": "2023-12-22T02:50:51.600Z",
+              "image": {
+                "data": {
+                  "id": 117,
+                  "attributes": {
+                    "name": "amistosos.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistosos_bbe2ec4c17",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/amistosos_bbe2ec4c17.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:29:02.061Z",
+                    "updatedAt": "2024-01-07T23:29:02.061Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34509,
+      "attributes": {
+        "diary_hour": "12:00:00",
+        "diary_description": "LaLiga: Espanyol vs Levante",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 766,
+              "attributes": {
+                "embed_name": "Dsports HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA="
+              }
+            },
+            {
+              "id": 1263,
+              "attributes": {
+                "embed_name": "Dsports ARG",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
+              }
+            },
+            {
+              "id": 1201,
+              "attributes": {
+                "embed_name": "Dsports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
+              }
+            },
+            {
+              "id": 451,
+              "attributes": {
+                "embed_name": "Dsports | OP2",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
+              }
+            },
+            {
+              "id": 20,
+              "attributes": {
+                "embed_name": "Dsports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+              }
+            },
+            {
+              "id": 861,
+              "attributes": {
+                "embed_name": "Sky Sports LaLiga MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNreV9zcG9ydHNfbGFsaWdh"
+              }
+            },
+            {
+              "id": 770,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2024-08-15T19:18:48.458Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 138,
+                  "attributes": {
+                    "name": "espana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/espana_a8510f9b5f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:55:12.045Z",
+                    "updatedAt": "2024-08-15T16:50:04.760Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34510,
+      "attributes": {
+        "diary_hour": "12:00:00",
+        "diary_description": "LaLiga 2: Girona vs Leganés",
         "date_diary": "2026-08-16",
         "deportes": "Futbol",
         "embeds": {
