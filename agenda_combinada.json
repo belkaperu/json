@@ -1153,6 +1153,61 @@
       }
     },
     {
+      "id": 34496,
+      "attributes": {
+        "diary_hour": "09:30:00",
+        "diary_description": "Amistoso: Basel vs Barcelona",
+        "date_diary": "2026-08-16",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "Eventos",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 62,
+            "attributes": {
+              "name": "Amistoso Paises",
+              "createdAt": "2024-03-20T12:50:38.850Z",
+              "updatedAt": "2024-03-20T12:50:40.247Z",
+              "publishedAt": "2024-03-20T12:50:40.246Z",
+              "image": {
+                "data": {
+                  "id": 193,
+                  "attributes": {
+                    "name": "amistoso_paises.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistoso_paises_b9febc0d3c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.95,
+                    "url": "/uploads/amistoso_paises_b9febc0d3c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-03-20T12:50:35.124Z",
+                    "updatedAt": "2024-03-20T12:50:35.124Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 34491,
       "attributes": {
         "diary_hour": "07:30:00",
