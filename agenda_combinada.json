@@ -1,61 +1,6 @@
 {
   "data": [
     {
-      "id": 34542,
-      "attributes": {
-        "diary_hour": "19:30:00",
-        "diary_description": "MLS: Austin vs Dallas",
-        "date_diary": "2026-08-16",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 1127,
-              "attributes": {
-                "embed_name": "MLS03EN",
-                "idioma": "Inglés",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczNlbg=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 19,
-            "attributes": {
-              "name": "Estados Unidos",
-              "createdAt": "2023-11-22T18:04:29.927Z",
-              "updatedAt": "2024-01-07T23:46:22.789Z",
-              "publishedAt": "2023-11-22T18:04:31.112Z",
-              "image": {
-                "data": {
-                  "id": 126,
-                  "attributes": {
-                    "name": "estados-unidos-de-america.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "estados_unidos_de_america_b400fc18c4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.29,
-                    "url": "/uploads/estados_unidos_de_america_b400fc18c4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:46:20.342Z",
-                    "updatedAt": "2024-01-07T23:46:20.342Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 34543,
       "attributes": {
         "diary_hour": "20:15:00",
