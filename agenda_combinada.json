@@ -1,69 +1,6 @@
 {
   "data": [
     {
-      "id": 34560,
-      "attributes": {
-        "diary_hour": "20:00:00",
-        "diary_description": "Liga MX: Necaxa vs León",
-        "date_diary": "2026-08-17",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "FOX Deportes",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-              }
-            },
-            {
-              "id": 903,
-              "attributes": {
-                "embed_name": "FOX Deportes | Móvil",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2024-01-07T23:56:44.462Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 140,
-                  "attributes": {
-                    "name": "bandera.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "bandera_fbc29cb609",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.04,
-                    "url": "/uploads/bandera_fbc29cb609.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:56:40.086Z",
-                    "updatedAt": "2024-01-07T23:56:40.086Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 34561,
       "attributes": {
         "diary_hour": "22:00:00",
