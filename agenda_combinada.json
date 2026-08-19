@@ -1,89 +1,10 @@
 {
   "data": [
     {
-      "id": 34566,
+      "id": 34570,
       "attributes": {
-        "diary_hour": "17:00:00",
-        "diary_description": "Copa Sudamericana: Deportivo Recoleta vs Boca Juniors",
-        "date_diary": "2026-08-18",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 746,
-              "attributes": {
-                "embed_name": "ESPN",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 784,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
-              }
-            },
-            {
-              "id": 1200,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
-              }
-            },
-            {
-              "id": 985,
-              "attributes": {
-                "embed_name": "Fanatiz02",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 60,
-            "attributes": {
-              "name": "Copa Sudamericana 2025",
-              "createdAt": "2024-03-05T12:36:41.960Z",
-              "updatedAt": "2025-04-08T20:54:21.836Z",
-              "publishedAt": "2024-03-05T12:36:43.447Z",
-              "image": {
-                "data": {
-                  "id": 190,
-                  "attributes": {
-                    "name": "image-modified.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 137,
-                    "height": 137,
-                    "formats": null,
-                    "hash": "image_modified_f8ce531f01",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 4.09,
-                    "url": "/uploads/image_modified_f8ce531f01.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-03-05T12:36:38.762Z",
-                    "updatedAt": "2024-03-05T12:36:38.762Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 34567,
-      "attributes": {
-        "diary_hour": "17:00:00",
-        "diary_description": "Copa Libertadores: Independiente Rivadavia vs Fluminense",
+        "diary_hour": "19:30:00",
+        "diary_description": "Copa Libertadores: Deportes Tolima vs Independiente del Valle",
         "date_diary": "2026-08-18",
         "deportes": "Futbol",
         "embeds": {
@@ -97,11 +18,11 @@
               }
             },
             {
-              "id": 789,
+              "id": 816,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
               }
             },
             {
@@ -113,6 +34,93 @@
               }
             },
             {
+              "id": 657,
+              "attributes": {
+                "embed_name": "Fox Sports 2",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI="
+              }
+            },
+            {
+              "id": 989,
+              "attributes": {
+                "embed_name": "Fanatiz06",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 55,
+            "attributes": {
+              "name": "Copa Libertadores",
+              "createdAt": "2024-02-06T12:14:59.467Z",
+              "updatedAt": "2024-02-06T12:15:00.695Z",
+              "publishedAt": "2024-02-06T12:15:00.694Z",
+              "image": {
+                "data": {
+                  "id": 182,
+                  "attributes": {
+                    "name": "copa_libertadores.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_libertadores_f60faf808a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.5,
+                    "url": "/uploads/copa_libertadores_f60faf808a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-02-06T12:14:56.951Z",
+                    "updatedAt": "2024-02-06T12:14:56.951Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34569,
+      "attributes": {
+        "diary_hour": "19:30:00",
+        "diary_description": "Copa Libertadores: Universidad Católica vs Estudiantes LP",
+        "date_diary": "2026-08-18",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 746,
+              "attributes": {
+                "embed_name": "ESPN",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 815,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+              }
+            },
+            {
+              "id": 1200,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+              }
+            },
+            {
               "id": 655,
               "attributes": {
                 "embed_name": "Fox Sports ",
@@ -121,11 +129,11 @@
               }
             },
             {
-              "id": 986,
+              "id": 988,
               "attributes": {
-                "embed_name": "Fanatiz03",
+                "embed_name": "Fanatiz05",
                 "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
               }
             }
           ]
@@ -229,180 +237,6 @@
                     "provider_metadata": null,
                     "createdAt": "2023-11-22T17:59:33.800Z",
                     "updatedAt": "2023-11-22T17:59:33.800Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 34569,
-      "attributes": {
-        "diary_hour": "19:30:00",
-        "diary_description": "Copa Libertadores: Universidad Católica vs Estudiantes LP",
-        "date_diary": "2026-08-18",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 370,
-              "attributes": {
-                "embed_name": "ESPN2",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
-              }
-            },
-            {
-              "id": 815,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
-              }
-            },
-            {
-              "id": 1204,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA=="
-              }
-            },
-            {
-              "id": 655,
-              "attributes": {
-                "embed_name": "Fox Sports ",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 988,
-              "attributes": {
-                "embed_name": "Fanatiz05",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Copa Libertadores",
-              "createdAt": "2024-02-06T12:14:59.467Z",
-              "updatedAt": "2024-02-06T12:15:00.695Z",
-              "publishedAt": "2024-02-06T12:15:00.694Z",
-              "image": {
-                "data": {
-                  "id": 182,
-                  "attributes": {
-                    "name": "copa_libertadores.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "copa_libertadores_f60faf808a",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.5,
-                    "url": "/uploads/copa_libertadores_f60faf808a.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-02-06T12:14:56.951Z",
-                    "updatedAt": "2024-02-06T12:14:56.951Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 34570,
-      "attributes": {
-        "diary_hour": "19:30:00",
-        "diary_description": "Copa Libertadores: Deportes Tolima vs Independiente del Valle",
-        "date_diary": "2026-08-18",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 746,
-              "attributes": {
-                "embed_name": "ESPN",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 816,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
-              }
-            },
-            {
-              "id": 1200,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
-              }
-            },
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "Fox Sports 2",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI="
-              }
-            },
-            {
-              "id": 989,
-              "attributes": {
-                "embed_name": "Fanatiz06",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 55,
-            "attributes": {
-              "name": "Copa Libertadores",
-              "createdAt": "2024-02-06T12:14:59.467Z",
-              "updatedAt": "2024-02-06T12:15:00.695Z",
-              "publishedAt": "2024-02-06T12:15:00.694Z",
-              "image": {
-                "data": {
-                  "id": 182,
-                  "attributes": {
-                    "name": "copa_libertadores.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "copa_libertadores_f60faf808a",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.5,
-                    "url": "/uploads/copa_libertadores_f60faf808a.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-02-06T12:14:56.951Z",
-                    "updatedAt": "2024-02-06T12:14:56.951Z"
                   }
                 }
               }
