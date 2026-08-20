@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "id": 34600,
+      "id": 34602,
       "attributes": {
-        "diary_hour": "21:00:00",
-        "diary_description": "MLS: LA Galaxy vs SJ Earthquakes",
-        "date_diary": "2026-08-19",
+        "diary_hour": "13:00:00",
+        "diary_description": "Liga Profesional Saudí: Al-Fayha vs Al Hilal",
+        "date_diary": "2026-08-20",
         "deportes": "Futbol",
         "embeds": {
           "data": [
@@ -24,45 +24,37 @@
                 "idioma": "Español",
                 "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
               }
-            },
-            {
-              "id": 798,
-              "attributes": {
-                "embed_name": "FOX Sports 1 USA",
-                "idioma": "Inglés",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
-              }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 19,
+            "id": 24,
             "attributes": {
-              "name": "Estados Unidos",
-              "createdAt": "2023-11-22T18:04:29.927Z",
-              "updatedAt": "2024-01-07T23:46:22.789Z",
-              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "name": "Arabia Saudita",
+              "createdAt": "2023-11-24T12:55:08.381Z",
+              "updatedAt": "2023-11-24T12:55:09.652Z",
+              "publishedAt": "2023-11-24T12:55:09.649Z",
               "image": {
                 "data": {
-                  "id": 126,
+                  "id": 47,
                   "attributes": {
-                    "name": "estados-unidos-de-america.png",
+                    "name": "arabia-saudita.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 64,
-                    "height": 64,
+                    "width": 128,
+                    "height": 128,
                     "formats": null,
-                    "hash": "estados_unidos_de_america_b400fc18c4",
+                    "hash": "arabia_saudita_82c6f9c376",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.29,
-                    "url": "/uploads/estados_unidos_de_america_b400fc18c4.png",
+                    "size": 1.26,
+                    "url": "/uploads/arabia_saudita_82c6f9c376.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:46:20.342Z",
-                    "updatedAt": "2024-01-07T23:46:20.342Z"
+                    "createdAt": "2023-11-24T12:55:05.330Z",
+                    "updatedAt": "2023-11-24T12:55:05.330Z"
                   }
                 }
               }
