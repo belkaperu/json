@@ -371,60 +371,52 @@
       }
     },
     {
-      "id": 34624,
+      "id": 34631,
       "attributes": {
-        "diary_hour": "15:00:00",
-        "diary_description": "Liga 1: Alianza Atlético vs Sporting Cristal",
+        "diary_hour": "18:00:00",
+        "diary_description": "NFL Pretemporada: Jets vs Steelers",
         "date_diary": "2026-08-21",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 230,
+              "id": 107,
               "attributes": {
-                "embed_name": "Liga1max",
+                "embed_name": "Fox Sports MX",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-              }
-            },
-            {
-              "id": 1205,
-              "attributes": {
-                "embed_name": "Liga1max Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0c214"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 2,
+            "id": 39,
             "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2023-11-22T18:05:40.140Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "name": "NFL",
+              "createdAt": "2023-12-11T23:55:39.209Z",
+              "updatedAt": "2024-01-07T23:07:33.368Z",
+              "publishedAt": "2023-12-11T23:55:40.732Z",
               "image": {
                 "data": {
-                  "id": 28,
+                  "id": 107,
                   "attributes": {
-                    "name": "peru.png",
+                    "name": "NFL.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 128,
-                    "height": 128,
+                    "width": 64,
+                    "height": 64,
                     "formats": null,
-                    "hash": "peru_ddc4e685cf",
+                    "hash": "NFL_840ecc1d05",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.87,
-                    "url": "/uploads/peru_ddc4e685cf.png",
+                    "size": 2.15,
+                    "url": "/uploads/NFL_840ecc1d05.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:57:17.008Z",
-                    "updatedAt": "2023-11-22T18:05:27.397Z"
+                    "createdAt": "2024-01-07T23:07:29.873Z",
+                    "updatedAt": "2024-01-07T23:07:29.873Z"
                   }
                 }
               }
