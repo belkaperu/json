@@ -1,6 +1,574 @@
 {
   "data": [
     {
+      "id": 34756,
+      "attributes": {
+        "diary_hour": "18:30:00",
+        "diary_description": "Liga 1: Universitario vs Los Chankas",
+        "date_diary": "2026-08-23",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 230,
+              "attributes": {
+                "embed_name": "Liga1max",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 1205,
+              "attributes": {
+                "embed_name": "Liga1max Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2023-11-22T18:05:40.140Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 28,
+                  "attributes": {
+                    "name": "peru.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "peru_ddc4e685cf",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/peru_ddc4e685cf.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:57:17.008Z",
+                    "updatedAt": "2023-11-22T18:05:27.397Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34757,
+      "attributes": {
+        "diary_hour": "19:15:00",
+        "diary_description": "Liga Profesional: Racing Club vs Boca Juniors",
+        "date_diary": "2026-08-23",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 746,
+              "attributes": {
+                "embed_name": "ESPN",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 789,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+              }
+            },
+            {
+              "id": 1200,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 713,
+              "attributes": {
+                "embed_name": "ESPN Premium",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+              }
+            },
+            {
+              "id": 1213,
+              "attributes": {
+                "embed_name": "ESPN Premium Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
+              }
+            },
+            {
+              "id": 984,
+              "attributes": {
+                "embed_name": "Fanatiz01",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+              }
+            },
+            {
+              "id": 988,
+              "attributes": {
+                "embed_name": "Fanatiz05",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2023-11-22T14:52:41.307Z",
+              "updatedAt": "2023-11-22T17:59:52.523Z",
+              "publishedAt": "2023-11-22T14:54:38.957Z",
+              "image": {
+                "data": {
+                  "id": 29,
+                  "attributes": {
+                    "name": "argentina.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/argentina_2bd748026e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:59:33.800Z",
+                    "updatedAt": "2023-11-22T17:59:33.800Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34755,
+      "attributes": {
+        "diary_hour": "18:10:00",
+        "diary_description": "Liga BetPlay: Deportivo Cali vs Inter Bogotá",
+        "date_diary": "2026-08-23",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 616,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
+              }
+            },
+            {
+              "id": 753,
+              "attributes": {
+                "embed_name": "Win Sports + HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1004,
+              "attributes": {
+                "embed_name": "Win Sports + |  opc3",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2024-01-07T23:51:34.518Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 133,
+                  "attributes": {
+                    "name": "colombia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.57,
+                    "url": "/uploads/colombia_dcf9cc2637.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:32.399Z",
+                    "updatedAt": "2024-01-07T23:51:32.399Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34758,
+      "attributes": {
+        "diary_hour": "20:00:00",
+        "diary_description": "Liga MX: Pumas UNAM vs Necaxa",
+        "date_diary": "2026-08-23",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1202,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s"
+              }
+            },
+            {
+              "id": 754,
+              "attributes": {
+                "embed_name": "TUDN MX HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3R1ZG5tYXgucGhw"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2024-01-07T23:56:44.462Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 140,
+                  "attributes": {
+                    "name": "bandera.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.04,
+                    "url": "/uploads/bandera_fbc29cb609.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:56:40.086Z",
+                    "updatedAt": "2024-01-07T23:56:40.086Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34759,
+      "attributes": {
+        "diary_hour": "20:15:00",
+        "diary_description": "Liga BetPlay: Junior vs Once Caldas",
+        "date_diary": "2026-08-23",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 616,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
+              }
+            },
+            {
+              "id": 753,
+              "attributes": {
+                "embed_name": "Win Sports + HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1004,
+              "attributes": {
+                "embed_name": "Win Sports + |  opc3",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2024-01-07T23:51:34.518Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 133,
+                  "attributes": {
+                    "name": "colombia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.57,
+                    "url": "/uploads/colombia_dcf9cc2637.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:32.399Z",
+                    "updatedAt": "2024-01-07T23:51:32.399Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34760,
+      "attributes": {
+        "diary_hour": "20:00:00",
+        "diary_description": "Liga de Expansión MX: Tapatío vs Mineros de Zacatecas",
+        "date_diary": "2026-08-23",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 815,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+              }
+            },
+            {
+              "id": 787,
+              "attributes": {
+                "embed_name": "ESPN4 MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2024-01-07T23:56:44.462Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 140,
+                  "attributes": {
+                    "name": "bandera.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.04,
+                    "url": "/uploads/bandera_fbc29cb609.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:56:40.086Z",
+                    "updatedAt": "2024-01-07T23:56:40.086Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34753,
+      "attributes": {
+        "diary_hour": "18:00:00",
+        "diary_description": "Liga MX: Atlético San Luis vs Pachuca",
+        "date_diary": "2026-08-23",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 704,
+              "attributes": {
+                "embed_name": "ESPN MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 784,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+              }
+            },
+            {
+              "id": 1228,
+              "attributes": {
+                "embed_name": "ESPN MX MOVIL",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2024-01-07T23:56:44.462Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 140,
+                  "attributes": {
+                    "name": "bandera.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.04,
+                    "url": "/uploads/bandera_fbc29cb609.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:56:40.086Z",
+                    "updatedAt": "2024-01-07T23:56:40.086Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34754,
+      "attributes": {
+        "diary_hour": "18:00:00",
+        "diary_description": "MLS: Atlanta United vs Sporting KC",
+        "date_diary": "2026-08-23",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1126,
+              "attributes": {
+                "embed_name": "MLS02EN",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2024-01-07T23:46:22.789Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 126,
+                  "attributes": {
+                    "name": "estados-unidos-de-america.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "estados_unidos_de_america_b400fc18c4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.29,
+                    "url": "/uploads/estados_unidos_de_america_b400fc18c4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:46:20.342Z",
+                    "updatedAt": "2024-01-07T23:46:20.342Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 34743,
       "attributes": {
         "diary_hour": "15:00:00",
