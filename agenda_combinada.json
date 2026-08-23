@@ -88,60 +88,20 @@
       }
     },
     {
-      "id": 34740,
+      "id": 34724,
       "attributes": {
-        "diary_hour": "14:30:00",
-        "diary_description": "LaLiga: Elche vs Barcelona",
+        "diary_hour": "12:00:00",
+        "diary_description": "LaLiga 2: Sporting Gijón vs Burgos",
         "date_diary": "2026-08-23",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 1100,
+              "id": 356,
               "attributes": {
-                "embed_name": "TSN3",
-                "idioma": "Ingles",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3RzbjMucGhw"
-              }
-            },
-            {
-              "id": 746,
-              "attributes": {
-                "embed_name": "ESPN",
+                "embed_name": "LaLiga TV Hypermotion",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 745,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-              }
-            },
-            {
-              "id": 1200,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
-              }
-            },
-            {
-              "id": 770,
-              "attributes": {
-                "embed_name": "ESPN Deportes",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
-              }
-            },
-            {
-              "id": 1051,
-              "attributes": {
-                "embed_name": "Espn+",
-                "idioma": "Inglés",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMw=="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
               }
             }
           ]
@@ -183,20 +143,68 @@
       }
     },
     {
-      "id": 34724,
+      "id": 34740,
       "attributes": {
-        "diary_hour": "12:00:00",
-        "diary_description": "LaLiga 2: Sporting Gijón vs Burgos",
+        "diary_hour": "14:30:00",
+        "diary_description": "LaLiga: Elche vs Barcelona",
         "date_diary": "2026-08-23",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 356,
+              "id": 1093,
               "attributes": {
-                "embed_name": "LaLiga TV Hypermotion",
+                "embed_name": "CazeTV",
+                "idioma": "Portugues",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3UvY2F6ZXR2MS5odG1s"
+              }
+            },
+            {
+              "id": 1100,
+              "attributes": {
+                "embed_name": "TSN3",
+                "idioma": "Ingles",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3RzbjMucGhw"
+              }
+            },
+            {
+              "id": 299,
+              "attributes": {
+                "embed_name": "Premier Sports",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3UvcHJlbWllcnNwb3J0czFrLmh0bWw="
+              }
+            },
+            {
+              "id": 746,
+              "attributes": {
+                "embed_name": "ESPN",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 1200,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 770,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            },
+            {
+              "id": 1051,
+              "attributes": {
+                "embed_name": "Espn+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMw=="
               }
             }
           ]
