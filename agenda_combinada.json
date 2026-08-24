@@ -1,202 +1,84 @@
 {
   "data": [
     {
-      "id": 34758,
+      "id": 34761,
       "attributes": {
-        "diary_hour": "20:00:00",
-        "diary_description": "Liga MX: Pumas UNAM vs Necaxa",
-        "date_diary": "2026-08-23",
+        "diary_hour": null,
+        "diary_description": "Serie A: Bologna vs Lazio\n",
+        "date_diary": "2026-08-24",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 206,
+              "id": 370,
               "attributes": {
-                "embed_name": "TUDN USA",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4="
+                "embed_name": "ESPN2",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
               }
             },
             {
-              "id": 1202,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s"
-              }
-            },
-            {
-              "id": 754,
-              "attributes": {
-                "embed_name": "TUDN MX HD",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3R1ZG5tYXgucGhw"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2024-01-07T23:56:44.462Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 140,
-                  "attributes": {
-                    "name": "bandera.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "bandera_fbc29cb609",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.04,
-                    "url": "/uploads/bandera_fbc29cb609.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:56:40.086Z",
-                    "updatedAt": "2024-01-07T23:56:40.086Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 34759,
-      "attributes": {
-        "diary_hour": "20:15:00",
-        "diary_description": "Liga BetPlay: Junior vs Once Caldas",
-        "date_diary": "2026-08-23",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 616,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
-              }
-            },
-            {
-              "id": 753,
-              "attributes": {
-                "embed_name": "Win Sports + HD",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-              }
-            },
-            {
-              "id": 1004,
-              "attributes": {
-                "embed_name": "Win Sports + |  opc3",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 17,
-            "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2024-01-07T23:51:34.518Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
-              "image": {
-                "data": {
-                  "id": 133,
-                  "attributes": {
-                    "name": "colombia.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "colombia_dcf9cc2637",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.57,
-                    "url": "/uploads/colombia_dcf9cc2637.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:32.399Z",
-                    "updatedAt": "2024-01-07T23:51:32.399Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 34760,
-      "attributes": {
-        "diary_hour": "20:00:00",
-        "diary_description": "Liga de Expansión MX: Tapatío vs Mineros de Zacatecas",
-        "date_diary": "2026-08-23",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 815,
+              "id": 745,
               "attributes": {
                 "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
               }
             },
             {
-              "id": 787,
+              "id": 1204,
               "attributes": {
-                "embed_name": "ESPN4 MX",
+                "embed_name": "ESPN2 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 785,
+              "attributes": {
+                "embed_name": "ESPN2 MX",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+              }
+            },
+            {
+              "id": 780,
+              "attributes": {
+                "embed_name": "Universo",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 5,
+            "id": 9,
             "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2024-01-07T23:56:44.462Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "name": "Italia",
+              "createdAt": "2023-11-22T15:35:39.269Z",
+              "updatedAt": "2024-01-07T23:53:57.125Z",
+              "publishedAt": "2023-11-22T15:35:40.668Z",
               "image": {
                 "data": {
-                  "id": 140,
+                  "id": 136,
                   "attributes": {
-                    "name": "bandera.png",
+                    "name": "italia.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "bandera_fbc29cb609",
+                    "hash": "italia_cb19445d70",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.04,
-                    "url": "/uploads/bandera_fbc29cb609.png",
+                    "size": 0.64,
+                    "url": "/uploads/italia_cb19445d70.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:56:40.086Z",
-                    "updatedAt": "2024-01-07T23:56:40.086Z"
+                    "createdAt": "2024-01-07T23:53:53.740Z",
+                    "updatedAt": "2024-01-07T23:53:53.740Z"
                   }
                 }
               }
