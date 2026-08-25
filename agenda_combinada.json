@@ -269,6 +269,164 @@
       }
     },
     {
+      "id": 34789,
+      "attributes": {
+        "diary_hour": "18:30:00",
+        "diary_description": "Copa do Brasil: Cruzeiro vs Atlético Mineiro",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 774,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+              }
+            },
+            {
+              "id": 903,
+              "attributes": {
+                "embed_name": "FOX Deportes | Móvil",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 180,
+              "attributes": {
+                "embed_name": "Premiere BR",
+                "idioma": "Portugués",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2024-01-07T23:56:59.376Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 141,
+                  "attributes": {
+                    "name": "brasil.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "brasil_25a533e5f7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.85,
+                    "url": "/uploads/brasil_25a533e5f7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:56:57.083Z",
+                    "updatedAt": "2024-01-07T23:56:57.083Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34790,
+      "attributes": {
+        "diary_hour": "19:30:00",
+        "diary_description": "Copa Libertadores: Independiente del Valle vs Deportes Tolima",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 746,
+              "attributes": {
+                "embed_name": "ESPN",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 816,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+              }
+            },
+            {
+              "id": 1200,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 655,
+              "attributes": {
+                "embed_name": "Fox Sports ",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 826,
+              "attributes": {
+                "embed_name": "beIN Sports Ñ",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 55,
+            "attributes": {
+              "name": "Copa Libertadores",
+              "createdAt": "2024-02-06T12:14:59.467Z",
+              "updatedAt": "2024-02-06T12:15:00.695Z",
+              "publishedAt": "2024-02-06T12:15:00.694Z",
+              "image": {
+                "data": {
+                  "id": 182,
+                  "attributes": {
+                    "name": "copa_libertadores.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_libertadores_f60faf808a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.5,
+                    "url": "/uploads/copa_libertadores_f60faf808a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-02-06T12:14:56.951Z",
+                    "updatedAt": "2024-02-06T12:14:56.951Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 34775,
       "attributes": {
         "diary_hour": "11:00:00",
@@ -323,6 +481,313 @@
                     "provider_metadata": null,
                     "createdAt": "2023-11-24T12:55:05.330Z",
                     "updatedAt": "2023-11-24T12:55:05.330Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34791,
+      "attributes": {
+        "diary_hour": "19:30:00",
+        "diary_description": "Leagues Cup: Monterrey vs Chicago Fire",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 560,
+              "attributes": {
+                "embed_name": "MLS01ES",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 76,
+            "attributes": {
+              "name": "Leagues Cup",
+              "createdAt": "2024-07-26T22:55:17.612Z",
+              "updatedAt": "2024-07-26T22:55:19.447Z",
+              "publishedAt": "2024-07-26T22:55:19.444Z",
+              "image": {
+                "data": {
+                  "id": 209,
+                  "attributes": {
+                    "name": "leagues-cup.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "leagues_cup_f7b23c5e8d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.96,
+                    "url": "/uploads/leagues_cup_f7b23c5e8d.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-07-26T22:55:14.732Z",
+                    "updatedAt": "2024-07-26T22:55:14.732Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34792,
+      "attributes": {
+        "diary_hour": "20:00:00",
+        "diary_description": " Liga BetPlay: Cúcuta Deportivo vs Alianza",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 453,
+              "attributes": {
+                "embed_name": "Win Sports",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+              }
+            },
+            {
+              "id": 989,
+              "attributes": {
+                "embed_name": "Fanatiz06",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2024-01-07T23:51:34.518Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 133,
+                  "attributes": {
+                    "name": "colombia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.57,
+                    "url": "/uploads/colombia_dcf9cc2637.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:32.399Z",
+                    "updatedAt": "2024-01-07T23:51:32.399Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34793,
+      "attributes": {
+        "diary_hour": "20:00:00",
+        "diary_description": "Liga BetPlay: Santa Fe vs Jaguares de Córdoba",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 616,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
+              }
+            },
+            {
+              "id": 753,
+              "attributes": {
+                "embed_name": "Win Sports + HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1004,
+              "attributes": {
+                "embed_name": "Win Sports + |  opc3",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
+              }
+            },
+            {
+              "id": 990,
+              "attributes": {
+                "embed_name": "Fanatiz07",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo3"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2024-01-07T23:51:34.518Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 133,
+                  "attributes": {
+                    "name": "colombia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.57,
+                    "url": "/uploads/colombia_dcf9cc2637.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:32.399Z",
+                    "updatedAt": "2024-01-07T23:51:32.399Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34794,
+      "attributes": {
+        "diary_hour": "21:30:00",
+        "diary_description": "Leagues Cup: León vs Real Salt Lake",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1126,
+              "attributes": {
+                "embed_name": "MLS02EN",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 76,
+            "attributes": {
+              "name": "Leagues Cup",
+              "createdAt": "2024-07-26T22:55:17.612Z",
+              "updatedAt": "2024-07-26T22:55:19.447Z",
+              "publishedAt": "2024-07-26T22:55:19.444Z",
+              "image": {
+                "data": {
+                  "id": 209,
+                  "attributes": {
+                    "name": "leagues-cup.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "leagues_cup_f7b23c5e8d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.96,
+                    "url": "/uploads/leagues_cup_f7b23c5e8d.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-07-26T22:55:14.732Z",
+                    "updatedAt": "2024-07-26T22:55:14.732Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34795,
+      "attributes": {
+        "diary_hour": "21:30:00",
+        "diary_description": "Copa Centroamericana de CONCACAF: Cartaginés vs FAS",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 818,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 34,
+            "attributes": {
+              "name": "Copa Centroamericana",
+              "createdAt": "2023-11-28T14:54:06.416Z",
+              "updatedAt": "2024-01-07T23:35:14.051Z",
+              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "image": {
+                "data": {
+                  "id": 120,
+                  "attributes": {
+                    "name": "copa_centroamericana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_centroamericana_59d23aa32c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 4.26,
+                    "url": "/uploads/copa_centroamericana_59d23aa32c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:35:10.805Z",
+                    "updatedAt": "2024-01-07T23:35:10.805Z"
                   }
                 }
               }
@@ -410,6 +875,61 @@
                     "provider_metadata": null,
                     "createdAt": "2024-02-21T15:39:45.812Z",
                     "updatedAt": "2024-02-21T15:39:45.812Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34796,
+      "attributes": {
+        "diary_hour": "21:30:00",
+        "diary_description": "Copa Centroamericana de CONCACAF: Municipal vs Motagua",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 819,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 34,
+            "attributes": {
+              "name": "Copa Centroamericana",
+              "createdAt": "2023-11-28T14:54:06.416Z",
+              "updatedAt": "2024-01-07T23:35:14.051Z",
+              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "image": {
+                "data": {
+                  "id": 120,
+                  "attributes": {
+                    "name": "copa_centroamericana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "copa_centroamericana_59d23aa32c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 4.26,
+                    "url": "/uploads/copa_centroamericana_59d23aa32c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:35:10.805Z",
+                    "updatedAt": "2024-01-07T23:35:10.805Z"
                   }
                 }
               }
