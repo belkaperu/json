@@ -1,6 +1,274 @@
 {
   "data": [
     {
+      "id": 34785,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "LaLiga: Valencia vs Real Betis",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 370,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+              }
+            },
+            {
+              "id": 816,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+              }
+            },
+            {
+              "id": 1204,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 770,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            },
+            {
+              "id": 1049,
+              "attributes": {
+                "embed_name": "Espn+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2024-08-15T19:18:48.458Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 138,
+                  "attributes": {
+                    "name": "espana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/espana_a8510f9b5f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:55:12.045Z",
+                    "updatedAt": "2024-08-15T16:50:04.760Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34786,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "Copa Paraguay: General Caballero JLM vs Rubio Ñú",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 984,
+              "attributes": {
+                "embed_name": "Fanatiz01",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "Paraguay",
+              "createdAt": "2023-11-22T15:48:24.480Z",
+              "updatedAt": "2024-01-07T23:49:12.172Z",
+              "publishedAt": "2023-11-22T15:48:26.018Z",
+              "image": {
+                "data": {
+                  "id": 130,
+                  "attributes": {
+                    "name": "paraguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "paraguay_fc9dd78de7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/paraguay_fc9dd78de7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:49:09.758Z",
+                    "updatedAt": "2024-01-07T23:49:09.758Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34787,
+      "attributes": {
+        "diary_hour": "18:00:00",
+        "diary_description": "Liga BetPlay: Atlético Bucaramanga vs Rionegro Águilas",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 616,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
+              }
+            },
+            {
+              "id": 753,
+              "attributes": {
+                "embed_name": "Win Sports + HD",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+              }
+            },
+            {
+              "id": 1004,
+              "attributes": {
+                "embed_name": "Win Sports + |  opc3",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2024-01-07T23:51:34.518Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 133,
+                  "attributes": {
+                    "name": "colombia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.57,
+                    "url": "/uploads/colombia_dcf9cc2637.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:32.399Z",
+                    "updatedAt": "2024-01-07T23:51:32.399Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34788,
+      "attributes": {
+        "diary_hour": "16:30:00",
+        "diary_description": "Copa de Primera: 2 de Mayo vs Guaraní",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 986,
+              "attributes": {
+                "embed_name": "Fanatiz03",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "Paraguay",
+              "createdAt": "2023-11-22T15:48:24.480Z",
+              "updatedAt": "2024-01-07T23:49:12.172Z",
+              "publishedAt": "2023-11-22T15:48:26.018Z",
+              "image": {
+                "data": {
+                  "id": 130,
+                  "attributes": {
+                    "name": "paraguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "paraguay_fc9dd78de7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/paraguay_fc9dd78de7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:49:09.758Z",
+                    "updatedAt": "2024-01-07T23:49:09.758Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 34775,
       "attributes": {
         "diary_hour": "11:00:00",
@@ -205,6 +473,487 @@
                     "provider_metadata": null,
                     "createdAt": "2023-11-24T12:55:05.330Z",
                     "updatedAt": "2023-11-24T12:55:05.330Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34778,
+      "attributes": {
+        "diary_hour": "13:00:00",
+        "diary_description": "EFL Cup: Cardiff City vs Norwich City",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1009,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 135,
+                  "attributes": {
+                    "name": "inglaterra.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34779,
+      "attributes": {
+        "diary_hour": "13:45:00",
+        "diary_description": " EFL Cup: Ipswich Town vs Leicester City",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1010,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDM="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 135,
+                  "attributes": {
+                    "name": "inglaterra.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34780,
+      "attributes": {
+        "diary_hour": "13:45:00",
+        "diary_description": " EFL Cup: Southampton vs West Ham United",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 765,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            },
+            {
+              "id": 1011,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDQ="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 135,
+                  "attributes": {
+                    "name": "inglaterra.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34781,
+      "attributes": {
+        "diary_hour": "13:45:00",
+        "diary_description": "EFL Cup: Sheffield Wednesday vs Wolverhampton",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 783,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+              }
+            },
+            {
+              "id": 785,
+              "attributes": {
+                "embed_name": "ESPN2 MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 135,
+                  "attributes": {
+                    "name": "inglaterra.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34782,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "EFL Cup: Nottingham Forest vs Leeds United",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 784,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+              }
+            },
+            {
+              "id": 1012,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDU="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 135,
+                  "attributes": {
+                    "name": "inglaterra.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34783,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "UEFA Champions League: Bodø / Glimt vs NEC",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 670,
+              "attributes": {
+                "embed_name": "ESPN3",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 789,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+              }
+            },
+            {
+              "id": 1214,
+              "attributes": {
+                "embed_name": "ESPN3 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4zdHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 1017,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDY="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2024-02-21T15:39:48.643Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 188,
+                  "attributes": {
+                    "name": "UEFA_Champions_L.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Champions_L_e95eab40e4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.14,
+                    "url": "/uploads/UEFA_Champions_L_e95eab40e4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-02-21T15:39:45.812Z",
+                    "updatedAt": "2024-02-21T15:39:45.812Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34784,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "UEFA Champions League: LASK Linz vs Celtic",
+        "date_diary": "2026-08-25",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 672,
+              "attributes": {
+                "embed_name": "ESPN5",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 815,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+              }
+            },
+            {
+              "id": 1208,
+              "attributes": {
+                "embed_name": "ESPN5 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 655,
+              "attributes": {
+                "embed_name": "Fox Sports ",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+              }
+            },
+            {
+              "id": 556,
+              "attributes": {
+                "embed_name": "MAX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1tYXgz"
+              }
+            },
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4="
+              }
+            },
+            {
+              "id": 1202,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2024-02-21T15:39:48.643Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 188,
+                  "attributes": {
+                    "name": "UEFA_Champions_L.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Champions_L_e95eab40e4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.14,
+                    "url": "/uploads/UEFA_Champions_L_e95eab40e4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-02-21T15:39:45.812Z",
+                    "updatedAt": "2024-02-21T15:39:45.812Z"
                   }
                 }
               }
