@@ -1,52 +1,68 @@
 {
   "data": [
     {
-      "id": 34794,
+      "id": 34797,
       "attributes": {
-        "diary_hour": "21:30:00",
-        "diary_description": "Leagues Cup: León vs Real Salt Lake",
-        "date_diary": "2026-08-25",
+        "diary_hour": "13:45:00",
+        "diary_description": "EFL Cup: Tottenham Hotspur vs Charlton Athletic",
+        "date_diary": "2026-08-26",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 1126,
+              "id": 745,
               "attributes": {
-                "embed_name": "MLS02EN",
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            },
+            {
+              "id": 785,
+              "attributes": {
+                "embed_name": "ESPN2 MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+              }
+            },
+            {
+              "id": 928,
+              "attributes": {
+                "embed_name": "Paramount+",
                 "idioma": "Inglés",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 76,
+            "id": 8,
             "attributes": {
-              "name": "Leagues Cup",
-              "createdAt": "2024-07-26T22:55:17.612Z",
-              "updatedAt": "2024-07-26T22:55:19.447Z",
-              "publishedAt": "2024-07-26T22:55:19.444Z",
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
               "image": {
                 "data": {
-                  "id": 209,
+                  "id": 135,
                   "attributes": {
-                    "name": "leagues-cup.png",
+                    "name": "inglaterra.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "leagues_cup_f7b23c5e8d",
+                    "hash": "inglaterra_823176495f",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.96,
-                    "url": "/uploads/leagues_cup_f7b23c5e8d.png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-07-26T22:55:14.732Z",
-                    "updatedAt": "2024-07-26T22:55:14.732Z"
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
                   }
                 }
               }
@@ -56,52 +72,52 @@
       }
     },
     {
-      "id": 34795,
+      "id": 34798,
       "attributes": {
-        "diary_hour": "21:30:00",
-        "diary_description": "Copa Centroamericana de CONCACAF: Cartaginés vs FAS",
-        "date_diary": "2026-08-25",
+        "diary_hour": "13:45:00",
+        "diary_description": "EFL Cup: Newcastle United vs West Bromwich Albion",
+        "date_diary": "2026-08-26",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 818,
+              "id": 1009,
               "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 34,
+            "id": 8,
             "attributes": {
-              "name": "Copa Centroamericana",
-              "createdAt": "2023-11-28T14:54:06.416Z",
-              "updatedAt": "2024-01-07T23:35:14.051Z",
-              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
               "image": {
                 "data": {
-                  "id": 120,
+                  "id": 135,
                   "attributes": {
-                    "name": "copa_centroamericana.png",
+                    "name": "inglaterra.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "copa_centroamericana_59d23aa32c",
+                    "hash": "inglaterra_823176495f",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 4.26,
-                    "url": "/uploads/copa_centroamericana_59d23aa32c.png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:35:10.805Z",
-                    "updatedAt": "2024-01-07T23:35:10.805Z"
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
                   }
                 }
               }
@@ -111,52 +127,202 @@
       }
     },
     {
-      "id": 34796,
+      "id": 34799,
       "attributes": {
-        "diary_hour": "21:30:00",
-        "diary_description": "Copa Centroamericana de CONCACAF: Municipal vs Motagua",
-        "date_diary": "2026-08-25",
+        "diary_hour": "13:45:00",
+        "diary_description": "EFL Cup: Bradford City vs Burnley",
+        "date_diary": "2026-08-26",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 819,
+              "id": 1010,
               "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDM="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 34,
+            "id": 8,
             "attributes": {
-              "name": "Copa Centroamericana",
-              "createdAt": "2023-11-28T14:54:06.416Z",
-              "updatedAt": "2024-01-07T23:35:14.051Z",
-              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
               "image": {
                 "data": {
-                  "id": 120,
+                  "id": 135,
                   "attributes": {
-                    "name": "copa_centroamericana.png",
+                    "name": "inglaterra.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "copa_centroamericana_59d23aa32c",
+                    "hash": "inglaterra_823176495f",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 4.26,
-                    "url": "/uploads/copa_centroamericana_59d23aa32c.png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:35:10.805Z",
-                    "updatedAt": "2024-01-07T23:35:10.805Z"
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34800,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "EFL Cup: Preston North End vs Everton",
+        "date_diary": "2026-08-26",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 765,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            },
+            {
+              "id": 1011,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDQ="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 135,
+                  "attributes": {
+                    "name": "inglaterra.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 34801,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "LaLiga: Real Madrid vs Real Sociedad",
+        "date_diary": "2026-08-26",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 746,
+              "attributes": {
+                "embed_name": "ESPN",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 783,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+              }
+            },
+            {
+              "id": 1200,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 770,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            },
+            {
+              "id": 861,
+              "attributes": {
+                "embed_name": "Sky Sports LaLiga MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNreV9zcG9ydHNfbGFsaWdh"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2024-08-15T19:18:48.458Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 138,
+                  "attributes": {
+                    "name": "espana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/espana_a8510f9b5f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:55:12.045Z",
+                    "updatedAt": "2024-08-15T16:50:04.760Z"
                   }
                 }
               }
