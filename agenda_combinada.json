@@ -1,11 +1,263 @@
 {
   "data": [
     {
-      "id": 35032,
+      "id": 35045,
+      "attributes": {
+        "diary_hour": "17:00:00",
+        "diary_description": "Primera División: Coquimbo Unido vs Univ. Concepción",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 424,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+              }
+            },
+            {
+              "id": 1226,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2024-01-07T23:47:58.476Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 128,
+                  "attributes": {
+                    "name": "chile.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "chile_86c07a7b38",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/chile_86c07a7b38.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:47:55.957Z",
+                    "updatedAt": "2024-01-07T23:47:55.957Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35048,
       "attributes": {
         "diary_hour": "19:30:00",
-        "diary_description": "Copa do Brasil: Atlético Mineiro vs Cruzeiro",
-        "date_diary": "2026-09-01",
+        "diary_description": "Primera División: Deportes Limache vs Ñublense",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 424,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+              }
+            },
+            {
+              "id": 1226,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2024-01-07T23:47:58.476Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 128,
+                  "attributes": {
+                    "name": "chile.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "chile_86c07a7b38",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/chile_86c07a7b38.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:47:55.957Z",
+                    "updatedAt": "2024-01-07T23:47:55.957Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35036,
+      "attributes": {
+        "diary_hour": "10:30:00",
+        "diary_description": " Copa de Rusia: Zenit vs Dynamo Makhachkala",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 669,
+              "attributes": {
+                "embed_name": "Dsports+",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
+              }
+            },
+            {
+              "id": 1250,
+              "attributes": {
+                "embed_name": "Dsports+ Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHNwbHVzLmh0bWw="
+              }
+            },
+            {
+              "id": 1261,
+              "attributes": {
+                "embed_name": "Dsports+ | OP2",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3MxNQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 59,
+            "attributes": {
+              "name": "Rusia",
+              "createdAt": "2024-03-02T14:44:52.823Z",
+              "updatedAt": "2024-03-02T14:44:54.344Z",
+              "publishedAt": "2024-03-02T14:44:54.343Z",
+              "image": {
+                "data": {
+                  "id": 189,
+                  "attributes": {
+                    "name": "rusia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "rusia_90e08b36ae",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.89,
+                    "url": "/uploads/rusia_90e08b36ae.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-03-02T14:44:50.045Z",
+                    "updatedAt": "2024-03-02T14:44:50.045Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35039,
+      "attributes": {
+        "diary_hour": "13:30:00",
+        "diary_description": "Championship: Queens Park Rangers vs Cardiff City",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1011,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDQ="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 135,
+                  "attributes": {
+                    "name": "inglaterra.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35034,
+      "attributes": {
+        "diary_hour": "08:00:00",
+        "diary_description": "Copa de Italia: Sassuolo vs Frosinone",
+        "date_diary": "2026-09-02",
         "deportes": "Futbol",
         "embeds": {
           "data": [
@@ -48,21 +300,60 @@
                 "idioma": "Español",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
               }
-            },
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "FOX Deportes",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "Italia",
+              "createdAt": "2023-11-22T15:35:39.269Z",
+              "updatedAt": "2024-01-07T23:53:57.125Z",
+              "publishedAt": "2023-11-22T15:35:40.668Z",
+              "image": {
+                "data": {
+                  "id": 136,
+                  "attributes": {
+                    "name": "italia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "italia_cb19445d70",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.64,
+                    "url": "/uploads/italia_cb19445d70.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:53:53.740Z",
+                    "updatedAt": "2024-01-07T23:53:53.740Z"
+                  }
+                }
               }
-            },
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35046,
+      "attributes": {
+        "diary_hour": "17:30:00",
+        "diary_description": "Brasileirão: Flamengo vs Mirassol",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
             {
-              "id": 903,
+              "id": 180,
               "attributes": {
-                "embed_name": "FOX Deportes | Móvil",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
+                "embed_name": "Premiere BR",
+                "idioma": "Portugués",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
               }
             }
           ]
@@ -104,68 +395,68 @@
       }
     },
     {
-      "id": 35033,
+      "id": 35037,
       "attributes": {
-        "diary_hour": "20:00:00",
-        "diary_description": "Liga BetPlay: Fortaleza CEIF vs Once Caldas",
-        "date_diary": "2026-09-01",
+        "diary_hour": "12:45:00",
+        "diary_description": " Copa de Rusia: Spartak Moskva vs Rodina Moskva",
+        "date_diary": "2026-09-02",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 616,
+              "id": 669,
               "attributes": {
-                "embed_name": "Win Sports +",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
+                "embed_name": "Dsports+",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
               }
             },
             {
-              "id": 753,
+              "id": 1250,
               "attributes": {
-                "embed_name": "Win Sports + HD",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                "embed_name": "Dsports+ Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHNwbHVzLmh0bWw="
               }
             },
             {
-              "id": 1004,
+              "id": 1261,
               "attributes": {
-                "embed_name": "Win Sports + |  opc3",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
+                "embed_name": "Dsports+ | OP2",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3MxNQ=="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 17,
+            "id": 59,
             "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2024-01-07T23:51:34.518Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "name": "Rusia",
+              "createdAt": "2024-03-02T14:44:52.823Z",
+              "updatedAt": "2024-03-02T14:44:54.344Z",
+              "publishedAt": "2024-03-02T14:44:54.343Z",
               "image": {
                 "data": {
-                  "id": 133,
+                  "id": 189,
                   "attributes": {
-                    "name": "colombia.png",
+                    "name": "rusia.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "colombia_dcf9cc2637",
+                    "hash": "rusia_90e08b36ae",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.57,
-                    "url": "/uploads/colombia_dcf9cc2637.png",
+                    "size": 0.89,
+                    "url": "/uploads/rusia_90e08b36ae.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:32.399Z",
-                    "updatedAt": "2024-01-07T23:51:32.399Z"
+                    "createdAt": "2024-03-02T14:44:50.045Z",
+                    "updatedAt": "2024-03-02T14:44:50.045Z"
                   }
                 }
               }
@@ -175,11 +466,444 @@
       }
     },
     {
-      "id": 35031,
+      "id": 35040,
+      "attributes": {
+        "diary_hour": "13:45:00",
+        "diary_description": "Championship: Millwall vs Wrexham",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1012,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDU="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 135,
+                  "attributes": {
+                    "name": "inglaterra.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35041,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "Championship: Burnley vs Middlesbrough",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 672,
+              "attributes": {
+                "embed_name": "ESPN5",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+              }
+            },
+            {
+              "id": 745,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            },
+            {
+              "id": 1208,
+              "attributes": {
+                "embed_name": "ESPN5 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 787,
+              "attributes": {
+                "embed_name": "ESPN4 MX",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 135,
+                  "attributes": {
+                    "name": "inglaterra.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35044,
       "attributes": {
         "diary_hour": "16:30:00",
-        "diary_description": "Copa de Primera: 2 de Mayo vs Sportivo Luqueño",
-        "date_diary": "2026-09-01",
+        "diary_description": " Copa de Primera: Olimpia vs Guaraní",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 986,
+              "attributes": {
+                "embed_name": "Fanatiz03",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "Paraguay",
+              "createdAt": "2023-11-22T15:48:24.480Z",
+              "updatedAt": "2024-01-07T23:49:12.172Z",
+              "publishedAt": "2023-11-22T15:48:26.018Z",
+              "image": {
+                "data": {
+                  "id": 130,
+                  "attributes": {
+                    "name": "paraguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "paraguay_fc9dd78de7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/paraguay_fc9dd78de7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:49:09.758Z",
+                    "updatedAt": "2024-01-07T23:49:09.758Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35047,
+      "attributes": {
+        "diary_hour": "19:15:00",
+        "diary_description": "Copa Argentina: Vélez Sarsfield vs Boca Juniors",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 101,
+              "attributes": {
+                "embed_name": "TyC Sports",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+              }
+            },
+            {
+              "id": 1211,
+              "attributes": {
+                "embed_name": "TyC Sports Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2023-11-22T14:52:41.307Z",
+              "updatedAt": "2023-11-22T17:59:52.523Z",
+              "publishedAt": "2023-11-22T14:54:38.957Z",
+              "image": {
+                "data": {
+                  "id": 29,
+                  "attributes": {
+                    "name": "argentina.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/argentina_2bd748026e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:59:33.800Z",
+                    "updatedAt": "2023-11-22T17:59:33.800Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35035,
+      "attributes": {
+        "diary_hour": "11:00:00",
+        "diary_description": "Copa de Italia: Udinese vs Venezia",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 181,
+              "attributes": {
+                "embed_name": "Dsports 2",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+              }
+            },
+            {
+              "id": 1218,
+              "attributes": {
+                "embed_name": "Dsports 2 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHMyLmh0bWw="
+              }
+            },
+            {
+              "id": 1009,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "Italia",
+              "createdAt": "2023-11-22T15:35:39.269Z",
+              "updatedAt": "2024-01-07T23:53:57.125Z",
+              "publishedAt": "2023-11-22T15:35:40.668Z",
+              "image": {
+                "data": {
+                  "id": 136,
+                  "attributes": {
+                    "name": "italia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "italia_cb19445d70",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.64,
+                    "url": "/uploads/italia_cb19445d70.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:53:53.740Z",
+                    "updatedAt": "2024-01-07T23:53:53.740Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35038,
+      "attributes": {
+        "diary_hour": "13:45:00",
+        "diary_description": "Championship: West Bromwich Albion vs Charlton Athletic",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 1010,
+              "attributes": {
+                "embed_name": "Paramount+",
+                "idioma": "Inglés",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDM="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "image": {
+                "data": {
+                  "id": 135,
+                  "attributes": {
+                    "name": "inglaterra.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "inglaterra_823176495f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35042,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "Copa de Primera: Sportivo Ameliano vs Sportivo Trinidense",
+        "date_diary": "2026-09-02",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 984,
+              "attributes": {
+                "embed_name": "Fanatiz01",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "Paraguay",
+              "createdAt": "2023-11-22T15:48:24.480Z",
+              "updatedAt": "2024-01-07T23:49:12.172Z",
+              "publishedAt": "2023-11-22T15:48:26.018Z",
+              "image": {
+                "data": {
+                  "id": 130,
+                  "attributes": {
+                    "name": "paraguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "paraguay_fc9dd78de7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.92,
+                    "url": "/uploads/paraguay_fc9dd78de7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:49:09.758Z",
+                    "updatedAt": "2024-01-07T23:49:09.758Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35043,
+      "attributes": {
+        "diary_hour": "14:00:00",
+        "diary_description": "Copa de Primera: Nacional Asunción vs Libertad",
+        "date_diary": "2026-09-02",
         "deportes": "Futbol",
         "embeds": {
           "data": [
