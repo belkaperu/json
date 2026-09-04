@@ -1,100 +1,73 @@
 {
   "data": [
     {
-      "id": 35062,
+      "id": 35067,
       "attributes": {
-        "diary_hour": "18:00:00",
-        "diary_description": "Copa do Brasil: Grêmio vs Internacional",
-        "date_diary": "2026-09-03",
+        "diary_hour": "09:00:00",
+        "diary_description": "F1 | GP de Italia: Entrenamientos #2",
+        "date_diary": "2026-09-04",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 766,
+              "id": 655,
               "attributes": {
-                "embed_name": "Dsports HD",
+                "embed_name": "Fox Sports ",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
               }
             },
             {
-              "id": 1263,
+              "id": 501,
               "attributes": {
-                "embed_name": "Dsports ARG",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
-              }
-            },
-            {
-              "id": 1201,
-              "attributes": {
-                "embed_name": "Dsports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
-              }
-            },
-            {
-              "id": 20,
-              "attributes": {
-                "embed_name": "Dsports",
+                "embed_name": "Canal 5 MX",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
-              }
-            },
-            {
-              "id": 451,
-              "attributes": {
-                "embed_name": "Dsports | OP2",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
-              }
-            },
-            {
-              "id": 704,
-              "attributes": {
-                "embed_name": "ESPN MX",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
-              }
-            },
-            {
-              "id": 1228,
-              "attributes": {
-                "embed_name": "ESPN MX MOVIL",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ=="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 1,
+            "id": 88,
             "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2024-01-07T23:56:59.376Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "name": "F1 GP",
+              "createdAt": "2025-03-16T00:39:07.482Z",
+              "updatedAt": "2025-03-16T00:39:08.999Z",
+              "publishedAt": "2025-03-16T00:39:08.997Z",
               "image": {
                 "data": {
-                  "id": 141,
+                  "id": 258,
                   "attributes": {
-                    "name": "brasil.png",
+                    "name": "moto-g.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "brasil_25a533e5f7",
+                    "width": 180,
+                    "height": 180,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_moto_g_145967b8f1.png",
+                        "hash": "thumbnail_moto_g_145967b8f1",
+                        "mime": "image/png",
+                        "name": "thumbnail_moto-g.png",
+                        "path": null,
+                        "size": 7.56,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 7563
+                      }
+                    },
+                    "hash": "moto_g_145967b8f1",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.85,
-                    "url": "/uploads/brasil_25a533e5f7.png",
+                    "size": 1.55,
+                    "url": "/uploads/moto_g_145967b8f1.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:56:57.083Z",
-                    "updatedAt": "2024-01-07T23:56:57.083Z"
+                    "createdAt": "2025-03-16T00:39:04.178Z",
+                    "updatedAt": "2025-03-16T00:39:04.178Z"
                   }
                 }
               }
@@ -104,68 +77,52 @@
       }
     },
     {
-      "id": 35063,
+      "id": 35071,
       "attributes": {
-        "diary_hour": "18:00:00",
-        "diary_description": "Liga BetPlay: América de Cali vs Alianza",
-        "date_diary": "2026-09-03",
+        "diary_hour": "12:00:00",
+        "diary_description": "Super Lig: İstanbul Başakşehir vs Galatasaray",
+        "date_diary": "2026-09-04",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 616,
+              "id": 784,
               "attributes": {
-                "embed_name": "Win Sports +",
+                "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
-              }
-            },
-            {
-              "id": 753,
-              "attributes": {
-                "embed_name": "Win Sports + HD",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-              }
-            },
-            {
-              "id": 1004,
-              "attributes": {
-                "embed_name": "Win Sports + |  opc3",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 17,
+            "id": 28,
             "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2024-01-07T23:51:34.518Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "name": "Turquía",
+              "createdAt": "2023-11-25T14:17:47.734Z",
+              "updatedAt": "2023-11-25T14:17:48.913Z",
+              "publishedAt": "2023-11-25T14:17:48.907Z",
               "image": {
                 "data": {
-                  "id": 133,
+                  "id": 52,
                   "attributes": {
-                    "name": "colombia.png",
+                    "name": "pavo.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 64,
-                    "height": 64,
+                    "width": 128,
+                    "height": 128,
                     "formats": null,
-                    "hash": "colombia_dcf9cc2637",
+                    "hash": "pavo_980d87b7ad",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.57,
-                    "url": "/uploads/colombia_dcf9cc2637.png",
+                    "size": 1.03,
+                    "url": "/uploads/pavo_980d87b7ad.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:32.399Z",
-                    "updatedAt": "2024-01-07T23:51:32.399Z"
+                    "createdAt": "2023-11-25T14:17:44.439Z",
+                    "updatedAt": "2023-11-25T14:17:44.439Z"
                   }
                 }
               }
@@ -175,76 +132,375 @@
       }
     },
     {
-      "id": 35064,
+      "id": 35072,
       "attributes": {
-        "diary_hour": "20:00:00",
-        "diary_description": "Liga BetPlay: Deportivo Pereira vs Medellín",
-        "date_diary": "2026-09-03",
+        "diary_hour": "13:00:00",
+        "diary_description": "Liga 1: FC Cajamarca vs Cienciano",
+        "date_diary": "2026-09-04",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 616,
+              "id": 230,
               "attributes": {
-                "embed_name": "Win Sports +",
+                "embed_name": "Liga1max",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
               }
             },
             {
-              "id": 753,
+              "id": 1205,
               "attributes": {
-                "embed_name": "Win Sports + HD",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-              }
-            },
-            {
-              "id": 1004,
-              "attributes": {
-                "embed_name": "Win Sports + |  opc3",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
-              }
-            },
-            {
-              "id": 987,
-              "attributes": {
-                "embed_name": "Fanatiz04",
+                "embed_name": "Liga1max Movil",
                 "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 17,
+            "id": 2,
             "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2024-01-07T23:51:34.518Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2023-11-22T18:05:40.140Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
               "image": {
                 "data": {
-                  "id": 133,
+                  "id": 28,
                   "attributes": {
-                    "name": "colombia.png",
+                    "name": "peru.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "peru_ddc4e685cf",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/peru_ddc4e685cf.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-22T17:57:17.008Z",
+                    "updatedAt": "2023-11-22T18:05:27.397Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35068,
+      "attributes": {
+        "diary_hour": "11:30:00",
+        "diary_description": "2. Bundesliga: Hannover 96 vs Karlsruher SC",
+        "date_diary": "2026-09-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 745,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            },
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "Fox Sports 2",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 10,
+            "attributes": {
+              "name": "Alemania",
+              "createdAt": "2023-11-22T15:36:09.022Z",
+              "updatedAt": "2024-01-07T23:13:42.920Z",
+              "publishedAt": "2023-11-22T15:36:10.659Z",
+              "image": {
+                "data": {
+                  "id": 109,
+                  "attributes": {
+                    "name": "alemania.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "colombia_dcf9cc2637",
+                    "hash": "alemania_e50aa475de",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.57,
-                    "url": "/uploads/colombia_dcf9cc2637.png",
+                    "size": 0.61,
+                    "url": "/uploads/alemania_e50aa475de.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:32.399Z",
-                    "updatedAt": "2024-01-07T23:51:32.399Z"
+                    "createdAt": "2024-01-07T23:13:39.849Z",
+                    "updatedAt": "2024-01-07T23:13:39.849Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35069,
+      "attributes": {
+        "diary_hour": "11:30:00",
+        "diary_description": "2. Bundesliga: Arminia Bielefeld vs St. Pauli",
+        "date_diary": "2026-09-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 765,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 10,
+            "attributes": {
+              "name": "Alemania",
+              "createdAt": "2023-11-22T15:36:09.022Z",
+              "updatedAt": "2024-01-07T23:13:42.920Z",
+              "publishedAt": "2023-11-22T15:36:10.659Z",
+              "image": {
+                "data": {
+                  "id": 109,
+                  "attributes": {
+                    "name": "alemania.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "alemania_e50aa475de",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.61,
+                    "url": "/uploads/alemania_e50aa475de.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:13:39.849Z",
+                    "updatedAt": "2024-01-07T23:13:39.849Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35073,
+      "attributes": {
+        "diary_hour": "13:00:00",
+        "diary_description": " Liga Profesional Saudí: Al Shabab vs Al Hilal",
+        "date_diary": "2026-09-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 774,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+              }
+            },
+            {
+              "id": 903,
+              "attributes": {
+                "embed_name": "FOX Deportes | Móvil",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 24,
+            "attributes": {
+              "name": "Arabia Saudita",
+              "createdAt": "2023-11-24T12:55:08.381Z",
+              "updatedAt": "2023-11-24T12:55:09.652Z",
+              "publishedAt": "2023-11-24T12:55:09.649Z",
+              "image": {
+                "data": {
+                  "id": 47,
+                  "attributes": {
+                    "name": "arabia-saudita.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "arabia_saudita_82c6f9c376",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.26,
+                    "url": "/uploads/arabia_saudita_82c6f9c376.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2023-11-24T12:55:05.330Z",
+                    "updatedAt": "2023-11-24T12:55:05.330Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35074,
+      "attributes": {
+        "diary_hour": "13:30:00",
+        "diary_description": "LaLiga 2: Las Palmas vs Leganés",
+        "date_diary": "2026-09-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 356,
+              "attributes": {
+                "embed_name": "LaLiga TV Hypermotion",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2024-08-15T19:18:48.458Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 138,
+                  "attributes": {
+                    "name": "espana.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "espana_a8510f9b5f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/espana_a8510f9b5f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:55:12.045Z",
+                    "updatedAt": "2024-08-15T16:50:04.760Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35070,
+      "attributes": {
+        "diary_hour": "12:00:00",
+        "diary_description": "Ligue 1: Olympique Lyonnais vs Auxerre",
+        "date_diary": "2026-09-04",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 862,
+              "attributes": {
+                "embed_name": "ESPN4",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+              }
+            },
+            {
+              "id": 783,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+              }
+            },
+            {
+              "id": 1207,
+              "attributes": {
+                "embed_name": "ESPN4 Movil",
+                "idioma": null,
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG40dHYuaHRtbA=="
+              }
+            },
+            {
+              "id": 826,
+              "attributes": {
+                "embed_name": "beIN Sports Ñ",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 11,
+            "attributes": {
+              "name": "Francia",
+              "createdAt": "2023-11-22T15:36:32.644Z",
+              "updatedAt": "2024-01-07T23:54:10.948Z",
+              "publishedAt": "2023-11-22T15:36:34.086Z",
+              "image": {
+                "data": {
+                  "id": 137,
+                  "attributes": {
+                    "name": "francia.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "francia_e9d1a8ab33",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.58,
+                    "url": "/uploads/francia_e9d1a8ab33.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:54:08.582Z",
+                    "updatedAt": "2024-01-07T23:54:08.582Z"
                   }
                 }
               }
