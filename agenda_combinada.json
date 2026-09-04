@@ -252,61 +252,6 @@
           }
         }
       }
-    },
-    {
-      "id": 35061,
-      "attributes": {
-        "diary_hour": "16:30:00",
-        "diary_description": "Copa de Primera: Deportivo Recoleta vs Cerro Porteño",
-        "date_diary": "2026-09-03",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 985,
-              "attributes": {
-                "embed_name": "Fanatiz02",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 14,
-            "attributes": {
-              "name": "Paraguay",
-              "createdAt": "2023-11-22T15:48:24.480Z",
-              "updatedAt": "2024-01-07T23:49:12.172Z",
-              "publishedAt": "2023-11-22T15:48:26.018Z",
-              "image": {
-                "data": {
-                  "id": 130,
-                  "attributes": {
-                    "name": "paraguay.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "paraguay_fc9dd78de7",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/paraguay_fc9dd78de7.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:49:09.758Z",
-                    "updatedAt": "2024-01-07T23:49:09.758Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
     }
   ]
 }
