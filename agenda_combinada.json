@@ -1,115 +1,52 @@
 {
   "data": [
     {
-      "id": 35084,
+      "id": 35091,
       "attributes": {
-        "diary_hour": "17:00:00",
-        "diary_description": "Liga Profesional: Platense vs Deportivo Riestra",
-        "date_diary": "2026-09-04",
+        "diary_hour": "06:00:00",
+        "diary_description": "2. Bundesliga: Kaiserslautern vs Darmstadt 98",
+        "date_diary": "2026-09-05",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 523,
+              "id": 765,
               "attributes": {
-                "embed_name": "TNT Sports",
+                "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1212,
-              "attributes": {
-                "embed_name": "TNT Sports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 3,
+            "id": 10,
             "attributes": {
-              "name": "Argentina",
-              "createdAt": "2023-11-22T14:52:41.307Z",
-              "updatedAt": "2023-11-22T17:59:52.523Z",
-              "publishedAt": "2023-11-22T14:54:38.957Z",
+              "name": "Alemania",
+              "createdAt": "2023-11-22T15:36:09.022Z",
+              "updatedAt": "2024-01-07T23:13:42.920Z",
+              "publishedAt": "2023-11-22T15:36:10.659Z",
               "image": {
                 "data": {
-                  "id": 29,
+                  "id": 109,
                   "attributes": {
-                    "name": "argentina.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/argentina_2bd748026e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:59:33.800Z",
-                    "updatedAt": "2023-11-22T17:59:33.800Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35087,
-      "attributes": {
-        "diary_hour": "18:30:00",
-        "diary_description": "MLS: New York City vs Nashville SC",
-        "date_diary": "2026-09-04",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 560,
-              "attributes": {
-                "embed_name": "MLS01ES",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 19,
-            "attributes": {
-              "name": "Estados Unidos",
-              "createdAt": "2023-11-22T18:04:29.927Z",
-              "updatedAt": "2024-01-07T23:46:22.789Z",
-              "publishedAt": "2023-11-22T18:04:31.112Z",
-              "image": {
-                "data": {
-                  "id": 126,
-                  "attributes": {
-                    "name": "estados-unidos-de-america.png",
+                    "name": "alemania.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "estados_unidos_de_america_b400fc18c4",
+                    "hash": "alemania_e50aa475de",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.29,
-                    "url": "/uploads/estados_unidos_de_america_b400fc18c4.png",
+                    "size": 0.61,
+                    "url": "/uploads/alemania_e50aa475de.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:46:20.342Z",
-                    "updatedAt": "2024-01-07T23:46:20.342Z"
+                    "createdAt": "2024-01-07T23:13:39.849Z",
+                    "updatedAt": "2024-01-07T23:13:39.849Z"
                   }
                 }
               }
@@ -119,123 +56,68 @@
       }
     },
     {
-      "id": 35085,
+      "id": 35094,
       "attributes": {
-        "diary_hour": "17:00:00",
-        "diary_description": "Liga Profesional: Belgrano vs Huracán",
-        "date_diary": "2026-09-04",
+        "diary_hour": "06:30:00",
+        "diary_description": "Championship: Preston North End vs Blackburn Rovers\n",
+        "date_diary": "2026-09-05",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 713,
+              "id": 773,
               "attributes": {
-                "embed_name": "ESPN Premium",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+                "embed_name": "ESPN7",
+                "idioma": "español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG43"
               }
             },
             {
-              "id": 1213,
+              "id": 789,
               "attributes": {
-                "embed_name": "ESPN Premium Movil",
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+              }
+            },
+            {
+              "id": 1217,
+              "attributes": {
+                "embed_name": "ESPN7 Movil",
                 "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
+                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG43LjExLmh0bWw="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 3,
+            "id": 8,
             "attributes": {
-              "name": "Argentina",
-              "createdAt": "2023-11-22T14:52:41.307Z",
-              "updatedAt": "2023-11-22T17:59:52.523Z",
-              "publishedAt": "2023-11-22T14:54:38.957Z",
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
               "image": {
                 "data": {
-                  "id": 29,
+                  "id": 135,
                   "attributes": {
-                    "name": "argentina.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.92,
-                    "url": "/uploads/argentina_2bd748026e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2023-11-22T17:59:33.800Z",
-                    "updatedAt": "2023-11-22T17:59:33.800Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35088,
-      "attributes": {
-        "diary_hour": "19:30:00",
-        "diary_description": "Primera División: Deportes Concepción vs Audax Italiano",
-        "date_diary": "2026-09-04",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 424,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-              }
-            },
-            {
-              "id": 1226,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2024-01-07T23:47:58.476Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 128,
-                  "attributes": {
-                    "name": "chile.png",
+                    "name": "inglaterra.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "chile_86c07a7b38",
+                    "hash": "inglaterra_823176495f",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.79,
-                    "url": "/uploads/chile_86c07a7b38.png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:47:55.957Z",
-                    "updatedAt": "2024-01-07T23:47:55.957Z"
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
                   }
                 }
               }
@@ -245,44 +127,154 @@
       }
     },
     {
-      "id": 35089,
+      "id": 35092,
       "attributes": {
-        "diary_hour": "20:45:00",
-        "diary_description": "Liga MX: Juárez vs Pachuca",
-        "date_diary": "2026-09-04",
+        "diary_hour": "06:00:00",
+        "diary_description": "2. Bundesliga: Wolfsburg vs Energie Cottbus",
+        "date_diary": "2026-09-05",
         "deportes": "Futbol",
         "embeds": {
           "data": [
             {
-              "id": 206,
+              "id": 783,
               "attributes": {
-                "embed_name": "TUDN USA",
+                "embed_name": "Disney+",
                 "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
               }
             },
             {
-              "id": 1202,
+              "id": 659,
               "attributes": {
-                "embed_name": "TUDN USA Movil",
+                "embed_name": "Fox Sports 3",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 10,
+            "attributes": {
+              "name": "Alemania",
+              "createdAt": "2023-11-22T15:36:09.022Z",
+              "updatedAt": "2024-01-07T23:13:42.920Z",
+              "publishedAt": "2023-11-22T15:36:10.659Z",
+              "image": {
+                "data": {
+                  "id": 109,
+                  "attributes": {
+                    "name": "alemania.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "alemania_e50aa475de",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.61,
+                    "url": "/uploads/alemania_e50aa475de.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:13:39.849Z",
+                    "updatedAt": "2024-01-07T23:13:39.849Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35090,
+      "attributes": {
+        "diary_hour": "06:00:00",
+        "diary_description": "2. Bundesliga: Holstein Kiel vs Nürnberg\n",
+        "date_diary": "2026-09-05",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 745,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 10,
+            "attributes": {
+              "name": "Alemania",
+              "createdAt": "2023-11-22T15:36:09.022Z",
+              "updatedAt": "2024-01-07T23:13:42.920Z",
+              "publishedAt": "2023-11-22T15:36:10.659Z",
+              "image": {
+                "data": {
+                  "id": 109,
+                  "attributes": {
+                    "name": "alemania.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "alemania_e50aa475de",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.61,
+                    "url": "/uploads/alemania_e50aa475de.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:13:39.849Z",
+                    "updatedAt": "2024-01-07T23:13:39.849Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 35093,
+      "attributes": {
+        "diary_hour": "06:30:00",
+        "diary_description": "Premier League: Newcastle United vs AFC Bournemouth",
+        "date_diary": "2026-09-05",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 746,
+              "attributes": {
+                "embed_name": "ESPN",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 784,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+              }
+            },
+            {
+              "id": 1200,
+              "attributes": {
+                "embed_name": "ESPN Movil",
                 "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s"
-              }
-            },
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "FOX Deportes",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-              }
-            },
-            {
-              "id": 903,
-              "attributes": {
-                "embed_name": "FOX Deportes | Móvil",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
               }
             },
             {
@@ -297,87 +289,32 @@
         },
         "country": {
           "data": {
-            "id": 5,
+            "id": 8,
             "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2024-01-07T23:56:44.462Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2024-01-07T23:52:57.434Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
               "image": {
                 "data": {
-                  "id": 140,
+                  "id": 135,
                   "attributes": {
-                    "name": "bandera.png",
+                    "name": "inglaterra.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "bandera_fbc29cb609",
+                    "hash": "inglaterra_823176495f",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.04,
-                    "url": "/uploads/bandera_fbc29cb609.png",
+                    "size": 0.53,
+                    "url": "/uploads/inglaterra_823176495f.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:56:40.086Z",
-                    "updatedAt": "2024-01-07T23:56:40.086Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35086,
-      "attributes": {
-        "diary_hour": "17:00:00",
-        "diary_description": "Primera División: Torque vs Cerro Largo",
-        "date_diary": "2026-09-04",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 832,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2024-01-07T23:51:20.902Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 132,
-                  "attributes": {
-                    "name": "uruguay.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/uruguay_e2b9597af8.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:18.898Z",
-                    "updatedAt": "2024-01-07T23:51:18.898Z"
+                    "createdAt": "2024-01-07T23:52:55.261Z",
+                    "updatedAt": "2024-01-07T23:52:55.261Z"
                   }
                 }
               }
