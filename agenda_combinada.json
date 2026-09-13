@@ -64,74 +64,6 @@
       }
     },
     {
-      "id": 35466,
-      "attributes": {
-        "diary_hour": "07:00:00",
-        "diary_description": "F1 | GP de España: RACE HUB",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 993,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE5"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 88,
-            "attributes": {
-              "name": "F1 GP",
-              "createdAt": "2025-03-16T00:39:07.482Z",
-              "updatedAt": "2025-03-16T00:39:08.999Z",
-              "publishedAt": "2025-03-16T00:39:08.997Z",
-              "image": {
-                "data": {
-                  "id": 258,
-                  "attributes": {
-                    "name": "moto-g.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 180,
-                    "height": 180,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_moto_g_145967b8f1.png",
-                        "hash": "thumbnail_moto_g_145967b8f1",
-                        "mime": "image/png",
-                        "name": "thumbnail_moto-g.png",
-                        "path": null,
-                        "size": 7.56,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 7563
-                      }
-                    },
-                    "hash": "moto_g_145967b8f1",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.55,
-                    "url": "/uploads/moto_g_145967b8f1.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-03-16T00:39:04.178Z",
-                    "updatedAt": "2025-03-16T00:39:04.178Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 35420,
       "attributes": {
         "diary_hour": "10:30:00",
@@ -424,124 +356,6 @@
       }
     },
     {
-      "id": 35407,
-      "attributes": {
-        "diary_hour": "06:30:00",
-        "diary_description": "Bundesliga 2: Osnabrück vs Hertha BSC",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 783,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
-              }
-            },
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "Fox Sports 2",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 10,
-            "attributes": {
-              "name": "Alemania",
-              "createdAt": "2023-11-22T15:36:09.022Z",
-              "updatedAt": "2024-01-07T23:13:42.920Z",
-              "publishedAt": "2023-11-22T15:36:10.659Z",
-              "image": {
-                "data": {
-                  "id": 109,
-                  "attributes": {
-                    "name": "alemania.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "alemania_e50aa475de",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.61,
-                    "url": "/uploads/alemania_e50aa475de.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:13:39.849Z",
-                    "updatedAt": "2024-01-07T23:13:39.849Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35452,
-      "attributes": {
-        "diary_hour": "07:00:00",
-        "diary_description": "LaLiga 2: Sporting Gijón vs Eldense",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 356,
-              "attributes": {
-                "embed_name": "LaLiga TV Hypermotion",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2024-08-15T19:18:48.458Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 138,
-                  "attributes": {
-                    "name": "espana.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.51,
-                    "url": "/uploads/espana_a8510f9b5f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:55:12.045Z",
-                    "updatedAt": "2024-08-15T16:50:04.760Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 35455,
       "attributes": {
         "diary_hour": "14:00:00",
@@ -652,69 +466,6 @@
       }
     },
     {
-      "id": 35412,
-      "attributes": {
-        "diary_hour": "08:00:00",
-        "diary_description": "Ligue 1: Lille vs Troyes",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 816,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
-              }
-            },
-            {
-              "id": 826,
-              "attributes": {
-                "embed_name": "beIN Sports Ñ",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 11,
-            "attributes": {
-              "name": "Francia",
-              "createdAt": "2023-11-22T15:36:32.644Z",
-              "updatedAt": "2024-01-07T23:54:10.948Z",
-              "publishedAt": "2023-11-22T15:36:34.086Z",
-              "image": {
-                "data": {
-                  "id": 137,
-                  "attributes": {
-                    "name": "francia.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "francia_e9d1a8ab33",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.58,
-                    "url": "/uploads/francia_e9d1a8ab33.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:54:08.582Z",
-                    "updatedAt": "2024-01-07T23:54:08.582Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 35468,
       "attributes": {
         "diary_hour": "12:00:00",
@@ -777,77 +528,6 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:07:29.873Z",
                     "updatedAt": "2024-01-07T23:07:29.873Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35413,
-      "attributes": {
-        "diary_hour": "08:00:00",
-        "diary_description": "Serie A: Lecce vs Monza",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 818,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
-              }
-            },
-            {
-              "id": 704,
-              "attributes": {
-                "embed_name": "ESPN MX",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
-              }
-            },
-            {
-              "id": 1228,
-              "attributes": {
-                "embed_name": "ESPN MX MOVIL",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 9,
-            "attributes": {
-              "name": "Italia",
-              "createdAt": "2023-11-22T15:35:39.269Z",
-              "updatedAt": "2024-01-07T23:53:57.125Z",
-              "publishedAt": "2023-11-22T15:35:40.668Z",
-              "image": {
-                "data": {
-                  "id": 136,
-                  "attributes": {
-                    "name": "italia.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "italia_cb19445d70",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.64,
-                    "url": "/uploads/italia_cb19445d70.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:53:53.740Z",
-                    "updatedAt": "2024-01-07T23:53:53.740Z"
                   }
                 }
               }
@@ -927,148 +607,6 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:54:08.582Z",
                     "updatedAt": "2024-01-07T23:54:08.582Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35414,
-      "attributes": {
-        "diary_hour": "08:00:00",
-        "diary_description": "Primera División: Progreso vs Cerro",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 819,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2024-01-07T23:51:20.902Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 132,
-                  "attributes": {
-                    "name": "uruguay.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/uruguay_e2b9597af8.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:18.898Z",
-                    "updatedAt": "2024-01-07T23:51:18.898Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35417,
-      "attributes": {
-        "diary_hour": "09:15:00",
-        "diary_description": "LaLiga: Levante vs Barcelona",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 766,
-              "attributes": {
-                "embed_name": "Dsports HD",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA="
-              }
-            },
-            {
-              "id": 1263,
-              "attributes": {
-                "embed_name": "Dsports ARG",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
-              }
-            },
-            {
-              "id": 20,
-              "attributes": {
-                "embed_name": "Dsports",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
-              }
-            },
-            {
-              "id": 451,
-              "attributes": {
-                "embed_name": "Dsports | OP2",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
-              }
-            },
-            {
-              "id": 770,
-              "attributes": {
-                "embed_name": "ESPN Deportes",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2024-08-15T19:18:48.458Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 138,
-                  "attributes": {
-                    "name": "espana.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.51,
-                    "url": "/uploads/espana_a8510f9b5f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:55:12.045Z",
-                    "updatedAt": "2024-08-15T16:50:04.760Z"
                   }
                 }
               }
@@ -1851,6 +1389,61 @@
       }
     },
     {
+      "id": 35422,
+      "attributes": {
+        "diary_hour": "10:30:00",
+        "diary_description": "Segunda División: River Plate vs Fénix",
+        "date_diary": "2026-09-13",
+        "deportes": "Futbol",
+        "embeds": {
+          "data": [
+            {
+              "id": 745,
+              "attributes": {
+                "embed_name": "Disney+",
+                "idioma": "Español",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2024-01-07T23:51:20.902Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 132,
+                  "attributes": {
+                    "name": "uruguay.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.8,
+                    "url": "/uploads/uruguay_e2b9597af8.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2024-01-07T23:51:18.898Z",
+                    "updatedAt": "2024-01-07T23:51:18.898Z"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
       "id": 35432,
       "attributes": {
         "diary_hour": "13:00:00",
@@ -1969,85 +1562,6 @@
       }
     },
     {
-      "id": 35409,
-      "attributes": {
-        "diary_hour": "07:00:00",
-        "diary_description": "LaLiga : Celta de Vigo vs Málaga",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 862,
-              "attributes": {
-                "embed_name": "ESPN4",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
-              }
-            },
-            {
-              "id": 789,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
-              }
-            },
-            {
-              "id": 1207,
-              "attributes": {
-                "embed_name": "ESPN4 Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG40dHYuaHRtbA=="
-              }
-            },
-            {
-              "id": 770,
-              "attributes": {
-                "embed_name": "ESPN Deportes",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2024-08-15T19:18:48.458Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 138,
-                  "attributes": {
-                    "name": "espana.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.51,
-                    "url": "/uploads/espana_a8510f9b5f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:55:12.045Z",
-                    "updatedAt": "2024-08-15T16:50:04.760Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 35457,
       "attributes": {
         "diary_hour": "14:00:00",
@@ -2094,61 +1608,6 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:49:09.758Z",
                     "updatedAt": "2024-01-07T23:49:09.758Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35453,
-      "attributes": {
-        "diary_hour": "09:15:00",
-        "diary_description": "LaLiga 2: Real Valladolid vs Real Oviedo",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 356,
-              "attributes": {
-                "embed_name": "LaLiga TV Hypermotion",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 7,
-            "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2024-08-15T19:18:48.458Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
-              "image": {
-                "data": {
-                  "id": 138,
-                  "attributes": {
-                    "name": "espana.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "espana_a8510f9b5f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.51,
-                    "url": "/uploads/espana_a8510f9b5f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:55:12.045Z",
-                    "updatedAt": "2024-08-15T16:50:04.760Z"
                   }
                 }
               }
@@ -2212,85 +1671,6 @@
                     "provider_metadata": null,
                     "createdAt": "2023-11-22T17:57:17.008Z",
                     "updatedAt": "2023-11-22T18:05:27.397Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35415,
-      "attributes": {
-        "diary_hour": "08:30:00",
-        "diary_description": "Bundesliga: RB Leipzig vs Hamburger SV",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 672,
-              "attributes": {
-                "embed_name": "ESPN5",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
-              }
-            },
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
-              }
-            },
-            {
-              "id": 1208,
-              "attributes": {
-                "embed_name": "ESPN5 Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA=="
-              }
-            },
-            {
-              "id": 780,
-              "attributes": {
-                "embed_name": "Universo",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 10,
-            "attributes": {
-              "name": "Alemania",
-              "createdAt": "2023-11-22T15:36:09.022Z",
-              "updatedAt": "2024-01-07T23:13:42.920Z",
-              "publishedAt": "2023-11-22T15:36:10.659Z",
-              "image": {
-                "data": {
-                  "id": 109,
-                  "attributes": {
-                    "name": "alemania.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "alemania_e50aa475de",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.61,
-                    "url": "/uploads/alemania_e50aa475de.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:13:39.849Z",
-                    "updatedAt": "2024-01-07T23:13:39.849Z"
                   }
                 }
               }
@@ -2536,61 +1916,6 @@
       }
     },
     {
-      "id": 35422,
-      "attributes": {
-        "diary_hour": "10:30:00",
-        "diary_description": "Segunda División: River Plate vs Fénix",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 848,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2024-01-07T23:51:20.902Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 132,
-                  "attributes": {
-                    "name": "uruguay.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.8,
-                    "url": "/uploads/uruguay_e2b9597af8.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:51:18.898Z",
-                    "updatedAt": "2024-01-07T23:51:18.898Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 35423,
       "attributes": {
         "diary_hour": "11:00:00",
@@ -2788,177 +2113,6 @@
       }
     },
     {
-      "id": 35465,
-      "attributes": {
-        "diary_hour": "08:00:00",
-        "diary_description": "F1 | GP de España: Carrera",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 746,
-              "attributes": {
-                "embed_name": "ESPN",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 855,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw"
-              }
-            },
-            {
-              "id": 1200,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
-              }
-            },
-            {
-              "id": 655,
-              "attributes": {
-                "embed_name": "Fox Sports ",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 88,
-            "attributes": {
-              "name": "F1 GP",
-              "createdAt": "2025-03-16T00:39:07.482Z",
-              "updatedAt": "2025-03-16T00:39:08.999Z",
-              "publishedAt": "2025-03-16T00:39:08.997Z",
-              "image": {
-                "data": {
-                  "id": 258,
-                  "attributes": {
-                    "name": "moto-g.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 180,
-                    "height": 180,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_moto_g_145967b8f1.png",
-                        "hash": "thumbnail_moto_g_145967b8f1",
-                        "mime": "image/png",
-                        "name": "thumbnail_moto-g.png",
-                        "path": null,
-                        "size": 7.56,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 7563
-                      }
-                    },
-                    "hash": "moto_g_145967b8f1",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.55,
-                    "url": "/uploads/moto_g_145967b8f1.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-03-16T00:39:04.178Z",
-                    "updatedAt": "2025-03-16T00:39:04.178Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35411,
-      "attributes": {
-        "diary_hour": "08:00:00",
-        "diary_description": "Premier League: Coventry City vs Brighton & Hove Albion",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 670,
-              "attributes": {
-                "embed_name": "ESPN3",
-                "idioma": "español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
-              }
-            },
-            {
-              "id": 815,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
-              }
-            },
-            {
-              "id": 1214,
-              "attributes": {
-                "embed_name": "ESPN3 Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4zdHYuaHRtbA=="
-              }
-            },
-            {
-              "id": 889,
-              "attributes": {
-                "embed_name": "MAX",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1heDE="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 8,
-            "attributes": {
-              "name": "Inglaterra",
-              "createdAt": "2023-11-22T15:34:59.892Z",
-              "updatedAt": "2024-01-07T23:52:57.434Z",
-              "publishedAt": "2023-11-22T15:35:01.179Z",
-              "image": {
-                "data": {
-                  "id": 135,
-                  "attributes": {
-                    "name": "inglaterra.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "inglaterra_823176495f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.53,
-                    "url": "/uploads/inglaterra_823176495f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:52:55.261Z",
-                    "updatedAt": "2024-01-07T23:52:55.261Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 35429,
       "attributes": {
         "diary_hour": "12:45:00",
@@ -3139,116 +2293,6 @@
                     "provider_metadata": null,
                     "createdAt": "2024-01-07T23:51:32.399Z",
                     "updatedAt": "2024-01-07T23:51:32.399Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35406,
-      "attributes": {
-        "diary_hour": "06:30:00",
-        "diary_description": "Bundesliga 2: Karlsruher SC vs Energie Cottbus",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 765,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 10,
-            "attributes": {
-              "name": "Alemania",
-              "createdAt": "2023-11-22T15:36:09.022Z",
-              "updatedAt": "2024-01-07T23:13:42.920Z",
-              "publishedAt": "2023-11-22T15:36:10.659Z",
-              "image": {
-                "data": {
-                  "id": 109,
-                  "attributes": {
-                    "name": "alemania.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "alemania_e50aa475de",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.61,
-                    "url": "/uploads/alemania_e50aa475de.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:13:39.849Z",
-                    "updatedAt": "2024-01-07T23:13:39.849Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 35408,
-      "attributes": {
-        "diary_hour": "06:30:00",
-        "diary_description": "Bundesliga 2: Heidenheim vs Holstein Kiel",
-        "date_diary": "2026-09-13",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 784,
-              "attributes": {
-                "embed_name": "Disney+",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 10,
-            "attributes": {
-              "name": "Alemania",
-              "createdAt": "2023-11-22T15:36:09.022Z",
-              "updatedAt": "2024-01-07T23:13:42.920Z",
-              "publishedAt": "2023-11-22T15:36:10.659Z",
-              "image": {
-                "data": {
-                  "id": 109,
-                  "attributes": {
-                    "name": "alemania.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "alemania_e50aa475de",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.61,
-                    "url": "/uploads/alemania_e50aa475de.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:13:39.849Z",
-                    "updatedAt": "2024-01-07T23:13:39.849Z"
                   }
                 }
               }
