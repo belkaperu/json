@@ -1,69 +1,6 @@
 {
   "data": [
     {
-      "id": 35714,
-      "attributes": {
-        "diary_hour": "12:00:00",
-        "diary_description": "Liga Profesional: Aldosivi vs Atlético Tucumán",
-        "date_diary": "2026-09-21",
-        "deportes": "Futbol",
-        "embeds": {
-          "data": [
-            {
-              "id": 523,
-              "attributes": {
-                "embed_name": "TNT Sports",
-                "idioma": "Español",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-              }
-            },
-            {
-              "id": 1212,
-              "attributes": {
-                "embed_name": "TNT Sports Movil",
-                "idioma": null,
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 8,
-            "attributes": {
-              "name": "Inglaterra",
-              "createdAt": "2023-11-22T15:34:59.892Z",
-              "updatedAt": "2024-01-07T23:52:57.434Z",
-              "publishedAt": "2023-11-22T15:35:01.179Z",
-              "image": {
-                "data": {
-                  "id": 135,
-                  "attributes": {
-                    "name": "inglaterra.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "inglaterra_823176495f",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.53,
-                    "url": "/uploads/inglaterra_823176495f.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2024-01-07T23:52:55.261Z",
-                    "updatedAt": "2024-01-07T23:52:55.261Z"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 35717,
       "attributes": {
         "diary_hour": "19:15:00",
