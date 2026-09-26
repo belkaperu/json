@@ -61,24 +61,112 @@
       }
     },
     {
-      "id": 40045,
+      "id": 40065,
       "attributes": {
-        "diary_description": "UEFA Nations League: Islas Feroe vs Kazajstán",
-        "diary_hour": "11:00:00",
+        "diary_description": "Liga MX: Cruz Azul vs Toluca",
+        "diary_hour": "18:00:00",
         "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T11:54:49.957Z",
-        "updatedAt": "2026-09-26T11:54:51.668Z",
-        "publishedAt": "2026-09-26T11:54:51.664Z",
+        "createdAt": "2026-09-26T17:49:46.060Z",
+        "updatedAt": "2026-09-26T17:56:04.653Z",
+        "publishedAt": "2026-09-26T17:49:47.649Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 838,
+              "id": 206,
               "attributes": {
-                "embed_name": "Disney 08",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4g"
+              }
+            },
+            {
+              "id": 324,
+              "attributes": {
+                "embed_name": "Univision",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg=="
+              }
+            },
+            {
+              "id": 1524,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vdHVkbnVzYS5odG1s"
+              }
+            },
+            {
+              "id": 996,
+              "attributes": {
+                "embed_name": "Canal 5 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ=="
+              }
+            },
+            {
+              "id": 737,
+              "attributes": {
+                "embed_name": "TUDN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fbXgg"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40054,
+      "attributes": {
+        "diary_description": "UEFA Nations League: Inglaterra vs España",
+        "diary_hour": "13:45:00",
+        "date_diary": "2026-09-26",
+        "createdAt": "2026-09-26T12:05:38.526Z",
+        "updatedAt": "2026-09-26T20:33:57.862Z",
+        "publishedAt": "2026-09-26T12:05:42.064Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1006,
+              "attributes": {
+                "embed_name": "La1TVE",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vbGF0djEucGhw"
               }
             }
           ]
@@ -121,77 +209,63 @@
       }
     },
     {
-      "id": 40058,
+      "id": 40066,
       "attributes": {
-        "diary_description": "Supercopa Argentina: Estudiantes vs Rosario Central\n",
-        "diary_hour": "14:00:00",
+        "diary_description": "Liga de Expansión MX: Venados vs Atlético Morelia",
+        "diary_hour": "18:00:00",
         "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T12:10:26.846Z",
-        "updatedAt": "2026-09-26T12:20:39.958Z",
-        "publishedAt": "2026-09-26T12:10:48.394Z",
+        "createdAt": "2026-09-26T18:04:20.147Z",
+        "updatedAt": "2026-09-26T18:04:49.692Z",
+        "publishedAt": "2026-09-26T18:04:22.018Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 833,
+              "id": 310,
               "attributes": {
-                "embed_name": "Disney 01",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+                "embed_name": "ESPN2 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXgg"
               }
             },
             {
-              "id": 816,
+              "id": 827,
               "attributes": {
-                "embed_name": "Dsports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHNwb3J0c2FyLnBocA=="
-              }
-            },
-            {
-              "id": 1410,
-              "attributes": {
-                "embed_name": "Dsports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
-              }
-            },
-            {
-              "id": 644,
-              "attributes": {
-                "embed_name": "Dsports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+                "embed_name": "Disney 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 72,
+            "id": 5,
             "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
               "image": {
                 "data": {
-                  "id": 362,
+                  "id": 372,
                   "attributes": {
-                    "name": "argentina_2bd748026e.png",
+                    "name": "bandera_fbc29cb609.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 128,
-                    "height": 128,
+                    "width": 64,
+                    "height": 64,
                     "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
                   }
                 }
               }
@@ -202,56 +276,63 @@
       }
     },
     {
-      "id": 40048,
+      "id": 40067,
       "attributes": {
-        "diary_description": "UEFA Nations League: San Marino vs Finlandia",
-        "diary_hour": "11:00:00",
+        "diary_description": "Amistoso: Canadá vs Chile",
+        "diary_hour": "18:00:00",
         "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T11:59:15.970Z",
-        "updatedAt": "2026-09-26T11:59:17.673Z",
-        "publishedAt": "2026-09-26T11:59:17.669Z",
+        "createdAt": "2026-09-26T18:07:09.291Z",
+        "updatedAt": "2026-09-26T18:09:30.316Z",
+        "publishedAt": "2026-09-26T18:07:10.946Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 938,
+              "id": 170,
               "attributes": {
-                "embed_name": "Disney 10",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
+                "embed_name": "Fox Soccer Plus",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNvY2NlcnBsdXM="
+              }
+            },
+            {
+              "id": 1152,
+              "attributes": {
+                "embed_name": "TSN4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRzbjQ="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 140,
+            "id": 12,
             "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-03-26T16:50:53.653Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2025-08-03T16:01:24.110Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
               "image": {
                 "data": {
-                  "id": 429,
+                  "id": 361,
                   "attributes": {
-                    "name": "UEFA_Nations_League_6dc162dcd3.png",
+                    "name": "chile_86c07a7b38.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
+                    "hash": "chile_86c07a7b38_fad5126fd0",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.06,
-                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
+                    "size": 0.7,
+                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-03-26T16:50:49.941Z",
-                    "updatedAt": "2026-03-26T16:50:49.941Z"
+                    "createdAt": "2025-08-03T16:01:20.348Z",
+                    "updatedAt": "2025-08-03T16:01:20.348Z"
                   }
                 }
               }
@@ -262,116 +343,63 @@
       }
     },
     {
-      "id": 40049,
+      "id": 40068,
       "attributes": {
-        "diary_description": "Segunda División: Uruguay Montevideo vs Rentistas",
-        "diary_hour": "11:00:00",
+        "diary_description": "Liga MX: Guadalajara vs Querétaro",
+        "diary_hour": "18:00:00",
         "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T12:00:15.040Z",
-        "updatedAt": "2026-09-26T12:00:16.696Z",
-        "publishedAt": "2026-09-26T12:00:16.692Z",
+        "createdAt": "2026-09-26T18:10:56.249Z",
+        "updatedAt": "2026-09-26T18:10:57.943Z",
+        "publishedAt": "2026-09-26T18:10:57.938Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 934,
+              "id": 787,
               "attributes": {
-                "embed_name": "Disney 12",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
+                "embed_name": "Telemundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
               }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2025-08-03T13:14:04.349Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 350,
-                  "attributes": {
-                    "name": "uruguay_e2b9597af8.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "uruguay_e2b9597af8_6abda609fb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.71,
-                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:14:00.876Z",
-                    "updatedAt": "2025-08-03T13:14:00.876Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol"
-      }
-    },
-    {
-      "id": 40050,
-      "attributes": {
-        "diary_description": "League Two: Oldham Athletic vs Salford City",
-        "diary_hour": "11:30:00",
-        "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T12:00:45.561Z",
-        "updatedAt": "2026-09-26T12:00:47.173Z",
-        "publishedAt": "2026-09-26T12:00:47.169Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
+            },
             {
-              "id": 933,
+              "id": 790,
               "attributes": {
-                "embed_name": "Disney 13",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
+                "embed_name": "Universo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 8,
+            "id": 5,
             "attributes": {
-              "name": "Inglaterra",
-              "createdAt": "2023-11-22T15:34:59.892Z",
-              "updatedAt": "2025-08-03T13:11:39.073Z",
-              "publishedAt": "2023-11-22T15:35:01.179Z",
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
               "image": {
                 "data": {
-                  "id": 346,
+                  "id": 372,
                   "attributes": {
-                    "name": "inglaterra_823176495f.png",
+                    "name": "bandera_fbc29cb609.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "inglaterra_823176495f_fc4f47c43e",
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.48,
-                    "url": "/uploads/inglaterra_823176495f_fc4f47c43e.png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-03T13:11:35.093Z",
-                    "updatedAt": "2025-08-03T13:11:35.093Z"
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
                   }
                 }
               }
@@ -689,56 +717,70 @@
       }
     },
     {
-      "id": 40046,
+      "id": 40069,
       "attributes": {
-        "diary_description": "UEFA Nations League: Bulgaria vs Luxemburgo",
-        "diary_hour": "11:00:00",
+        "diary_description": "Primera A: Cúcuta Deportivo vs Llaneros",
+        "diary_hour": "18:15:00",
         "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T11:56:09.249Z",
-        "updatedAt": "2026-09-26T15:50:10.250Z",
-        "publishedAt": "2026-09-26T11:56:10.889Z",
+        "createdAt": "2026-09-26T18:12:09.576Z",
+        "updatedAt": "2026-09-26T18:12:17.999Z",
+        "publishedAt": "2026-09-26T18:12:17.995Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 936,
+              "id": 164,
               "attributes": {
-                "embed_name": "Disney 11",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+              }
+            },
+            {
+              "id": 293,
+              "attributes": {
+                "embed_name": "Win Sports + HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
+              }
+            },
+            {
+              "id": 1523,
+              "attributes": {
+                "embed_name": "Win Sports + |  opc3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vd2lucGx1cy5odG1s"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 140,
+            "id": 17,
             "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-03-26T16:50:53.653Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2025-08-03T15:05:58.494Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
               "image": {
                 "data": {
-                  "id": 429,
+                  "id": 354,
                   "attributes": {
-                    "name": "UEFA_Nations_League_6dc162dcd3.png",
+                    "name": "colombia_dcf9cc2637.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
+                    "hash": "colombia_dcf9cc2637_a1661b26da",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.06,
-                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
+                    "size": 0.51,
+                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-03-26T16:50:49.941Z",
-                    "updatedAt": "2026-03-26T16:50:49.941Z"
+                    "createdAt": "2025-08-03T15:05:54.509Z",
+                    "updatedAt": "2025-08-03T15:05:54.509Z"
                   }
                 }
               }
@@ -749,56 +791,56 @@
       }
     },
     {
-      "id": 40043,
+      "id": 40070,
       "attributes": {
-        "diary_description": "LaLiga 2: Tenerife vs Cádiz",
-        "diary_hour": "11:30:00",
+        "diary_description": "Primera División: Torque vs Deportivo Maldonado",
+        "diary_hour": "19:30:00",
         "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T11:51:09.052Z",
-        "updatedAt": "2026-09-26T16:43:11.844Z",
-        "publishedAt": "2026-09-26T11:51:10.720Z",
+        "createdAt": "2026-09-26T18:12:38.217Z",
+        "updatedAt": "2026-09-26T18:12:39.895Z",
+        "publishedAt": "2026-09-26T18:12:39.891Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 522,
+              "id": 831,
               "attributes": {
-                "embed_name": "LaLiga TV Hypermotion ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+                "embed_name": "Disney 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 7,
+            "id": 16,
             "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
               "image": {
                 "data": {
-                  "id": 375,
+                  "id": 350,
                   "attributes": {
-                    "name": "espana_a8510f9b5f.png",
+                    "name": "uruguay_e2b9597af8.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
                   }
                 }
               }
@@ -809,56 +851,84 @@
       }
     },
     {
-      "id": 40042,
+      "id": 40071,
       "attributes": {
-        "diary_description": "LaLiga 2: Celta de Vigo II vs Sabadell",
-        "diary_hour": "11:30:00",
+        "diary_description": "Amistoso: México vs Colombia",
+        "diary_hour": "20:00:00",
         "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T11:50:04.934Z",
-        "updatedAt": "2026-09-26T16:43:24.974Z",
-        "publishedAt": "2026-09-26T11:50:06.551Z",
+        "createdAt": "2026-09-26T18:14:32.445Z",
+        "updatedAt": "2026-09-26T18:14:34.152Z",
+        "publishedAt": "2026-09-26T18:14:34.148Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 506,
+              "id": 206,
               "attributes": {
-                "embed_name": "LaLiga TV Hypermotion 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMg=="
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4g"
+              }
+            },
+            {
+              "id": 1524,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vdHVkbnVzYS5odG1s"
+              }
+            },
+            {
+              "id": 324,
+              "attributes": {
+                "embed_name": "Univision",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg=="
+              }
+            },
+            {
+              "id": 996,
+              "attributes": {
+                "embed_name": "Canal 5 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ=="
+              }
+            },
+            {
+              "id": 620,
+              "attributes": {
+                "embed_name": "Azteca 7",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 7,
+            "id": 133,
             "attributes": {
-              "name": "España",
-              "createdAt": "2023-11-22T15:34:02.037Z",
-              "updatedAt": "2025-08-15T18:33:39.904Z",
-              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "name": "Amistosos Paises",
+              "createdAt": "2025-03-01T00:14:07.871Z",
+              "updatedAt": "2025-08-03T13:20:12.777Z",
+              "publishedAt": "2025-03-01T00:14:09.910Z",
               "image": {
                 "data": {
-                  "id": 375,
+                  "id": 347,
                   "attributes": {
-                    "name": "espana_a8510f9b5f.png",
+                    "name": "amistosos_bbe2ec4c17.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "espana_a8510f9b5f_9213b1e460",
+                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.46,
-                    "url": "/uploads/espana_a8510f9b5f_9213b1e460.png",
+                    "size": 0.87,
+                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-15T18:33:34.734Z",
-                    "updatedAt": "2025-08-15T18:33:34.734Z"
+                    "createdAt": "2025-08-03T13:12:14.467Z",
+                    "updatedAt": "2025-08-15T11:15:10.464Z"
                   }
                 }
               }
@@ -957,144 +1027,70 @@
       }
     },
     {
-      "id": 40047,
+      "id": 40058,
       "attributes": {
-        "diary_description": "UEFA Nations League: Islandia vs Estonia",
-        "diary_hour": "11:00:00",
+        "diary_description": "Supercopa Argentina: Estudiantes vs Rosario Central\n",
+        "diary_hour": "14:00:00",
         "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T11:58:27.084Z",
-        "updatedAt": "2026-09-26T17:08:34.598Z",
-        "publishedAt": "2026-09-26T11:58:28.939Z",
+        "createdAt": "2026-09-26T12:10:26.846Z",
+        "updatedAt": "2026-09-26T20:35:26.585Z",
+        "publishedAt": "2026-09-26T12:10:48.394Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 657,
+              "id": 833,
               "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+                "embed_name": "Disney 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
               }
             },
             {
-              "id": 832,
+              "id": 644,
               "attributes": {
-                "embed_name": "Disney 09",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
+                "embed_name": "Dsports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
               }
             },
             {
-              "id": 1512,
+              "id": 1522,
               "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZXNwbi5odG1s"
-              }
-            },
-            {
-              "id": 799,
-              "attributes": {
-                "embed_name": "SporTV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg=="
+                "embed_name": "Dsports Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZHNwb3J0cy5odG1s"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 140,
+            "id": 72,
             "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-03-26T16:50:53.653Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
               "image": {
                 "data": {
-                  "id": 429,
+                  "id": 362,
                   "attributes": {
-                    "name": "UEFA_Nations_League_6dc162dcd3.png",
+                    "name": "argentina_2bd748026e.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 64,
-                    "height": 64,
+                    "width": 128,
+                    "height": 128,
                     "formats": null,
-                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
+                    "hash": "argentina_2bd748026e_628913fc18",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.06,
-                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-03-26T16:50:49.941Z",
-                    "updatedAt": "2026-03-26T16:50:49.941Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol"
-      }
-    },
-    {
-      "id": 40038,
-      "attributes": {
-        "diary_description": "Primera B: Unión San Felipe vs Copiapó",
-        "diary_hour": "10:30:00",
-        "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T11:46:12.160Z",
-        "updatedAt": "2026-09-26T17:24:55.230Z",
-        "publishedAt": "2026-09-26T11:46:13.742Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-              }
-            },
-            {
-              "id": 1521,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vdG50Y2hpbGUuaHRtbA=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2025-08-03T16:01:24.110Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 361,
-                  "attributes": {
-                    "name": "chile_86c07a7b38.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "chile_86c07a7b38_fad5126fd0",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.7,
-                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:01:20.348Z",
-                    "updatedAt": "2025-08-03T16:01:20.348Z"
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
                   }
                 }
               }
@@ -1306,6 +1302,73 @@
       }
     },
     {
+      "id": 40072,
+      "attributes": {
+        "diary_description": "Liga de Expansión MX: Dorados vs Durango",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-09-26",
+        "createdAt": "2026-09-26T18:21:32.906Z",
+        "updatedAt": "2026-09-26T18:21:47.272Z",
+        "publishedAt": "2026-09-26T18:21:34.530Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+              }
+            },
+            {
+              "id": 586,
+              "attributes": {
+                "embed_name": "ESPN 3 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXgg"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
       "id": 40051,
       "attributes": {
         "diary_description": "Primera División: Cerro Largo vs Nacional",
@@ -1366,165 +1429,70 @@
       }
     },
     {
-      "id": 40054,
+      "id": 40073,
       "attributes": {
-        "diary_description": "UEFA Nations League: Inglaterra vs España",
-        "diary_hour": "13:45:00",
+        "diary_description": "Primera A: Junior vs Medellín",
+        "diary_hour": "20:20:00",
         "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T12:05:38.526Z",
-        "updatedAt": "2026-09-26T17:27:48.891Z",
-        "publishedAt": "2026-09-26T12:05:42.064Z",
+        "createdAt": "2026-09-26T18:30:20.298Z",
+        "updatedAt": "2026-09-26T18:30:24.017Z",
+        "publishedAt": "2026-09-26T18:30:22.032Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 657,
+              "id": 164,
               "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
               }
             },
             {
-              "id": 1060,
+              "id": 293,
               "attributes": {
-                "embed_name": "Disney 17",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3"
+                "embed_name": "Win Sports + HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
               }
             },
             {
-              "id": 1512,
+              "id": 1523,
               "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZXNwbi5odG1s"
-              }
-            },
-            {
-              "id": 607,
-              "attributes": {
-                "embed_name": "Fox Sports 2 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+                "embed_name": "Win Sports + |  opc3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vd2lucGx1cy5odG1s"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 140,
+            "id": 17,
             "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-03-26T16:50:53.653Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2025-08-03T15:05:58.494Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
               "image": {
                 "data": {
-                  "id": 429,
+                  "id": 354,
                   "attributes": {
-                    "name": "UEFA_Nations_League_6dc162dcd3.png",
+                    "name": "colombia_dcf9cc2637.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
+                    "hash": "colombia_dcf9cc2637_a1661b26da",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.06,
-                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
+                    "size": 0.51,
+                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-03-26T16:50:49.941Z",
-                    "updatedAt": "2026-03-26T16:50:49.941Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol"
-      }
-    },
-    {
-      "id": 40044,
-      "attributes": {
-        "diary_description": "Copa Mundial Femenina Sub-20 de la FIFA: Italia vs Colombia",
-        "diary_hour": "11:00:00",
-        "date_diary": "2026-09-26",
-        "createdAt": "2026-09-26T11:52:41.151Z",
-        "updatedAt": "2026-09-26T17:30:54.998Z",
-        "publishedAt": "2026-09-26T11:52:44.126Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 736,
-              "attributes": {
-                "embed_name": "Caracol TV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhcmFjb2w="
-              }
-            },
-            {
-              "id": 816,
-              "attributes": {
-                "embed_name": "Dsports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHNwb3J0c2FyLnBocA=="
-              }
-            },
-            {
-              "id": 644,
-              "attributes": {
-                "embed_name": "Dsports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
-              }
-            },
-            {
-              "id": 1522,
-              "attributes": {
-                "embed_name": "Dsports Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZHNwb3J0cy5odG1s"
-              }
-            },
-            {
-              "id": 1410,
-              "attributes": {
-                "embed_name": "Dsports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 151,
-            "attributes": {
-              "name": "mundial 2026",
-              "createdAt": "2026-06-11T10:02:46.045Z",
-              "updatedAt": "2026-06-24T23:22:13.248Z",
-              "publishedAt": "2026-06-11T10:02:47.907Z",
-              "image": {
-                "data": {
-                  "id": 437,
-                  "attributes": {
-                    "name": "copamundial.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "copamundial_69c33e7ee4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.91,
-                    "url": "/uploads/copamundial_69c33e7ee4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-06-24T23:22:08.564Z",
-                    "updatedAt": "2026-06-24T23:22:42.745Z"
+                    "createdAt": "2025-08-03T15:05:54.509Z",
+                    "updatedAt": "2025-08-03T15:05:54.509Z"
                   }
                 }
               }
@@ -1815,6 +1783,161 @@
         },
         "deportes": "futbol"
       }
+    },
+    {
+      "id": 40074,
+      "attributes": {
+        "diary_description": "Liga MX: Santos Laguna vs Pachuca",
+        "diary_hour": "22:00:00",
+        "date_diary": "2026-09-26",
+        "createdAt": "2026-09-26T18:30:57.450Z",
+        "updatedAt": "2026-09-26T18:31:36.257Z",
+        "publishedAt": "2026-09-26T18:30:59.052Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1071,
+              "attributes": {
+                "embed_name": "Unimas",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcwoK"
+              }
+            },
+            {
+              "id": 308,
+              "attributes": {
+                "embed_name": "ESPN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+              }
+            },
+            {
+              "id": 1520,
+              "attributes": {
+                "embed_name": "ESPN MX Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZXNwbm14Lmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40075,
+      "attributes": {
+        "diary_description": "Liga MX: Tigres UANL vs Puebla",
+        "diary_hour": "22:10:00",
+        "date_diary": "2026-09-26",
+        "createdAt": "2026-09-26T18:32:35.863Z",
+        "updatedAt": "2026-09-26T18:32:37.604Z",
+        "publishedAt": "2026-09-26T18:32:37.600Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 620,
+              "attributes": {
+                "embed_name": "Azteca 7",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc="
+              }
+            },
+            {
+              "id": 288,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+              }
+            },
+            {
+              "id": 790,
+              "attributes": {
+                "embed_name": "Universo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
+              }
+            },
+            {
+              "id": 787,
+              "attributes": {
+                "embed_name": "Telemundo",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2025-08-10T02:27:25.343Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 372,
+                  "attributes": {
+                    "name": "bandera_fbc29cb609.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "bandera_fbc29cb609_69a4b8272a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/bandera_fbc29cb609_69a4b8272a.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-10T02:27:20.896Z",
+                    "updatedAt": "2025-08-10T02:27:20.896Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
     }
   ],
   "meta": {
@@ -1822,7 +1945,7 @@
       "page": 1,
       "pageSize": 100,
       "pageCount": 1,
-      "total": 27
+      "total": 28
     }
   }
 }
