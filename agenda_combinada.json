@@ -1,70 +1,606 @@
 {
   "data": [
     {
-      "id": 40143,
+      "id": 40145,
       "attributes": {
-        "diary_description": "Liga de Naciones de la CONCACAF: Guatemala vs El Salvador",
-        "diary_hour": "21:00:00",
-        "date_diary": "2026-09-28",
-        "createdAt": "2026-09-28T21:52:41.605Z",
-        "updatedAt": "2026-09-28T21:53:47.870Z",
-        "publishedAt": "2026-09-28T21:52:43.625Z",
+        "diary_description": "Copa Africana de Naciones: Islas de Cabo Verde vs Ruanda",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-09-29",
+        "createdAt": "2026-09-29T12:27:49.422Z",
+        "updatedAt": "2026-09-29T12:27:51.061Z",
+        "publishedAt": "2026-09-29T12:27:51.057Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 607,
+              "id": 1204,
               "attributes": {
-                "embed_name": "Fox Sports 2 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
-              }
-            },
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4g"
-              }
-            },
-            {
-              "id": 1524,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vdHVkbnVzYS5odG1s"
+                "embed_name": "BeIN Sports Ñ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 58,
+            "id": 106,
             "attributes": {
-              "name": "CONCACAF Liga de Campeones",
-              "createdAt": "2024-02-06T05:16:03.730Z",
-              "updatedAt": "2025-08-19T16:32:16.629Z",
-              "publishedAt": "2024-02-06T05:16:26.837Z",
+              "name": "AFRICA",
+              "createdAt": "2024-06-29T13:33:14.957Z",
+              "updatedAt": "2025-08-12T12:45:38.689Z",
+              "publishedAt": "2024-06-29T13:33:15.892Z",
               "image": {
                 "data": {
-                  "id": 381,
+                  "id": 347,
                   "attributes": {
-                    "name": "concacaf_liga_campeones_fad6673376.png",
+                    "name": "amistosos_bbe2ec4c17.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "concacaf_liga_campeones_fad6673376_904ea61955",
+                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.61,
-                    "url": "/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
+                    "size": 0.87,
+                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-19T16:32:12.597Z",
-                    "updatedAt": "2025-08-19T16:32:12.597Z"
+                    "createdAt": "2025-08-03T13:12:14.467Z",
+                    "updatedAt": "2025-08-15T11:15:10.464Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40144,
+      "attributes": {
+        "diary_description": "Copa Africana de Naciones: Sudán del Sur vs Egipto",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-09-29",
+        "createdAt": "2026-09-29T12:27:26.037Z",
+        "updatedAt": "2026-09-29T12:27:56.681Z",
+        "publishedAt": "2026-09-29T12:27:27.886Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1204,
+              "attributes": {
+                "embed_name": "BeIN Sports Ñ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 106,
+            "attributes": {
+              "name": "AFRICA",
+              "createdAt": "2024-06-29T13:33:14.957Z",
+              "updatedAt": "2025-08-12T12:45:38.689Z",
+              "publishedAt": "2024-06-29T13:33:15.892Z",
+              "image": {
+                "data": {
+                  "id": 347,
+                  "attributes": {
+                    "name": "amistosos_bbe2ec4c17.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:12:14.467Z",
+                    "updatedAt": "2025-08-15T11:15:10.464Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40146,
+      "attributes": {
+        "diary_description": "UEFA Nations League: Finlandia vs Bielorrusia",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-09-29",
+        "createdAt": "2026-09-29T12:28:21.171Z",
+        "updatedAt": "2026-09-29T12:29:07.428Z",
+        "publishedAt": "2026-09-29T12:28:22.860Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4yIA=="
+              }
+            },
+            {
+              "id": 833,
+              "attributes": {
+                "embed_name": "Disney 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            },
+            {
+              "id": 1513,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZXNwbjIuaHRtbA=="
+              }
+            },
+            {
+              "id": 607,
+              "attributes": {
+                "embed_name": "Fox Sports 2 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 140,
+            "attributes": {
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-03-26T16:50:53.653Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "image": {
+                "data": {
+                  "id": 429,
+                  "attributes": {
+                    "name": "UEFA_Nations_League_6dc162dcd3.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.06,
+                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-03-26T16:50:49.941Z",
+                    "updatedAt": "2026-03-26T16:50:49.941Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40147,
+      "attributes": {
+        "diary_description": "UEFA Nations League: Moldavia vs Islas Feroe",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-09-29",
+        "createdAt": "2026-09-29T12:29:28.117Z",
+        "updatedAt": "2026-09-29T12:29:43.924Z",
+        "publishedAt": "2026-09-29T12:29:30.035Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney 02",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            },
+            {
+              "id": 170,
+              "attributes": {
+                "embed_name": "Fox Soccer Plus",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNvY2NlcnBsdXM="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 140,
+            "attributes": {
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-03-26T16:50:53.653Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "image": {
+                "data": {
+                  "id": 429,
+                  "attributes": {
+                    "name": "UEFA_Nations_League_6dc162dcd3.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.06,
+                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-03-26T16:50:49.941Z",
+                    "updatedAt": "2026-03-26T16:50:49.941Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40148,
+      "attributes": {
+        "diary_description": "Torneo de Reserva: Atl. Rafaela 2 vs Ferro Carril R",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-09-29",
+        "createdAt": "2026-09-29T12:30:02.578Z",
+        "updatedAt": "2026-09-29T12:30:04.320Z",
+        "publishedAt": "2026-09-29T12:30:04.316Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 257,
+              "attributes": {
+                "embed_name": "TNT Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40149,
+      "attributes": {
+        "diary_description": "UEFA Nations League: Luxemburgo vs Islandia",
+        "diary_hour": "13:45:00",
+        "date_diary": "2026-09-29",
+        "createdAt": "2026-09-29T12:30:36.893Z",
+        "updatedAt": "2026-09-29T12:30:38.618Z",
+        "publishedAt": "2026-09-29T12:30:38.615Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+              }
+            },
+            {
+              "id": 563,
+              "attributes": {
+                "embed_name": "Sportv 3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0djM="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 140,
+            "attributes": {
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-03-26T16:50:53.653Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "image": {
+                "data": {
+                  "id": 429,
+                  "attributes": {
+                    "name": "UEFA_Nations_League_6dc162dcd3.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.06,
+                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-03-26T16:50:49.941Z",
+                    "updatedAt": "2026-03-26T16:50:49.941Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40150,
+      "attributes": {
+        "diary_description": "UEFA Nations League: España vs Croacia",
+        "diary_hour": "13:45:00",
+        "date_diary": "2026-09-29",
+        "createdAt": "2026-09-29T12:31:01.195Z",
+        "updatedAt": "2026-09-29T15:27:57.341Z",
+        "publishedAt": "2026-09-29T12:31:02.855Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1006,
+              "attributes": {
+                "embed_name": "La1TVE",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2xhMXR2ZS5waHA="
+              }
+            },
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+              }
+            },
+            {
+              "id": 1512,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZXNwbi5odG1s"
+              }
+            },
+            {
+              "id": 799,
+              "attributes": {
+                "embed_name": "SporTV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg=="
+              }
+            },
+            {
+              "id": 1224,
+              "attributes": {
+                "embed_name": "FOX Sports 1 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 140,
+            "attributes": {
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-03-26T16:50:53.653Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "image": {
+                "data": {
+                  "id": 429,
+                  "attributes": {
+                    "name": "UEFA_Nations_League_6dc162dcd3.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.06,
+                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-03-26T16:50:49.941Z",
+                    "updatedAt": "2026-03-26T16:50:49.941Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40151,
+      "attributes": {
+        "diary_description": "UEFA Nations League: Eslovaquia vs Kazajstán",
+        "diary_hour": "13:45:00",
+        "date_diary": "2026-09-29",
+        "createdAt": "2026-09-29T15:29:31.862Z",
+        "updatedAt": "2026-09-29T15:29:33.532Z",
+        "publishedAt": "2026-09-29T15:29:33.529Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 140,
+            "attributes": {
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-03-26T16:50:53.653Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "image": {
+                "data": {
+                  "id": 429,
+                  "attributes": {
+                    "name": "UEFA_Nations_League_6dc162dcd3.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.06,
+                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-03-26T16:50:49.941Z",
+                    "updatedAt": "2026-03-26T16:50:49.941Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40152,
+      "attributes": {
+        "diary_description": "UEFA Nations League: Eslovenia vs Macedonia del Norte",
+        "diary_hour": "13:45:00",
+        "date_diary": "2026-09-29",
+        "createdAt": "2026-09-29T15:30:36.964Z",
+        "updatedAt": "2026-09-29T15:30:38.696Z",
+        "publishedAt": "2026-09-29T15:30:38.690Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 140,
+            "attributes": {
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-03-26T16:50:53.653Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "image": {
+                "data": {
+                  "id": 429,
+                  "attributes": {
+                    "name": "UEFA_Nations_League_6dc162dcd3.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.06,
+                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-03-26T16:50:49.941Z",
+                    "updatedAt": "2026-03-26T16:50:49.941Z"
                   }
                 }
               }
@@ -80,7 +616,7 @@
       "page": 1,
       "pageSize": 100,
       "pageCount": 1,
-      "total": 1
+      "total": 9
     }
   }
 }
