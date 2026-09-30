@@ -1,56 +1,941 @@
 {
   "data": [
     {
-      "id": 40167,
+      "id": 40168,
       "attributes": {
-        "diary_description": "Liga de Naciones de la CONCACAF: Belice vs San Vicente / Granadinas",
-        "diary_hour": "21:00:00",
-        "date_diary": "2026-09-29",
-        "createdAt": "2026-09-29T19:05:20.099Z",
-        "updatedAt": "2026-09-29T19:05:21.729Z",
-        "publishedAt": "2026-09-29T19:05:21.724Z",
+        "diary_description": "Amistoso: Lituania vs Andorra\n",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:03:20.523Z",
+        "updatedAt": "2026-09-30T12:03:37.818Z",
+        "publishedAt": "2026-09-30T12:03:22.733Z",
         "channels": {
           "data": []
         },
         "embeds": {
           "data": [
             {
-              "id": 607,
+              "id": 833,
               "attributes": {
-                "embed_name": "Fox Sports 2 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+                "embed_name": "Disney 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+              }
+            },
+            {
+              "id": 170,
+              "attributes": {
+                "embed_name": "Fox Soccer Plus",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNvY2NlcnBsdXM="
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 58,
+            "id": 133,
             "attributes": {
-              "name": "CONCACAF Liga de Campeones",
-              "createdAt": "2024-02-06T05:16:03.730Z",
-              "updatedAt": "2025-08-19T16:32:16.629Z",
-              "publishedAt": "2024-02-06T05:16:26.837Z",
+              "name": "Amistosos Paises",
+              "createdAt": "2025-03-01T00:14:07.871Z",
+              "updatedAt": "2025-08-03T13:20:12.777Z",
+              "publishedAt": "2025-03-01T00:14:09.910Z",
               "image": {
                 "data": {
-                  "id": 381,
+                  "id": 347,
                   "attributes": {
-                    "name": "concacaf_liga_campeones_fad6673376.png",
+                    "name": "amistosos_bbe2ec4c17.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "concacaf_liga_campeones_fad6673376_904ea61955",
+                    "hash": "amistosos_bbe2ec4c17_02fd4e7093",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.61,
-                    "url": "/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
+                    "size": 0.87,
+                    "url": "/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-19T16:32:12.597Z",
-                    "updatedAt": "2025-08-19T16:32:12.597Z"
+                    "createdAt": "2025-08-03T13:12:14.467Z",
+                    "updatedAt": "2025-08-15T11:15:10.464Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40170,
+      "attributes": {
+        "diary_description": "UEFA Women's Champions League: Häcken vs Juventus",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:06:51.099Z",
+        "updatedAt": "2026-09-30T12:06:52.802Z",
+        "publishedAt": "2026-09-30T12:06:52.798Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 126,
+            "attributes": {
+              "name": "UEFA Women's Champions League",
+              "createdAt": "2024-12-12T13:49:45.118Z",
+              "updatedAt": "2025-09-11T07:13:05.568Z",
+              "publishedAt": "2024-12-12T13:49:47.307Z",
+              "image": {
+                "data": {
+                  "id": 396,
+                  "attributes": {
+                    "name": "uefa-mujeres-champiuons.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_uefa_mujeres_champiuons_d04430ebba.png",
+                        "hash": "thumbnail_uefa_mujeres_champiuons_d04430ebba",
+                        "mime": "image/png",
+                        "name": "thumbnail_uefa-mujeres-champiuons.png",
+                        "path": null,
+                        "size": 10.28,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "uefa_mujeres_champiuons_d04430ebba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.96,
+                    "url": "/uploads/uefa_mujeres_champiuons_d04430ebba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-11T07:13:00.224Z",
+                    "updatedAt": "2025-09-11T07:13:00.224Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40171,
+      "attributes": {
+        "diary_description": "UEFA Women's Champions League: Paris FC vs Arsenal",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:07:35.404Z",
+        "updatedAt": "2026-09-30T12:07:37.816Z",
+        "publishedAt": "2026-09-30T12:07:37.812Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 126,
+            "attributes": {
+              "name": "UEFA Women's Champions League",
+              "createdAt": "2024-12-12T13:49:45.118Z",
+              "updatedAt": "2025-09-11T07:13:05.568Z",
+              "publishedAt": "2024-12-12T13:49:47.307Z",
+              "image": {
+                "data": {
+                  "id": 396,
+                  "attributes": {
+                    "name": "uefa-mujeres-champiuons.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_uefa_mujeres_champiuons_d04430ebba.png",
+                        "hash": "thumbnail_uefa_mujeres_champiuons_d04430ebba",
+                        "mime": "image/png",
+                        "name": "thumbnail_uefa-mujeres-champiuons.png",
+                        "path": null,
+                        "size": 10.28,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "uefa_mujeres_champiuons_d04430ebba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.96,
+                    "url": "/uploads/uefa_mujeres_champiuons_d04430ebba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-11T07:13:00.224Z",
+                    "updatedAt": "2025-09-11T07:13:00.224Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40173,
+      "attributes": {
+        "diary_description": "UEFA Women's Champions League: OL Lyonnes vs Chelsea FC",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:09:27.026Z",
+        "updatedAt": "2026-09-30T12:10:09.762Z",
+        "publishedAt": "2026-09-30T12:09:28.748Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+              }
+            },
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+              }
+            },
+            {
+              "id": 1512,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZXNwbi5odG1s"
+              }
+            },
+            {
+              "id": 57,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 126,
+            "attributes": {
+              "name": "UEFA Women's Champions League",
+              "createdAt": "2024-12-12T13:49:45.118Z",
+              "updatedAt": "2025-09-11T07:13:05.568Z",
+              "publishedAt": "2024-12-12T13:49:47.307Z",
+              "image": {
+                "data": {
+                  "id": 396,
+                  "attributes": {
+                    "name": "uefa-mujeres-champiuons.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_uefa_mujeres_champiuons_d04430ebba.png",
+                        "hash": "thumbnail_uefa_mujeres_champiuons_d04430ebba",
+                        "mime": "image/png",
+                        "name": "thumbnail_uefa-mujeres-champiuons.png",
+                        "path": null,
+                        "size": 10.28,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "uefa_mujeres_champiuons_d04430ebba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.96,
+                    "url": "/uploads/uefa_mujeres_champiuons_d04430ebba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-11T07:13:00.224Z",
+                    "updatedAt": "2025-09-11T07:13:00.224Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40174,
+      "attributes": {
+        "diary_description": "UEFA Women's Champions League: SL Benfica vs Bayern",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:10:36.696Z",
+        "updatedAt": "2026-09-30T12:10:38.970Z",
+        "publishedAt": "2026-09-30T12:10:38.965Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 126,
+            "attributes": {
+              "name": "UEFA Women's Champions League",
+              "createdAt": "2024-12-12T13:49:45.118Z",
+              "updatedAt": "2025-09-11T07:13:05.568Z",
+              "publishedAt": "2024-12-12T13:49:47.307Z",
+              "image": {
+                "data": {
+                  "id": 396,
+                  "attributes": {
+                    "name": "uefa-mujeres-champiuons.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_uefa_mujeres_champiuons_d04430ebba.png",
+                        "hash": "thumbnail_uefa_mujeres_champiuons_d04430ebba",
+                        "mime": "image/png",
+                        "name": "thumbnail_uefa-mujeres-champiuons.png",
+                        "path": null,
+                        "size": 10.28,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "uefa_mujeres_champiuons_d04430ebba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.96,
+                    "url": "/uploads/uefa_mujeres_champiuons_d04430ebba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-11T07:13:00.224Z",
+                    "updatedAt": "2025-09-11T07:13:00.224Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40172,
+      "attributes": {
+        "diary_description": "Torneo de Reserva: Instituto vs Racing",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:08:51.712Z",
+        "updatedAt": "2026-09-30T12:14:35.535Z",
+        "publishedAt": "2026-09-30T12:08:53.398Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1514,
+              "attributes": {
+                "embed_name": "ESPN3 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZXNwbjMuaHRtbA=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40176,
+      "attributes": {
+        "diary_description": "Torneo de Reserva: Central Córdoba SdE vs Newell's Old Boys",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:14:56.376Z",
+        "updatedAt": "2026-09-30T12:14:57.999Z",
+        "publishedAt": "2026-09-30T12:14:57.995Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+              }
+            },
+            {
+              "id": 1514,
+              "attributes": {
+                "embed_name": "ESPN3 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZXNwbjMuaHRtbA=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2025-08-03T16:02:49.460Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 362,
+                  "attributes": {
+                    "name": "argentina_2bd748026e.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "argentina_2bd748026e_628913fc18",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.86,
+                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:02:45.389Z",
+                    "updatedAt": "2025-08-03T16:02:45.389Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40177,
+      "attributes": {
+        "diary_description": "Copa Chile: Deportes Concepción vs O'Higgins",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:15:16.956Z",
+        "updatedAt": "2026-09-30T12:15:18.529Z",
+        "publishedAt": "2026-09-30T12:15:18.525Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 624,
+              "attributes": {
+                "embed_name": "TNT Sports Premiun CL",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+              }
+            },
+            {
+              "id": 1521,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vdG50Y2hpbGUuaHRtbA=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2025-08-03T16:01:24.110Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 361,
+                  "attributes": {
+                    "name": "chile_86c07a7b38.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "chile_86c07a7b38_fad5126fd0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.7,
+                    "url": "/uploads/chile_86c07a7b38_fad5126fd0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T16:01:20.348Z",
+                    "updatedAt": "2025-08-03T16:01:20.348Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40178,
+      "attributes": {
+        "diary_description": "Primera División: Torque vs Peñarol",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:15:33.684Z",
+        "updatedAt": "2026-09-30T12:15:35.312Z",
+        "publishedAt": "2026-09-30T12:15:35.308Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney 07",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTcK"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2025-08-03T13:14:04.349Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 350,
+                  "attributes": {
+                    "name": "uruguay_e2b9597af8.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "uruguay_e2b9597af8_6abda609fb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.71,
+                    "url": "/uploads/uruguay_e2b9597af8_6abda609fb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T13:14:00.876Z",
+                    "updatedAt": "2025-08-03T13:14:00.876Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40179,
+      "attributes": {
+        "diary_description": "Amistoso: Argentina vs Bolivia",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:16:23.390Z",
+        "updatedAt": "2026-09-30T12:16:52.224Z",
+        "publishedAt": "2026-09-30T12:16:24.967Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 18,
+              "attributes": {
+                "embed_name": "TYC Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cyA="
+              }
+            },
+            {
+              "id": 799,
+              "attributes": {
+                "embed_name": "SporTV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg=="
+              }
+            },
+            {
+              "id": 1525,
+              "attributes": {
+                "embed_name": "TyC Sports Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vdHljLmh0bWw="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 55,
+            "attributes": {
+              "name": "Amistoso",
+              "createdAt": "2024-02-01T08:09:43.427Z",
+              "updatedAt": "2025-09-04T14:05:15.995Z",
+              "publishedAt": "2024-02-01T08:09:44.642Z",
+              "image": {
+                "data": {
+                  "id": 392,
+                  "attributes": {
+                    "name": "amistoso_paises_b9febc0d3c.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "amistoso_paises_b9febc0d3c_e1d457d1ee",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.59,
+                    "url": "/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-04T14:05:11.984Z",
+                    "updatedAt": "2025-09-04T14:05:11.984Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40180,
+      "attributes": {
+        "diary_description": "Primera A: Atlético Nacional vs Junior",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:17:16.526Z",
+        "updatedAt": "2026-09-30T12:17:18.100Z",
+        "publishedAt": "2026-09-30T12:17:18.097Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+              }
+            },
+            {
+              "id": 293,
+              "attributes": {
+                "embed_name": "Win Sports + HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
+              }
+            },
+            {
+              "id": 1523,
+              "attributes": {
+                "embed_name": "Win Sports + |  opc3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vd2lucGx1cy5odG1s"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2025-08-03T15:05:58.494Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 354,
+                  "attributes": {
+                    "name": "colombia_dcf9cc2637.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "colombia_dcf9cc2637_a1661b26da",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.51,
+                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:05:54.509Z",
+                    "updatedAt": "2025-08-03T15:05:54.509Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40175,
+      "attributes": {
+        "diary_description": "Liga 1: Cienciano vs Los Chankas",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:11:43.689Z",
+        "updatedAt": "2026-09-30T12:18:40.219Z",
+        "publishedAt": "2026-09-30T12:11:45.276Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 774,
+              "attributes": {
+                "embed_name": "Liga1max",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+              }
+            },
+            {
+              "id": 1519,
+              "attributes": {
+                "embed_name": "Liga1max Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vbGlnYTFtYXguaHRtbA=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2025-08-03T15:07:36.491Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 357,
+                  "attributes": {
+                    "name": "peru_ddc4e685cf.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 128,
+                    "height": 128,
+                    "formats": null,
+                    "hash": "peru_ddc4e685cf_43831ed9b0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.79,
+                    "url": "/uploads/peru_ddc4e685cf_43831ed9b0.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-08-03T15:07:32.287Z",
+                    "updatedAt": "2025-08-03T15:07:32.287Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol"
+      }
+    },
+    {
+      "id": 40169,
+      "attributes": {
+        "diary_description": "UEFA Women's Champions League: Roma vs Barcelona",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-09-30",
+        "createdAt": "2026-09-30T12:04:22.798Z",
+        "updatedAt": "2026-09-30T15:29:57.861Z",
+        "publishedAt": "2026-09-30T12:04:26.324Z",
+        "channels": {
+          "data": []
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4yIA=="
+              }
+            },
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney 02",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+              }
+            },
+            {
+              "id": 1513,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZXNwbjIuaHRtbA=="
+              }
+            },
+            {
+              "id": 57,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 126,
+            "attributes": {
+              "name": "UEFA Women's Champions League",
+              "createdAt": "2024-12-12T13:49:45.118Z",
+              "updatedAt": "2025-09-11T07:13:05.568Z",
+              "publishedAt": "2024-12-12T13:49:47.307Z",
+              "image": {
+                "data": {
+                  "id": 396,
+                  "attributes": {
+                    "name": "uefa-mujeres-champiuons.png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_uefa_mujeres_champiuons_d04430ebba.png",
+                        "hash": "thumbnail_uefa_mujeres_champiuons_d04430ebba",
+                        "mime": "image/png",
+                        "name": "thumbnail_uefa-mujeres-champiuons.png",
+                        "path": null,
+                        "size": 10.28,
+                        "width": 156,
+                        "height": 156
+                      }
+                    },
+                    "hash": "uefa_mujeres_champiuons_d04430ebba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.96,
+                    "url": "/uploads/uefa_mujeres_champiuons_d04430ebba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2025-09-11T07:13:00.224Z",
+                    "updatedAt": "2025-09-11T07:13:00.224Z"
                   }
                 }
               }
@@ -66,7 +951,7 @@
       "page": 1,
       "pageSize": 100,
       "pageCount": 1,
-      "total": 1
+      "total": 13
     }
   }
 }
