@@ -1,171 +1,6 @@
 {
   "data": [
     {
-      "id": 40173,
-      "attributes": {
-        "diary_description": "UEFA Women's Champions League: OL Lyonnes vs Chelsea FC",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-30",
-        "createdAt": "2026-09-30T12:09:27.026Z",
-        "updatedAt": "2026-09-30T12:10:09.762Z",
-        "publishedAt": "2026-09-30T12:09:28.748Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
-              }
-            },
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney 05",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
-              }
-            },
-            {
-              "id": 1512,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vdGFyamV0YXJvaml0YS54eXovcmVwcm8vZXNwbi5odG1s"
-              }
-            },
-            {
-              "id": 57,
-              "attributes": {
-                "embed_name": "ESPN Deportes",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 126,
-            "attributes": {
-              "name": "UEFA Women's Champions League",
-              "createdAt": "2024-12-12T13:49:45.118Z",
-              "updatedAt": "2025-09-11T07:13:05.568Z",
-              "publishedAt": "2024-12-12T13:49:47.307Z",
-              "image": {
-                "data": {
-                  "id": 396,
-                  "attributes": {
-                    "name": "uefa-mujeres-champiuons.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 500,
-                    "height": 500,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_uefa_mujeres_champiuons_d04430ebba.png",
-                        "hash": "thumbnail_uefa_mujeres_champiuons_d04430ebba",
-                        "mime": "image/png",
-                        "name": "thumbnail_uefa-mujeres-champiuons.png",
-                        "path": null,
-                        "size": 10.28,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "uefa_mujeres_champiuons_d04430ebba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 7.96,
-                    "url": "/uploads/uefa_mujeres_champiuons_d04430ebba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-11T07:13:00.224Z",
-                    "updatedAt": "2025-09-11T07:13:00.224Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol"
-      }
-    },
-    {
-      "id": 40174,
-      "attributes": {
-        "diary_description": "UEFA Women's Champions League: SL Benfica vs Bayern",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-09-30",
-        "createdAt": "2026-09-30T12:10:36.696Z",
-        "updatedAt": "2026-09-30T12:10:38.970Z",
-        "publishedAt": "2026-09-30T12:10:38.965Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 849,
-              "attributes": {
-                "embed_name": "Disney 06",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 126,
-            "attributes": {
-              "name": "UEFA Women's Champions League",
-              "createdAt": "2024-12-12T13:49:45.118Z",
-              "updatedAt": "2025-09-11T07:13:05.568Z",
-              "publishedAt": "2024-12-12T13:49:47.307Z",
-              "image": {
-                "data": {
-                  "id": 396,
-                  "attributes": {
-                    "name": "uefa-mujeres-champiuons.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 500,
-                    "height": 500,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_uefa_mujeres_champiuons_d04430ebba.png",
-                        "hash": "thumbnail_uefa_mujeres_champiuons_d04430ebba",
-                        "mime": "image/png",
-                        "name": "thumbnail_uefa-mujeres-champiuons.png",
-                        "path": null,
-                        "size": 10.28,
-                        "width": 156,
-                        "height": 156
-                      }
-                    },
-                    "hash": "uefa_mujeres_champiuons_d04430ebba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 7.96,
-                    "url": "/uploads/uefa_mujeres_champiuons_d04430ebba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-09-11T07:13:00.224Z",
-                    "updatedAt": "2025-09-11T07:13:00.224Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol"
-      }
-    },
-    {
       "id": 40176,
       "attributes": {
         "diary_description": "Torneo de Reserva: Central Córdoba SdE vs Newell's Old Boys",
@@ -508,14 +343,14 @@
       }
     },
     {
-      "id": 40175,
+      "id": 40181,
       "attributes": {
-        "diary_description": "Liga 1: Cienciano vs Los Chankas",
-        "diary_hour": "15:00:00",
+        "diary_description": "Amistoso internacional: lianza Lima vs Palestino",
+        "diary_hour": "20:00:00",
         "date_diary": "2026-09-30",
-        "createdAt": "2026-09-30T12:11:43.689Z",
-        "updatedAt": "2026-09-30T12:18:40.219Z",
-        "publishedAt": "2026-09-30T12:11:45.276Z",
+        "createdAt": "2026-09-30T22:46:58.499Z",
+        "updatedAt": "2026-09-30T22:50:14.195Z",
+        "publishedAt": "2026-09-30T22:47:00.174Z",
         "channels": {
           "data": []
         },
@@ -580,7 +415,7 @@
       "page": 1,
       "pageSize": 100,
       "pageCount": 1,
-      "total": 8
+      "total": 6
     }
   }
 }
