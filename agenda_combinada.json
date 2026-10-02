@@ -61,126 +61,6 @@
       }
     },
     {
-      "id": 40198,
-      "attributes": {
-        "diary_description": "Liga de Naciones de la CONCACAF: Dominica vs Guyana",
-        "diary_hour": "16:00:00",
-        "date_diary": "2026-10-01",
-        "createdAt": "2026-10-01T12:17:02.729Z",
-        "updatedAt": "2026-10-01T12:17:04.329Z",
-        "publishedAt": "2026-10-01T12:17:04.323Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 170,
-              "attributes": {
-                "embed_name": "Fox Soccer Plus",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNvY2NlcnBsdXM="
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 58,
-            "attributes": {
-              "name": "CONCACAF Liga de Campeones",
-              "createdAt": "2024-02-06T05:16:03.730Z",
-              "updatedAt": "2025-08-19T16:32:16.629Z",
-              "publishedAt": "2024-02-06T05:16:26.837Z",
-              "image": {
-                "data": {
-                  "id": 381,
-                  "attributes": {
-                    "name": "concacaf_liga_campeones_fad6673376.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "concacaf_liga_campeones_fad6673376_904ea61955",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.61,
-                    "url": "/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-19T16:32:12.597Z",
-                    "updatedAt": "2025-08-19T16:32:12.597Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol"
-      }
-    },
-    {
-      "id": 40199,
-      "attributes": {
-        "diary_description": "Liga de Naciones de la CONCACAF: Curazao vs Trinidad y Tobago",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-10-01",
-        "createdAt": "2026-10-01T12:17:27.465Z",
-        "updatedAt": "2026-10-01T12:17:29.016Z",
-        "publishedAt": "2026-10-01T12:17:29.013Z",
-        "channels": {
-          "data": []
-        },
-        "embeds": {
-          "data": [
-            {
-              "id": 607,
-              "attributes": {
-                "embed_name": "Fox Sports 2 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 58,
-            "attributes": {
-              "name": "CONCACAF Liga de Campeones",
-              "createdAt": "2024-02-06T05:16:03.730Z",
-              "updatedAt": "2025-08-19T16:32:16.629Z",
-              "publishedAt": "2024-02-06T05:16:26.837Z",
-              "image": {
-                "data": {
-                  "id": 381,
-                  "attributes": {
-                    "name": "concacaf_liga_campeones_fad6673376.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "concacaf_liga_campeones_fad6673376_904ea61955",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.61,
-                    "url": "/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-19T16:32:12.597Z",
-                    "updatedAt": "2025-08-19T16:32:12.597Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol"
-      }
-    },
-    {
       "id": 40200,
       "attributes": {
         "diary_description": "Liga de Naciones de la CONCACAF: Islas Caimán vs Puerto Rico",
@@ -521,7 +401,7 @@
       "page": 1,
       "pageSize": 100,
       "pageCount": 1,
-      "total": 8
+      "total": 6
     }
   }
 }
