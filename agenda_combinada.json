@@ -1,343 +1,71 @@
 {
   "data": [
     {
-      "id": 40328,
+      "id": 40333,
       "attributes": {
-        "diary_description": "Liga BetPlay: Bucaramanga vs Junior",
-        "diary_hour": "18:10:00",
-        "date_diary": "2026-10-04",
-        "createdAt": "2026-10-04T15:22:02.020Z",
-        "updatedAt": "2026-10-04T15:22:13.415Z",
-        "publishedAt": "2026-10-04T15:22:13.409Z",
+        "diary_description": "Liga de Naciones UEFA: Chipre vs Letonia",
+        "diary_hour": "11:00:00",
+        "date_diary": "2026-10-05",
+        "createdAt": "2026-10-04T19:43:46.136Z",
+        "updatedAt": "2026-10-04T19:44:46.278Z",
+        "publishedAt": "2026-10-04T19:44:19.486Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 164,
+              "id": 640,
               "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
                 "idioma": ""
               }
             },
             {
-              "id": 1541,
+              "id": 833,
               "attributes": {
-                "embed_name": "Win Sports + | opc3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
+                "embed_name": "Disney 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
                 "idioma": ""
+              }
+            },
+            {
+              "id": 1532,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
+                "idioma": "Español"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 17,
+            "id": 140,
             "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2025-08-03T15:05:58.494Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-03-26T16:50:53.653Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
               "image": {
                 "data": {
-                  "id": 354,
+                  "id": 429,
                   "attributes": {
-                    "name": "colombia_dcf9cc2637.png",
+                    "name": "UEFA_Nations_League_6dc162dcd3.png",
                     "alternativeText": null,
                     "caption": null,
                     "width": 64,
                     "height": 64,
                     "formats": null,
-                    "hash": "colombia_dcf9cc2637_a1661b26da",
+                    "hash": "UEFA_Nations_League_6dc162dcd3_7be97bc934",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 0.51,
-                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
+                    "size": 3.06,
+                    "url": "/uploads/UEFA_Nations_League_6dc162dcd3_7be97bc934.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:05:54.509Z",
-                    "updatedAt": "2025-08-03T15:05:54.509Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40332,
-      "attributes": {
-        "diary_description": "Liga de Naciones CONCACAF: Costa Rica vs Haiti",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-10-04",
-        "createdAt": "2026-10-04T15:25:34.973Z",
-        "updatedAt": "2026-10-04T15:26:46.898Z",
-        "publishedAt": "2026-10-04T15:25:44.514Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
-                "idioma": ""
-              }
-            },
-            {
-              "id": 607,
-              "attributes": {
-                "embed_name": "Fox Sports 2 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
-                "idioma": ""
-              }
-            },
-            {
-              "id": 1542,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
-                "idioma": ""
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 90,
-            "attributes": {
-              "name": "CONCACAF Nations League",
-              "createdAt": "2024-03-21T19:02:25.065Z",
-              "updatedAt": "2025-08-19T16:33:04.910Z",
-              "publishedAt": "2024-03-21T19:02:26.413Z",
-              "image": {
-                "data": {
-                  "id": 381,
-                  "attributes": {
-                    "name": "concacaf_liga_campeones_fad6673376.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "concacaf_liga_campeones_fad6673376_904ea61955",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.61,
-                    "url": "/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-19T16:32:12.597Z",
-                    "updatedAt": "2025-08-19T16:32:12.597Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40329,
-      "attributes": {
-        "diary_description": "Liga Profesional Argentina: Estudiantes de Rio Cuarto vs Racing Club",
-        "diary_hour": "19:30:00",
-        "date_diary": "2026-10-04",
-        "createdAt": "2026-10-04T15:22:22.121Z",
-        "updatedAt": "2026-10-04T15:22:44.538Z",
-        "publishedAt": "2026-10-04T15:22:44.533Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 257,
-              "attributes": {
-                "embed_name": "TNT Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "idioma": ""
-              }
-            },
-            {
-              "id": 1539,
-              "attributes": {
-                "embed_name": "TNT Sports Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA==",
-                "idioma": ""
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2025-08-03T16:02:49.460Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 362,
-                  "attributes": {
-                    "name": "argentina_2bd748026e.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 128,
-                    "height": 128,
-                    "formats": null,
-                    "hash": "argentina_2bd748026e_628913fc18",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.86,
-                    "url": "/uploads/argentina_2bd748026e_628913fc18.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T16:02:45.389Z",
-                    "updatedAt": "2025-08-03T16:02:45.389Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40330,
-      "attributes": {
-        "diary_description": "Liga BetPlay: Llaneros vs America de Cali",
-        "diary_hour": "20:15:00",
-        "date_diary": "2026-10-04",
-        "createdAt": "2026-10-04T15:24:08.896Z",
-        "updatedAt": "2026-10-04T15:24:31.028Z",
-        "publishedAt": "2026-10-04T15:24:31.023Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 164,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
-                "idioma": ""
-              }
-            },
-            {
-              "id": 1541,
-              "attributes": {
-                "embed_name": "Win Sports + | opc3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
-                "idioma": ""
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 17,
-            "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2025-08-03T15:05:58.494Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
-              "image": {
-                "data": {
-                  "id": 354,
-                  "attributes": {
-                    "name": "colombia_dcf9cc2637.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "colombia_dcf9cc2637_a1661b26da",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 0.51,
-                    "url": "/uploads/colombia_dcf9cc2637_a1661b26da.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T15:05:54.509Z",
-                    "updatedAt": "2025-08-03T15:05:54.509Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40331,
-      "attributes": {
-        "diary_description": "Liga de Naciones CONCACAF: Nicaragua vs Dominican Republic",
-        "diary_hour": "21:00:00",
-        "date_diary": "2026-10-04",
-        "createdAt": "2026-10-04T15:24:51.789Z",
-        "updatedAt": "2026-10-04T15:25:05.066Z",
-        "publishedAt": "2026-10-04T15:25:05.060Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 607,
-              "attributes": {
-                "embed_name": "Fox Sports 2 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
-                "idioma": ""
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 90,
-            "attributes": {
-              "name": "CONCACAF Nations League",
-              "createdAt": "2024-03-21T19:02:25.065Z",
-              "updatedAt": "2025-08-19T16:33:04.910Z",
-              "publishedAt": "2024-03-21T19:02:26.413Z",
-              "image": {
-                "data": {
-                  "id": 381,
-                  "attributes": {
-                    "name": "concacaf_liga_campeones_fad6673376.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "concacaf_liga_campeones_fad6673376_904ea61955",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.61,
-                    "url": "/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-19T16:32:12.597Z",
-                    "updatedAt": "2025-08-19T16:32:12.597Z"
+                    "createdAt": "2026-03-26T16:50:49.941Z",
+                    "updatedAt": "2026-03-26T16:50:49.941Z"
                   }
                 }
               }
@@ -354,9 +82,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 5,
+      "pageSize": 1,
       "pageCount": 1,
-      "total": 5
+      "total": 1
     }
   }
 }
