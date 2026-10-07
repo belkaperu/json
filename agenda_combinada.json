@@ -76,84 +76,6 @@
       }
     },
     {
-      "id": 40386,
-      "attributes": {
-        "diary_description": "Tenis – M1000 Shangai – Primera Ronda",
-        "diary_hour": "09:00:00",
-        "date_diary": "2026-10-07",
-        "createdAt": "2026-10-07T11:08:35.798Z",
-        "updatedAt": "2026-10-07T11:08:38.220Z",
-        "publishedAt": "2026-10-07T11:08:38.214Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 834,
-              "attributes": {
-                "embed_name": "Disney 02",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1532,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "ATP TENIS",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2026-10-06T11:53:51.709Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 40387,
       "attributes": {
         "diary_description": "Torneo de Reserva: Aldosivi vs Tigre",
@@ -663,9 +585,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 9,
+      "pageSize": 8,
       "pageCount": 1,
-      "total": 9
+      "total": 8
     }
   }
 }
