@@ -1,57 +1,17 @@
 {
   "data": [
     {
-      "id": 40378,
+      "id": 40395,
       "attributes": {
-        "diary_description": "Amistoso Internacional: Argentina vs Benín",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-10-06",
-        "createdAt": "2026-10-06T12:16:07.719Z",
-        "updatedAt": "2026-10-06T21:05:48.863Z",
-        "publishedAt": "2026-10-06T12:16:23.052Z",
+        "diary_description": "Brasileirão: Cruzeiro vs São Paulo",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:12:27.864Z",
+        "updatedAt": "2026-10-07T11:15:31.402Z",
+        "publishedAt": "2026-10-07T11:15:11.102Z",
         "destacado": false,
         "embeds": {
           "data": [
-            {
-              "id": 1547,
-              "attributes": {
-                "embed_name": "Dsports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2RzcG9ydHNoZC5waHA=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1252,
-              "attributes": {
-                "embed_name": "Dsports ARG",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 18,
-              "attributes": {
-                "embed_name": "TYC Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 759,
-              "attributes": {
-                "embed_name": "Telefe",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVmZQ==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1544,
-              "attributes": {
-                "embed_name": "TyC Sports Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s",
-                "idioma": "Español"
-              }
-            },
             {
               "id": 799,
               "attributes": {
@@ -59,141 +19,50 @@
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg==",
                 "idioma": "Español"
               }
-            },
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1542,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
-                "idioma": "Español"
-              }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 133,
+            "id": 1,
             "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2026-10-05T21:07:28.197Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2026-10-05T20:42:01.571Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
               "image": {
                 "data": {
-                  "id": 630,
+                  "id": 464,
                   "attributes": {
-                    "name": "amistoso paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 282,
-                    "height": 282,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_amistoso_paises_5bc0d82212.png",
-                        "hash": "thumbnail_amistoso_paises_5bc0d82212",
-                        "mime": "image/png",
-                        "name": "thumbnail_amistoso paises.png",
-                        "path": null,
-                        "size": 46.01,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 46013
-                      }
-                    },
-                    "hash": "amistoso_paises_5bc0d82212",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 21.97,
-                    "url": "/uploads/amistoso_paises_5bc0d82212.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T21:07:24.010Z",
-                    "updatedAt": "2026-10-05T21:07:24.010Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40377,
-      "attributes": {
-        "diary_description": "Liga de Naciones CONCACAF: Antigua y Barbuda vs Aruba",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-10-06",
-        "createdAt": "2026-10-06T12:13:24.753Z",
-        "updatedAt": "2026-10-06T12:13:38.942Z",
-        "publishedAt": "2026-10-06T12:13:38.936Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 170,
-              "attributes": {
-                "embed_name": "Fox Soccer Plus",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNvY2NlcnBsdXM=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 90,
-            "attributes": {
-              "name": "CONCACAF Nations League",
-              "createdAt": "2024-03-21T19:02:25.065Z",
-              "updatedAt": "2026-10-05T20:42:02.224Z",
-              "publishedAt": "2024-03-21T19:02:26.413Z",
-              "image": {
-                "data": {
-                  "id": 469,
-                  "attributes": {
-                    "name": "CONCACAF Nations League.png",
-                    "alternativeText": "CONCACAF Nations League",
-                    "caption": "sync:b28c74350954bf003a7012d9501ee250",
+                    "name": "Brasil.png",
+                    "alternativeText": "Brasil",
+                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_CONCACAF_Nations_League_8ee1fcd433.png",
-                        "hash": "thumbnail_CONCACAF_Nations_League_8ee1fcd433",
+                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
+                        "hash": "thumbnail_Brasil_f83563ade6",
                         "mime": "image/png",
-                        "name": "thumbnail_CONCACAF Nations League.png",
+                        "name": "thumbnail_Brasil.png",
                         "path": null,
-                        "size": 12.32,
+                        "size": 10.27,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 12319
+                        "sizeInBytes": 10272
                       }
                     },
-                    "hash": "CONCACAF_Nations_League_8ee1fcd433",
+                    "hash": "Brasil_f83563ade6",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 7.31,
-                    "url": "/uploads/CONCACAF_Nations_League_8ee1fcd433.png",
+                    "size": 2.61,
+                    "url": "/uploads/Brasil_f83563ade6.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:02.212Z",
-                    "updatedAt": "2026-10-05T20:42:02.212Z"
+                    "createdAt": "2026-10-05T20:42:01.559Z",
+                    "updatedAt": "2026-10-05T20:42:01.559Z"
                   }
                 }
               }
@@ -207,105 +76,14 @@
       }
     },
     {
-      "id": 40384,
+      "id": 40386,
       "attributes": {
-        "diary_description": "NHL – New York Rangers vs. New York Islanders",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-10-06",
-        "createdAt": "2026-10-06T13:39:39.660Z",
-        "updatedAt": "2026-10-06T21:08:57.072Z",
-        "publishedAt": "2026-10-06T13:39:41.713Z",
-        "destacado": true,
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 932,
-              "attributes": {
-                "embed_name": "Disney 15",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1535,
-              "attributes": {
-                "embed_name": "ESPN3 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4zdHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 42,
-            "attributes": {
-              "name": "NHL",
-              "createdAt": "2023-12-27T15:19:09.753Z",
-              "updatedAt": "2026-10-05T20:42:15.144Z",
-              "publishedAt": "2023-12-27T15:19:43.009Z",
-              "image": {
-                "data": {
-                  "id": 571,
-                  "attributes": {
-                    "name": "NHL.png",
-                    "alternativeText": "NHL",
-                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
-                        "hash": "thumbnail_NHL_a792e23ddd",
-                        "mime": "image/png",
-                        "name": "thumbnail_NHL.png",
-                        "path": null,
-                        "size": 19.71,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 19712
-                      }
-                    },
-                    "hash": "NHL_a792e23ddd",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 10.27,
-                    "url": "/uploads/NHL_a792e23ddd.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:15.134Z",
-                    "updatedAt": "2026-10-05T20:42:15.134Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40380,
-      "attributes": {
-        "diary_description": "Amistoso Internacional: Estados Unidos vs Canadá",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-10-06",
-        "createdAt": "2026-10-06T12:17:30.953Z",
-        "updatedAt": "2026-10-07T00:09:31.015Z",
-        "publishedAt": "2026-10-06T13:33:54.554Z",
+        "diary_description": "Tenis – M1000 Shangai – Primera Ronda",
+        "diary_hour": "09:00:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:08:35.798Z",
+        "updatedAt": "2026-10-07T11:08:38.220Z",
+        "publishedAt": "2026-10-07T11:08:38.214Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -318,10 +96,10 @@
               }
             },
             {
-              "id": 935,
+              "id": 834,
               "attributes": {
-                "embed_name": "Disney 14",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0",
+                "embed_name": "Disney 02",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
                 "idioma": "Español"
               }
             },
@@ -332,66 +110,37 @@
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
                 "idioma": "Español"
               }
-            },
-            {
-              "id": 790,
-              "attributes": {
-                "embed_name": "Universo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 310,
-              "attributes": {
-                "embed_name": "ESPN2 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg=",
-                "idioma": "Español"
-              }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 133,
+            "id": 53,
             "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2026-10-05T21:07:28.197Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
+              "name": "ATP TENIS",
+              "createdAt": "2024-01-25T06:16:42.975Z",
+              "updatedAt": "2026-10-06T11:53:51.709Z",
+              "publishedAt": "2024-01-25T06:16:44.102Z",
               "image": {
                 "data": {
-                  "id": 630,
+                  "id": 351,
                   "attributes": {
-                    "name": "amistoso paises.png",
+                    "name": "Tenis_a5d5fcd1d1.png",
                     "alternativeText": null,
                     "caption": null,
-                    "width": 282,
-                    "height": 282,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_amistoso_paises_5bc0d82212.png",
-                        "hash": "thumbnail_amistoso_paises_5bc0d82212",
-                        "mime": "image/png",
-                        "name": "thumbnail_amistoso paises.png",
-                        "path": null,
-                        "size": 46.01,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 46013
-                      }
-                    },
-                    "hash": "amistoso_paises_5bc0d82212",
+                    "width": 64,
+                    "height": 64,
+                    "formats": null,
+                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 21.97,
-                    "url": "/uploads/amistoso_paises_5bc0d82212.png",
+                    "size": 2.18,
+                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T21:07:24.010Z",
-                    "updatedAt": "2026-10-05T21:07:24.010Z"
+                    "createdAt": "2025-08-03T14:36:38.398Z",
+                    "updatedAt": "2025-08-03T14:36:38.398Z"
                   }
                 }
               }
@@ -405,177 +154,30 @@
       }
     },
     {
-      "id": 40379,
+      "id": 40387,
       "attributes": {
-        "diary_description": "Amistoso Internacional: Colombia vs Perú",
-        "diary_hour": "18:45:00",
-        "date_diary": "2026-10-06",
-        "createdAt": "2026-10-06T12:17:28.405Z",
-        "updatedAt": "2026-10-07T00:22:20.916Z",
-        "publishedAt": "2026-10-06T12:20:20.616Z",
-        "destacado": true,
-        "embeds": {
-          "data": [
-            {
-              "id": 1378,
-              "attributes": {
-                "embed_name": "America TV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWFtZXJpY2F0dg==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 736,
-              "attributes": {
-                "embed_name": "Caracol TV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhcmFjb2w=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1543,
-              "attributes": {
-                "embed_name": "America TV Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2FtZXJpY2F0dmdvLmh0bWw=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1548,
-              "attributes": {
-                "embed_name": "Bicolor PREMIUM",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 839,
-              "attributes": {
-                "embed_name": "FOX Sports Premium",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0c3ByZW1pdW0=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 107,
-              "attributes": {
-                "embed_name": "Fox Sports MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0c214",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 133,
-            "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2026-10-05T21:07:28.197Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
-              "image": {
-                "data": {
-                  "id": 630,
-                  "attributes": {
-                    "name": "amistoso paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 282,
-                    "height": 282,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_amistoso_paises_5bc0d82212.png",
-                        "hash": "thumbnail_amistoso_paises_5bc0d82212",
-                        "mime": "image/png",
-                        "name": "thumbnail_amistoso paises.png",
-                        "path": null,
-                        "size": 46.01,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 46013
-                      }
-                    },
-                    "hash": "amistoso_paises_5bc0d82212",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 21.97,
-                    "url": "/uploads/amistoso_paises_5bc0d82212.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T21:07:24.010Z",
-                    "updatedAt": "2026-10-05T21:07:24.010Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40381,
-      "attributes": {
-        "diary_description": "Amistoso Internacional: México vs Chile",
-        "diary_hour": "21:30:00",
-        "date_diary": "2026-10-06",
-        "createdAt": "2026-10-06T12:17:32.041Z",
-        "updatedAt": "2026-10-06T13:34:44.264Z",
-        "publishedAt": "2026-10-06T13:34:44.260Z",
+        "diary_description": "Torneo de Reserva: Aldosivi vs Tigre",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:10:01.281Z",
+        "updatedAt": "2026-10-07T11:10:03.366Z",
+        "publishedAt": "2026-10-07T11:10:03.360Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1546,
+              "id": 640,
               "attributes": {
-                "embed_name": "Canal 5 MX HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2NhbmFsNW14LnBocA==",
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
                 "idioma": "Español"
               }
             },
             {
-              "id": 206,
+              "id": 1532,
               "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 324,
-              "attributes": {
-                "embed_name": "Univision",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1542,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 620,
-              "attributes": {
-                "embed_name": "Azteca 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 996,
-              "attributes": {
-                "embed_name": "Canal 5 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ==",
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
                 "idioma": "Español"
               }
             }
@@ -583,120 +185,45 @@
         },
         "country": {
           "data": {
-            "id": 133,
+            "id": 72,
             "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2026-10-05T21:07:28.197Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2026-10-05T20:42:00.316Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
               "image": {
                 "data": {
-                  "id": 630,
+                  "id": 454,
                   "attributes": {
-                    "name": "amistoso paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 282,
-                    "height": 282,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_amistoso_paises_5bc0d82212.png",
-                        "hash": "thumbnail_amistoso_paises_5bc0d82212",
-                        "mime": "image/png",
-                        "name": "thumbnail_amistoso paises.png",
-                        "path": null,
-                        "size": 46.01,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 46013
-                      }
-                    },
-                    "hash": "amistoso_paises_5bc0d82212",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 21.97,
-                    "url": "/uploads/amistoso_paises_5bc0d82212.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T21:07:24.010Z",
-                    "updatedAt": "2026-10-05T21:07:24.010Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40382,
-      "attributes": {
-        "diary_description": "Liga de Naciones CONCACAF: French Guyana vs Belice",
-        "diary_hour": "21:00:00",
-        "date_diary": "2026-10-06",
-        "createdAt": "2026-10-06T13:36:09.242Z",
-        "updatedAt": "2026-10-06T13:36:26.797Z",
-        "publishedAt": "2026-10-06T13:36:26.790Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 607,
-              "attributes": {
-                "embed_name": "Fox Sports 2 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 90,
-            "attributes": {
-              "name": "CONCACAF Nations League",
-              "createdAt": "2024-03-21T19:02:25.065Z",
-              "updatedAt": "2026-10-05T20:42:02.224Z",
-              "publishedAt": "2024-03-21T19:02:26.413Z",
-              "image": {
-                "data": {
-                  "id": 469,
-                  "attributes": {
-                    "name": "CONCACAF Nations League.png",
-                    "alternativeText": "CONCACAF Nations League",
-                    "caption": "sync:b28c74350954bf003a7012d9501ee250",
+                    "name": "Argentina.png",
+                    "alternativeText": "Argentina",
+                    "caption": "sync:f45cda7cc379498bceed7470d1f44847",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_CONCACAF_Nations_League_8ee1fcd433.png",
-                        "hash": "thumbnail_CONCACAF_Nations_League_8ee1fcd433",
+                        "url": "/uploads/thumbnail_Argentina_de4252220c.png",
+                        "hash": "thumbnail_Argentina_de4252220c",
                         "mime": "image/png",
-                        "name": "thumbnail_CONCACAF Nations League.png",
+                        "name": "thumbnail_Argentina.png",
                         "path": null,
-                        "size": 12.32,
+                        "size": 6.1,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 12319
+                        "sizeInBytes": 6096
                       }
                     },
-                    "hash": "CONCACAF_Nations_League_8ee1fcd433",
+                    "hash": "Argentina_de4252220c",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 7.31,
-                    "url": "/uploads/CONCACAF_Nations_League_8ee1fcd433.png",
+                    "size": 1.69,
+                    "url": "/uploads/Argentina_de4252220c.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:02.212Z",
-                    "updatedAt": "2026-10-05T20:42:02.212Z"
+                    "createdAt": "2026-10-05T20:42:00.303Z",
+                    "updatedAt": "2026-10-05T20:42:00.303Z"
                   }
                 }
               }
@@ -710,14 +237,14 @@
       }
     },
     {
-      "id": 40383,
+      "id": 40388,
       "attributes": {
-        "diary_description": "Copa Chile: Colo-Colo vs D. Puerto Montt",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-10-06",
-        "createdAt": "2026-10-06T13:38:01.343Z",
-        "updatedAt": "2026-10-06T13:38:16.424Z",
-        "publishedAt": "2026-10-06T13:38:16.418Z",
+        "diary_description": "Copa Chile: Coquimbo Unido vs Cobreloa",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:10:18.978Z",
+        "updatedAt": "2026-10-07T11:10:43.408Z",
+        "publishedAt": "2026-10-07T11:10:43.402Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -783,14 +310,362 @@
           "data": []
         }
       }
+    },
+    {
+      "id": 40391,
+      "attributes": {
+        "diary_description": "Brasileirão: Internacional vs Corinthians",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:12:17.055Z",
+        "updatedAt": "2026-10-07T11:13:13.800Z",
+        "publishedAt": "2026-10-07T11:13:13.794Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1480,
+              "attributes": {
+                "embed_name": "Premiere 2 BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3UvaGQucGhwP3N0cmVhbT1wcmVtaWVyZTI=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2026-10-05T20:42:01.571Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 464,
+                  "attributes": {
+                    "name": "Brasil.png",
+                    "alternativeText": "Brasil",
+                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
+                        "hash": "thumbnail_Brasil_f83563ade6",
+                        "mime": "image/png",
+                        "name": "thumbnail_Brasil.png",
+                        "path": null,
+                        "size": 10.27,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10272
+                      }
+                    },
+                    "hash": "Brasil_f83563ade6",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.61,
+                    "url": "/uploads/Brasil_f83563ade6.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:01.559Z",
+                    "updatedAt": "2026-10-05T20:42:01.559Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40392,
+      "attributes": {
+        "diary_description": "Brasileirão: Remo vs Grêmio",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:12:19.775Z",
+        "updatedAt": "2026-10-07T11:14:01.580Z",
+        "publishedAt": "2026-10-07T11:14:01.575Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1484,
+              "attributes": {
+                "embed_name": "Premiere 4 BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3UvaGQucGhwP3N0cmVhbT1wcmVtaWVyZTQ=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2026-10-05T20:42:01.571Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 464,
+                  "attributes": {
+                    "name": "Brasil.png",
+                    "alternativeText": "Brasil",
+                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
+                        "hash": "thumbnail_Brasil_f83563ade6",
+                        "mime": "image/png",
+                        "name": "thumbnail_Brasil.png",
+                        "path": null,
+                        "size": 10.27,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10272
+                      }
+                    },
+                    "hash": "Brasil_f83563ade6",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.61,
+                    "url": "/uploads/Brasil_f83563ade6.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:01.559Z",
+                    "updatedAt": "2026-10-05T20:42:01.559Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40393,
+      "attributes": {
+        "diary_description": "Brasileirão: Vitória vs Chapecoense-sc",
+        "diary_hour": "18:00:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:12:21.913Z",
+        "updatedAt": "2026-10-07T11:14:30.598Z",
+        "publishedAt": "2026-10-07T11:14:30.593Z",
+        "destacado": false,
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2026-10-05T20:42:01.571Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 464,
+                  "attributes": {
+                    "name": "Brasil.png",
+                    "alternativeText": "Brasil",
+                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
+                        "hash": "thumbnail_Brasil_f83563ade6",
+                        "mime": "image/png",
+                        "name": "thumbnail_Brasil.png",
+                        "path": null,
+                        "size": 10.27,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10272
+                      }
+                    },
+                    "hash": "Brasil_f83563ade6",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.61,
+                    "url": "/uploads/Brasil_f83563ade6.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:01.559Z",
+                    "updatedAt": "2026-10-05T20:42:01.559Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40390,
+      "attributes": {
+        "diary_description": "Brasileirão: Red Bull Bragantino vs Mirassol",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:12:16.007Z",
+        "updatedAt": "2026-10-07T11:14:47.066Z",
+        "publishedAt": "2026-10-07T11:14:47.061Z",
+        "destacado": false,
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2026-10-05T20:42:01.571Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 464,
+                  "attributes": {
+                    "name": "Brasil.png",
+                    "alternativeText": "Brasil",
+                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
+                        "hash": "thumbnail_Brasil_f83563ade6",
+                        "mime": "image/png",
+                        "name": "thumbnail_Brasil.png",
+                        "path": null,
+                        "size": 10.27,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10272
+                      }
+                    },
+                    "hash": "Brasil_f83563ade6",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.61,
+                    "url": "/uploads/Brasil_f83563ade6.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:01.559Z",
+                    "updatedAt": "2026-10-05T20:42:01.559Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40394,
+      "attributes": {
+        "diary_description": "Brasileirão: Botafogo vs Vasco da Gama",
+        "diary_hour": "18:30:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:12:26.811Z",
+        "updatedAt": "2026-10-07T11:15:00.317Z",
+        "publishedAt": "2026-10-07T11:15:00.312Z",
+        "destacado": false,
+        "embeds": {
+          "data": []
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2026-10-05T20:42:01.571Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 464,
+                  "attributes": {
+                    "name": "Brasil.png",
+                    "alternativeText": "Brasil",
+                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
+                        "hash": "thumbnail_Brasil_f83563ade6",
+                        "mime": "image/png",
+                        "name": "thumbnail_Brasil.png",
+                        "path": null,
+                        "size": 10.27,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10272
+                      }
+                    },
+                    "hash": "Brasil_f83563ade6",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.61,
+                    "url": "/uploads/Brasil_f83563ade6.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:01.559Z",
+                    "updatedAt": "2026-10-05T20:42:01.559Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
     }
   ],
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 8,
+      "pageSize": 9,
       "pageCount": 1,
-      "total": 8
+      "total": 9
     }
   }
 }
