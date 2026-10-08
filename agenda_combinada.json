@@ -1,22 +1,22 @@
 {
   "data": [
     {
-      "id": 40395,
+      "id": 40390,
       "attributes": {
-        "diary_description": "Brasileirão: Cruzeiro vs São Paulo",
-        "diary_hour": "19:30:00",
+        "diary_description": "Brasileirão: Red Bull Bragantino vs Mirassol",
+        "diary_hour": "17:30:00",
         "date_diary": "2026-10-07",
-        "createdAt": "2026-10-07T11:12:27.864Z",
-        "updatedAt": "2026-10-07T11:15:31.402Z",
-        "publishedAt": "2026-10-07T11:15:11.102Z",
+        "createdAt": "2026-10-07T11:12:16.007Z",
+        "updatedAt": "2026-10-07T21:29:46.121Z",
+        "publishedAt": "2026-10-07T11:14:47.061Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 799,
+              "id": 1550,
               "attributes": {
-                "embed_name": "SporTV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg==",
+                "embed_name": "Premiere 5 BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlNQ==",
                 "idioma": "Español"
               }
             }
@@ -76,30 +76,22 @@
       }
     },
     {
-      "id": 40387,
+      "id": 40393,
       "attributes": {
-        "diary_description": "Torneo de Reserva: Aldosivi vs Tigre",
-        "diary_hour": "13:00:00",
+        "diary_description": "Brasileirão: Vitória vs Chapecoense-sc",
+        "diary_hour": "18:00:00",
         "date_diary": "2026-10-07",
-        "createdAt": "2026-10-07T11:10:01.281Z",
-        "updatedAt": "2026-10-07T11:10:03.366Z",
-        "publishedAt": "2026-10-07T11:10:03.360Z",
+        "createdAt": "2026-10-07T11:12:21.913Z",
+        "updatedAt": "2026-10-07T21:31:59.868Z",
+        "publishedAt": "2026-10-07T11:14:30.593Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 640,
+              "id": 1485,
               "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1532,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
+                "embed_name": "Premiere 3 BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMw==",
                 "idioma": "Español"
               }
             }
@@ -107,45 +99,278 @@
         },
         "country": {
           "data": {
-            "id": 72,
+            "id": 1,
             "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2026-10-05T20:42:00.316Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2026-10-05T20:42:01.571Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
               "image": {
                 "data": {
-                  "id": 454,
+                  "id": 464,
                   "attributes": {
-                    "name": "Argentina.png",
-                    "alternativeText": "Argentina",
-                    "caption": "sync:f45cda7cc379498bceed7470d1f44847",
+                    "name": "Brasil.png",
+                    "alternativeText": "Brasil",
+                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Argentina_de4252220c.png",
-                        "hash": "thumbnail_Argentina_de4252220c",
+                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
+                        "hash": "thumbnail_Brasil_f83563ade6",
                         "mime": "image/png",
-                        "name": "thumbnail_Argentina.png",
+                        "name": "thumbnail_Brasil.png",
                         "path": null,
-                        "size": 6.1,
+                        "size": 10.27,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 6096
+                        "sizeInBytes": 10272
                       }
                     },
-                    "hash": "Argentina_de4252220c",
+                    "hash": "Brasil_f83563ade6",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.69,
-                    "url": "/uploads/Argentina_de4252220c.png",
+                    "size": 2.61,
+                    "url": "/uploads/Brasil_f83563ade6.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:00.303Z",
-                    "updatedAt": "2026-10-05T20:42:00.303Z"
+                    "createdAt": "2026-10-05T20:42:01.559Z",
+                    "updatedAt": "2026-10-05T20:42:01.559Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40394,
+      "attributes": {
+        "diary_description": "Brasileirão: Botafogo vs Vasco da Gama",
+        "diary_hour": "18:30:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:12:26.811Z",
+        "updatedAt": "2026-10-07T21:32:12.313Z",
+        "publishedAt": "2026-10-07T11:15:00.312Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1222,
+              "attributes": {
+                "embed_name": "Amazon Prime",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE=",
+                "idioma": "Portugués"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2026-10-05T20:42:01.571Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 464,
+                  "attributes": {
+                    "name": "Brasil.png",
+                    "alternativeText": "Brasil",
+                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
+                        "hash": "thumbnail_Brasil_f83563ade6",
+                        "mime": "image/png",
+                        "name": "thumbnail_Brasil.png",
+                        "path": null,
+                        "size": 10.27,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10272
+                      }
+                    },
+                    "hash": "Brasil_f83563ade6",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.61,
+                    "url": "/uploads/Brasil_f83563ade6.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:01.559Z",
+                    "updatedAt": "2026-10-05T20:42:01.559Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40395,
+      "attributes": {
+        "diary_description": "Brasileirão: Cruzeiro vs São Paulo",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:12:27.864Z",
+        "updatedAt": "2026-10-07T21:41:33.325Z",
+        "publishedAt": "2026-10-07T11:15:11.102Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 799,
+              "attributes": {
+                "embed_name": "SporTV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1549,
+              "attributes": {
+                "embed_name": "Premiere BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2026-10-05T20:42:01.571Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "image": {
+                "data": {
+                  "id": 464,
+                  "attributes": {
+                    "name": "Brasil.png",
+                    "alternativeText": "Brasil",
+                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
+                        "hash": "thumbnail_Brasil_f83563ade6",
+                        "mime": "image/png",
+                        "name": "thumbnail_Brasil.png",
+                        "path": null,
+                        "size": 10.27,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10272
+                      }
+                    },
+                    "hash": "Brasil_f83563ade6",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.61,
+                    "url": "/uploads/Brasil_f83563ade6.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:01.559Z",
+                    "updatedAt": "2026-10-05T20:42:01.559Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40389,
+      "attributes": {
+        "diary_description": "Copa Chile: Antofagasta vs Universidad de Chile",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-10-07",
+        "createdAt": "2026-10-07T11:10:29.733Z",
+        "updatedAt": "2026-10-07T23:11:26.393Z",
+        "publishedAt": "2026-10-07T23:11:26.387Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1553,
+              "attributes": {
+                "embed_name": "MAX 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1heDE=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "Chile",
+              "createdAt": "2023-11-22T15:42:40.655Z",
+              "updatedAt": "2026-10-05T20:42:03.418Z",
+              "publishedAt": "2023-11-22T15:42:42.314Z",
+              "image": {
+                "data": {
+                  "id": 478,
+                  "attributes": {
+                    "name": "Chile.png",
+                    "alternativeText": "Chile",
+                    "caption": "sync:ea5c8f5b3ba603e61d65d2294628ed82",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Chile_5f395e29f7.png",
+                        "hash": "thumbnail_Chile_5f395e29f7",
+                        "mime": "image/png",
+                        "name": "thumbnail_Chile.png",
+                        "path": null,
+                        "size": 7.41,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 7412
+                      }
+                    },
+                    "hash": "Chile_5f395e29f7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.04,
+                    "url": "/uploads/Chile_5f395e29f7.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:03.406Z",
+                    "updatedAt": "2026-10-05T20:42:03.406Z"
                   }
                 }
               }
@@ -165,7 +390,7 @@
         "diary_hour": "17:00:00",
         "date_diary": "2026-10-07",
         "createdAt": "2026-10-07T11:10:18.978Z",
-        "updatedAt": "2026-10-07T11:10:43.408Z",
+        "updatedAt": "2026-10-07T23:14:21.686Z",
         "publishedAt": "2026-10-07T11:10:43.402Z",
         "destacado": false,
         "embeds": {
@@ -175,6 +400,14 @@
               "attributes": {
                 "embed_name": "TNT Sports Premiun CL",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1554,
+              "attributes": {
+                "embed_name": "TNT Sports Premium CL Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw=",
                 "idioma": "Español"
               }
             }
@@ -249,7 +482,7 @@
               "id": 1480,
               "attributes": {
                 "embed_name": "Premiere 2 BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3UvaGQucGhwP3N0cmVhbT1wcmVtaWVyZTI=",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMg==",
                 "idioma": "Español"
               }
             }
@@ -324,209 +557,11 @@
               "id": 1484,
               "attributes": {
                 "embed_name": "Premiere 4 BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3UvaGQucGhwP3N0cmVhbT1wcmVtaWVyZTQ=",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlNA==",
                 "idioma": "Español"
               }
             }
           ]
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2026-10-05T20:42:01.571Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 464,
-                  "attributes": {
-                    "name": "Brasil.png",
-                    "alternativeText": "Brasil",
-                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
-                        "hash": "thumbnail_Brasil_f83563ade6",
-                        "mime": "image/png",
-                        "name": "thumbnail_Brasil.png",
-                        "path": null,
-                        "size": 10.27,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10272
-                      }
-                    },
-                    "hash": "Brasil_f83563ade6",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.61,
-                    "url": "/uploads/Brasil_f83563ade6.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:01.559Z",
-                    "updatedAt": "2026-10-05T20:42:01.559Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40393,
-      "attributes": {
-        "diary_description": "Brasileirão: Vitória vs Chapecoense-sc",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-10-07",
-        "createdAt": "2026-10-07T11:12:21.913Z",
-        "updatedAt": "2026-10-07T11:14:30.598Z",
-        "publishedAt": "2026-10-07T11:14:30.593Z",
-        "destacado": false,
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2026-10-05T20:42:01.571Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 464,
-                  "attributes": {
-                    "name": "Brasil.png",
-                    "alternativeText": "Brasil",
-                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
-                        "hash": "thumbnail_Brasil_f83563ade6",
-                        "mime": "image/png",
-                        "name": "thumbnail_Brasil.png",
-                        "path": null,
-                        "size": 10.27,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10272
-                      }
-                    },
-                    "hash": "Brasil_f83563ade6",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.61,
-                    "url": "/uploads/Brasil_f83563ade6.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:01.559Z",
-                    "updatedAt": "2026-10-05T20:42:01.559Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40390,
-      "attributes": {
-        "diary_description": "Brasileirão: Red Bull Bragantino vs Mirassol",
-        "diary_hour": "17:30:00",
-        "date_diary": "2026-10-07",
-        "createdAt": "2026-10-07T11:12:16.007Z",
-        "updatedAt": "2026-10-07T11:14:47.066Z",
-        "publishedAt": "2026-10-07T11:14:47.061Z",
-        "destacado": false,
-        "embeds": {
-          "data": []
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2026-10-05T20:42:01.571Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 464,
-                  "attributes": {
-                    "name": "Brasil.png",
-                    "alternativeText": "Brasil",
-                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
-                        "hash": "thumbnail_Brasil_f83563ade6",
-                        "mime": "image/png",
-                        "name": "thumbnail_Brasil.png",
-                        "path": null,
-                        "size": 10.27,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10272
-                      }
-                    },
-                    "hash": "Brasil_f83563ade6",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.61,
-                    "url": "/uploads/Brasil_f83563ade6.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:01.559Z",
-                    "updatedAt": "2026-10-05T20:42:01.559Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40394,
-      "attributes": {
-        "diary_description": "Brasileirão: Botafogo vs Vasco da Gama",
-        "diary_hour": "18:30:00",
-        "date_diary": "2026-10-07",
-        "createdAt": "2026-10-07T11:12:26.811Z",
-        "updatedAt": "2026-10-07T11:15:00.317Z",
-        "publishedAt": "2026-10-07T11:15:00.312Z",
-        "destacado": false,
-        "embeds": {
-          "data": []
         },
         "country": {
           "data": {
