@@ -1,330 +1,6 @@
 {
   "data": [
     {
-      "id": 40405,
-      "attributes": {
-        "date_diary": "2026-10-08",
-        "diary_hour": "13:00:00",
-        "diary_description": "Reserve League: Sarmiento Res. vs Vélez Sársfield Res.",
-        "createdAt": "2026-10-08T12:50:33.107Z",
-        "updatedAt": "2026-10-08T12:50:46.634Z",
-        "publishedAt": "2026-10-08T12:50:46.629Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 257,
-              "attributes": {
-                "embed_name": "TNT Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1539,
-              "attributes": {
-                "embed_name": "TNT Sports Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2026-10-05T20:42:00.316Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 454,
-                  "attributes": {
-                    "name": "Argentina.png",
-                    "alternativeText": "Argentina",
-                    "caption": "sync:f45cda7cc379498bceed7470d1f44847",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Argentina_de4252220c.png",
-                        "hash": "thumbnail_Argentina_de4252220c",
-                        "mime": "image/png",
-                        "name": "thumbnail_Argentina.png",
-                        "path": null,
-                        "size": 6.1,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 6096
-                      }
-                    },
-                    "hash": "Argentina_de4252220c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.69,
-                    "url": "/uploads/Argentina_de4252220c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:00.303Z",
-                    "updatedAt": "2026-10-05T20:42:00.303Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40403,
-      "attributes": {
-        "date_diary": "2026-10-08",
-        "diary_hour": "13:00:00",
-        "diary_description": "Liga 1: UCV Moquegua vs Cienciano",
-        "createdAt": "2026-10-08T12:36:08.214Z",
-        "updatedAt": "2026-10-08T12:47:53.896Z",
-        "publishedAt": "2026-10-08T12:36:25.507Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "Liga1max",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1555,
-              "attributes": {
-                "embed_name": "Liga1max Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2026-10-05T20:42:16.483Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 582,
-                  "attributes": {
-                    "name": "Perú.png",
-                    "alternativeText": "Perú",
-                    "caption": "sync:5f6a169bdc2360f67c3374fa128c8d66",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Peru_1b704f494e.png",
-                        "hash": "thumbnail_Peru_1b704f494e",
-                        "mime": "image/png",
-                        "name": "thumbnail_Perú.png",
-                        "path": null,
-                        "size": 4.76,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 4756
-                      }
-                    },
-                    "hash": "Peru_1b704f494e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.65,
-                    "url": "/uploads/Peru_1b704f494e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:16.469Z",
-                    "updatedAt": "2026-10-05T20:42:16.469Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40406,
-      "attributes": {
-        "date_diary": "2026-10-08",
-        "diary_hour": "15:00:00",
-        "diary_description": "Liga 2: Tacna Heroica vs Carlos Manucci",
-        "createdAt": "2026-10-08T12:57:46.175Z",
-        "updatedAt": "2026-10-08T12:57:49.528Z",
-        "publishedAt": "2026-10-08T12:57:49.522Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1548,
-              "attributes": {
-                "embed_name": "Bicolor PREMIUM",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2026-10-05T20:42:16.483Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 582,
-                  "attributes": {
-                    "name": "Perú.png",
-                    "alternativeText": "Perú",
-                    "caption": "sync:5f6a169bdc2360f67c3374fa128c8d66",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Peru_1b704f494e.png",
-                        "hash": "thumbnail_Peru_1b704f494e",
-                        "mime": "image/png",
-                        "name": "thumbnail_Perú.png",
-                        "path": null,
-                        "size": 4.76,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 4756
-                      }
-                    },
-                    "hash": "Peru_1b704f494e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.65,
-                    "url": "/uploads/Peru_1b704f494e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:16.469Z",
-                    "updatedAt": "2026-10-05T20:42:16.469Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40404,
-      "attributes": {
-        "date_diary": "2026-10-08",
-        "diary_hour": "15:30:00",
-        "diary_description": "Liga 1: Atlético Grau vs Los Chankas",
-        "createdAt": "2026-10-08T12:36:09.469Z",
-        "updatedAt": "2026-10-08T12:48:01.766Z",
-        "publishedAt": "2026-10-08T12:36:35.240Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 774,
-              "attributes": {
-                "embed_name": "Liga1max",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1555,
-              "attributes": {
-                "embed_name": "Liga1max Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "Perú",
-              "createdAt": "2023-11-22T14:50:06.355Z",
-              "updatedAt": "2026-10-05T20:42:16.483Z",
-              "publishedAt": "2023-11-22T15:10:18.533Z",
-              "image": {
-                "data": {
-                  "id": 582,
-                  "attributes": {
-                    "name": "Perú.png",
-                    "alternativeText": "Perú",
-                    "caption": "sync:5f6a169bdc2360f67c3374fa128c8d66",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Peru_1b704f494e.png",
-                        "hash": "thumbnail_Peru_1b704f494e",
-                        "mime": "image/png",
-                        "name": "thumbnail_Perú.png",
-                        "path": null,
-                        "size": 4.76,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 4756
-                      }
-                    },
-                    "hash": "Peru_1b704f494e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.65,
-                    "url": "/uploads/Peru_1b704f494e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:16.469Z",
-                    "updatedAt": "2026-10-05T20:42:16.469Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 40397,
       "attributes": {
         "date_diary": "2026-10-08",
@@ -574,22 +250,472 @@
       }
     },
     {
+      "id": 40414,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "18:00:00",
+        "diary_description": "NHL: Ottawa Senators vs Philadelphia Flyers",
+        "createdAt": "2026-10-08T22:25:59.213Z",
+        "updatedAt": "2026-10-08T22:26:14.531Z",
+        "publishedAt": "2026-10-08T22:26:14.525Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40415,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "18:00:00",
+        "diary_description": "NHL: Tampa Bay Lightning vs Minnesota Wild",
+        "createdAt": "2026-10-08T22:29:32.618Z",
+        "updatedAt": "2026-10-08T22:29:57.341Z",
+        "publishedAt": "2026-10-08T22:29:57.334Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40416,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "18:00:00",
+        "diary_description": "NHL: Boston Bruins vs Utah Mammoth",
+        "createdAt": "2026-10-08T22:37:11.170Z",
+        "updatedAt": "2026-10-08T22:37:25.819Z",
+        "publishedAt": "2026-10-08T22:37:25.813Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney 07",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40417,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "18:00:00",
+        "diary_description": "NHL: Montreal Canadiens vs Nashville Predators",
+        "createdAt": "2026-10-08T22:38:22.013Z",
+        "updatedAt": "2026-10-08T22:39:28.108Z",
+        "publishedAt": "2026-10-08T22:39:28.101Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney 08",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40418,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "18:00:00",
+        "diary_description": "NHL: Carolina Hurricanes vs Vancouver Canucks",
+        "createdAt": "2026-10-08T22:39:12.143Z",
+        "updatedAt": "2026-10-08T22:39:23.328Z",
+        "publishedAt": "2026-10-08T22:39:23.323Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney 09",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40419,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "18:00:00",
+        "diary_description": "NHL: Buffalo Sabres vs Dallas Stars",
+        "createdAt": "2026-10-08T22:39:45.450Z",
+        "updatedAt": "2026-10-08T22:39:55.250Z",
+        "publishedAt": "2026-10-08T22:39:55.245Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney 10",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
       "id": 40401,
       "attributes": {
         "date_diary": "2026-10-08",
         "diary_hour": "18:05:00",
         "diary_description": "Liga BetPlay: Atlético Nacional vs Deportes Tolima",
         "createdAt": "2026-10-08T12:36:03.012Z",
-        "updatedAt": "2026-10-08T12:36:48.582Z",
+        "updatedAt": "2026-10-08T23:15:59.494Z",
         "publishedAt": "2026-10-08T12:36:48.574Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 293,
+              "id": 164,
               "attributes": {
-                "embed_name": "Win Sports + HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=",
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
                 "idioma": "Español"
               }
             },
@@ -644,6 +770,247 @@
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:03.920Z",
                     "updatedAt": "2026-10-05T20:42:03.920Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40420,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "18:30:00",
+        "diary_description": "NHL: New York Islanders vs Chicago Blackhawks",
+        "createdAt": "2026-10-08T22:41:10.246Z",
+        "updatedAt": "2026-10-08T22:42:11.257Z",
+        "publishedAt": "2026-10-08T22:42:11.252Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney 11",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40413,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "19:00:00",
+        "diary_description": "MLB: Chicago White Sox vs Cleveland Guardians",
+        "createdAt": "2026-10-08T22:19:34.183Z",
+        "updatedAt": "2026-10-08T22:21:19.675Z",
+        "publishedAt": "2026-10-08T22:19:44.732Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1535,
+              "attributes": {
+                "embed_name": "ESPN3 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4zdHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 70,
+            "attributes": {
+              "name": "MLB",
+              "createdAt": "2024-02-23T06:14:15.840Z",
+              "updatedAt": "2026-10-08T22:22:38.096Z",
+              "publishedAt": "2024-02-23T06:14:18.809Z",
+              "image": {
+                "data": {
+                  "id": 556,
+                  "attributes": {
+                    "name": "MLB Preseason.png",
+                    "alternativeText": "MLB Preseason",
+                    "caption": "sync:ca1fee3af6570934bd71b043ef6485aa",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_MLB_Preseason_c3d078b9d1.png",
+                        "hash": "thumbnail_MLB_Preseason_c3d078b9d1",
+                        "mime": "image/png",
+                        "name": "thumbnail_MLB Preseason.png",
+                        "path": null,
+                        "size": 6.95,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 6950
+                      }
+                    },
+                    "hash": "MLB_Preseason_c3d078b9d1",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.25,
+                    "url": "/uploads/MLB_Preseason_c3d078b9d1.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:13.285Z",
+                    "updatedAt": "2026-10-08T22:22:34.528Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40421,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "19:00:00",
+        "diary_description": "NHL: St. Louis Blues vs San Jose Sharks",
+        "createdAt": "2026-10-08T22:42:34.088Z",
+        "updatedAt": "2026-10-08T22:42:45.697Z",
+        "publishedAt": "2026-10-08T22:42:45.692Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 934,
+              "attributes": {
+                "embed_name": "Disney 12",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z"
                   }
                 }
               }
@@ -976,6 +1343,81 @@
       }
     },
     {
+      "id": 40422,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "20:00:00",
+        "diary_description": "NHL: Calgary Flames vs Colorado Avalanche",
+        "createdAt": "2026-10-08T22:42:36.216Z",
+        "updatedAt": "2026-10-08T22:42:56.571Z",
+        "publishedAt": "2026-10-08T22:42:56.565Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 933,
+              "attributes": {
+                "embed_name": "Disney 13",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
       "id": 40402,
       "attributes": {
         "date_diary": "2026-10-08",
@@ -1046,6 +1488,156 @@
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:03.920Z",
                     "updatedAt": "2026-10-05T20:42:03.920Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40408,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "21:00:00",
+        "diary_description": "Primera División: Inter San Carlos vs Pérez Zeledón",
+        "createdAt": "2026-10-08T13:00:47.987Z",
+        "updatedAt": "2026-10-08T23:06:36.070Z",
+        "publishedAt": "2026-10-08T23:06:36.058Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1556,
+              "attributes": {
+                "embed_name": "FUTV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZ1dHY=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "Costa Rica",
+              "createdAt": "2023-11-22T15:20:04.337Z",
+              "updatedAt": "2026-10-05T20:42:05.444Z",
+              "publishedAt": "2023-11-22T15:20:05.566Z",
+              "image": {
+                "data": {
+                  "id": 493,
+                  "attributes": {
+                    "name": "Costa Rica.png",
+                    "alternativeText": "Costa Rica",
+                    "caption": "sync:b434b93a4070f69db04d963ac9e02e49",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Costa_Rica_9c9321a4e4.png",
+                        "hash": "thumbnail_Costa_Rica_9c9321a4e4",
+                        "mime": "image/png",
+                        "name": "thumbnail_Costa Rica.png",
+                        "path": null,
+                        "size": 4.93,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 4933
+                      }
+                    },
+                    "hash": "Costa_Rica_9c9321a4e4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.39,
+                    "url": "/uploads/Costa_Rica_9c9321a4e4.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:05.432Z",
+                    "updatedAt": "2026-10-05T20:42:05.432Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40423,
+      "attributes": {
+        "date_diary": "2026-10-08",
+        "diary_hour": "21:00:00",
+        "diary_description": "NHL: Vegas Golden Knights vs Toronto Maple Leafs",
+        "createdAt": "2026-10-08T22:42:37.127Z",
+        "updatedAt": "2026-10-08T22:43:09.371Z",
+        "publishedAt": "2026-10-08T22:43:09.366Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 935,
+              "attributes": {
+                "embed_name": "Disney 14",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z"
                   }
                 }
               }
@@ -1161,9 +1753,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 14,
+      "pageSize": 22,
       "pageCount": 1,
-      "total": 14
+      "total": 22
     }
   }
 }
