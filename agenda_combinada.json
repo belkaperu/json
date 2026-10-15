@@ -1,89 +1,6 @@
 {
   "data": [
     {
-      "id": 40701,
-      "attributes": {
-        "date_diary": "2026-10-14",
-        "diary_hour": "16:30:00",
-        "diary_description": "Liga BetPlay: Junior vs Deportivo Pereira",
-        "createdAt": "2026-10-14T18:45:25.961Z",
-        "updatedAt": "2026-10-14T18:47:46.269Z",
-        "publishedAt": "2026-10-14T18:47:46.264Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 164,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1541,
-              "attributes": {
-                "embed_name": "Win Sports + | opc3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 17,
-            "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2026-10-05T20:42:03.931Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
-              "image": {
-                "data": {
-                  "id": 482,
-                  "attributes": {
-                    "name": "Colombia.png",
-                    "alternativeText": "Colombia",
-                    "caption": "sync:1816c30293680864d026651562c12130",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
-                        "hash": "thumbnail_Colombia_4e2c37acbb",
-                        "mime": "image/png",
-                        "name": "thumbnail_Colombia.png",
-                        "path": null,
-                        "size": 5.13,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 5130
-                      }
-                    },
-                    "hash": "Colombia_4e2c37acbb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.32,
-                    "url": "/uploads/Colombia_4e2c37acbb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:03.920Z",
-                    "updatedAt": "2026-10-05T20:42:03.920Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 40702,
       "attributes": {
         "date_diary": "2026-10-14",
@@ -1080,9 +997,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 12,
+      "pageSize": 11,
       "pageCount": 1,
-      "total": 12
+      "total": 11
     }
   }
 }
