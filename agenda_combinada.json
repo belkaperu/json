@@ -1,89 +1,6 @@
 {
   "data": [
     {
-      "id": 40757,
-      "attributes": {
-        "date_diary": "2026-10-15",
-        "diary_hour": "15:00:00",
-        "diary_description": "CONMEBOL Libertadores Femenina: Corinthians Femenil vs Colo-Colo Femenil",
-        "createdAt": "2026-10-15T19:16:13.605Z",
-        "updatedAt": "2026-10-15T19:17:08.212Z",
-        "publishedAt": "2026-10-15T19:16:33.196Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 799,
-              "attributes": {
-                "embed_name": "SporTV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg==",
-                "idioma": "Portugués"
-              }
-            },
-            {
-              "id": 691,
-              "attributes": {
-                "embed_name": "Win Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 61,
-            "attributes": {
-              "name": "Copa Libertadores",
-              "createdAt": "2024-02-07T06:05:32.798Z",
-              "updatedAt": "2026-10-05T20:42:04.622Z",
-              "publishedAt": "2024-02-07T06:05:33.983Z",
-              "image": {
-                "data": {
-                  "id": 487,
-                  "attributes": {
-                    "name": "Copa Libertadores.png",
-                    "alternativeText": "Copa Libertadores",
-                    "caption": "sync:c6a69c5f2c74086600cb7b6172b467d7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Copa_Libertadores_df7fdd2b36.png",
-                        "hash": "thumbnail_Copa_Libertadores_df7fdd2b36",
-                        "mime": "image/png",
-                        "name": "thumbnail_Copa Libertadores.png",
-                        "path": null,
-                        "size": 12.2,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 12203
-                      }
-                    },
-                    "hash": "Copa_Libertadores_df7fdd2b36",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 7.13,
-                    "url": "/uploads/Copa_Libertadores_df7fdd2b36.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:04.611Z",
-                    "updatedAt": "2026-10-05T20:42:04.611Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 40753,
       "attributes": {
         "date_diary": "2026-10-15",
@@ -1429,9 +1346,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 18,
+      "pageSize": 17,
       "pageCount": 1,
-      "total": 18
+      "total": 17
     }
   }
 }
