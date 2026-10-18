@@ -1,121 +1,6 @@
 {
   "data": [
     {
-      "id": 40877,
-      "attributes": {
-        "date_diary": "2026-10-17",
-        "diary_hour": "22:10:00",
-        "diary_description": "Liga MX: Cruz Azul vs FC Juarez",
-        "createdAt": "2026-10-17T14:47:56.412Z",
-        "updatedAt": "2026-10-17T14:52:02.851Z",
-        "publishedAt": "2026-10-17T14:52:02.845Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1546,
-              "attributes": {
-                "embed_name": "Canal 5 MX HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2NhbmFsNW14LnBocA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1542,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 324,
-              "attributes": {
-                "embed_name": "Univision",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 996,
-              "attributes": {
-                "embed_name": "Canal 5 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 737,
-              "attributes": {
-                "embed_name": "TUDN MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fbXg=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 568,
-                  "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
-                        "mime": "image/png",
-                        "name": "thumbnail_México.png",
-                        "path": null,
-                        "size": 12,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 11996
-                      }
-                    },
-                    "hash": "Mexico_377c2f83d5",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 40881,
       "attributes": {
         "date_diary": "2026-10-18",
@@ -751,9 +636,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 9,
+      "pageSize": 8,
       "pageCount": 1,
-      "total": 9
+      "total": 8
     }
   }
 }
