@@ -1,279 +1,6 @@
 {
   "data": [
     {
-      "id": 40965,
-      "attributes": {
-        "date_diary": "2026-10-19",
-        "diary_hour": "10:05:00",
-        "diary_description": "Pro League: Al-Fayha vs Al-Ahli Jeddah",
-        "createdAt": "2026-10-19T11:37:36.513Z",
-        "updatedAt": "2026-10-19T11:39:58.516Z",
-        "publishedAt": "2026-10-19T11:39:58.510Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 799,
-              "attributes": {
-                "embed_name": "SporTV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg==",
-                "idioma": "Portugués"
-              }
-            },
-            {
-              "id": 288,
-              "attributes": {
-                "embed_name": "FOX Deportes",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1558,
-              "attributes": {
-                "embed_name": "FOX Deportes | Móvil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 24,
-            "attributes": {
-              "name": "Arabia Saudita",
-              "createdAt": "2023-11-24T12:55:08.381Z",
-              "updatedAt": "2026-10-05T20:42:00.065Z",
-              "publishedAt": "2023-11-24T12:55:09.649Z",
-              "image": {
-                "data": {
-                  "id": 452,
-                  "attributes": {
-                    "name": "Arabia Saudita.png",
-                    "alternativeText": "Arabia Saudita",
-                    "caption": "sync:4838e0dce9c6e80d69b74a029f547348",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Arabia_Saudita_ac75bad30d.png",
-                        "hash": "thumbnail_Arabia_Saudita_ac75bad30d",
-                        "mime": "image/png",
-                        "name": "thumbnail_Arabia Saudita.png",
-                        "path": null,
-                        "size": 10.67,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10669
-                      }
-                    },
-                    "hash": "Arabia_Saudita_ac75bad30d",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.35,
-                    "url": "/uploads/Arabia_Saudita_ac75bad30d.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:00.053Z",
-                    "updatedAt": "2026-10-05T20:42:00.053Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40953,
-      "attributes": {
-        "date_diary": "2026-10-19",
-        "diary_hour": "11:30:00",
-        "diary_description": "Serie A: Monza vs Cagliari",
-        "createdAt": "2026-10-19T11:34:23.190Z",
-        "updatedAt": "2026-10-19T11:40:36.248Z",
-        "publishedAt": "2026-10-19T11:40:36.242Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 833,
-              "attributes": {
-                "embed_name": "Disney 01",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1532,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 9,
-            "attributes": {
-              "name": "Italia",
-              "createdAt": "2023-11-22T15:35:39.269Z",
-              "updatedAt": "2026-10-05T20:42:11.420Z",
-              "publishedAt": "2023-11-22T15:35:40.668Z",
-              "image": {
-                "data": {
-                  "id": 541,
-                  "attributes": {
-                    "name": "Italia.png",
-                    "alternativeText": "Italia",
-                    "caption": "sync:cfa0bdb236d7346a1b40075c13831d08",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Italia_3e5bd06494.png",
-                        "hash": "thumbnail_Italia_3e5bd06494",
-                        "mime": "image/png",
-                        "name": "thumbnail_Italia.png",
-                        "path": null,
-                        "size": 5.67,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 5669
-                      }
-                    },
-                    "hash": "Italia_3e5bd06494",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.67,
-                    "url": "/uploads/Italia_3e5bd06494.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:11.410Z",
-                    "updatedAt": "2026-10-05T20:42:11.410Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40954,
-      "attributes": {
-        "date_diary": "2026-10-19",
-        "diary_hour": "12:00:00",
-        "diary_description": "Süper Lig: Trabzonspor vs Beşiktaş",
-        "createdAt": "2026-10-19T11:34:43.280Z",
-        "updatedAt": "2026-10-19T11:41:10.923Z",
-        "publishedAt": "2026-10-19T11:40:45.183Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 834,
-              "attributes": {
-                "embed_name": "Disney 02",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1559,
-              "attributes": {
-                "embed_name": "Fox Sports 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1204,
-              "attributes": {
-                "embed_name": "BeIN Sports Ñ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 28,
-            "attributes": {
-              "name": "Turquía",
-              "createdAt": "2023-11-25T14:17:47.734Z",
-              "updatedAt": "2026-10-05T20:42:20.124Z",
-              "publishedAt": "2023-11-25T14:17:48.907Z",
-              "image": {
-                "data": {
-                  "id": 612,
-                  "attributes": {
-                    "name": "Turquía.png",
-                    "alternativeText": "Turquía",
-                    "caption": "sync:52b7a0c1771c6b261abb470f245142c4",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Turquia_c2a9f843f4.png",
-                        "hash": "thumbnail_Turquia_c2a9f843f4",
-                        "mime": "image/png",
-                        "name": "thumbnail_Turquía.png",
-                        "path": null,
-                        "size": 9.05,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 9048
-                      }
-                    },
-                    "hash": "Turquia_c2a9f843f4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.21,
-                    "url": "/uploads/Turquia_c2a9f843f4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.115Z",
-                    "updatedAt": "2026-10-05T20:42:20.115Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 40969,
       "attributes": {
         "date_diary": "2026-10-19",
@@ -289,7 +16,7 @@
               "id": 1564,
               "attributes": {
                 "embed_name": "FOX One",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ==",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2ZveG9uZS5waHA=",
                 "idioma": "Español"
               }
             },
@@ -1786,7 +1513,7 @@
               "id": 1564,
               "attributes": {
                 "embed_name": "FOX One",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ==",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2ZveG9uZS5waHA=",
                 "idioma": "Español"
               }
             }
@@ -1924,9 +1651,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 23,
+      "pageSize": 20,
       "pageCount": 1,
-      "total": 23
+      "total": 20
     }
   }
 }
