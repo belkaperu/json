@@ -1,22 +1,22 @@
 {
   "data": [
     {
-      "id": 40967,
+      "id": 40976,
       "attributes": {
-        "date_diary": "2026-10-19",
-        "diary_hour": "21:00:00",
-        "diary_description": "Primera División: Escorpiones Belén vs Puntarenas FC",
-        "createdAt": "2026-10-19T11:38:26.229Z",
-        "updatedAt": "2026-10-19T11:48:00.011Z",
-        "publishedAt": "2026-10-19T11:48:00.002Z",
+        "date_diary": "2026-10-20",
+        "diary_hour": "07:00:00",
+        "diary_description": "UEFA Youth League: PSG Sub-19 vs Barcelona Sub-19",
+        "createdAt": "2026-10-20T11:46:37.671Z",
+        "updatedAt": "2026-10-20T11:47:16.154Z",
+        "publishedAt": "2026-10-20T11:47:16.149Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1556,
+              "id": 833,
               "attributes": {
-                "embed_name": "FUTV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZ1dHY=",
+                "embed_name": "Disney 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
                 "idioma": "Español"
               }
             }
@@ -24,45 +24,706 @@
         },
         "country": {
           "data": {
-            "id": 6,
+            "id": 59,
             "attributes": {
-              "name": "Costa Rica",
-              "createdAt": "2023-11-22T15:20:04.337Z",
-              "updatedAt": "2026-10-05T20:42:05.444Z",
-              "publishedAt": "2023-11-22T15:20:05.566Z",
+              "name": "UEFA Youth League",
+              "createdAt": "2024-02-06T05:35:54.159Z",
+              "updatedAt": "2026-10-05T20:42:21.297Z",
+              "publishedAt": "2024-02-06T05:35:54.901Z",
               "image": {
                 "data": {
-                  "id": 493,
+                  "id": 621,
                   "attributes": {
-                    "name": "Costa Rica.png",
-                    "alternativeText": "Costa Rica",
-                    "caption": "sync:b434b93a4070f69db04d963ac9e02e49",
+                    "name": "UEFA Youth League.png",
+                    "alternativeText": "UEFA Youth League",
+                    "caption": "sync:7eb39f6cdf570d9d8743370b04899ca5",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Costa_Rica_9c9321a4e4.png",
-                        "hash": "thumbnail_Costa_Rica_9c9321a4e4",
+                        "url": "/uploads/thumbnail_UEFA_Youth_League_2f0e5b3a69.png",
+                        "hash": "thumbnail_UEFA_Youth_League_2f0e5b3a69",
                         "mime": "image/png",
-                        "name": "thumbnail_Costa Rica.png",
+                        "name": "thumbnail_UEFA Youth League.png",
                         "path": null,
-                        "size": 4.93,
+                        "size": 14.92,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 4933
+                        "sizeInBytes": 14918
                       }
                     },
-                    "hash": "Costa_Rica_9c9321a4e4",
+                    "hash": "UEFA_Youth_League_2f0e5b3a69",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.39,
-                    "url": "/uploads/Costa_Rica_9c9321a4e4.png",
+                    "size": 6.96,
+                    "url": "/uploads/UEFA_Youth_League_2f0e5b3a69.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:05.432Z",
-                    "updatedAt": "2026-10-05T20:42:05.432Z"
+                    "createdAt": "2026-10-05T20:42:21.288Z",
+                    "updatedAt": "2026-10-05T20:42:21.288Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40977,
+      "attributes": {
+        "date_diary": "2026-10-20",
+        "diary_hour": "09:00:00",
+        "diary_description": "UEFA Youth League: Manchester City Sub-19 vs AEK Athens Sub-19",
+        "createdAt": "2026-10-20T11:46:46.528Z",
+        "updatedAt": "2026-10-20T11:47:29.533Z",
+        "publishedAt": "2026-10-20T11:47:29.527Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney 02",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 59,
+            "attributes": {
+              "name": "UEFA Youth League",
+              "createdAt": "2024-02-06T05:35:54.159Z",
+              "updatedAt": "2026-10-05T20:42:21.297Z",
+              "publishedAt": "2024-02-06T05:35:54.901Z",
+              "image": {
+                "data": {
+                  "id": 621,
+                  "attributes": {
+                    "name": "UEFA Youth League.png",
+                    "alternativeText": "UEFA Youth League",
+                    "caption": "sync:7eb39f6cdf570d9d8743370b04899ca5",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Youth_League_2f0e5b3a69.png",
+                        "hash": "thumbnail_UEFA_Youth_League_2f0e5b3a69",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Youth League.png",
+                        "path": null,
+                        "size": 14.92,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 14918
+                      }
+                    },
+                    "hash": "UEFA_Youth_League_2f0e5b3a69",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.96,
+                    "url": "/uploads/UEFA_Youth_League_2f0e5b3a69.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:21.288Z",
+                    "updatedAt": "2026-10-05T20:42:21.288Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40978,
+      "attributes": {
+        "date_diary": "2026-10-20",
+        "diary_hour": "10:10:00",
+        "diary_description": "Pro League: Al Taawon vs Al-Qadisiyah FC",
+        "createdAt": "2026-10-20T11:48:57.225Z",
+        "updatedAt": "2026-10-20T11:50:24.132Z",
+        "publishedAt": "2026-10-20T11:49:15.282Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 288,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1558,
+              "attributes": {
+                "embed_name": "FOX Deportes | Móvil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 170,
+              "attributes": {
+                "embed_name": "Fox Soccer Plus",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNvY2NlcnBsdXM=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 24,
+            "attributes": {
+              "name": "Arabia Saudita",
+              "createdAt": "2023-11-24T12:55:08.381Z",
+              "updatedAt": "2026-10-05T20:42:00.065Z",
+              "publishedAt": "2023-11-24T12:55:09.649Z",
+              "image": {
+                "data": {
+                  "id": 452,
+                  "attributes": {
+                    "name": "Arabia Saudita.png",
+                    "alternativeText": "Arabia Saudita",
+                    "caption": "sync:4838e0dce9c6e80d69b74a029f547348",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Arabia_Saudita_ac75bad30d.png",
+                        "hash": "thumbnail_Arabia_Saudita_ac75bad30d",
+                        "mime": "image/png",
+                        "name": "thumbnail_Arabia Saudita.png",
+                        "path": null,
+                        "size": 10.67,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10669
+                      }
+                    },
+                    "hash": "Arabia_Saudita_ac75bad30d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.35,
+                    "url": "/uploads/Arabia_Saudita_ac75bad30d.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:00.053Z",
+                    "updatedAt": "2026-10-05T20:42:00.053Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40979,
+      "attributes": {
+        "date_diary": "2026-10-20",
+        "diary_hour": "11:45:00",
+        "diary_description": "UEFA Champions League: Fenerbahçe vs Slavia Praga",
+        "createdAt": "2026-10-20T12:03:19.120Z",
+        "updatedAt": "2026-10-20T12:06:12.331Z",
+        "publishedAt": "2026-10-20T12:06:12.325Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1532,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40981,
+      "attributes": {
+        "date_diary": "2026-10-20",
+        "diary_hour": "11:45:00",
+        "diary_description": "UEFA Champions League: Sabah FA vs Borussia Dortmund",
+        "createdAt": "2026-10-20T12:03:46.473Z",
+        "updatedAt": "2026-10-20T12:07:47.183Z",
+        "publishedAt": "2026-10-20T12:07:47.177Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1534,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1542,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 324,
+              "attributes": {
+                "embed_name": "Univision",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1071,
+              "attributes": {
+                "embed_name": "Unimas",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40980,
+      "attributes": {
+        "date_diary": "2026-10-20",
+        "diary_hour": "13:00:00",
+        "diary_description": "Pro League: Al-Nassr vs NEOM",
+        "createdAt": "2026-10-20T12:03:32.209Z",
+        "updatedAt": "2026-10-20T12:04:26.231Z",
+        "publishedAt": "2026-10-20T12:04:26.225Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 288,
+              "attributes": {
+                "embed_name": "FOX Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1558,
+              "attributes": {
+                "embed_name": "FOX Deportes | Móvil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 799,
+              "attributes": {
+                "embed_name": "SporTV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg==",
+                "idioma": "Portugués"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 24,
+            "attributes": {
+              "name": "Arabia Saudita",
+              "createdAt": "2023-11-24T12:55:08.381Z",
+              "updatedAt": "2026-10-05T20:42:00.065Z",
+              "publishedAt": "2023-11-24T12:55:09.649Z",
+              "image": {
+                "data": {
+                  "id": 452,
+                  "attributes": {
+                    "name": "Arabia Saudita.png",
+                    "alternativeText": "Arabia Saudita",
+                    "caption": "sync:4838e0dce9c6e80d69b74a029f547348",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Arabia_Saudita_ac75bad30d.png",
+                        "hash": "thumbnail_Arabia_Saudita_ac75bad30d",
+                        "mime": "image/png",
+                        "name": "thumbnail_Arabia Saudita.png",
+                        "path": null,
+                        "size": 10.67,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10669
+                      }
+                    },
+                    "hash": "Arabia_Saudita_ac75bad30d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.35,
+                    "url": "/uploads/Arabia_Saudita_ac75bad30d.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:00.053Z",
+                    "updatedAt": "2026-10-05T20:42:00.053Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40982,
+      "attributes": {
+        "date_diary": "2026-10-20",
+        "diary_hour": "14:00:00",
+        "diary_description": "UEFA Champions League: Roma vs Slovan Bratislava",
+        "createdAt": "2026-10-20T12:03:50.515Z",
+        "updatedAt": "2026-10-20T12:15:37.679Z",
+        "publishedAt": "2026-10-20T12:15:37.674Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1535,
+              "attributes": {
+                "embed_name": "ESPN3 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4zdHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40983,
+      "attributes": {
+        "date_diary": "2026-10-20",
+        "diary_hour": "14:00:00",
+        "diary_description": "UEFA Champions League: Oporto vs PSV Eindhoven",
+        "createdAt": "2026-10-20T12:03:53.024Z",
+        "updatedAt": "2026-10-20T12:17:41.499Z",
+        "publishedAt": "2026-10-20T12:16:48.869Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 972,
+              "attributes": {
+                "embed_name": "ESPN6",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG42",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1540,
+              "attributes": {
+                "embed_name": "ESPN6 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG42dHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z"
                   }
                 }
               }
@@ -79,9 +740,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 1,
+      "pageSize": 8,
       "pageCount": 1,
-      "total": 1
+      "total": 8
     }
   }
 }
