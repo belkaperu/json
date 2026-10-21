@@ -1,46 +1,22 @@
 {
   "data": [
     {
-      "id": 40979,
+      "id": 40823,
       "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "11:45:00",
-        "diary_description": "UEFA Champions League: Fenerbahçe vs Slavia Praga",
-        "createdAt": "2026-10-20T12:03:19.120Z",
-        "updatedAt": "2026-10-20T17:32:06.947Z",
-        "publishedAt": "2026-10-20T12:06:12.325Z",
+        "diary_description": "UEFA Youth League: Internazionale Sub-19 vs Shakhtar Donetsk Sub-19",
+        "diary_hour": "09:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:44:32.891Z",
+        "updatedAt": "2026-10-21T11:45:13.845Z",
+        "publishedAt": "2026-10-21T11:45:13.872Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 640,
+              "id": 834,
               "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 835,
-              "attributes": {
-                "embed_name": "Disney 03",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1532,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1566,
-              "attributes": {
-                "embed_name": "FOX One 1",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveG9uZTE=",
+                "embed_name": "Disney 02",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
                 "idioma": "Español"
               }
             }
@@ -48,45 +24,47 @@
         },
         "country": {
           "data": {
-            "id": 33,
+            "id": 59,
             "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "name": "UEFA Youth League",
+              "createdAt": "2024-02-06T05:35:54.159Z",
+              "updatedAt": "2026-10-05T20:42:21.297Z",
+              "publishedAt": "2024-02-06T05:35:54.901Z",
               "image": {
                 "data": {
-                  "id": 614,
+                  "id": 621,
                   "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "name": "UEFA Youth League.png",
+                    "alternativeText": "UEFA Youth League",
+                    "caption": "sync:7eb39f6cdf570d9d8743370b04899ca5",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "url": "/uploads/thumbnail_UEFA_Youth_League_2f0e5b3a69.png",
+                        "hash": "thumbnail_UEFA_Youth_League_2f0e5b3a69",
                         "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
+                        "name": "thumbnail_UEFA Youth League.png",
                         "path": null,
-                        "size": 13.04,
+                        "size": 14.92,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 13035
+                        "sizeInBytes": 14918
                       }
                     },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "hash": "UEFA_Youth_League_2f0e5b3a69",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "size": 6.96,
+                    "url": "/uploads/UEFA_Youth_League_2f0e5b3a69.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z"
+                    "createdAt": "2026-10-05T20:42:21.288Z",
+                    "updatedAt": "2026-10-05T20:42:21.288Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -100,14 +78,14 @@
       }
     },
     {
-      "id": 40981,
+      "id": 40847,
       "attributes": {
-        "date_diary": "2026-10-20",
+        "diary_description": "UEFA Champions League: Como vs Manchester United",
         "diary_hour": "11:45:00",
-        "diary_description": "UEFA Champions League: Sabah FA vs Borussia Dortmund",
-        "createdAt": "2026-10-20T12:03:46.473Z",
-        "updatedAt": "2026-10-20T17:31:41.292Z",
-        "publishedAt": "2026-10-20T12:07:47.177Z",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:45:34.226Z",
+        "updatedAt": "2026-10-21T11:49:46.940Z",
+        "publishedAt": "2026-10-21T11:49:46.968Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -120,10 +98,10 @@
               }
             },
             {
-              "id": 827,
+              "id": 835,
               "attributes": {
-                "embed_name": "Disney 04",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
+                "embed_name": "Disney 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
                 "idioma": "Español"
               }
             },
@@ -152,18 +130,18 @@
               }
             },
             {
-              "id": 324,
-              "attributes": {
-                "embed_name": "Univision",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
-                "idioma": "Español"
-              }
-            },
-            {
               "id": 1071,
               "attributes": {
                 "embed_name": "Unimas",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 324,
+              "attributes": {
+                "embed_name": "Univision",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
                 "idioma": "Español"
               }
             }
@@ -209,7 +187,9 @@
                     "provider": "local",
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z"
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -223,84 +203,94 @@
       }
     },
     {
-      "id": 40980,
+      "id": 40848,
       "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "13:00:00",
-        "diary_description": "Pro League: Al-Nassr vs NEOM",
-        "createdAt": "2026-10-20T12:03:32.209Z",
-        "updatedAt": "2026-10-20T12:04:26.231Z",
-        "publishedAt": "2026-10-20T12:04:26.225Z",
+        "diary_description": "UEFA Champions League: Lille vs Galatasaray",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:45:35.494Z",
+        "updatedAt": "2026-10-21T11:50:41.349Z",
+        "publishedAt": "2026-10-21T11:50:41.381Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 288,
+              "id": 640,
               "attributes": {
-                "embed_name": "FOX Deportes",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1558,
+              "id": 827,
               "attributes": {
-                "embed_name": "FOX Deportes | Móvil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA==",
+                "embed_name": "Disney 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
                 "idioma": "Español"
               }
             },
             {
-              "id": 799,
+              "id": 1532,
               "attributes": {
-                "embed_name": "SporTV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg==",
-                "idioma": "Portugués"
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+                "idioma": "Español"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 24,
+            "id": 33,
             "attributes": {
-              "name": "Arabia Saudita",
-              "createdAt": "2023-11-24T12:55:08.381Z",
-              "updatedAt": "2026-10-05T20:42:00.065Z",
-              "publishedAt": "2023-11-24T12:55:09.649Z",
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
               "image": {
                 "data": {
-                  "id": 452,
+                  "id": 614,
                   "attributes": {
-                    "name": "Arabia Saudita.png",
-                    "alternativeText": "Arabia Saudita",
-                    "caption": "sync:4838e0dce9c6e80d69b74a029f547348",
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Arabia_Saudita_ac75bad30d.png",
-                        "hash": "thumbnail_Arabia_Saudita_ac75bad30d",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
                         "mime": "image/png",
-                        "name": "thumbnail_Arabia Saudita.png",
+                        "name": "thumbnail_UEFA Champions League.png",
                         "path": null,
-                        "size": 10.67,
+                        "size": 13.04,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 10669
+                        "sizeInBytes": 13035
                       }
                     },
-                    "hash": "Arabia_Saudita_ac75bad30d",
+                    "hash": "UEFA_Champions_League_55b8e331ba",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 2.35,
-                    "url": "/uploads/Arabia_Saudita_ac75bad30d.png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:00.053Z",
-                    "updatedAt": "2026-10-05T20:42:00.053Z"
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -314,14 +304,115 @@
       }
     },
     {
-      "id": 40989,
+      "id": 40849,
       "attributes": {
-        "date_diary": "2026-10-20",
+        "diary_description": "LaLiga: Levante vs Athletic Club",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:45:37.508Z",
+        "updatedAt": "2026-10-21T11:51:03.605Z",
+        "publishedAt": "2026-10-21T11:51:03.634Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1468,
+              "attributes": {
+                "embed_name": "Dsports 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1561,
+              "attributes": {
+                "embed_name": "Dsports 2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHMyLmh0bWw=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1575,
+              "attributes": {
+                "embed_name": "Dsports 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMyX29wMg==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 57,
+              "attributes": {
+                "embed_name": "ESPN Deportes",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2026-10-05T20:42:07.445Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 509,
+                  "attributes": {
+                    "name": "España.png",
+                    "alternativeText": "España",
+                    "caption": "sync:263f84126e8dc08965ad6b9e5fcbc074",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Espana_795e076624.png",
+                        "hash": "thumbnail_Espana_795e076624",
+                        "mime": "image/png",
+                        "name": "thumbnail_España.png",
+                        "path": null,
+                        "size": 10.94,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10942
+                      }
+                    },
+                    "hash": "Espana_795e076624",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.49,
+                    "url": "/uploads/Espana_795e076624.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:07.436Z",
+                    "updatedAt": "2026-10-05T20:42:07.436Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40858,
+      "attributes": {
+        "diary_description": "League One: Reading vs Leyton Orient",
         "diary_hour": "14:00:00",
-        "diary_description": "League Two: Gillingham vs Port Vale",
-        "createdAt": "2026-10-20T18:15:43.352Z",
-        "updatedAt": "2026-10-20T18:16:05.737Z",
-        "publishedAt": "2026-10-20T18:16:05.731Z",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:47:43.587Z",
+        "updatedAt": "2026-10-21T11:58:05.959Z",
+        "publishedAt": "2026-10-21T11:58:06.016Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -375,7 +466,9 @@
                     "provider": "local",
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:10.445Z",
-                    "updatedAt": "2026-10-05T20:42:10.445Z"
+                    "updatedAt": "2026-10-05T20:42:10.445Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -389,25 +482,17 @@
       }
     },
     {
-      "id": 40982,
+      "id": 40851,
       "attributes": {
-        "date_diary": "2026-10-20",
+        "diary_description": "UEFA Champions League: Aston Villa vs Viking",
         "diary_hour": "14:00:00",
-        "diary_description": "UEFA Champions League: Roma vs Slovan Bratislava",
-        "createdAt": "2026-10-20T12:03:50.515Z",
-        "updatedAt": "2026-10-20T19:25:58.825Z",
-        "publishedAt": "2026-10-20T12:15:37.674Z",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:22.550Z",
+        "updatedAt": "2026-10-21T11:51:58.196Z",
+        "publishedAt": "2026-10-21T11:51:58.224Z",
         "destacado": false,
         "embeds": {
           "data": [
-            {
-              "id": 1572,
-              "attributes": {
-                "embed_name": "TNT 3 UK",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL3RudHNwb3J0czN1ay5waHA=",
-                "idioma": "Español"
-              }
-            },
             {
               "id": 656,
               "attributes": {
@@ -474,7 +559,9 @@
                     "provider": "local",
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z"
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -488,105 +575,14 @@
       }
     },
     {
-      "id": 40983,
+      "id": 40852,
       "attributes": {
-        "date_diary": "2026-10-20",
+        "diary_description": "UEFA Champions League: Bayern Múnich vs Arsenal",
         "diary_hour": "14:00:00",
-        "diary_description": "UEFA Champions League: Oporto vs PSV Eindhoven",
-        "createdAt": "2026-10-20T12:03:53.024Z",
-        "updatedAt": "2026-10-20T12:17:41.499Z",
-        "publishedAt": "2026-10-20T12:16:48.869Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 972,
-              "attributes": {
-                "embed_name": "ESPN6",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG42",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 849,
-              "attributes": {
-                "embed_name": "Disney 06",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1540,
-              "attributes": {
-                "embed_name": "ESPN6 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG42dHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40984,
-      "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "14:00:00",
-        "diary_description": "UEFA Champions League: Liverpool vs Villarreal",
-        "createdAt": "2026-10-20T12:03:55.022Z",
-        "updatedAt": "2026-10-20T17:56:22.199Z",
-        "publishedAt": "2026-10-20T17:56:22.193Z",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:23.900Z",
+        "updatedAt": "2026-10-21T11:53:33.004Z",
+        "publishedAt": "2026-10-21T11:53:33.037Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -599,10 +595,10 @@
               }
             },
             {
-              "id": 846,
+              "id": 849,
               "attributes": {
-                "embed_name": "Disney 07",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc=",
+                "embed_name": "Disney 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
                 "idioma": "Español"
               }
             },
@@ -613,277 +609,12 @@
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
                 "idioma": "Español"
               }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40985,
-      "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "14:00:00",
-        "diary_description": "UEFA Champions League: Manchester City vs AEK Athens FC",
-        "createdAt": "2026-10-20T12:03:56.947Z",
-        "updatedAt": "2026-10-20T18:38:02.002Z",
-        "publishedAt": "2026-10-20T17:56:39.303Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1573,
-              "attributes": {
-                "embed_name": "TNT 1 UK",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL3RudHNwb3J0czF1ay5waHA=",
-                "idioma": "Español"
-              }
             },
             {
-              "id": 645,
+              "id": 120,
               "attributes": {
-                "embed_name": "ESPN5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 838,
-              "attributes": {
-                "embed_name": "Disney 08",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1536,
-              "attributes": {
-                "embed_name": "ESPN5 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40986,
-      "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "14:00:00",
-        "diary_description": "UEFA Champions League: Nápoles vs Bodø/Glimt",
-        "createdAt": "2026-10-20T12:03:57.868Z",
-        "updatedAt": "2026-10-20T17:57:40.617Z",
-        "publishedAt": "2026-10-20T17:57:40.612Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 832,
-              "attributes": {
-                "embed_name": "Disney 09",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1533,
-              "attributes": {
-                "embed_name": "ESPN4 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG40dHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40987,
-      "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "14:00:00",
-        "diary_description": "UEFA Champions League: París Saint-Germain vs Barcelona",
-        "createdAt": "2026-10-20T12:04:00.456Z",
-        "updatedAt": "2026-10-20T20:18:15.420Z",
-        "publishedAt": "2026-10-20T17:59:18.201Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1571,
-              "attributes": {
-                "embed_name": "TNT 2 UK",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL3RudHNwb3J0czJ1ay5waHA=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw==",
                 "idioma": "Español"
               }
             },
@@ -896,18 +627,26 @@
               }
             },
             {
-              "id": 1534,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
               "id": 1542,
               "attributes": {
                 "embed_name": "TUDN USA Movil",
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1071,
+              "attributes": {
+                "embed_name": "Unimas",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 324,
+              "attributes": {
+                "embed_name": "Univision",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
                 "idioma": "Español"
               }
             }
@@ -953,7 +692,9 @@
                     "provider": "local",
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z"
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -967,14 +708,115 @@
       }
     },
     {
-      "id": 40988,
+      "id": 40853,
       "attributes": {
-        "date_diary": "2026-10-20",
+        "diary_description": "UEFA Champions League: Real Betis vs Feyenoord",
         "diary_hour": "14:00:00",
-        "diary_description": "UEFA Champions League: Stuttgart vs Atlético de Madrid",
-        "createdAt": "2026-10-20T12:04:04.190Z",
-        "updatedAt": "2026-10-20T18:01:09.121Z",
-        "publishedAt": "2026-10-20T18:01:09.115Z",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:24.939Z",
+        "updatedAt": "2026-10-21T11:54:35.909Z",
+        "publishedAt": "2026-10-21T11:54:35.944Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney 07",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1533,
+              "attributes": {
+                "embed_name": "ESPN4 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG40dHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1723,
+              "attributes": {
+                "embed_name": "FOX One",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2ZveG9uZS5waHA=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40854,
+      "attributes": {
+        "diary_description": "UEFA Champions League: Brujas vs Lens",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:26.157Z",
+        "updatedAt": "2026-10-21T11:55:24.127Z",
+        "publishedAt": "2026-10-21T11:55:24.155Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -987,10 +829,10 @@
               }
             },
             {
-              "id": 936,
+              "id": 838,
               "attributes": {
-                "embed_name": "Disney 11",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
+                "embed_name": "Disney 08",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
                 "idioma": "Español"
               }
             },
@@ -1044,7 +886,9 @@
                     "provider": "local",
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z"
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -1058,30 +902,46 @@
       }
     },
     {
-      "id": 40990,
+      "id": 40855,
       "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "16:30:00",
-        "diary_description": "Liga BetPlay: Deportivo Pereira vs Boyacá Chicó",
-        "createdAt": "2026-10-20T19:38:07.610Z",
-        "updatedAt": "2026-10-20T19:38:23.374Z",
-        "publishedAt": "2026-10-20T19:38:23.369Z",
+        "diary_description": "UEFA Champions League: Inter de Milán vs Shakhtar Donetsk",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:27.735Z",
+        "updatedAt": "2026-10-21T11:56:09.979Z",
+        "publishedAt": "2026-10-21T11:56:10.000Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 164,
+              "id": 645,
               "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
+                "embed_name": "ESPN5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1541,
+              "id": 832,
               "attributes": {
-                "embed_name": "Win Sports + | opc3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
+                "embed_name": "Disney 09",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1536,
+              "attributes": {
+                "embed_name": "ESPN5 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1559,
+              "attributes": {
+                "embed_name": "Fox Sports 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI=",
                 "idioma": "Español"
               }
             }
@@ -1089,45 +949,47 @@
         },
         "country": {
           "data": {
-            "id": 17,
+            "id": 33,
             "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2026-10-05T20:42:03.931Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
               "image": {
                 "data": {
-                  "id": 482,
+                  "id": 614,
                   "attributes": {
-                    "name": "Colombia.png",
-                    "alternativeText": "Colombia",
-                    "caption": "sync:1816c30293680864d026651562c12130",
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
-                        "hash": "thumbnail_Colombia_4e2c37acbb",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
                         "mime": "image/png",
-                        "name": "thumbnail_Colombia.png",
+                        "name": "thumbnail_UEFA Champions League.png",
                         "path": null,
-                        "size": 5.13,
+                        "size": 13.04,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 5130
+                        "sizeInBytes": 13035
                       }
                     },
-                    "hash": "Colombia_4e2c37acbb",
+                    "hash": "UEFA_Champions_League_55b8e331ba",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.32,
-                    "url": "/uploads/Colombia_4e2c37acbb.png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:03.920Z",
-                    "updatedAt": "2026-10-05T20:42:03.920Z"
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -1141,14 +1003,325 @@
       }
     },
     {
-      "id": 40999,
+      "id": 40856,
       "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "18:00:00",
-        "diary_description": "Copa Chile: Union La Calera vs Coquimbo Unido",
-        "createdAt": "2026-10-20T22:30:25.531Z",
-        "updatedAt": "2026-10-20T22:30:37.560Z",
-        "publishedAt": "2026-10-20T22:30:37.553Z",
+        "diary_description": "UEFA Champions League: Real Madrid vs RB Leipzig",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:28.807Z",
+        "updatedAt": "2026-10-21T11:56:47.462Z",
+        "publishedAt": "2026-10-21T11:56:47.485Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney 10",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1534,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40857,
+      "attributes": {
+        "diary_description": "UEFA Champions League: Sporting de Lisboa vs LASK Linz",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:29.802Z",
+        "updatedAt": "2026-10-21T11:57:40.927Z",
+        "publishedAt": "2026-10-21T11:57:40.955Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 972,
+              "attributes": {
+                "embed_name": "ESPN6",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG42",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney 11",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1540,
+              "attributes": {
+                "embed_name": "ESPN6 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG42dHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40859,
+      "attributes": {
+        "diary_description": "Copa Sudamericana: Atletico Torque vs Atlético Mineiro",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:36.965Z",
+        "updatedAt": "2026-10-21T12:00:22.112Z",
+        "publishedAt": "2026-10-21T12:00:22.183Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1252,
+              "attributes": {
+                "embed_name": "Dsports AR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0c2Fy",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 933,
+              "attributes": {
+                "embed_name": "Disney 13",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1534,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1562,
+              "attributes": {
+                "embed_name": "Dsports Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1410,
+              "attributes": {
+                "embed_name": "Dsports | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNfb3Ay",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 644,
+              "attributes": {
+                "embed_name": "Dsports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 83,
+            "attributes": {
+              "name": "CONMEBOL Sudamericana",
+              "createdAt": "2024-03-06T11:08:44.716Z",
+              "updatedAt": "2026-10-05T20:42:02.767Z",
+              "publishedAt": "2024-03-06T11:08:46.058Z",
+              "image": {
+                "data": {
+                  "id": 473,
+                  "attributes": {
+                    "name": "CONMEBOL Sudamericana.png",
+                    "alternativeText": "CONMEBOL Sudamericana",
+                    "caption": "sync:120294c9c7e0450046d5f1778a9cb731",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_CONMEBOL_Sudamericana_5feac8e776.png",
+                        "hash": "thumbnail_CONMEBOL_Sudamericana_5feac8e776",
+                        "mime": "image/png",
+                        "name": "thumbnail_CONMEBOL Sudamericana.png",
+                        "path": null,
+                        "size": 10.61,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10614
+                      }
+                    },
+                    "hash": "CONMEBOL_Sudamericana_5feac8e776",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.62,
+                    "url": "/uploads/CONMEBOL_Sudamericana_5feac8e776.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:02.756Z",
+                    "updatedAt": "2026-10-05T20:42:02.756Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40860,
+      "attributes": {
+        "diary_description": "Copa Chile: Universidad de Chile vs Antofagasta",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:40.853Z",
+        "updatedAt": "2026-10-21T12:00:37.079Z",
+        "publishedAt": "2026-10-21T12:00:37.107Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -1210,7 +1383,9 @@
                     "provider": "local",
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:03.406Z",
-                    "updatedAt": "2026-10-05T20:42:03.406Z"
+                    "updatedAt": "2026-10-05T20:42:03.406Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -1224,22 +1399,200 @@
       }
     },
     {
-      "id": 41001,
+      "id": 40862,
       "attributes": {
-        "date_diary": "2026-10-20",
+        "diary_description": "MLS: FC Cincinnati vs DC United",
         "diary_hour": "18:00:00",
-        "diary_description": "NBA: New York Knicks vs Philadelphia 76ers",
-        "createdAt": "2026-10-20T22:32:19.133Z",
-        "updatedAt": "2026-10-20T22:32:37.486Z",
-        "publishedAt": "2026-10-20T22:32:37.481Z",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:53.338Z",
+        "updatedAt": "2026-10-21T12:02:19.531Z",
+        "publishedAt": "2026-10-21T12:02:19.561Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 532,
+              "id": 1177,
               "attributes": {
-                "embed_name": "ESPN4 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg=",
+                "embed_name": "MLS 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "Estados Unidos",
+              "createdAt": "2023-11-22T18:04:29.927Z",
+              "updatedAt": "2026-10-05T20:42:07.571Z",
+              "publishedAt": "2023-11-22T18:04:31.112Z",
+              "image": {
+                "data": {
+                  "id": 510,
+                  "attributes": {
+                    "name": "Estados Unidos.png",
+                    "alternativeText": "Estados Unidos",
+                    "caption": "sync:d1afa452dc17baa0b2925faf2300020c",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Estados_Unidos_608249297e.png",
+                        "hash": "thumbnail_Estados_Unidos_608249297e",
+                        "mime": "image/png",
+                        "name": "thumbnail_Estados Unidos.png",
+                        "path": null,
+                        "size": 11.12,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 11123
+                      }
+                    },
+                    "hash": "Estados_Unidos_608249297e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.7,
+                    "url": "/uploads/Estados_Unidos_608249297e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:07.561Z",
+                    "updatedAt": "2026-10-05T20:42:07.561Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40861,
+      "attributes": {
+        "diary_description": "Liga BetPlay: Llaneros vs Deportivo Cali",
+        "diary_hour": "18:15:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:51.148Z",
+        "updatedAt": "2026-10-21T12:00:55.177Z",
+        "publishedAt": "2026-10-21T12:00:55.210Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1541,
+              "attributes": {
+                "embed_name": "Win Sports + | opc3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2026-10-05T20:42:03.931Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 482,
+                  "attributes": {
+                    "name": "Colombia.png",
+                    "alternativeText": "Colombia",
+                    "caption": "sync:1816c30293680864d026651562c12130",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
+                        "hash": "thumbnail_Colombia_4e2c37acbb",
+                        "mime": "image/png",
+                        "name": "thumbnail_Colombia.png",
+                        "path": null,
+                        "size": 5.13,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 5130
+                      }
+                    },
+                    "hash": "Colombia_4e2c37acbb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.32,
+                    "url": "/uploads/Colombia_4e2c37acbb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:03.920Z",
+                    "updatedAt": "2026-10-05T20:42:03.920Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40878,
+      "attributes": {
+        "diary_description": "NBA: Miami Heat vs Minnesota Timberwolves",
+        "diary_hour": "18:30:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T12:09:52.127Z",
+        "updatedAt": "2026-10-21T12:11:34.543Z",
+        "publishedAt": "2026-10-21T12:11:34.568Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1060,
+              "attributes": {
+                "embed_name": "Disney 17",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1532,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
                 "idioma": "Español"
               }
             }
@@ -1285,7 +1638,9 @@
                     "provider": "local",
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z"
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -1299,105 +1654,22 @@
       }
     },
     {
-      "id": 40991,
+      "id": 40883,
       "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "18:15:00",
-        "diary_description": "Liga BetPlay: Internacional de Bogotá vs Fortaleza CEIF",
-        "createdAt": "2026-10-20T19:38:08.672Z",
-        "updatedAt": "2026-10-20T19:39:34.822Z",
-        "publishedAt": "2026-10-20T19:38:35.126Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 691,
-              "attributes": {
-                "embed_name": "Win Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 17,
-            "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2026-10-05T20:42:03.931Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
-              "image": {
-                "data": {
-                  "id": 482,
-                  "attributes": {
-                    "name": "Colombia.png",
-                    "alternativeText": "Colombia",
-                    "caption": "sync:1816c30293680864d026651562c12130",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
-                        "hash": "thumbnail_Colombia_4e2c37acbb",
-                        "mime": "image/png",
-                        "name": "thumbnail_Colombia.png",
-                        "path": null,
-                        "size": 5.13,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 5130
-                      }
-                    },
-                    "hash": "Colombia_4e2c37acbb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.32,
-                    "url": "/uploads/Colombia_4e2c37acbb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:03.920Z",
-                    "updatedAt": "2026-10-05T20:42:03.920Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40992,
-      "attributes": {
-        "date_diary": "2026-10-20",
+        "diary_description": "NHL: Buffalo Sabres vs Philadelphia Flyers",
         "diary_hour": "18:30:00",
-        "diary_description": "Liga BetPlay: Cucuta vs Atlético Nacional",
-        "createdAt": "2026-10-20T19:38:09.729Z",
-        "updatedAt": "2026-10-20T19:39:12.845Z",
-        "publishedAt": "2026-10-20T19:39:12.839Z",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T12:12:52.998Z",
+        "updatedAt": "2026-10-21T12:13:25.301Z",
+        "publishedAt": "2026-10-21T12:13:25.341Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 164,
+              "id": 1079,
               "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1541,
-              "attributes": {
-                "embed_name": "Win Sports + | opc3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
+                "embed_name": "Disney 19",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE5",
                 "idioma": "Español"
               }
             }
@@ -1405,45 +1677,47 @@
         },
         "country": {
           "data": {
-            "id": 17,
+            "id": 42,
             "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2026-10-05T20:42:03.931Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
               "image": {
                 "data": {
-                  "id": 482,
+                  "id": 571,
                   "attributes": {
-                    "name": "Colombia.png",
-                    "alternativeText": "Colombia",
-                    "caption": "sync:1816c30293680864d026651562c12130",
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
-                        "hash": "thumbnail_Colombia_4e2c37acbb",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
                         "mime": "image/png",
-                        "name": "thumbnail_Colombia.png",
+                        "name": "thumbnail_NHL.png",
                         "path": null,
-                        "size": 5.13,
+                        "size": 19.71,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 5130
+                        "sizeInBytes": 19712
                       }
                     },
-                    "hash": "Colombia_4e2c37acbb",
+                    "hash": "NHL_a792e23ddd",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.32,
-                    "url": "/uploads/Colombia_4e2c37acbb.png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:03.920Z",
-                    "updatedAt": "2026-10-05T20:42:03.920Z"
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -1457,22 +1731,22 @@
       }
     },
     {
-      "id": 40993,
+      "id": 40884,
       "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "19:07:00",
-        "diary_description": "Liga MX: Chivas vs Necaxa",
-        "createdAt": "2026-10-20T19:40:11.147Z",
-        "updatedAt": "2026-10-20T22:24:07.404Z",
-        "publishedAt": "2026-10-20T22:24:07.399Z",
+        "diary_description": "NHL: Ottawa Senators vs Florida Panthers",
+        "diary_hour": "18:30:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T12:12:53.793Z",
+        "updatedAt": "2026-10-21T12:13:39.693Z",
+        "publishedAt": "2026-10-21T12:13:39.733Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 790,
+              "id": 1067,
               "attributes": {
-                "embed_name": "Universo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv",
+                "embed_name": "Disney 20",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw",
                 "idioma": "Español"
               }
             }
@@ -1480,45 +1754,47 @@
         },
         "country": {
           "data": {
-            "id": 5,
+            "id": 42,
             "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
               "image": {
                 "data": {
-                  "id": 568,
+                  "id": 571,
                   "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
                         "mime": "image/png",
-                        "name": "thumbnail_México.png",
+                        "name": "thumbnail_NHL.png",
                         "path": null,
-                        "size": 12,
+                        "size": 19.71,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 11996
+                        "sizeInBytes": 19712
                       }
                     },
-                    "hash": "Mexico_377c2f83d5",
+                    "hash": "NHL_a792e23ddd",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z"
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -1532,418 +1808,22 @@
       }
     },
     {
-      "id": 40994,
+      "id": 40876,
       "attributes": {
-        "date_diary": "2026-10-20",
+        "diary_description": "CONCACAF Central American Cup: Firpo vs Deportivo Saprissa",
         "diary_hour": "19:30:00",
-        "diary_description": "Copa Sudamericana: Vasco da Gama vs Boca Juniors",
-        "createdAt": "2026-10-20T19:40:24.693Z",
-        "updatedAt": "2026-10-20T22:26:32.909Z",
-        "publishedAt": "2026-10-20T22:26:32.904Z",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T12:08:28.988Z",
+        "updatedAt": "2026-10-21T12:08:59.402Z",
+        "publishedAt": "2026-10-21T12:08:59.429Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1547,
+              "id": 1059,
               "attributes": {
-                "embed_name": "Dsports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2RzcG9ydHNoZC5waHA=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1252,
-              "attributes": {
-                "embed_name": "Dsports AR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0c2Fy",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1562,
-              "attributes": {
-                "embed_name": "Dsports Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1410,
-              "attributes": {
-                "embed_name": "Dsports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNfb3Ay",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 644,
-              "attributes": {
-                "embed_name": "Dsports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1534,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1557,
-              "attributes": {
-                "embed_name": "ESPN3 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1204,
-              "attributes": {
-                "embed_name": "BeIN Sports Ñ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 83,
-            "attributes": {
-              "name": "CONMEBOL Sudamericana",
-              "createdAt": "2024-03-06T11:08:44.716Z",
-              "updatedAt": "2026-10-05T20:42:02.767Z",
-              "publishedAt": "2024-03-06T11:08:46.058Z",
-              "image": {
-                "data": {
-                  "id": 473,
-                  "attributes": {
-                    "name": "CONMEBOL Sudamericana.png",
-                    "alternativeText": "CONMEBOL Sudamericana",
-                    "caption": "sync:120294c9c7e0450046d5f1778a9cb731",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_CONMEBOL_Sudamericana_5feac8e776.png",
-                        "hash": "thumbnail_CONMEBOL_Sudamericana_5feac8e776",
-                        "mime": "image/png",
-                        "name": "thumbnail_CONMEBOL Sudamericana.png",
-                        "path": null,
-                        "size": 10.61,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10614
-                      }
-                    },
-                    "hash": "CONMEBOL_Sudamericana_5feac8e776",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.62,
-                    "url": "/uploads/CONMEBOL_Sudamericana_5feac8e776.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:02.756Z",
-                    "updatedAt": "2026-10-05T20:42:02.756Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40995,
-      "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "20:00:00",
-        "diary_description": "Liga MX: Atlético San Luis vs Querétaro",
-        "createdAt": "2026-10-20T22:24:25.881Z",
-        "updatedAt": "2026-10-20T22:27:27.472Z",
-        "publishedAt": "2026-10-20T22:27:27.467Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 310,
-              "attributes": {
-                "embed_name": "ESPN2 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 833,
-              "attributes": {
-                "embed_name": "Disney 01",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 568,
-                  "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
-                        "mime": "image/png",
-                        "name": "thumbnail_México.png",
-                        "path": null,
-                        "size": 12,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 11996
-                      }
-                    },
-                    "hash": "Mexico_377c2f83d5",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40996,
-      "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "20:00:00",
-        "diary_description": "Liga MX: FC Juarez vs Atlante FC",
-        "createdAt": "2026-10-20T22:24:26.863Z",
-        "updatedAt": "2026-10-20T22:28:05.936Z",
-        "publishedAt": "2026-10-20T22:27:50.169Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 288,
-              "attributes": {
-                "embed_name": "FOX Deportes",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1558,
-              "attributes": {
-                "embed_name": "FOX Deportes | Móvil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 620,
-              "attributes": {
-                "embed_name": "Azteca 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 568,
-                  "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
-                        "mime": "image/png",
-                        "name": "thumbnail_México.png",
-                        "path": null,
-                        "size": 12,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 11996
-                      }
-                    },
-                    "hash": "Mexico_377c2f83d5",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40998,
-      "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "20:30:00",
-        "diary_description": "Liga BetPlay: Millonarios vs Once Caldas",
-        "createdAt": "2026-10-20T22:24:37.769Z",
-        "updatedAt": "2026-10-20T22:29:40.926Z",
-        "publishedAt": "2026-10-20T22:29:40.920Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 164,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1541,
-              "attributes": {
-                "embed_name": "Win Sports + | opc3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 17,
-            "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2026-10-05T20:42:03.931Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
-              "image": {
-                "data": {
-                  "id": 482,
-                  "attributes": {
-                    "name": "Colombia.png",
-                    "alternativeText": "Colombia",
-                    "caption": "sync:1816c30293680864d026651562c12130",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
-                        "hash": "thumbnail_Colombia_4e2c37acbb",
-                        "mime": "image/png",
-                        "name": "thumbnail_Colombia.png",
-                        "path": null,
-                        "size": 5.13,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 5130
-                      }
-                    },
-                    "hash": "Colombia_4e2c37acbb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.32,
-                    "url": "/uploads/Colombia_4e2c37acbb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:03.920Z",
-                    "updatedAt": "2026-10-05T20:42:03.920Z"
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 41000,
-      "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "21:00:00",
-        "diary_description": "CONCACAF Central American Cup: CD Marathon vs Alianza",
-        "createdAt": "2026-10-20T22:31:10.509Z",
-        "updatedAt": "2026-10-20T22:31:41.538Z",
-        "publishedAt": "2026-10-20T22:31:41.533Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 834,
-              "attributes": {
-                "embed_name": "Disney 02",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
+                "embed_name": "Disney 16",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2",
                 "idioma": "Español"
               }
             }
@@ -1989,7 +1869,9 @@
                     "provider": "local",
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:04.471Z",
-                    "updatedAt": "2026-10-05T20:42:04.471Z"
+                    "updatedAt": "2026-10-05T20:42:04.471Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -2003,22 +1885,54 @@
       }
     },
     {
-      "id": 41002,
+      "id": 40865,
       "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "21:00:00",
-        "diary_description": "NHL: Vancouver Canucks vs Carolina Hurricanes",
-        "createdAt": "2026-10-20T22:33:07.983Z",
-        "updatedAt": "2026-10-20T22:33:39.443Z",
-        "publishedAt": "2026-10-20T22:33:17.559Z",
+        "diary_description": "Copa Libertadores: Palmeiras vs Fluminense",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:58.838Z",
+        "updatedAt": "2026-10-21T12:03:27.742Z",
+        "publishedAt": "2026-10-21T12:03:27.770Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 835,
+              "id": 657,
               "attributes": {
-                "embed_name": "Disney 03",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 935,
+              "attributes": {
+                "embed_name": "Disney 14",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1534,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1204,
+              "attributes": {
+                "embed_name": "BeIN Sports Ñ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz",
                 "idioma": "Español"
               }
             }
@@ -2026,45 +1940,47 @@
         },
         "country": {
           "data": {
-            "id": 42,
+            "id": 61,
             "attributes": {
-              "name": "NHL",
-              "createdAt": "2023-12-27T15:19:09.753Z",
-              "updatedAt": "2026-10-05T20:42:15.144Z",
-              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "name": "Copa Libertadores",
+              "createdAt": "2024-02-07T06:05:32.798Z",
+              "updatedAt": "2026-10-05T20:42:04.622Z",
+              "publishedAt": "2024-02-07T06:05:33.983Z",
               "image": {
                 "data": {
-                  "id": 571,
+                  "id": 487,
                   "attributes": {
-                    "name": "NHL.png",
-                    "alternativeText": "NHL",
-                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "name": "Copa Libertadores.png",
+                    "alternativeText": "Copa Libertadores",
+                    "caption": "sync:c6a69c5f2c74086600cb7b6172b467d7",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
-                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "url": "/uploads/thumbnail_Copa_Libertadores_df7fdd2b36.png",
+                        "hash": "thumbnail_Copa_Libertadores_df7fdd2b36",
                         "mime": "image/png",
-                        "name": "thumbnail_NHL.png",
+                        "name": "thumbnail_Copa Libertadores.png",
                         "path": null,
-                        "size": 19.71,
+                        "size": 12.2,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 19712
+                        "sizeInBytes": 12203
                       }
                     },
-                    "hash": "NHL_a792e23ddd",
+                    "hash": "Copa_Libertadores_df7fdd2b36",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 10.27,
-                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "size": 7.13,
+                    "url": "/uploads/Copa_Libertadores_df7fdd2b36.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:15.134Z",
-                    "updatedAt": "2026-10-05T20:42:15.134Z"
+                    "createdAt": "2026-10-05T20:42:04.611Z",
+                    "updatedAt": "2026-10-05T20:42:04.611Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -2078,22 +1994,46 @@
       }
     },
     {
-      "id": 41003,
+      "id": 40867,
       "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "21:30:00",
-        "diary_description": "NHL: Vegas Golden Knights vs Tampa Bay Lightning",
-        "createdAt": "2026-10-20T22:33:08.957Z",
-        "updatedAt": "2026-10-20T22:33:29.871Z",
-        "publishedAt": "2026-10-20T22:33:29.864Z",
+        "diary_description": "Liga MX: Atlas vs América",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:47:05.953Z",
+        "updatedAt": "2026-10-21T12:04:22.122Z",
+        "publishedAt": "2026-10-21T12:04:22.167Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 827,
+              "id": 206,
               "attributes": {
-                "embed_name": "Disney 04",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1542,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1546,
+              "attributes": {
+                "embed_name": "Canal 5 MX HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2NhbmFsNW14LnBocA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 996,
+              "attributes": {
+                "embed_name": "Canal 5 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ==",
                 "idioma": "Español"
               }
             }
@@ -2101,45 +2041,47 @@
         },
         "country": {
           "data": {
-            "id": 42,
+            "id": 5,
             "attributes": {
-              "name": "NHL",
-              "createdAt": "2023-12-27T15:19:09.753Z",
-              "updatedAt": "2026-10-05T20:42:15.144Z",
-              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2026-10-05T20:42:14.745Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
               "image": {
                 "data": {
-                  "id": 571,
+                  "id": 568,
                   "attributes": {
-                    "name": "NHL.png",
-                    "alternativeText": "NHL",
-                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "name": "México.png",
+                    "alternativeText": "México",
+                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
-                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
+                        "hash": "thumbnail_Mexico_377c2f83d5",
                         "mime": "image/png",
-                        "name": "thumbnail_NHL.png",
+                        "name": "thumbnail_México.png",
                         "path": null,
-                        "size": 19.71,
+                        "size": 12,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 19712
+                        "sizeInBytes": 11996
                       }
                     },
-                    "hash": "NHL_a792e23ddd",
+                    "hash": "Mexico_377c2f83d5",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 10.27,
-                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "size": 3.57,
+                    "url": "/uploads/Mexico_377c2f83d5.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:15.134Z",
-                    "updatedAt": "2026-10-05T20:42:15.134Z"
+                    "createdAt": "2026-10-05T20:42:14.735Z",
+                    "updatedAt": "2026-10-05T20:42:14.735Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -2153,41 +2095,94 @@
       }
     },
     {
-      "id": 40997,
+      "id": 40869,
       "attributes": {
-        "date_diary": "2026-10-20",
-        "diary_hour": "22:00:00",
-        "diary_description": "Liga MX: Tigres vs León",
-        "createdAt": "2026-10-20T22:24:27.734Z",
-        "updatedAt": "2026-10-20T22:28:32.636Z",
-        "publishedAt": "2026-10-20T22:28:32.629Z",
+        "diary_description": "Liga MX: Puebla vs Monterrey",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:47:07.256Z",
+        "updatedAt": "2026-10-21T12:05:12.650Z",
+        "publishedAt": "2026-10-21T12:05:12.676Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 288,
+              "id": 308,
               "attributes": {
-                "embed_name": "FOX Deportes",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+                "embed_name": "ESPN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA==",
                 "idioma": "Español"
               }
-            },
-            {
-              "id": 790,
-              "attributes": {
-                "embed_name": "Universo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv",
-                "idioma": "Español"
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2026-10-05T20:42:14.745Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 568,
+                  "attributes": {
+                    "name": "México.png",
+                    "alternativeText": "México",
+                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
+                        "hash": "thumbnail_Mexico_377c2f83d5",
+                        "mime": "image/png",
+                        "name": "thumbnail_México.png",
+                        "path": null,
+                        "size": 12,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 11996
+                      }
+                    },
+                    "hash": "Mexico_377c2f83d5",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.57,
+                    "url": "/uploads/Mexico_377c2f83d5.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.735Z",
+                    "updatedAt": "2026-10-05T20:42:14.735Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
               }
-            },
-            {
-              "id": 1558,
-              "attributes": {
-                "embed_name": "FOX Deportes | Móvil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40870,
+      "attributes": {
+        "diary_description": "Liga MX: Toluca vs Tijuana",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:47:08.041Z",
+        "updatedAt": "2026-10-21T12:05:44.569Z",
+        "publishedAt": "2026-10-21T12:05:44.598Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
             {
               "id": 620,
               "attributes": {
@@ -2238,7 +2233,450 @@
                     "provider": "local",
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z"
+                    "updatedAt": "2026-10-05T20:42:14.735Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40866,
+      "attributes": {
+        "diary_description": "Liga BetPlay: Independiente Santa Fe vs Jaguares de Córdoba",
+        "diary_hour": "20:20:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:47:02.915Z",
+        "updatedAt": "2026-10-21T12:03:43.875Z",
+        "publishedAt": "2026-10-21T12:03:43.902Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1541,
+              "attributes": {
+                "embed_name": "Win Sports + | opc3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2026-10-05T20:42:03.931Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 482,
+                  "attributes": {
+                    "name": "Colombia.png",
+                    "alternativeText": "Colombia",
+                    "caption": "sync:1816c30293680864d026651562c12130",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
+                        "hash": "thumbnail_Colombia_4e2c37acbb",
+                        "mime": "image/png",
+                        "name": "thumbnail_Colombia.png",
+                        "path": null,
+                        "size": 5.13,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 5130
+                      }
+                    },
+                    "hash": "Colombia_4e2c37acbb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.32,
+                    "url": "/uploads/Colombia_4e2c37acbb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:03.920Z",
+                    "updatedAt": "2026-10-05T20:42:03.920Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40880,
+      "attributes": {
+        "diary_description": "NBA: Los Angeles Lakers vs Golden State Warriors",
+        "diary_hour": "21:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T12:12:13.374Z",
+        "updatedAt": "2026-10-21T12:12:30.802Z",
+        "publishedAt": "2026-10-21T12:12:30.841Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1058,
+              "attributes": {
+                "embed_name": "Disney 18",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1532,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "image": {
+                "data": {
+                  "id": 569,
+                  "attributes": {
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_NBA.png",
+                        "path": null,
+                        "size": 10.36,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10359
+                      }
+                    },
+                    "hash": "NBA_c1f26796ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40875,
+      "attributes": {
+        "diary_description": "CONCACAF Central American Cup: CS Cartagines vs CD Olimpia",
+        "diary_hour": "21:30:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:48:14.533Z",
+        "updatedAt": "2026-10-21T12:08:44.501Z",
+        "publishedAt": "2026-10-21T12:08:44.530Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 932,
+              "attributes": {
+                "embed_name": "Disney 15",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 34,
+            "attributes": {
+              "name": "Copa Centroamericana",
+              "createdAt": "2023-11-28T14:54:06.416Z",
+              "updatedAt": "2026-10-05T20:42:04.482Z",
+              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "image": {
+                "data": {
+                  "id": 486,
+                  "attributes": {
+                    "name": "Copa Centroamericana.png",
+                    "alternativeText": "Copa Centroamericana",
+                    "caption": "sync:5b0753d38658c4b7663c4fad6e020b8c",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Copa_Centroamericana_d79f016082.png",
+                        "hash": "thumbnail_Copa_Centroamericana_d79f016082",
+                        "mime": "image/png",
+                        "name": "thumbnail_Copa Centroamericana.png",
+                        "path": null,
+                        "size": 11.47,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 11467
+                      }
+                    },
+                    "hash": "Copa_Centroamericana_d79f016082",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.32,
+                    "url": "/uploads/Copa_Centroamericana_d79f016082.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:04.471Z",
+                    "updatedAt": "2026-10-05T20:42:04.471Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40871,
+      "attributes": {
+        "diary_description": "Liga MX: Pachuca vs Cruz Azul",
+        "diary_hour": "22:10:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:47:08.877Z",
+        "updatedAt": "2026-10-21T12:06:05.785Z",
+        "publishedAt": "2026-10-21T12:06:05.812Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1723,
+              "attributes": {
+                "embed_name": "FOX One",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2ZveG9uZS5waHA=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2026-10-05T20:42:14.745Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 568,
+                  "attributes": {
+                    "name": "México.png",
+                    "alternativeText": "México",
+                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
+                        "hash": "thumbnail_Mexico_377c2f83d5",
+                        "mime": "image/png",
+                        "name": "thumbnail_México.png",
+                        "path": null,
+                        "size": 12,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 11996
+                      }
+                    },
+                    "hash": "Mexico_377c2f83d5",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.57,
+                    "url": "/uploads/Mexico_377c2f83d5.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.735Z",
+                    "updatedAt": "2026-10-05T20:42:14.735Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40873,
+      "attributes": {
+        "diary_description": "Liga MX: Santos Laguna vs Pumas UNAM",
+        "diary_hour": "22:10:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:47:09.711Z",
+        "updatedAt": "2026-10-21T12:06:53.134Z",
+        "publishedAt": "2026-10-21T12:06:53.165Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1546,
+              "attributes": {
+                "embed_name": "Canal 5 MX HD",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2NhbmFsNW14LnBocA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1542,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 996,
+              "attributes": {
+                "embed_name": "Canal 5 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 308,
+              "attributes": {
+                "embed_name": "ESPN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "México",
+              "createdAt": "2023-11-22T15:15:54.001Z",
+              "updatedAt": "2026-10-05T20:42:14.745Z",
+              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "image": {
+                "data": {
+                  "id": 568,
+                  "attributes": {
+                    "name": "México.png",
+                    "alternativeText": "México",
+                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
+                        "hash": "thumbnail_Mexico_377c2f83d5",
+                        "mime": "image/png",
+                        "name": "thumbnail_México.png",
+                        "path": null,
+                        "size": 12,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 11996
+                      }
+                    },
+                    "hash": "Mexico_377c2f83d5",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.57,
+                    "url": "/uploads/Mexico_377c2f83d5.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.735Z",
+                    "updatedAt": "2026-10-05T20:42:14.735Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
                   }
                 }
               }
@@ -2255,9 +2693,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 25,
+      "pageSize": 29,
       "pageCount": 1,
-      "total": 25
+      "total": 29
     }
   }
 }
