@@ -1,147 +1,46 @@
 {
   "data": [
     {
-      "id": 40823,
+      "id": 40848,
       "attributes": {
-        "diary_description": "UEFA Youth League: Internazionale Sub-19 vs Shakhtar Donetsk Sub-19",
-        "diary_hour": "09:00:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:44:32.891Z",
-        "updatedAt": "2026-10-21T11:45:13.845Z",
-        "publishedAt": "2026-10-21T11:45:13.872Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 834,
-              "attributes": {
-                "embed_name": "Disney 02",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 59,
-            "attributes": {
-              "name": "UEFA Youth League",
-              "createdAt": "2024-02-06T05:35:54.159Z",
-              "updatedAt": "2026-10-05T20:42:21.297Z",
-              "publishedAt": "2024-02-06T05:35:54.901Z",
-              "image": {
-                "data": {
-                  "id": 621,
-                  "attributes": {
-                    "name": "UEFA Youth League.png",
-                    "alternativeText": "UEFA Youth League",
-                    "caption": "sync:7eb39f6cdf570d9d8743370b04899ca5",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Youth_League_2f0e5b3a69.png",
-                        "hash": "thumbnail_UEFA_Youth_League_2f0e5b3a69",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Youth League.png",
-                        "path": null,
-                        "size": 14.92,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 14918
-                      }
-                    },
-                    "hash": "UEFA_Youth_League_2f0e5b3a69",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.96,
-                    "url": "/uploads/UEFA_Youth_League_2f0e5b3a69.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:21.288Z",
-                    "updatedAt": "2026-10-05T20:42:21.288Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40847,
-      "attributes": {
-        "diary_description": "UEFA Champions League: Como vs Manchester United",
+        "diary_description": "UEFA Champions League: Lille vs Galatasaray",
         "diary_hour": "11:45:00",
         "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:45:34.226Z",
-        "updatedAt": "2026-10-21T11:49:46.940Z",
-        "publishedAt": "2026-10-21T11:49:46.968Z",
+        "createdAt": "2026-10-21T11:45:35.494Z",
+        "updatedAt": "2026-10-21T11:50:41.349Z",
+        "publishedAt": "2026-10-21T11:50:41.381Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 657,
+              "id": 640,
               "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
                 "idioma": "Español"
               }
             },
             {
-              "id": 835,
+              "id": 827,
               "attributes": {
-                "embed_name": "Disney 03",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
+                "embed_name": "Disney 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1534,
+              "id": 1532,
               "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA==",
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
                 "idioma": "Español"
               }
             },
             {
-              "id": 206,
+              "id": 120,
               "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1542,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1071,
-              "attributes": {
-                "embed_name": "Unimas",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 324,
-              "attributes": {
-                "embed_name": "Univision",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw==",
                 "idioma": "Español"
               }
             }
@@ -203,46 +102,78 @@
       }
     },
     {
-      "id": 40848,
+      "id": 40886,
       "attributes": {
-        "diary_description": "UEFA Champions League: Lille vs Galatasaray",
+        "diary_description": "UEFA Champions League: Como vs Manchester United",
         "diary_hour": "11:45:00",
         "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:45:35.494Z",
-        "updatedAt": "2026-10-21T11:50:41.349Z",
-        "publishedAt": "2026-10-21T11:50:41.381Z",
+        "createdAt": "2026-10-21T11:45:34.226Z",
+        "updatedAt": "2026-10-21T17:09:24.356Z",
+        "publishedAt": "2026-10-21T17:09:24.383Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 640,
+              "id": 657,
               "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
                 "idioma": "Español"
               }
             },
             {
-              "id": 827,
+              "id": 835,
               "attributes": {
-                "embed_name": "Disney 04",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
+                "embed_name": "Disney 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1532,
+              "id": 1534,
               "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA==",
                 "idioma": "Español"
               }
             },
             {
-              "id": 120,
+              "id": 206,
               "attributes": {
-                "embed_name": "Fox Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1542,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1071,
+              "attributes": {
+                "embed_name": "Unimas",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 324,
+              "attributes": {
+                "embed_name": "Univision",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1571,
+              "attributes": {
+                "embed_name": "TNT 2 UK",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL3RudHNwb3J0czJ1ay5waHA=",
                 "idioma": "Español"
               }
             }
@@ -575,139 +506,6 @@
       }
     },
     {
-      "id": 40852,
-      "attributes": {
-        "diary_description": "UEFA Champions League: Bayern Múnich vs Arsenal",
-        "diary_hour": "14:00:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:46:23.900Z",
-        "updatedAt": "2026-10-21T11:53:33.004Z",
-        "publishedAt": "2026-10-21T11:53:33.037Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 849,
-              "attributes": {
-                "embed_name": "Disney 06",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1532,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 120,
-              "attributes": {
-                "embed_name": "Fox Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1542,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1071,
-              "attributes": {
-                "embed_name": "Unimas",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 324,
-              "attributes": {
-                "embed_name": "Univision",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 40853,
       "attributes": {
         "diary_description": "UEFA Champions League: Real Betis vs Feyenoord",
@@ -902,46 +700,38 @@
       }
     },
     {
-      "id": 40855,
+      "id": 40857,
       "attributes": {
-        "diary_description": "UEFA Champions League: Inter de Milán vs Shakhtar Donetsk",
+        "diary_description": "UEFA Champions League: Sporting de Lisboa vs LASK Linz",
         "diary_hour": "14:00:00",
         "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:46:27.735Z",
-        "updatedAt": "2026-10-21T11:56:09.979Z",
-        "publishedAt": "2026-10-21T11:56:10.000Z",
+        "createdAt": "2026-10-21T11:46:29.802Z",
+        "updatedAt": "2026-10-21T11:57:40.927Z",
+        "publishedAt": "2026-10-21T11:57:40.955Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 645,
+              "id": 972,
               "attributes": {
-                "embed_name": "ESPN5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
+                "embed_name": "ESPN6",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG42",
                 "idioma": "Español"
               }
             },
             {
-              "id": 832,
+              "id": 936,
               "attributes": {
-                "embed_name": "Disney 09",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
+                "embed_name": "Disney 11",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1536,
+              "id": 1540,
               "attributes": {
-                "embed_name": "ESPN5 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1559,
-              "attributes": {
-                "embed_name": "Fox Sports 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI=",
+                "embed_name": "ESPN6 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG42dHYuaHRtbA==",
                 "idioma": "Español"
               }
             }
@@ -1003,17 +793,25 @@
       }
     },
     {
-      "id": 40856,
+      "id": 40888,
       "attributes": {
         "diary_description": "UEFA Champions League: Real Madrid vs RB Leipzig",
         "diary_hour": "14:00:00",
         "date_diary": "2026-10-21",
         "createdAt": "2026-10-21T11:46:28.807Z",
-        "updatedAt": "2026-10-21T11:56:47.462Z",
-        "publishedAt": "2026-10-21T11:56:47.485Z",
-        "destacado": false,
+        "updatedAt": "2026-10-21T18:22:40.426Z",
+        "publishedAt": "2026-10-21T18:22:40.455Z",
+        "destacado": true,
         "embeds": {
           "data": [
+            {
+              "id": 1574,
+              "attributes": {
+                "embed_name": "TNT 4 UK",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL3RudHNwb3J0czR1ay5waHA=",
+                "idioma": "Español"
+              }
+            },
             {
               "id": 657,
               "attributes": {
@@ -1096,38 +894,187 @@
       }
     },
     {
-      "id": 40857,
+      "id": 40889,
       "attributes": {
-        "diary_description": "UEFA Champions League: Sporting de Lisboa vs LASK Linz",
+        "diary_description": "UEFA Champions League: Bayern Múnich vs Arsenal",
         "diary_hour": "14:00:00",
         "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:46:29.802Z",
-        "updatedAt": "2026-10-21T11:57:40.927Z",
-        "publishedAt": "2026-10-21T11:57:40.955Z",
-        "destacado": false,
+        "createdAt": "2026-10-21T11:46:23.900Z",
+        "updatedAt": "2026-10-21T18:22:55.327Z",
+        "publishedAt": "2026-10-21T18:22:55.358Z",
+        "destacado": true,
         "embeds": {
           "data": [
             {
-              "id": 972,
+              "id": 1573,
               "attributes": {
-                "embed_name": "ESPN6",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG42",
+                "embed_name": "TNT 1 UK",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL3RudHNwb3J0czF1ay5waHA=",
                 "idioma": "Español"
               }
             },
             {
-              "id": 936,
+              "id": 640,
               "attributes": {
-                "embed_name": "Disney 11",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1540,
+              "id": 849,
               "attributes": {
-                "embed_name": "ESPN6 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG42dHYuaHRtbA==",
+                "embed_name": "Disney 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1532,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 120,
+              "attributes": {
+                "embed_name": "Fox Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1542,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1071,
+              "attributes": {
+                "embed_name": "Unimas",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 324,
+              "attributes": {
+                "embed_name": "Univision",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40890,
+      "attributes": {
+        "diary_description": "UEFA Champions League: Inter de Milán vs Shakhtar Donetsk",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-21",
+        "createdAt": "2026-10-21T11:46:27.735Z",
+        "updatedAt": "2026-10-21T18:23:12.831Z",
+        "publishedAt": "2026-10-21T18:23:12.858Z",
+        "destacado": true,
+        "embeds": {
+          "data": [
+            {
+              "id": 645,
+              "attributes": {
+                "embed_name": "ESPN5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney 09",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1536,
+              "attributes": {
+                "embed_name": "ESPN5 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1559,
+              "attributes": {
+                "embed_name": "Fox Sports 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI=",
                 "idioma": "Español"
               }
             }
@@ -2693,9 +2640,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 29,
+      "pageSize": 28,
       "pageCount": 1,
-      "total": 29
+      "total": 28
     }
   }
 }
