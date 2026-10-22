@@ -1,131 +1,6 @@
 {
   "data": [
     {
-      "id": 40859,
-      "attributes": {
-        "diary_description": "Copa Sudamericana: Atletico Torque vs Atlético Mineiro",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:46:36.965Z",
-        "updatedAt": "2026-10-21T12:00:22.112Z",
-        "publishedAt": "2026-10-21T12:00:22.183Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1252,
-              "attributes": {
-                "embed_name": "Dsports AR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0c2Fy",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 933,
-              "attributes": {
-                "embed_name": "Disney 13",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1534,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1562,
-              "attributes": {
-                "embed_name": "Dsports Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1410,
-              "attributes": {
-                "embed_name": "Dsports | OP2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNfb3Ay",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 644,
-              "attributes": {
-                "embed_name": "Dsports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 83,
-            "attributes": {
-              "name": "CONMEBOL Sudamericana",
-              "createdAt": "2024-03-06T11:08:44.716Z",
-              "updatedAt": "2026-10-05T20:42:02.767Z",
-              "publishedAt": "2024-03-06T11:08:46.058Z",
-              "image": {
-                "data": {
-                  "id": 473,
-                  "attributes": {
-                    "name": "CONMEBOL Sudamericana.png",
-                    "alternativeText": "CONMEBOL Sudamericana",
-                    "caption": "sync:120294c9c7e0450046d5f1778a9cb731",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_CONMEBOL_Sudamericana_5feac8e776.png",
-                        "hash": "thumbnail_CONMEBOL_Sudamericana_5feac8e776",
-                        "mime": "image/png",
-                        "name": "thumbnail_CONMEBOL Sudamericana.png",
-                        "path": null,
-                        "size": 10.61,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10614
-                      }
-                    },
-                    "hash": "CONMEBOL_Sudamericana_5feac8e776",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.62,
-                    "url": "/uploads/CONMEBOL_Sudamericana_5feac8e776.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:02.756Z",
-                    "updatedAt": "2026-10-05T20:42:02.756Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 40862,
       "attributes": {
         "diary_description": "MLS: FC Cincinnati vs DC United",
@@ -1412,9 +1287,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 16,
+      "pageSize": 15,
       "pageCount": 1,
-      "total": 16
+      "total": 15
     }
   }
 }
