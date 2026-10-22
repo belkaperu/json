@@ -1,107 +1,30 @@
 {
   "data": [
     {
-      "id": 40862,
+      "id": 40951,
       "attributes": {
-        "diary_description": "MLS: FC Cincinnati vs DC United",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:46:53.338Z",
-        "updatedAt": "2026-10-21T12:02:19.531Z",
-        "publishedAt": "2026-10-21T12:02:19.561Z",
+        "diary_description": "UEFA Conference League: Kairat Almaty vs Panathinaikos",
+        "diary_hour": "09:30:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:39.107Z",
+        "updatedAt": "2026-10-22T12:00:46.596Z",
+        "publishedAt": "2026-10-22T12:00:46.634Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1177,
+              "id": 833,
               "attributes": {
-                "embed_name": "MLS 01",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 19,
-            "attributes": {
-              "name": "Estados Unidos",
-              "createdAt": "2023-11-22T18:04:29.927Z",
-              "updatedAt": "2026-10-05T20:42:07.571Z",
-              "publishedAt": "2023-11-22T18:04:31.112Z",
-              "image": {
-                "data": {
-                  "id": 510,
-                  "attributes": {
-                    "name": "Estados Unidos.png",
-                    "alternativeText": "Estados Unidos",
-                    "caption": "sync:d1afa452dc17baa0b2925faf2300020c",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Estados_Unidos_608249297e.png",
-                        "hash": "thumbnail_Estados_Unidos_608249297e",
-                        "mime": "image/png",
-                        "name": "thumbnail_Estados Unidos.png",
-                        "path": null,
-                        "size": 11.12,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 11123
-                      }
-                    },
-                    "hash": "Estados_Unidos_608249297e",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.7,
-                    "url": "/uploads/Estados_Unidos_608249297e.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:07.561Z",
-                    "updatedAt": "2026-10-05T20:42:07.561Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40861,
-      "attributes": {
-        "diary_description": "Liga BetPlay: Llaneros vs Deportivo Cali",
-        "diary_hour": "18:15:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:46:51.148Z",
-        "updatedAt": "2026-10-21T12:00:55.177Z",
-        "publishedAt": "2026-10-21T12:00:55.210Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 164,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
+                "embed_name": "Disney 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1541,
+              "id": 310,
               "attributes": {
-                "embed_name": "Win Sports + | opc3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
+                "embed_name": "ESPN2 MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg=",
                 "idioma": "Español"
               }
             }
@@ -109,45 +32,45 @@
         },
         "country": {
           "data": {
-            "id": 17,
+            "id": 135,
             "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2026-10-05T20:42:03.931Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
               "image": {
                 "data": {
-                  "id": 482,
+                  "id": 615,
                   "attributes": {
-                    "name": "Colombia.png",
-                    "alternativeText": "Colombia",
-                    "caption": "sync:1816c30293680864d026651562c12130",
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
-                        "hash": "thumbnail_Colombia_4e2c37acbb",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
                         "mime": "image/png",
-                        "name": "thumbnail_Colombia.png",
+                        "name": "thumbnail_UEFA Conference League.png",
                         "path": null,
-                        "size": 5.13,
+                        "size": 12.18,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 5130
+                        "sizeInBytes": 12183
                       }
                     },
-                    "hash": "Colombia_4e2c37acbb",
+                    "hash": "UEFA_Conference_League_935cd69709",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.32,
-                    "url": "/uploads/Colombia_4e2c37acbb.png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:03.920Z",
-                    "updatedAt": "2026-10-05T20:42:03.920Z",
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -163,38 +86,22 @@
       }
     },
     {
-      "id": 40878,
+      "id": 40960,
       "attributes": {
-        "diary_description": "NBA: Miami Heat vs Minnesota Timberwolves",
-        "diary_hour": "18:30:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T12:09:52.127Z",
-        "updatedAt": "2026-10-21T12:11:34.543Z",
-        "publishedAt": "2026-10-21T12:11:34.568Z",
+        "diary_description": "UEFA Conference League: Estrella Roja vs FC Copenhagen",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:55.984Z",
+        "updatedAt": "2026-10-22T12:02:20.104Z",
+        "publishedAt": "2026-10-22T12:02:20.140Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 640,
+              "id": 938,
               "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1060,
-              "attributes": {
-                "embed_name": "Disney 17",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1532,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
+                "embed_name": "Disney 10",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
                 "idioma": "Español"
               }
             }
@@ -202,45 +109,45 @@
         },
         "country": {
           "data": {
-            "id": 4,
+            "id": 135,
             "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
               "image": {
                 "data": {
-                  "id": 569,
+                  "id": 615,
                   "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
                         "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
+                        "name": "thumbnail_UEFA Conference League.png",
                         "path": null,
-                        "size": 10.36,
+                        "size": 12.18,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 10359
+                        "sizeInBytes": 12183
                       }
                     },
-                    "hash": "NBA_c1f26796ba",
+                    "hash": "UEFA_Conference_League_935cd69709",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -256,22 +163,22 @@
       }
     },
     {
-      "id": 40883,
+      "id": 40961,
       "attributes": {
-        "diary_description": "NHL: Buffalo Sabres vs Philadelphia Flyers",
-        "diary_hour": "18:30:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T12:12:52.998Z",
-        "updatedAt": "2026-10-21T12:13:25.301Z",
-        "publishedAt": "2026-10-21T12:13:25.341Z",
+        "diary_description": "UEFA Conference League: Getafe vs FC Lugano",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:57.083Z",
+        "updatedAt": "2026-10-22T12:02:29.088Z",
+        "publishedAt": "2026-10-22T12:02:29.124Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1079,
+              "id": 936,
               "attributes": {
-                "embed_name": "Disney 19",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE5",
+                "embed_name": "Disney 11",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
                 "idioma": "Español"
               }
             }
@@ -279,45 +186,45 @@
         },
         "country": {
           "data": {
-            "id": 42,
+            "id": 135,
             "attributes": {
-              "name": "NHL",
-              "createdAt": "2023-12-27T15:19:09.753Z",
-              "updatedAt": "2026-10-05T20:42:15.144Z",
-              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
               "image": {
                 "data": {
-                  "id": 571,
+                  "id": 615,
                   "attributes": {
-                    "name": "NHL.png",
-                    "alternativeText": "NHL",
-                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
-                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
                         "mime": "image/png",
-                        "name": "thumbnail_NHL.png",
+                        "name": "thumbnail_UEFA Conference League.png",
                         "path": null,
-                        "size": 19.71,
+                        "size": 12.18,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 19712
+                        "sizeInBytes": 12183
                       }
                     },
-                    "hash": "NHL_a792e23ddd",
+                    "hash": "UEFA_Conference_League_935cd69709",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 10.27,
-                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:15.134Z",
-                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -333,22 +240,22 @@
       }
     },
     {
-      "id": 40884,
+      "id": 40962,
       "attributes": {
-        "diary_description": "NHL: Ottawa Senators vs Florida Panthers",
-        "diary_hour": "18:30:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T12:12:53.793Z",
-        "updatedAt": "2026-10-21T12:13:39.693Z",
-        "publishedAt": "2026-10-21T12:13:39.733Z",
+        "diary_description": "UEFA Conference League: FC Iberia 1999 vs Mjallby AIF",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:57.741Z",
+        "updatedAt": "2026-10-22T12:02:40.189Z",
+        "publishedAt": "2026-10-22T12:02:40.224Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1067,
+              "id": 934,
               "attributes": {
-                "embed_name": "Disney 20",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw",
+                "embed_name": "Disney 12",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy",
                 "idioma": "Español"
               }
             }
@@ -356,45 +263,45 @@
         },
         "country": {
           "data": {
-            "id": 42,
+            "id": 135,
             "attributes": {
-              "name": "NHL",
-              "createdAt": "2023-12-27T15:19:09.753Z",
-              "updatedAt": "2026-10-05T20:42:15.144Z",
-              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
               "image": {
                 "data": {
-                  "id": 571,
+                  "id": 615,
                   "attributes": {
-                    "name": "NHL.png",
-                    "alternativeText": "NHL",
-                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
-                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
                         "mime": "image/png",
-                        "name": "thumbnail_NHL.png",
+                        "name": "thumbnail_UEFA Conference League.png",
                         "path": null,
-                        "size": 19.71,
+                        "size": 12.18,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 19712
+                        "sizeInBytes": 12183
                       }
                     },
-                    "hash": "NHL_a792e23ddd",
+                    "hash": "UEFA_Conference_League_935cd69709",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 10.27,
-                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:15.134Z",
-                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -410,22 +317,22 @@
       }
     },
     {
-      "id": 40876,
+      "id": 40963,
       "attributes": {
-        "diary_description": "CONCACAF Central American Cup: Firpo vs Deportivo Saprissa",
-        "diary_hour": "19:30:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T12:08:28.988Z",
-        "updatedAt": "2026-10-21T12:08:59.402Z",
-        "publishedAt": "2026-10-21T12:08:59.429Z",
+        "diary_description": "UEFA Conference League: Inter Club d'Escaldes vs Universitatea Craiova",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:58.472Z",
+        "updatedAt": "2026-10-22T12:02:52.933Z",
+        "publishedAt": "2026-10-22T12:02:52.970Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1059,
+              "id": 933,
               "attributes": {
-                "embed_name": "Disney 16",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2",
+                "embed_name": "Disney 13",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz",
                 "idioma": "Español"
               }
             }
@@ -433,45 +340,45 @@
         },
         "country": {
           "data": {
-            "id": 34,
+            "id": 135,
             "attributes": {
-              "name": "Copa Centroamericana",
-              "createdAt": "2023-11-28T14:54:06.416Z",
-              "updatedAt": "2026-10-05T20:42:04.482Z",
-              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
               "image": {
                 "data": {
-                  "id": 486,
+                  "id": 615,
                   "attributes": {
-                    "name": "Copa Centroamericana.png",
-                    "alternativeText": "Copa Centroamericana",
-                    "caption": "sync:5b0753d38658c4b7663c4fad6e020b8c",
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Copa_Centroamericana_d79f016082.png",
-                        "hash": "thumbnail_Copa_Centroamericana_d79f016082",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
                         "mime": "image/png",
-                        "name": "thumbnail_Copa Centroamericana.png",
+                        "name": "thumbnail_UEFA Conference League.png",
                         "path": null,
-                        "size": 11.47,
+                        "size": 12.18,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 11467
+                        "sizeInBytes": 12183
                       }
                     },
-                    "hash": "Copa_Centroamericana_d79f016082",
+                    "hash": "UEFA_Conference_League_935cd69709",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 6.32,
-                    "url": "/uploads/Copa_Centroamericana_d79f016082.png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:04.471Z",
-                    "updatedAt": "2026-10-05T20:42:04.471Z",
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -487,25 +394,17 @@
       }
     },
     {
-      "id": 40891,
+      "id": 40964,
       "attributes": {
-        "diary_description": "Copa Libertadores: Palmeiras vs Fluminense",
-        "diary_hour": "19:30:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:46:58.838Z",
-        "updatedAt": "2026-10-21T22:30:29.958Z",
-        "publishedAt": "2026-10-21T22:30:29.987Z",
+        "diary_description": "UEFA Conference League: FK Jablonec vs Brighton",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:59.090Z",
+        "updatedAt": "2026-10-22T12:03:40.383Z",
+        "publishedAt": "2026-10-22T12:03:40.424Z",
         "destacado": false,
         "embeds": {
           "data": [
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
-                "idioma": "Español"
-              }
-            },
             {
               "id": 935,
               "attributes": {
@@ -513,66 +412,50 @@
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0",
                 "idioma": "Español"
               }
-            },
-            {
-              "id": 1534,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1204,
-              "attributes": {
-                "embed_name": "BeIN Sports Ñ",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz",
-                "idioma": "Español"
-              }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 61,
+            "id": 135,
             "attributes": {
-              "name": "Copa Libertadores",
-              "createdAt": "2024-02-07T06:05:32.798Z",
-              "updatedAt": "2026-10-05T20:42:04.622Z",
-              "publishedAt": "2024-02-07T06:05:33.983Z",
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
               "image": {
                 "data": {
-                  "id": 487,
+                  "id": 615,
                   "attributes": {
-                    "name": "Copa Libertadores.png",
-                    "alternativeText": "Copa Libertadores",
-                    "caption": "sync:c6a69c5f2c74086600cb7b6172b467d7",
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Copa_Libertadores_df7fdd2b36.png",
-                        "hash": "thumbnail_Copa_Libertadores_df7fdd2b36",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
                         "mime": "image/png",
-                        "name": "thumbnail_Copa Libertadores.png",
+                        "name": "thumbnail_UEFA Conference League.png",
                         "path": null,
-                        "size": 12.2,
+                        "size": 12.18,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 12203
+                        "sizeInBytes": 12183
                       }
                     },
-                    "hash": "Copa_Libertadores_df7fdd2b36",
+                    "hash": "UEFA_Conference_League_935cd69709",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 7.13,
-                    "url": "/uploads/Copa_Libertadores_df7fdd2b36.png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:04.611Z",
-                    "updatedAt": "2026-10-05T20:42:04.611Z",
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -588,447 +471,14 @@
       }
     },
     {
-      "id": 40867,
+      "id": 40965,
       "attributes": {
-        "diary_description": "Liga MX: Atlas vs América",
-        "diary_hour": "20:00:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:47:05.953Z",
-        "updatedAt": "2026-10-21T12:04:22.122Z",
-        "publishedAt": "2026-10-21T12:04:22.167Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1542,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1546,
-              "attributes": {
-                "embed_name": "Canal 5 MX HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2NhbmFsNW14LnBocA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 996,
-              "attributes": {
-                "embed_name": "Canal 5 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 568,
-                  "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
-                        "mime": "image/png",
-                        "name": "thumbnail_México.png",
-                        "path": null,
-                        "size": 12,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 11996
-                      }
-                    },
-                    "hash": "Mexico_377c2f83d5",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40869,
-      "attributes": {
-        "diary_description": "Liga MX: Puebla vs Monterrey",
-        "diary_hour": "20:00:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:47:07.256Z",
-        "updatedAt": "2026-10-21T12:05:12.650Z",
-        "publishedAt": "2026-10-21T12:05:12.676Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 308,
-              "attributes": {
-                "embed_name": "ESPN MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 568,
-                  "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
-                        "mime": "image/png",
-                        "name": "thumbnail_México.png",
-                        "path": null,
-                        "size": 12,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 11996
-                      }
-                    },
-                    "hash": "Mexico_377c2f83d5",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40870,
-      "attributes": {
-        "diary_description": "Liga MX: Toluca vs Tijuana",
-        "diary_hour": "20:00:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:47:08.041Z",
-        "updatedAt": "2026-10-21T12:05:44.569Z",
-        "publishedAt": "2026-10-21T12:05:44.598Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 620,
-              "attributes": {
-                "embed_name": "Azteca 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 568,
-                  "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
-                        "mime": "image/png",
-                        "name": "thumbnail_México.png",
-                        "path": null,
-                        "size": 12,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 11996
-                      }
-                    },
-                    "hash": "Mexico_377c2f83d5",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40866,
-      "attributes": {
-        "diary_description": "Liga BetPlay: Independiente Santa Fe vs Jaguares de Córdoba",
-        "diary_hour": "20:20:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:47:02.915Z",
-        "updatedAt": "2026-10-21T12:03:43.875Z",
-        "publishedAt": "2026-10-21T12:03:43.902Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 164,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1541,
-              "attributes": {
-                "embed_name": "Win Sports + | opc3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 17,
-            "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2026-10-05T20:42:03.931Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
-              "image": {
-                "data": {
-                  "id": 482,
-                  "attributes": {
-                    "name": "Colombia.png",
-                    "alternativeText": "Colombia",
-                    "caption": "sync:1816c30293680864d026651562c12130",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
-                        "hash": "thumbnail_Colombia_4e2c37acbb",
-                        "mime": "image/png",
-                        "name": "thumbnail_Colombia.png",
-                        "path": null,
-                        "size": 5.13,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 5130
-                      }
-                    },
-                    "hash": "Colombia_4e2c37acbb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.32,
-                    "url": "/uploads/Colombia_4e2c37acbb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:03.920Z",
-                    "updatedAt": "2026-10-05T20:42:03.920Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40880,
-      "attributes": {
-        "diary_description": "NBA: Los Angeles Lakers vs Golden State Warriors",
-        "diary_hour": "21:00:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T12:12:13.374Z",
-        "updatedAt": "2026-10-21T12:12:30.802Z",
-        "publishedAt": "2026-10-21T12:12:30.841Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1058,
-              "attributes": {
-                "embed_name": "Disney 18",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1532,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 40875,
-      "attributes": {
-        "diary_description": "CONCACAF Central American Cup: CS Cartagines vs CD Olimpia",
-        "diary_hour": "21:30:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:48:14.533Z",
-        "updatedAt": "2026-10-21T12:08:44.501Z",
-        "publishedAt": "2026-10-21T12:08:44.530Z",
+        "diary_description": "UEFA Conference League: Kauno Žalgiris vs Brann",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:59.763Z",
+        "updatedAt": "2026-10-22T12:03:49.480Z",
+        "publishedAt": "2026-10-22T12:03:49.514Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -1044,45 +494,45 @@
         },
         "country": {
           "data": {
-            "id": 34,
+            "id": 135,
             "attributes": {
-              "name": "Copa Centroamericana",
-              "createdAt": "2023-11-28T14:54:06.416Z",
-              "updatedAt": "2026-10-05T20:42:04.482Z",
-              "publishedAt": "2023-11-28T14:54:07.576Z",
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
               "image": {
                 "data": {
-                  "id": 486,
+                  "id": 615,
                   "attributes": {
-                    "name": "Copa Centroamericana.png",
-                    "alternativeText": "Copa Centroamericana",
-                    "caption": "sync:5b0753d38658c4b7663c4fad6e020b8c",
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Copa_Centroamericana_d79f016082.png",
-                        "hash": "thumbnail_Copa_Centroamericana_d79f016082",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
                         "mime": "image/png",
-                        "name": "thumbnail_Copa Centroamericana.png",
+                        "name": "thumbnail_UEFA Conference League.png",
                         "path": null,
-                        "size": 11.47,
+                        "size": 12.18,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 11467
+                        "sizeInBytes": 12183
                       }
                     },
-                    "hash": "Copa_Centroamericana_d79f016082",
+                    "hash": "UEFA_Conference_League_935cd69709",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 6.32,
-                    "url": "/uploads/Copa_Centroamericana_d79f016082.png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:04.471Z",
-                    "updatedAt": "2026-10-05T20:42:04.471Z",
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -1098,22 +548,22 @@
       }
     },
     {
-      "id": 40871,
+      "id": 40966,
       "attributes": {
-        "diary_description": "Liga MX: Pachuca vs Cruz Azul",
-        "diary_hour": "22:10:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:47:08.877Z",
-        "updatedAt": "2026-10-21T12:06:05.785Z",
-        "publishedAt": "2026-10-21T12:06:05.812Z",
+        "diary_description": "UEFA Conference League: FC Nordsjaelland vs CSKA Sofia",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:00.476Z",
+        "updatedAt": "2026-10-22T12:04:00.592Z",
+        "publishedAt": "2026-10-22T12:04:00.630Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1723,
+              "id": 1059,
               "attributes": {
-                "embed_name": "FOX One",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2ZveG9uZS5waHA=",
+                "embed_name": "Disney 16",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2",
                 "idioma": "Español"
               }
             }
@@ -1121,45 +571,45 @@
         },
         "country": {
           "data": {
-            "id": 5,
+            "id": 135,
             "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
               "image": {
                 "data": {
-                  "id": 568,
+                  "id": 615,
                   "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
                         "mime": "image/png",
-                        "name": "thumbnail_México.png",
+                        "name": "thumbnail_UEFA Conference League.png",
                         "path": null,
-                        "size": 12,
+                        "size": 12.18,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 11996
+                        "sizeInBytes": 12183
                       }
                     },
-                    "hash": "Mexico_377c2f83d5",
+                    "hash": "UEFA_Conference_League_935cd69709",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z",
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -1175,54 +625,22 @@
       }
     },
     {
-      "id": 40873,
+      "id": 40967,
       "attributes": {
-        "diary_description": "Liga MX: Santos Laguna vs Pumas UNAM",
-        "diary_hour": "22:10:00",
-        "date_diary": "2026-10-21",
-        "createdAt": "2026-10-21T11:47:09.711Z",
-        "updatedAt": "2026-10-21T12:06:53.134Z",
-        "publishedAt": "2026-10-21T12:06:53.165Z",
+        "diary_description": "UEFA Conference League: Pafos vs Riga",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:02.046Z",
+        "updatedAt": "2026-10-22T12:04:10.816Z",
+        "publishedAt": "2026-10-22T12:04:10.854Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1546,
+              "id": 1060,
               "attributes": {
-                "embed_name": "Canal 5 MX HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2NhbmFsNW14LnBocA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1542,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 996,
-              "attributes": {
-                "embed_name": "Canal 5 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 308,
-              "attributes": {
-                "embed_name": "ESPN MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA==",
+                "embed_name": "Disney 17",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3",
                 "idioma": "Español"
               }
             }
@@ -1230,45 +648,2124 @@
         },
         "country": {
           "data": {
-            "id": 5,
+            "id": 135,
             "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
               "image": {
                 "data": {
-                  "id": 568,
+                  "id": 615,
                   "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
                         "mime": "image/png",
-                        "name": "thumbnail_México.png",
+                        "name": "thumbnail_UEFA Conference League.png",
                         "path": null,
-                        "size": 12,
+                        "size": 12.18,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 11996
+                        "sizeInBytes": 12183
                       }
                     },
-                    "hash": "Mexico_377c2f83d5",
+                    "hash": "UEFA_Conference_League_935cd69709",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z",
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40968,
+      "attributes": {
+        "diary_description": "UEFA Conference League: Trabzonspor vs Hearts",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:05.315Z",
+        "updatedAt": "2026-10-22T12:04:31.428Z",
+        "publishedAt": "2026-10-22T12:04:31.464Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1058,
+              "attributes": {
+                "embed_name": "Disney 18",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 135,
+            "attributes": {
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
+              "image": {
+                "data": {
+                  "id": 615,
+                  "attributes": {
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Conference League.png",
+                        "path": null,
+                        "size": 12.18,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12183
+                      }
+                    },
+                    "hash": "UEFA_Conference_League_935cd69709",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40952,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Ararat-Armenia vs AZ Alkmaar",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:41.508Z",
+        "updatedAt": "2026-10-22T12:01:04.054Z",
+        "publishedAt": "2026-10-22T12:01:04.091Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney 02",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40953,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Dinamo Zagreb vs NEC Nijmegen",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:42.408Z",
+        "updatedAt": "2026-10-22T12:01:13.864Z",
+        "publishedAt": "2026-10-22T12:01:13.902Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40954,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Ferencváros vs Torreense",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:43.910Z",
+        "updatedAt": "2026-10-22T12:01:24.099Z",
+        "publishedAt": "2026-10-22T12:01:24.195Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40955,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Juventus vs Rennes",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:45.044Z",
+        "updatedAt": "2026-10-22T12:01:31.922Z",
+        "publishedAt": "2026-10-22T12:01:31.979Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40956,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Lech Poznan vs Sunderland",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:45.907Z",
+        "updatedAt": "2026-10-22T12:01:42.223Z",
+        "publishedAt": "2026-10-22T12:01:42.260Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40957,
+      "attributes": {
+        "diary_description": "UEFA Europa League: OFI vs Bayer Leverkusen",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:46.705Z",
+        "updatedAt": "2026-10-22T12:01:51.298Z",
+        "publishedAt": "2026-10-22T12:01:51.335Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney 07",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40958,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Union Saint-Gilloise vs Hapoel Beer Sheva",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:47.698Z",
+        "updatedAt": "2026-10-22T12:02:02.160Z",
+        "publishedAt": "2026-10-22T12:02:02.195Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney 08",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40959,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Sturm Graz vs Marseille",
+        "diary_hour": "11:45:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:57:48.547Z",
+        "updatedAt": "2026-10-22T12:02:11.150Z",
+        "publishedAt": "2026-10-22T12:02:11.187Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney 09",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40979,
+      "attributes": {
+        "diary_description": "UEFA Conference League: Aarhus vs Egnatia Rrogozhinë",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:20.645Z",
+        "updatedAt": "2026-10-22T12:06:39.268Z",
+        "publishedAt": "2026-10-22T12:06:39.304Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney 11",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 135,
+            "attributes": {
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
+              "image": {
+                "data": {
+                  "id": 615,
+                  "attributes": {
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Conference League.png",
+                        "path": null,
+                        "size": 12.18,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12183
+                      }
+                    },
+                    "hash": "UEFA_Conference_League_935cd69709",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40980,
+      "attributes": {
+        "diary_description": "UEFA Conference League: Ajax vs Atalanta",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:21.441Z",
+        "updatedAt": "2026-10-22T12:06:50.366Z",
+        "publishedAt": "2026-10-22T12:06:50.404Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 934,
+              "attributes": {
+                "embed_name": "Disney 12",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 135,
+            "attributes": {
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
+              "image": {
+                "data": {
+                  "id": 615,
+                  "attributes": {
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Conference League.png",
+                        "path": null,
+                        "size": 12.18,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12183
+                      }
+                    },
+                    "hash": "UEFA_Conference_League_935cd69709",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40981,
+      "attributes": {
+        "diary_description": "UEFA Conference League: Borac Banja Luka vs KuPS",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:22.214Z",
+        "updatedAt": "2026-10-22T12:07:12.207Z",
+        "publishedAt": "2026-10-22T12:07:12.242Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 933,
+              "attributes": {
+                "embed_name": "Disney 13",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 135,
+            "attributes": {
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
+              "image": {
+                "data": {
+                  "id": 615,
+                  "attributes": {
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Conference League.png",
+                        "path": null,
+                        "size": 12.18,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12183
+                      }
+                    },
+                    "hash": "UEFA_Conference_League_935cd69709",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40982,
+      "attributes": {
+        "diary_description": "UEFA Conference League: Sporting de Braga vs Gent",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:22.989Z",
+        "updatedAt": "2026-10-22T12:07:21.540Z",
+        "publishedAt": "2026-10-22T12:07:21.575Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 935,
+              "attributes": {
+                "embed_name": "Disney 14",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 135,
+            "attributes": {
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
+              "image": {
+                "data": {
+                  "id": 615,
+                  "attributes": {
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Conference League.png",
+                        "path": null,
+                        "size": 12.18,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12183
+                      }
+                    },
+                    "hash": "UEFA_Conference_League_935cd69709",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40983,
+      "attributes": {
+        "diary_description": "UEFA Conference League: Lincoln Red Imps FC vs Twente",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:23.756Z",
+        "updatedAt": "2026-10-22T12:07:30.696Z",
+        "publishedAt": "2026-10-22T12:07:30.731Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 932,
+              "attributes": {
+                "embed_name": "Disney 15",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 135,
+            "attributes": {
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
+              "image": {
+                "data": {
+                  "id": 615,
+                  "attributes": {
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Conference League.png",
+                        "path": null,
+                        "size": 12.18,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12183
+                      }
+                    },
+                    "hash": "UEFA_Conference_League_935cd69709",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40984,
+      "attributes": {
+        "diary_description": "UEFA Conference League: FC Midtjylland vs St. Truiden",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:25.092Z",
+        "updatedAt": "2026-10-22T12:07:38.252Z",
+        "publishedAt": "2026-10-22T12:07:38.288Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1059,
+              "attributes": {
+                "embed_name": "Disney 16",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 135,
+            "attributes": {
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
+              "image": {
+                "data": {
+                  "id": 615,
+                  "attributes": {
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Conference League.png",
+                        "path": null,
+                        "size": 12.18,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12183
+                      }
+                    },
+                    "hash": "UEFA_Conference_League_935cd69709",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40985,
+      "attributes": {
+        "diary_description": "UEFA Conference League: Monaco vs Friburgo",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:25.941Z",
+        "updatedAt": "2026-10-22T12:07:47.349Z",
+        "publishedAt": "2026-10-22T12:07:47.388Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1060,
+              "attributes": {
+                "embed_name": "Disney 17",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 135,
+            "attributes": {
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
+              "image": {
+                "data": {
+                  "id": 615,
+                  "attributes": {
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Conference League.png",
+                        "path": null,
+                        "size": 12.18,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12183
+                      }
+                    },
+                    "hash": "UEFA_Conference_League_935cd69709",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40986,
+      "attributes": {
+        "diary_description": "UEFA Conference League: FC Thun vs HNK Hajduk Split",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:26.662Z",
+        "updatedAt": "2026-10-22T12:07:58.204Z",
+        "publishedAt": "2026-10-22T12:07:58.239Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1058,
+              "attributes": {
+                "embed_name": "Disney 18",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 135,
+            "attributes": {
+              "name": "UEFA Conference League",
+              "createdAt": "2025-04-10T10:08:17.906Z",
+              "updatedAt": "2026-10-05T20:42:20.503Z",
+              "publishedAt": "2025-04-10T10:08:20.460Z",
+              "image": {
+                "data": {
+                  "id": 615,
+                  "attributes": {
+                    "name": "UEFA Conference League.png",
+                    "alternativeText": "UEFA Conference League",
+                    "caption": "sync:b09c6de902165f4bed9496ea889d456a",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Conference_League_935cd69709.png",
+                        "hash": "thumbnail_UEFA_Conference_League_935cd69709",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Conference League.png",
+                        "path": null,
+                        "size": 12.18,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12183
+                      }
+                    },
+                    "hash": "UEFA_Conference_League_935cd69709",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.66,
+                    "url": "/uploads/UEFA_Conference_League_935cd69709.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.492Z",
+                    "updatedAt": "2026-10-05T20:42:20.492Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40969,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Beşiktaş vs Crystal Palace",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:10.323Z",
+        "updatedAt": "2026-10-22T12:04:42.862Z",
+        "publishedAt": "2026-10-22T12:04:42.900Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 833,
+              "attributes": {
+                "embed_name": "Disney 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40970,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Bournemouth vs Milan",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:11.103Z",
+        "updatedAt": "2026-10-22T12:04:54.152Z",
+        "publishedAt": "2026-10-22T12:04:54.188Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 834,
+              "attributes": {
+                "embed_name": "Disney 02",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40971,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Celje vs Red Bull Salzburgo",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:11.867Z",
+        "updatedAt": "2026-10-22T12:05:05.345Z",
+        "publishedAt": "2026-10-22T12:05:05.381Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40972,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Celtic vs Celta de Vigo",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:12.623Z",
+        "updatedAt": "2026-10-22T12:05:13.992Z",
+        "publishedAt": "2026-10-22T12:05:14.027Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40973,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Hoffenheim vs Lyon",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:13.125Z",
+        "updatedAt": "2026-10-22T12:05:28.319Z",
+        "publishedAt": "2026-10-22T12:05:28.354Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40974,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Jagiellonia vs Anderlecht",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:14.292Z",
+        "updatedAt": "2026-10-22T12:05:38.473Z",
+        "publishedAt": "2026-10-22T12:05:38.512Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40975,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Lillestrom vs Real Sociedad",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:15.052Z",
+        "updatedAt": "2026-10-22T12:05:48.981Z",
+        "publishedAt": "2026-10-22T12:05:49.015Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney 07",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40976,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Olympiacos vs Sparta Praga",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:16.280Z",
+        "updatedAt": "2026-10-22T12:06:11.382Z",
+        "publishedAt": "2026-10-22T12:06:11.420Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney 08",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40977,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Omonia Nicosia vs Benfica",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:17.048Z",
+        "updatedAt": "2026-10-22T12:06:20.485Z",
+        "publishedAt": "2026-10-22T12:06:20.521Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney 09",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 40978,
+      "attributes": {
+        "diary_description": "UEFA Europa League: Viktoria Plzeň vs Levski Sofia",
+        "diary_hour": "14:00:00",
+        "date_diary": "2026-10-22",
+        "createdAt": "2026-10-22T11:58:17.883Z",
+        "updatedAt": "2026-10-22T12:06:29.287Z",
+        "publishedAt": "2026-10-22T12:06:29.321Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney 10",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "UEFA Europa League",
+              "createdAt": "2023-11-30T05:01:42.926Z",
+              "updatedAt": "2026-10-05T20:42:20.629Z",
+              "publishedAt": "2023-11-30T05:01:44.247Z",
+              "image": {
+                "data": {
+                  "id": 616,
+                  "attributes": {
+                    "name": "UEFA Europa League.png",
+                    "alternativeText": "UEFA Europa League",
+                    "caption": "sync:3d2fa31be09c8cf0b9e7692d8cf78f12",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Europa_League_da33c99418.png",
+                        "hash": "thumbnail_UEFA_Europa_League_da33c99418",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Europa League.png",
+                        "path": null,
+                        "size": 12.19,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 12194
+                      }
+                    },
+                    "hash": "UEFA_Europa_League_da33c99418",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 7.05,
+                    "url": "/uploads/UEFA_Europa_League_da33c99418.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.620Z",
+                    "updatedAt": "2026-10-05T20:42:20.620Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -1287,9 +2784,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 15,
+      "pageSize": 36,
       "pageCount": 1,
-      "total": 15
+      "total": 36
     }
   }
 }
