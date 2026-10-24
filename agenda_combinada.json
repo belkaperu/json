@@ -1,91 +1,6 @@
 {
   "data": [
     {
-      "id": 41121,
-      "attributes": {
-        "diary_description": "Primera División de Chile: D. La Serena vs Concepción",
-        "diary_hour": "10:30:00",
-        "date_diary": "2026-10-24",
-        "createdAt": "2026-10-24T07:40:34.357Z",
-        "updatedAt": "2026-10-24T07:40:45.305Z",
-        "publishedAt": "2026-10-24T07:40:45.348Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 624,
-              "attributes": {
-                "embed_name": "TNT Sports Premiun CL",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1554,
-              "attributes": {
-                "embed_name": "TNT Sports Premium CL Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 12,
-            "attributes": {
-              "name": "Chile",
-              "createdAt": "2023-11-22T15:42:40.655Z",
-              "updatedAt": "2026-10-05T20:42:03.418Z",
-              "publishedAt": "2023-11-22T15:42:42.314Z",
-              "image": {
-                "data": {
-                  "id": 478,
-                  "attributes": {
-                    "name": "Chile.png",
-                    "alternativeText": "Chile",
-                    "caption": "sync:ea5c8f5b3ba603e61d65d2294628ed82",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Chile_5f395e29f7.png",
-                        "hash": "thumbnail_Chile_5f395e29f7",
-                        "mime": "image/png",
-                        "name": "thumbnail_Chile.png",
-                        "path": null,
-                        "size": 7.41,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 7412
-                      }
-                    },
-                    "hash": "Chile_5f395e29f7",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.04,
-                    "url": "/uploads/Chile_5f395e29f7.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:03.406Z",
-                    "updatedAt": "2026-10-05T20:42:03.406Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 41129,
       "attributes": {
         "diary_description": "Serie A: Nápoles vs Roma",
@@ -2501,9 +2416,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 29,
+      "pageSize": 28,
       "pageCount": 1,
-      "total": 29
+      "total": 28
     }
   }
 }
