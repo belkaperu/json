@@ -1,70 +1,6 @@
 {
   "data": [
     {
-      "id": 41144,
-      "attributes": {
-        "diary_description": "Almaty Open - Men's Singles: Stefanos Tsitsipas vs Nikoloz Basilashvili",
-        "diary_hour": "05:00:00",
-        "date_diary": "2026-10-24",
-        "createdAt": "2026-10-24T07:53:40.938Z",
-        "updatedAt": "2026-10-24T07:53:51.777Z",
-        "publishedAt": "2026-10-24T07:53:51.827Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1067,
-              "attributes": {
-                "embed_name": "Disney 20",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 53,
-            "attributes": {
-              "name": "ATP TENIS",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2026-10-06T11:53:51.709Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
-              "image": {
-                "data": {
-                  "id": 351,
-                  "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 41080,
       "attributes": {
         "diary_description": "2. Bundesliga: Heidenheim vs Energie Cottbus",
@@ -4273,9 +4209,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 50,
+      "pageSize": 49,
       "pageCount": 1,
-      "total": 50
+      "total": 49
     }
   }
 }
