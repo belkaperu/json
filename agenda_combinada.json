@@ -1,237 +1,6 @@
 {
   "data": [
     {
-      "id": 41703,
-      "attributes": {
-        "diary_description": "Süper Lig: Konyaspor vs Galatasaray",
-        "diary_hour": "12:00:00",
-        "date_diary": "2026-10-30",
-        "createdAt": "2026-10-30T12:02:07.081Z",
-        "updatedAt": "2026-10-30T12:02:13.460Z",
-        "publishedAt": "2026-10-30T12:02:13.499Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 833,
-              "attributes": {
-                "embed_name": "Disney 01",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 28,
-            "attributes": {
-              "name": "Turquía",
-              "createdAt": "2023-11-25T14:17:47.734Z",
-              "updatedAt": "2026-10-05T20:42:20.124Z",
-              "publishedAt": "2023-11-25T14:17:48.907Z",
-              "image": {
-                "data": {
-                  "id": 612,
-                  "attributes": {
-                    "name": "Turquía.png",
-                    "alternativeText": "Turquía",
-                    "caption": "sync:52b7a0c1771c6b261abb470f245142c4",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Turquia_c2a9f843f4.png",
-                        "hash": "thumbnail_Turquia_c2a9f843f4",
-                        "mime": "image/png",
-                        "name": "thumbnail_Turquía.png",
-                        "path": null,
-                        "size": 9.05,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 9048
-                      }
-                    },
-                    "hash": "Turquia_c2a9f843f4",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.21,
-                    "url": "/uploads/Turquia_c2a9f843f4.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.115Z",
-                    "updatedAt": "2026-10-05T20:42:20.115Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 41707,
-      "attributes": {
-        "diary_description": "2. Bundesliga: Arminia Bielefeld vs Eintracht Braunschweig",
-        "diary_hour": "12:30:00",
-        "date_diary": "2026-10-30",
-        "createdAt": "2026-10-30T12:02:54.542Z",
-        "updatedAt": "2026-10-30T12:03:27.708Z",
-        "publishedAt": "2026-10-30T12:03:27.750Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 834,
-              "attributes": {
-                "embed_name": "Disney 02",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 73,
-            "attributes": {
-              "name": "Alemania",
-              "createdAt": "2024-02-25T19:06:53.075Z",
-              "updatedAt": "2026-10-05T20:41:59.395Z",
-              "publishedAt": "2024-02-25T19:06:54.639Z",
-              "image": {
-                "data": {
-                  "id": 447,
-                  "attributes": {
-                    "name": "Alemania.png",
-                    "alternativeText": "Alemania",
-                    "caption": "sync:a86aca5ee7a01e1e23acac59b453f1a5",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Alemania_3926052959.png",
-                        "hash": "thumbnail_Alemania_3926052959",
-                        "mime": "image/png",
-                        "name": "thumbnail_Alemania.png",
-                        "path": null,
-                        "size": 4.66,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 4660
-                      }
-                    },
-                    "hash": "Alemania_3926052959",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.31,
-                    "url": "/uploads/Alemania_3926052959.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:41:59.382Z",
-                    "updatedAt": "2026-10-05T20:41:59.382Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 41708,
-      "attributes": {
-        "diary_description": "2. Bundesliga: Energie Cottbus vs Bochum",
-        "diary_hour": "12:30:00",
-        "date_diary": "2026-10-30",
-        "createdAt": "2026-10-30T12:02:55.450Z",
-        "updatedAt": "2026-10-30T12:04:21.386Z",
-        "publishedAt": "2026-10-30T12:04:21.424Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 835,
-              "attributes": {
-                "embed_name": "Disney 03",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 73,
-            "attributes": {
-              "name": "Alemania",
-              "createdAt": "2024-02-25T19:06:53.075Z",
-              "updatedAt": "2026-10-05T20:41:59.395Z",
-              "publishedAt": "2024-02-25T19:06:54.639Z",
-              "image": {
-                "data": {
-                  "id": 447,
-                  "attributes": {
-                    "name": "Alemania.png",
-                    "alternativeText": "Alemania",
-                    "caption": "sync:a86aca5ee7a01e1e23acac59b453f1a5",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Alemania_3926052959.png",
-                        "hash": "thumbnail_Alemania_3926052959",
-                        "mime": "image/png",
-                        "name": "thumbnail_Alemania.png",
-                        "path": null,
-                        "size": 4.66,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 4660
-                      }
-                    },
-                    "hash": "Alemania_3926052959",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.31,
-                    "url": "/uploads/Alemania_3926052959.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:41:59.382Z",
-                    "updatedAt": "2026-10-05T20:41:59.382Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 41701,
       "attributes": {
         "diary_description": "Pro League: Al Shabab vs Al-Ahli Jeddah",
@@ -942,14 +711,439 @@
           "data": []
         }
       }
+    },
+    {
+      "id": 41731,
+      "attributes": {
+        "diary_description": "Primeira Liga: Casa Pia vs Sporting de Lisboa",
+        "diary_hour": "15:15:00",
+        "date_diary": "2026-10-30",
+        "createdAt": "2026-10-30T17:11:16.887Z",
+        "updatedAt": "2026-10-30T17:11:50.600Z",
+        "publishedAt": "2026-10-30T17:11:50.640Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1468,
+              "attributes": {
+                "embed_name": "Dsports 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1561,
+              "attributes": {
+                "embed_name": "Dsports 2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHMyLmh0bWw=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1575,
+              "attributes": {
+                "embed_name": "Dsports 2 | OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMyX29wMg==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 25,
+            "attributes": {
+              "name": "Portugal",
+              "createdAt": "2023-11-24T13:52:13.028Z",
+              "updatedAt": "2026-10-05T20:42:16.734Z",
+              "publishedAt": "2023-11-24T13:52:35.436Z",
+              "image": {
+                "data": {
+                  "id": 584,
+                  "attributes": {
+                    "name": "Portugal.png",
+                    "alternativeText": "Portugal",
+                    "caption": "sync:8c1ae0985aa7b4895ca5435d77c1a02b",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Portugal_f1ff6a0e7f.png",
+                        "hash": "thumbnail_Portugal_f1ff6a0e7f",
+                        "mime": "image/png",
+                        "name": "thumbnail_Portugal.png",
+                        "path": null,
+                        "size": 7.78,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 7780
+                      }
+                    },
+                    "hash": "Portugal_f1ff6a0e7f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.06,
+                    "url": "/uploads/Portugal_f1ff6a0e7f.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:16.724Z",
+                    "updatedAt": "2026-10-05T20:42:16.724Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 41739,
+      "attributes": {
+        "diary_description": "Messi Cup: Inter Miami U16 vs Internazionale U16",
+        "diary_hour": "16:00:00",
+        "date_diary": "2026-10-30",
+        "createdAt": "2026-10-30T17:13:10.625Z",
+        "updatedAt": "2026-10-30T17:13:10.625Z",
+        "publishedAt": "2026-10-30T17:13:10.659Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney 10",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2026-10-05T20:42:00.316Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 454,
+                  "attributes": {
+                    "name": "Argentina.png",
+                    "alternativeText": "Argentina",
+                    "caption": "sync:f45cda7cc379498bceed7470d1f44847",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Argentina_de4252220c.png",
+                        "hash": "thumbnail_Argentina_de4252220c",
+                        "mime": "image/png",
+                        "name": "thumbnail_Argentina.png",
+                        "path": null,
+                        "size": 6.1,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 6096
+                      }
+                    },
+                    "hash": "Argentina_de4252220c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.69,
+                    "url": "/uploads/Argentina_de4252220c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:00.303Z",
+                    "updatedAt": "2026-10-05T20:42:00.303Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 41733,
+      "attributes": {
+        "diary_description": "Liga BetPlay: Deportivo Pereira vs Jaguares de Córdoba",
+        "diary_hour": "16:00:00",
+        "date_diary": "2026-10-30",
+        "createdAt": "2026-10-30T17:11:59.623Z",
+        "updatedAt": "2026-10-30T17:12:07.849Z",
+        "publishedAt": "2026-10-30T17:12:07.887Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1541,
+              "attributes": {
+                "embed_name": "Win Sports + | opc3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2026-10-05T20:42:03.931Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 482,
+                  "attributes": {
+                    "name": "Colombia.png",
+                    "alternativeText": "Colombia",
+                    "caption": "sync:1816c30293680864d026651562c12130",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
+                        "hash": "thumbnail_Colombia_4e2c37acbb",
+                        "mime": "image/png",
+                        "name": "thumbnail_Colombia.png",
+                        "path": null,
+                        "size": 5.13,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 5130
+                      }
+                    },
+                    "hash": "Colombia_4e2c37acbb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.32,
+                    "url": "/uploads/Colombia_4e2c37acbb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:03.920Z",
+                    "updatedAt": "2026-10-05T20:42:03.920Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 41740,
+      "attributes": {
+        "diary_description": "Liga Profesional Argentina: Estudiantes de Rio Cuarto vs Gimnasia La Plata",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-10-30",
+        "createdAt": "2026-10-30T17:13:01.479Z",
+        "updatedAt": "2026-10-30T17:13:34.102Z",
+        "publishedAt": "2026-10-30T17:13:34.141Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 257,
+              "attributes": {
+                "embed_name": "TNT Sports",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1539,
+              "attributes": {
+                "embed_name": "TNT Sports Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2026-10-05T20:42:00.316Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 454,
+                  "attributes": {
+                    "name": "Argentina.png",
+                    "alternativeText": "Argentina",
+                    "caption": "sync:f45cda7cc379498bceed7470d1f44847",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Argentina_de4252220c.png",
+                        "hash": "thumbnail_Argentina_de4252220c",
+                        "mime": "image/png",
+                        "name": "thumbnail_Argentina.png",
+                        "path": null,
+                        "size": 6.1,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 6096
+                      }
+                    },
+                    "hash": "Argentina_de4252220c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.69,
+                    "url": "/uploads/Argentina_de4252220c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:00.303Z",
+                    "updatedAt": "2026-10-05T20:42:00.303Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 41741,
+      "attributes": {
+        "diary_description": "Liga Profesional Argentina: Huracán vs Tigre",
+        "diary_hour": "17:00:00",
+        "date_diary": "2026-10-30",
+        "createdAt": "2026-10-30T17:13:02.363Z",
+        "updatedAt": "2026-10-30T17:13:53.681Z",
+        "publishedAt": "2026-10-30T17:13:53.717Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 793,
+              "attributes": {
+                "embed_name": "ESPN Premium",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1538,
+              "attributes": {
+                "embed_name": "ESPN Premium Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 72,
+            "attributes": {
+              "name": "Argentina",
+              "createdAt": "2024-02-25T19:00:29.066Z",
+              "updatedAt": "2026-10-05T20:42:00.316Z",
+              "publishedAt": "2024-02-25T19:00:31.510Z",
+              "image": {
+                "data": {
+                  "id": 454,
+                  "attributes": {
+                    "name": "Argentina.png",
+                    "alternativeText": "Argentina",
+                    "caption": "sync:f45cda7cc379498bceed7470d1f44847",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Argentina_de4252220c.png",
+                        "hash": "thumbnail_Argentina_de4252220c",
+                        "mime": "image/png",
+                        "name": "thumbnail_Argentina.png",
+                        "path": null,
+                        "size": 6.1,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 6096
+                      }
+                    },
+                    "hash": "Argentina_de4252220c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.69,
+                    "url": "/uploads/Argentina_de4252220c.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:00.303Z",
+                    "updatedAt": "2026-10-05T20:42:00.303Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
     }
   ],
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 11,
+      "pageSize": 13,
       "pageCount": 1,
-      "total": 11
+      "total": 13
     }
   }
 }
