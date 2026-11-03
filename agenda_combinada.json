@@ -1,22 +1,62 @@
 {
   "data": [
     {
-      "id": 42122,
+      "id": 42145,
       "attributes": {
-        "diary_description": "NHL: Chicago Blackhawks vs Colorado Avalanche",
-        "diary_hour": "20:00:00",
-        "date_diary": "2026-11-02",
-        "createdAt": "2026-11-02T12:43:50.694Z",
-        "updatedAt": "2026-11-02T13:00:33.762Z",
-        "publishedAt": "2026-11-02T13:00:33.798Z",
+        "diary_description": "UEFA Champions League: Galatasaray vs Stuttgart",
+        "diary_hour": "12:45:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T12:24:13.408Z",
+        "updatedAt": "2026-11-03T12:27:10.460Z",
+        "publishedAt": "2026-11-03T12:27:10.497Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 935,
+              "id": 645,
               "attributes": {
-                "embed_name": "Disney 14",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0",
+                "embed_name": "ESPN5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1737,
+              "attributes": {
+                "embed_name": "ESPN5 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuNXR2Lmh0bWw=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1542,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1071,
+              "attributes": {
+                "embed_name": "Unimas",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw==",
                 "idioma": "Español"
               }
             }
@@ -24,45 +64,45 @@
         },
         "country": {
           "data": {
-            "id": 42,
+            "id": 33,
             "attributes": {
-              "name": "NHL",
-              "createdAt": "2023-12-27T15:19:09.753Z",
-              "updatedAt": "2026-10-05T20:42:15.144Z",
-              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
               "image": {
                 "data": {
-                  "id": 571,
+                  "id": 614,
                   "attributes": {
-                    "name": "NHL.png",
-                    "alternativeText": "NHL",
-                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
-                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
                         "mime": "image/png",
-                        "name": "thumbnail_NHL.png",
+                        "name": "thumbnail_UEFA Champions League.png",
                         "path": null,
-                        "size": 19.71,
+                        "size": 13.04,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 19712
+                        "sizeInBytes": 13035
                       }
                     },
-                    "hash": "NHL_a792e23ddd",
+                    "hash": "UEFA_Champions_League_55b8e331ba",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 10.27,
-                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:15.134Z",
-                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -78,38 +118,38 @@
       }
     },
     {
-      "id": 42125,
+      "id": 42146,
       "attributes": {
-        "diary_description": "NFL: Seattle Seahawks vs Chicago Bears",
-        "diary_hour": "20:15:00",
-        "date_diary": "2026-11-02",
-        "createdAt": "2026-11-02T12:44:26.277Z",
-        "updatedAt": "2026-11-02T13:00:57.225Z",
-        "publishedAt": "2026-11-02T13:00:57.262Z",
+        "diary_description": "UEFA Champions League: Shakhtar Donetsk vs Sporting de Lisboa",
+        "diary_hour": "12:45:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T12:24:14.207Z",
+        "updatedAt": "2026-11-03T12:27:26.766Z",
+        "publishedAt": "2026-11-03T12:27:26.803Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 640,
+              "id": 657,
               "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1059,
+              "id": 849,
               "attributes": {
-                "embed_name": "Disney 16",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2",
+                "embed_name": "Disney 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1532,
+              "id": 1736,
               "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BubW92aWwuaHRtbA==",
                 "idioma": "Español"
               }
             }
@@ -117,32 +157,45 @@
         },
         "country": {
           "data": {
-            "id": 39,
+            "id": 33,
             "attributes": {
-              "name": "NFL",
-              "createdAt": "2023-12-11T23:55:39.209Z",
-              "updatedAt": "2025-09-14T15:49:37.487Z",
-              "publishedAt": "2023-12-11T23:55:40.732Z",
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
               "image": {
                 "data": {
-                  "id": 401,
+                  "id": 614,
                   "attributes": {
-                    "name": "nfl.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "nfl_c8afc9d155",
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 1.84,
-                    "url": "/uploads/nfl_c8afc9d155.png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2025-09-14T15:49:33.405Z",
-                    "updatedAt": "2025-09-14T15:49:33.405Z",
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -158,14 +211,91 @@
       }
     },
     {
-      "id": 42123,
+      "id": 42148,
       "attributes": {
-        "diary_description": "NHL: San Jose Sharks vs Calgary Flames",
-        "diary_hour": "21:00:00",
-        "date_diary": "2026-11-02",
-        "createdAt": "2026-11-02T12:43:51.521Z",
-        "updatedAt": "2026-11-02T13:00:41.460Z",
-        "publishedAt": "2026-11-02T13:00:41.497Z",
+        "diary_description": "AFC Champions League Elite: Al-Hilal Saudi FC vs Shabab Al Ahli Dubai",
+        "diary_hour": "13:15:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T12:28:44.750Z",
+        "updatedAt": "2026-11-03T12:28:56.483Z",
+        "publishedAt": "2026-11-03T12:28:56.527Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney 07",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 63,
+            "attributes": {
+              "name": "AFC Champions League",
+              "createdAt": "2024-02-12T23:24:23.051Z",
+              "updatedAt": "2026-10-05T20:41:58.879Z",
+              "publishedAt": "2024-02-12T23:24:26.129Z",
+              "image": {
+                "data": {
+                  "id": 443,
+                  "attributes": {
+                    "name": "AFC Champions League.png",
+                    "alternativeText": "AFC Champions League",
+                    "caption": "sync:8dd82a249834fb5ef929279587ea7189",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_AFC_Champions_League_8887705c72.png",
+                        "hash": "thumbnail_AFC_Champions_League_8887705c72",
+                        "mime": "image/png",
+                        "name": "thumbnail_AFC Champions League.png",
+                        "path": null,
+                        "size": 17.11,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 17113
+                      }
+                    },
+                    "hash": "AFC_Champions_League_8887705c72",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.76,
+                    "url": "/uploads/AFC_Champions_League_8887705c72.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:41:58.865Z",
+                    "updatedAt": "2026-10-05T20:41:58.865Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 42172,
+      "attributes": {
+        "diary_description": "Championship: West Brom vs Southampton",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T16:59:48.688Z",
+        "updatedAt": "2026-11-03T16:59:58.133Z",
+        "publishedAt": "2026-11-03T16:59:58.169Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -181,45 +311,922 @@
         },
         "country": {
           "data": {
-            "id": 42,
+            "id": 8,
             "attributes": {
-              "name": "NHL",
-              "createdAt": "2023-12-27T15:19:09.753Z",
-              "updatedAt": "2026-10-05T20:42:15.144Z",
-              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "name": "Inglaterra",
+              "createdAt": "2023-11-22T15:34:59.892Z",
+              "updatedAt": "2026-10-05T20:42:10.455Z",
+              "publishedAt": "2023-11-22T15:35:01.179Z",
               "image": {
                 "data": {
-                  "id": 571,
+                  "id": 533,
                   "attributes": {
-                    "name": "NHL.png",
-                    "alternativeText": "NHL",
-                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "name": "Inglaterra.png",
+                    "alternativeText": "Inglaterra",
+                    "caption": "sync:cc7139abf87b3875d4e2b65efe05369d",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
-                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "url": "/uploads/thumbnail_Inglaterra_850a05f039.png",
+                        "hash": "thumbnail_Inglaterra_850a05f039",
                         "mime": "image/png",
-                        "name": "thumbnail_NHL.png",
+                        "name": "thumbnail_Inglaterra.png",
                         "path": null,
-                        "size": 19.71,
+                        "size": 4.85,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 19712
+                        "sizeInBytes": 4846
                       }
                     },
-                    "hash": "NHL_a792e23ddd",
+                    "hash": "Inglaterra_850a05f039",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 10.27,
-                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "size": 1.69,
+                    "url": "/uploads/Inglaterra_850a05f039.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:15.134Z",
-                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "createdAt": "2026-10-05T20:42:10.445Z",
+                    "updatedAt": "2026-10-05T20:42:10.445Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 42157,
+      "attributes": {
+        "diary_description": "Liga 1: Comerciantes Unidos vs ADT de Tarma",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T14:10:53.041Z",
+        "updatedAt": "2026-11-03T14:28:21.946Z",
+        "publishedAt": "2026-11-03T14:28:21.985Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 774,
+              "attributes": {
+                "embed_name": "Liga1max",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1735,
+              "attributes": {
+                "embed_name": "Liga1max Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9saWdhMW1heHR2Lmh0bWw=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1570,
+              "attributes": {
+                "embed_name": "Liga1max OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4X29wMg==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2026-10-05T20:42:16.483Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 582,
+                  "attributes": {
+                    "name": "Perú.png",
+                    "alternativeText": "Perú",
+                    "caption": "sync:5f6a169bdc2360f67c3374fa128c8d66",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Peru_1b704f494e.png",
+                        "hash": "thumbnail_Peru_1b704f494e",
+                        "mime": "image/png",
+                        "name": "thumbnail_Perú.png",
+                        "path": null,
+                        "size": 4.76,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 4756
+                      }
+                    },
+                    "hash": "Peru_1b704f494e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.65,
+                    "url": "/uploads/Peru_1b704f494e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:16.469Z",
+                    "updatedAt": "2026-10-05T20:42:16.469Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 42159,
+      "attributes": {
+        "diary_description": "UEFA Champions League: Barcelona vs Aston Villa",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T14:11:06.021Z",
+        "updatedAt": "2026-11-03T14:42:30.690Z",
+        "publishedAt": "2026-11-03T14:42:30.729Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1573,
+              "attributes": {
+                "embed_name": "TNT 1 UK",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL3RudHNwb3J0czF1ay5waHA=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney 08",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1736,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BubW92aWwuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 42161,
+      "attributes": {
+        "diary_description": "UEFA Champions League: Bodø/Glimt vs Lille",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T14:11:07.633Z",
+        "updatedAt": "2026-11-03T14:43:17.025Z",
+        "publishedAt": "2026-11-03T14:43:17.062Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 520,
+              "attributes": {
+                "embed_name": "ESPN4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney 09",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1533,
+              "attributes": {
+                "embed_name": "ESPN4 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG40dHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 42162,
+      "attributes": {
+        "diary_description": "UEFA Champions League: Feyenoord vs Inter de Milán",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T14:11:10.204Z",
+        "updatedAt": "2026-11-03T14:43:59.193Z",
+        "publishedAt": "2026-11-03T14:43:59.232Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 653,
+              "attributes": {
+                "embed_name": "ESPN7",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG43",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney 10",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1537,
+              "attributes": {
+                "embed_name": "ESPN7 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG43LjExLmh0bWw=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 42164,
+      "attributes": {
+        "diary_description": "UEFA Champions League: LASK Linz vs Slovan Bratislava",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T14:11:11.072Z",
+        "updatedAt": "2026-11-03T14:44:21.592Z",
+        "publishedAt": "2026-11-03T14:44:21.629Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 972,
+              "attributes": {
+                "embed_name": "ESPN6",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG42",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney 11",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1540,
+              "attributes": {
+                "embed_name": "ESPN6 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG42dHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 42165,
+      "attributes": {
+        "diary_description": "UEFA Champions League: Manchester United vs Roma",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T14:11:11.878Z",
+        "updatedAt": "2026-11-03T14:45:38.718Z",
+        "publishedAt": "2026-11-03T14:45:38.757Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 656,
+              "attributes": {
+                "embed_name": "ESPN3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 934,
+              "attributes": {
+                "embed_name": "Disney 12",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1535,
+              "attributes": {
+                "embed_name": "ESPN3 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4zdHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 42166,
+      "attributes": {
+        "diary_description": "UEFA Champions League: Villarreal vs París Saint-Germain",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T14:11:12.771Z",
+        "updatedAt": "2026-11-03T14:46:21.315Z",
+        "publishedAt": "2026-11-03T14:46:21.354Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1574,
+              "attributes": {
+                "embed_name": "TNT 4 UK",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL3RudHNwb3J0czR1ay5waHA=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 645,
+              "attributes": {
+                "embed_name": "ESPN5",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 933,
+              "attributes": {
+                "embed_name": "Disney 13",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1737,
+              "attributes": {
+                "embed_name": "ESPN5 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuNXR2Lmh0bWw=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 42173,
+      "attributes": {
+        "diary_description": "UEFA Champions League: Atlético de Madrid vs Bayern Múnich",
+        "diary_hour": "15:00:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T16:57:30.033Z",
+        "updatedAt": "2026-11-03T17:03:11.859Z",
+        "publishedAt": "2026-11-03T17:03:11.898Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1571,
+              "attributes": {
+                "embed_name": "TNT 2 UK",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL3RudHNwb3J0czJ1ay5waHA=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 935,
+              "attributes": {
+                "embed_name": "Disney 14",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1532,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 206,
+              "attributes": {
+                "embed_name": "TUDN USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1542,
+              "attributes": {
+                "embed_name": "TUDN USA Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 324,
+              "attributes": {
+                "embed_name": "Univision",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "UEFA Champions League",
+              "createdAt": "2023-11-27T14:41:16.567Z",
+              "updatedAt": "2026-10-05T20:42:20.368Z",
+              "publishedAt": "2023-11-27T14:41:19.033Z",
+              "image": {
+                "data": {
+                  "id": 614,
+                  "attributes": {
+                    "name": "UEFA Champions League.png",
+                    "alternativeText": "UEFA Champions League",
+                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
+                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Champions League.png",
+                        "path": null,
+                        "size": 13.04,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 13035
+                      }
+                    },
+                    "hash": "UEFA_Champions_League_55b8e331ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 6.68,
+                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.359Z",
+                    "updatedAt": "2026-10-05T20:42:20.359Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 42167,
+      "attributes": {
+        "diary_description": "Liga BetPlay: Deportivo Pereira vs Deportes Tolima",
+        "diary_hour": "15:30:00",
+        "date_diary": "2026-11-03",
+        "createdAt": "2026-11-03T14:11:18.408Z",
+        "updatedAt": "2026-11-03T14:46:34.690Z",
+        "publishedAt": "2026-11-03T14:46:34.724Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 164,
+              "attributes": {
+                "embed_name": "Win Sports +",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1541,
+              "attributes": {
+                "embed_name": "Win Sports + | opc3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "Colombia",
+              "createdAt": "2023-11-22T15:49:17.121Z",
+              "updatedAt": "2026-10-05T20:42:03.931Z",
+              "publishedAt": "2023-11-22T15:49:18.322Z",
+              "image": {
+                "data": {
+                  "id": 482,
+                  "attributes": {
+                    "name": "Colombia.png",
+                    "alternativeText": "Colombia",
+                    "caption": "sync:1816c30293680864d026651562c12130",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
+                        "hash": "thumbnail_Colombia_4e2c37acbb",
+                        "mime": "image/png",
+                        "name": "thumbnail_Colombia.png",
+                        "path": null,
+                        "size": 5.13,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 5130
+                      }
+                    },
+                    "hash": "Colombia_4e2c37acbb",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.32,
+                    "url": "/uploads/Colombia_4e2c37acbb.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:03.920Z",
+                    "updatedAt": "2026-10-05T20:42:03.920Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -238,9 +1245,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 3,
+      "pageSize": 13,
       "pageCount": 1,
-      "total": 3
+      "total": 13
     }
   }
 }
