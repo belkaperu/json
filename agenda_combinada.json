@@ -1,261 +1,123 @@
 {
   "data": [
     {
-      "id": 43090,
+      "id": 43166,
       "attributes": {
-        "diary_description": "Copa Argentina: Banfield vs Boca Juniors",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-11-14",
-        "createdAt": "2026-11-14T11:56:36.352Z",
-        "updatedAt": "2026-11-14T11:56:45.023Z",
-        "publishedAt": "2026-11-14T11:56:45.061Z",
+        "diary_description": "Segunda División: Tenerife vs AD Ceuta FC",
+        "diary_hour": "08:00:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:23:29.183Z",
+        "updatedAt": "2026-11-15T12:23:49.364Z",
+        "publishedAt": "2026-11-15T12:23:49.400Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 18,
+              "id": 522,
               "attributes": {
-                "embed_name": "TYC Sports",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
+                "embed_name": "LaLiga TV Hypermotion ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2026-10-05T20:42:07.445Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 509,
+                  "attributes": {
+                    "name": "España.png",
+                    "alternativeText": "España",
+                    "caption": "sync:263f84126e8dc08965ad6b9e5fcbc074",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Espana_795e076624.png",
+                        "hash": "thumbnail_Espana_795e076624",
+                        "mime": "image/png",
+                        "name": "thumbnail_España.png",
+                        "path": null,
+                        "size": 10.94,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10942
+                      }
+                    },
+                    "hash": "Espana_795e076624",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.49,
+                    "url": "/uploads/Espana_795e076624.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:07.436Z",
+                    "updatedAt": "2026-10-05T20:42:07.436Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43171,
+      "attributes": {
+        "diary_description": "Liga de Naciones UEFA: Chipre vs Montenegro",
+        "diary_hour": "09:00:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:20:02.412Z",
+        "updatedAt": "2026-11-15T12:29:58.773Z",
+        "publishedAt": "2026-11-15T12:29:58.809Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1759,
-              "attributes": {
-                "embed_name": "TyC Sports Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby90eWNzcG9ydHNhcmcuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2026-10-05T20:42:00.316Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 454,
-                  "attributes": {
-                    "name": "Argentina.png",
-                    "alternativeText": "Argentina",
-                    "caption": "sync:f45cda7cc379498bceed7470d1f44847",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Argentina_de4252220c.png",
-                        "hash": "thumbnail_Argentina_de4252220c",
-                        "mime": "image/png",
-                        "name": "thumbnail_Argentina.png",
-                        "path": null,
-                        "size": 6.1,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 6096
-                      }
-                    },
-                    "hash": "Argentina_de4252220c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.69,
-                    "url": "/uploads/Argentina_de4252220c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:00.303Z",
-                    "updatedAt": "2026-10-05T20:42:00.303Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43101,
-      "attributes": {
-        "diary_description": "Segunda División: Paysandu vs Uruguay Montevideo",
-        "diary_hour": "17:30:00",
-        "date_diary": "2026-11-14",
-        "createdAt": "2026-11-14T11:57:08.847Z",
-        "updatedAt": "2026-11-14T12:01:05.933Z",
-        "publishedAt": "2026-11-14T12:01:05.969Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 933,
+              "id": 833,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
                 "idioma": "Español"
               }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2026-10-05T20:42:21.652Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 624,
-                  "attributes": {
-                    "name": "Uruguay.png",
-                    "alternativeText": "Uruguay",
-                    "caption": "sync:978fd395e8bede7b6fd0422074580ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Uruguay_6184fe6ea1.png",
-                        "hash": "thumbnail_Uruguay_6184fe6ea1",
-                        "mime": "image/png",
-                        "name": "thumbnail_Uruguay.png",
-                        "path": null,
-                        "size": 7.49,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 7489
-                      }
-                    },
-                    "hash": "Uruguay_6184fe6ea1",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.03,
-                    "url": "/uploads/Uruguay_6184fe6ea1.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:21.644Z",
-                    "updatedAt": "2026-10-05T20:42:21.644Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43151,
-      "attributes": {
-        "diary_description": "Liga MX: Querétaro vs Monterrey",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-11-14",
-        "createdAt": "2026-11-14T12:00:21.063Z",
-        "updatedAt": "2026-11-14T23:17:47.172Z",
-        "publishedAt": "2026-11-14T23:17:47.213Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
+            },
             {
-              "id": 1774,
+              "id": 1736,
               "attributes": {
-                "embed_name": "vix",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZpeDE=",
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BubW92aWwuaHRtbA==",
                 "idioma": "Español"
               }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
-              "image": {
-                "data": {
-                  "id": 568,
-                  "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
-                        "mime": "image/png",
-                        "name": "thumbnail_México.png",
-                        "path": null,
-                        "size": 12,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 11996
-                      }
-                    },
-                    "hash": "Mexico_377c2f83d5",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43153,
-      "attributes": {
-        "diary_description": "Liga MX Femenil: Tigres UANL Femenil vs Pumas UNAM Femenil",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-11-14",
-        "createdAt": "2026-11-14T23:21:11.962Z",
-        "updatedAt": "2026-11-14T23:21:29.152Z",
-        "publishedAt": "2026-11-14T23:21:29.189Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
+            },
             {
-              "id": 1723,
+              "id": 607,
               "attributes": {
-                "embed_name": "FOX One",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2ZveG9uZS5waHA=",
+                "embed_name": "Fox Sports 2 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh",
                 "idioma": "Español"
               }
             }
@@ -263,45 +125,45 @@
         },
         "country": {
           "data": {
-            "id": 5,
+            "id": 140,
             "attributes": {
-              "name": "México",
-              "createdAt": "2023-11-22T15:15:54.001Z",
-              "updatedAt": "2026-10-05T20:42:14.745Z",
-              "publishedAt": "2023-11-22T15:16:00.799Z",
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-10-05T20:42:20.778Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
               "image": {
                 "data": {
-                  "id": 568,
+                  "id": 617,
                   "attributes": {
-                    "name": "México.png",
-                    "alternativeText": "México",
-                    "caption": "sync:5208b4d1a953aa50a24b78bf1d2c327f",
+                    "name": "UEFA Nations League.png",
+                    "alternativeText": "UEFA Nations League",
+                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Mexico_377c2f83d5.png",
-                        "hash": "thumbnail_Mexico_377c2f83d5",
+                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
+                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
                         "mime": "image/png",
-                        "name": "thumbnail_México.png",
+                        "name": "thumbnail_UEFA Nations League.png",
                         "path": null,
-                        "size": 12,
+                        "size": 18.71,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 11996
+                        "sizeInBytes": 18713
                       }
                     },
-                    "hash": "Mexico_377c2f83d5",
+                    "hash": "UEFA_Nations_League_4e013598f2",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 3.57,
-                    "url": "/uploads/Mexico_377c2f83d5.png",
+                    "size": 13.86,
+                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.735Z",
-                    "updatedAt": "2026-10-05T20:42:14.735Z",
+                    "createdAt": "2026-10-05T20:42:20.769Z",
+                    "updatedAt": "2026-10-05T20:42:20.769Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -317,22 +179,30 @@
       }
     },
     {
-      "id": 43102,
+      "id": 43172,
       "attributes": {
-        "diary_description": "Primera División de Uruguay: Nacional vs Albion FC",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-11-14",
-        "createdAt": "2026-11-14T11:57:10.200Z",
-        "updatedAt": "2026-11-14T12:01:12.594Z",
-        "publishedAt": "2026-11-14T12:01:12.629Z",
+        "diary_description": "Liga de Naciones UEFA: Letonia vs Armenia",
+        "diary_hour": "09:00:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:20:03.551Z",
+        "updatedAt": "2026-11-15T12:30:52.867Z",
+        "publishedAt": "2026-11-15T12:30:52.903Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 935,
+              "id": 834,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 170,
+              "attributes": {
+                "embed_name": "Fox Soccer Plus",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNvY2NlcnBsdXM=",
                 "idioma": "Español"
               }
             }
@@ -340,45 +210,45 @@
         },
         "country": {
           "data": {
-            "id": 16,
+            "id": 140,
             "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2026-10-05T20:42:21.652Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-10-05T20:42:20.778Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
               "image": {
                 "data": {
-                  "id": 624,
+                  "id": 617,
                   "attributes": {
-                    "name": "Uruguay.png",
-                    "alternativeText": "Uruguay",
-                    "caption": "sync:978fd395e8bede7b6fd0422074580ecc",
+                    "name": "UEFA Nations League.png",
+                    "alternativeText": "UEFA Nations League",
+                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Uruguay_6184fe6ea1.png",
-                        "hash": "thumbnail_Uruguay_6184fe6ea1",
+                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
+                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
                         "mime": "image/png",
-                        "name": "thumbnail_Uruguay.png",
+                        "name": "thumbnail_UEFA Nations League.png",
                         "path": null,
-                        "size": 7.49,
+                        "size": 18.71,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 7489
+                        "sizeInBytes": 18713
                       }
                     },
-                    "hash": "Uruguay_6184fe6ea1",
+                    "hash": "UEFA_Nations_League_4e013598f2",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 2.03,
-                    "url": "/uploads/Uruguay_6184fe6ea1.png",
+                    "size": 13.86,
+                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:21.644Z",
-                    "updatedAt": "2026-10-05T20:42:21.644Z",
+                    "createdAt": "2026-10-05T20:42:20.769Z",
+                    "updatedAt": "2026-10-05T20:42:20.769Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -394,23 +264,100 @@
       }
     },
     {
-      "id": 43147,
+      "id": 43167,
       "attributes": {
-        "diary_description": "Brasileirão: Chapecoense-sc vs Vasco da Gama",
-        "diary_hour": "18:30:00",
-        "date_diary": "2026-11-14",
-        "createdAt": "2026-11-14T11:33:30.872Z",
-        "updatedAt": "2026-11-14T22:16:54.141Z",
-        "publishedAt": "2026-11-14T22:16:54.179Z",
+        "diary_description": "Segunda División: Granada CF vs Las Palmas",
+        "diary_hour": "10:15:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:23:30.789Z",
+        "updatedAt": "2026-11-15T12:24:15.383Z",
+        "publishedAt": "2026-11-15T12:24:15.418Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1549,
+              "id": 522,
               "attributes": {
-                "embed_name": "Premiere BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
-                "idioma": "Portugués"
+                "embed_name": "LaLiga TV Hypermotion ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2026-10-05T20:42:07.445Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 509,
+                  "attributes": {
+                    "name": "España.png",
+                    "alternativeText": "España",
+                    "caption": "sync:263f84126e8dc08965ad6b9e5fcbc074",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Espana_795e076624.png",
+                        "hash": "thumbnail_Espana_795e076624",
+                        "mime": "image/png",
+                        "name": "thumbnail_España.png",
+                        "path": null,
+                        "size": 10.94,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10942
+                      }
+                    },
+                    "hash": "Espana_795e076624",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.49,
+                    "url": "/uploads/Espana_795e076624.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:07.436Z",
+                    "updatedAt": "2026-10-05T20:42:07.436Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43176,
+      "attributes": {
+        "diary_description": "Liga de Naciones UEFA: Finlandia vs San Marino",
+        "diary_hour": "12:00:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:20:22.818Z",
+        "updatedAt": "2026-11-15T13:00:41.937Z",
+        "publishedAt": "2026-11-15T13:00:41.975Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
+                "idioma": "Español"
               }
             },
             {
@@ -425,45 +372,45 @@
         },
         "country": {
           "data": {
-            "id": 1,
+            "id": 140,
             "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2026-10-05T20:42:01.571Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-10-05T20:42:20.778Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
               "image": {
                 "data": {
-                  "id": 464,
+                  "id": 617,
                   "attributes": {
-                    "name": "Brasil.png",
-                    "alternativeText": "Brasil",
-                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
+                    "name": "UEFA Nations League.png",
+                    "alternativeText": "UEFA Nations League",
+                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
-                        "hash": "thumbnail_Brasil_f83563ade6",
+                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
+                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
                         "mime": "image/png",
-                        "name": "thumbnail_Brasil.png",
+                        "name": "thumbnail_UEFA Nations League.png",
                         "path": null,
-                        "size": 10.27,
+                        "size": 18.71,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 10272
+                        "sizeInBytes": 18713
                       }
                     },
-                    "hash": "Brasil_f83563ade6",
+                    "hash": "UEFA_Nations_League_4e013598f2",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 2.61,
-                    "url": "/uploads/Brasil_f83563ade6.png",
+                    "size": 13.86,
+                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:01.559Z",
-                    "updatedAt": "2026-10-05T20:42:01.559Z",
+                    "createdAt": "2026-10-05T20:42:20.769Z",
+                    "updatedAt": "2026-10-05T20:42:20.769Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -479,17 +426,41 @@
       }
     },
     {
-      "id": 43094,
+      "id": 43196,
       "attributes": {
-        "diary_description": "Liga de Naciones CONCACAF: St. Vincent / Grenadines vs Belice",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-11-14",
-        "createdAt": "2026-11-14T11:58:01.915Z",
-        "updatedAt": "2026-11-14T11:58:24.828Z",
-        "publishedAt": "2026-11-14T11:58:24.866Z",
+        "diary_description": "Liga de Naciones UEFA: Bielorrusia vs Albania",
+        "diary_hour": "12:00:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:20:21.609Z",
+        "updatedAt": "2026-11-15T13:32:56.889Z",
+        "publishedAt": "2026-11-15T13:32:56.927Z",
         "destacado": false,
         "embeds": {
           "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 835,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1738,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
+                "idioma": "Español"
+              }
+            },
             {
               "id": 170,
               "attributes": {
@@ -502,45 +473,45 @@
         },
         "country": {
           "data": {
-            "id": 90,
+            "id": 140,
             "attributes": {
-              "name": "CONCACAF Nations League",
-              "createdAt": "2024-03-21T19:02:25.065Z",
-              "updatedAt": "2026-10-05T20:42:02.224Z",
-              "publishedAt": "2024-03-21T19:02:26.413Z",
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-10-05T20:42:20.778Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
               "image": {
                 "data": {
-                  "id": 469,
+                  "id": 617,
                   "attributes": {
-                    "name": "CONCACAF Nations League.png",
-                    "alternativeText": "CONCACAF Nations League",
-                    "caption": "sync:b28c74350954bf003a7012d9501ee250",
+                    "name": "UEFA Nations League.png",
+                    "alternativeText": "UEFA Nations League",
+                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_CONCACAF_Nations_League_8ee1fcd433.png",
-                        "hash": "thumbnail_CONCACAF_Nations_League_8ee1fcd433",
+                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
+                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
                         "mime": "image/png",
-                        "name": "thumbnail_CONCACAF Nations League.png",
+                        "name": "thumbnail_UEFA Nations League.png",
                         "path": null,
-                        "size": 12.32,
+                        "size": 18.71,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 12319
+                        "sizeInBytes": 18713
                       }
                     },
-                    "hash": "CONCACAF_Nations_League_8ee1fcd433",
+                    "hash": "UEFA_Nations_League_4e013598f2",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 7.31,
-                    "url": "/uploads/CONCACAF_Nations_League_8ee1fcd433.png",
+                    "size": 13.86,
+                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:02.212Z",
-                    "updatedAt": "2026-10-05T20:42:02.212Z",
+                    "createdAt": "2026-10-05T20:42:20.769Z",
+                    "updatedAt": "2026-10-05T20:42:20.769Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -556,70 +527,22 @@
       }
     },
     {
-      "id": 43097,
+      "id": 43187,
       "attributes": {
-        "diary_description": "Liga de Naciones CONCACAF: Jamaica vs México",
-        "diary_hour": "20:00:00",
-        "date_diary": "2026-11-14",
-        "createdAt": "2026-11-14T11:58:34.513Z",
-        "updatedAt": "2026-11-14T11:59:59.334Z",
-        "publishedAt": "2026-11-14T11:59:59.372Z",
+        "diary_description": "Segunda División: Eibar vs Cadiz",
+        "diary_hour": "12:30:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:23:31.664Z",
+        "updatedAt": "2026-11-15T13:16:31.245Z",
+        "publishedAt": "2026-11-15T13:16:31.282Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 996,
+              "id": 522,
               "attributes": {
-                "embed_name": "Canal 5 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1546,
-              "attributes": {
-                "embed_name": "Canal 5 MX HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2NhbmFsNW14LnBocA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 620,
-              "attributes": {
-                "embed_name": "Azteca 7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1565,
-              "attributes": {
-                "embed_name": "Claro Sports HD",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL2NsYXJvc3BvcnRzMS5waHA=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1743,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby90dWRudXNhdHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 324,
-              "attributes": {
-                "embed_name": "Univision",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
+                "embed_name": "LaLiga TV Hypermotion ",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ==",
                 "idioma": "Español"
               }
             }
@@ -627,45 +550,45 @@
         },
         "country": {
           "data": {
-            "id": 90,
+            "id": 7,
             "attributes": {
-              "name": "CONCACAF Nations League",
-              "createdAt": "2024-03-21T19:02:25.065Z",
-              "updatedAt": "2026-10-05T20:42:02.224Z",
-              "publishedAt": "2024-03-21T19:02:26.413Z",
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2026-10-05T20:42:07.445Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
               "image": {
                 "data": {
-                  "id": 469,
+                  "id": 509,
                   "attributes": {
-                    "name": "CONCACAF Nations League.png",
-                    "alternativeText": "CONCACAF Nations League",
-                    "caption": "sync:b28c74350954bf003a7012d9501ee250",
+                    "name": "España.png",
+                    "alternativeText": "España",
+                    "caption": "sync:263f84126e8dc08965ad6b9e5fcbc074",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_CONCACAF_Nations_League_8ee1fcd433.png",
-                        "hash": "thumbnail_CONCACAF_Nations_League_8ee1fcd433",
+                        "url": "/uploads/thumbnail_Espana_795e076624.png",
+                        "hash": "thumbnail_Espana_795e076624",
                         "mime": "image/png",
-                        "name": "thumbnail_CONCACAF Nations League.png",
+                        "name": "thumbnail_España.png",
                         "path": null,
-                        "size": 12.32,
+                        "size": 10.94,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 12319
+                        "sizeInBytes": 10942
                       }
                     },
-                    "hash": "CONCACAF_Nations_League_8ee1fcd433",
+                    "hash": "Espana_795e076624",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 7.31,
-                    "url": "/uploads/CONCACAF_Nations_League_8ee1fcd433.png",
+                    "size": 2.49,
+                    "url": "/uploads/Espana_795e076624.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:02.212Z",
-                    "updatedAt": "2026-10-05T20:42:02.212Z",
+                    "createdAt": "2026-10-05T20:42:07.436Z",
+                    "updatedAt": "2026-10-05T20:42:07.436Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -681,22 +604,99 @@
       }
     },
     {
-      "id": 43121,
+      "id": 43188,
       "attributes": {
-        "diary_description": "Liga de Expansión MX: CA La Paz vs Piratas",
-        "diary_hour": "22:00:00",
-        "date_diary": "2026-11-14",
-        "createdAt": "2026-11-14T12:00:26.024Z",
-        "updatedAt": "2026-11-14T19:52:42.815Z",
-        "publishedAt": "2026-11-14T19:52:42.859Z",
+        "diary_description": "Segunda División: Eldense vs Sabadell",
+        "diary_hour": "12:30:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:23:32.639Z",
+        "updatedAt": "2026-11-15T13:16:45.751Z",
+        "publishedAt": "2026-11-15T13:16:45.786Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1058,
+              "id": 506,
+              "attributes": {
+                "embed_name": "LaLiga TV Hypermotion 2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMg==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "España",
+              "createdAt": "2023-11-22T15:34:02.037Z",
+              "updatedAt": "2026-10-05T20:42:07.445Z",
+              "publishedAt": "2023-11-22T15:34:03.379Z",
+              "image": {
+                "data": {
+                  "id": 509,
+                  "attributes": {
+                    "name": "España.png",
+                    "alternativeText": "España",
+                    "caption": "sync:263f84126e8dc08965ad6b9e5fcbc074",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Espana_795e076624.png",
+                        "hash": "thumbnail_Espana_795e076624",
+                        "mime": "image/png",
+                        "name": "thumbnail_España.png",
+                        "path": null,
+                        "size": 10.94,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10942
+                      }
+                    },
+                    "hash": "Espana_795e076624",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.49,
+                    "url": "/uploads/Espana_795e076624.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:07.436Z",
+                    "updatedAt": "2026-10-05T20:42:07.436Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43181,
+      "attributes": {
+        "diary_description": "Liga de Expansión MX: Leones Negros UDG vs Monarcas",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T13:12:27.807Z",
+        "updatedAt": "2026-11-15T13:12:41.588Z",
+        "publishedAt": "2026-11-15T13:12:41.656Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
                 "idioma": "Español"
               }
             }
@@ -743,6 +743,694 @@
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:14.735Z",
                     "updatedAt": "2026-10-05T20:42:14.735Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43189,
+      "attributes": {
+        "diary_description": "Liga 1: Comerciantes Unidos vs Sport Boys",
+        "diary_hour": "13:00:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T13:05:43.515Z",
+        "updatedAt": "2026-11-15T13:26:33.632Z",
+        "publishedAt": "2026-11-15T13:26:33.670Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 774,
+              "attributes": {
+                "embed_name": "Liga1max",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1735,
+              "attributes": {
+                "embed_name": "Liga1max Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9saWdhMW1heHR2Lmh0bWw=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1570,
+              "attributes": {
+                "embed_name": "Liga1max OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4X29wMg==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2026-10-05T20:42:16.483Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 582,
+                  "attributes": {
+                    "name": "Perú.png",
+                    "alternativeText": "Perú",
+                    "caption": "sync:5f6a169bdc2360f67c3374fa128c8d66",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Peru_1b704f494e.png",
+                        "hash": "thumbnail_Peru_1b704f494e",
+                        "mime": "image/png",
+                        "name": "thumbnail_Perú.png",
+                        "path": null,
+                        "size": 4.76,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 4756
+                      }
+                    },
+                    "hash": "Peru_1b704f494e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.65,
+                    "url": "/uploads/Peru_1b704f494e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:16.469Z",
+                    "updatedAt": "2026-10-05T20:42:16.469Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43185,
+      "attributes": {
+        "diary_description": "Segunda División: Fenix vs Atenas",
+        "diary_hour": "14:30:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T13:14:04.919Z",
+        "updatedAt": "2026-11-15T13:14:23.233Z",
+        "publishedAt": "2026-11-15T13:14:23.272Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2026-10-05T20:42:21.652Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 624,
+                  "attributes": {
+                    "name": "Uruguay.png",
+                    "alternativeText": "Uruguay",
+                    "caption": "sync:978fd395e8bede7b6fd0422074580ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Uruguay_6184fe6ea1.png",
+                        "hash": "thumbnail_Uruguay_6184fe6ea1",
+                        "mime": "image/png",
+                        "name": "thumbnail_Uruguay.png",
+                        "path": null,
+                        "size": 7.49,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 7489
+                      }
+                    },
+                    "hash": "Uruguay_6184fe6ea1",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.03,
+                    "url": "/uploads/Uruguay_6184fe6ea1.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:21.644Z",
+                    "updatedAt": "2026-10-05T20:42:21.644Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43186,
+      "attributes": {
+        "diary_description": "Primera División de Uruguay: Danubio vs Liverpool de Montevideo",
+        "diary_hour": "14:30:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T13:14:07.084Z",
+        "updatedAt": "2026-11-15T13:14:37.177Z",
+        "publishedAt": "2026-11-15T13:14:37.215Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "Uruguay",
+              "createdAt": "2023-11-22T15:49:02.025Z",
+              "updatedAt": "2026-10-05T20:42:21.652Z",
+              "publishedAt": "2023-11-22T15:49:03.589Z",
+              "image": {
+                "data": {
+                  "id": 624,
+                  "attributes": {
+                    "name": "Uruguay.png",
+                    "alternativeText": "Uruguay",
+                    "caption": "sync:978fd395e8bede7b6fd0422074580ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Uruguay_6184fe6ea1.png",
+                        "hash": "thumbnail_Uruguay_6184fe6ea1",
+                        "mime": "image/png",
+                        "name": "thumbnail_Uruguay.png",
+                        "path": null,
+                        "size": 7.49,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 7489
+                      }
+                    },
+                    "hash": "Uruguay_6184fe6ea1",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.03,
+                    "url": "/uploads/Uruguay_6184fe6ea1.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:21.644Z",
+                    "updatedAt": "2026-10-05T20:42:21.644Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43179,
+      "attributes": {
+        "diary_description": "Liga de Naciones UEFA: Francia vs Türkiye",
+        "diary_hour": "14:45:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:20:23.939Z",
+        "updatedAt": "2026-11-15T13:11:35.877Z",
+        "publishedAt": "2026-11-15T13:11:35.914Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 140,
+            "attributes": {
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-10-05T20:42:20.778Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "image": {
+                "data": {
+                  "id": 617,
+                  "attributes": {
+                    "name": "UEFA Nations League.png",
+                    "alternativeText": "UEFA Nations League",
+                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
+                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Nations League.png",
+                        "path": null,
+                        "size": 18.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 18713
+                      }
+                    },
+                    "hash": "UEFA_Nations_League_4e013598f2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 13.86,
+                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.769Z",
+                    "updatedAt": "2026-10-05T20:42:20.769Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43191,
+      "attributes": {
+        "diary_description": "Liga de Naciones UEFA: Bélgica vs Italia",
+        "diary_hour": "14:45:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:20:25.874Z",
+        "updatedAt": "2026-11-15T13:30:25.495Z",
+        "publishedAt": "2026-11-15T13:30:25.532Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 653,
+              "attributes": {
+                "embed_name": "ESPN7",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG43",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1740,
+              "attributes": {
+                "embed_name": "ESPN7 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuN3R2Lmh0bWw=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 140,
+            "attributes": {
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-10-05T20:42:20.778Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "image": {
+                "data": {
+                  "id": 617,
+                  "attributes": {
+                    "name": "UEFA Nations League.png",
+                    "alternativeText": "UEFA Nations League",
+                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
+                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Nations League.png",
+                        "path": null,
+                        "size": 18.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 18713
+                      }
+                    },
+                    "hash": "UEFA_Nations_League_4e013598f2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 13.86,
+                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.769Z",
+                    "updatedAt": "2026-10-05T20:42:20.769Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43194,
+      "attributes": {
+        "diary_description": "Liga de Naciones UEFA: España vs Inglaterra",
+        "diary_hour": "14:45:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:20:27.107Z",
+        "updatedAt": "2026-11-15T13:31:27.106Z",
+        "publishedAt": "2026-11-15T13:31:27.143Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 657,
+              "attributes": {
+                "embed_name": "ESPN",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1736,
+              "attributes": {
+                "embed_name": "ESPN Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BubW92aWwuaHRtbA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 799,
+              "attributes": {
+                "embed_name": "SporTV",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg==",
+                "idioma": "Portugués"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 140,
+            "attributes": {
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-10-05T20:42:20.778Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "image": {
+                "data": {
+                  "id": 617,
+                  "attributes": {
+                    "name": "UEFA Nations League.png",
+                    "alternativeText": "UEFA Nations League",
+                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
+                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Nations League.png",
+                        "path": null,
+                        "size": 18.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 18713
+                      }
+                    },
+                    "hash": "UEFA_Nations_League_4e013598f2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 13.86,
+                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.769Z",
+                    "updatedAt": "2026-10-05T20:42:20.769Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43195,
+      "attributes": {
+        "diary_description": "Liga de Naciones UEFA: Croacia vs República Checa",
+        "diary_hour": "14:45:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T12:20:27.904Z",
+        "updatedAt": "2026-11-15T13:31:52.885Z",
+        "publishedAt": "2026-11-15T13:31:52.922Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 140,
+            "attributes": {
+              "name": "UEFA Nations League",
+              "createdAt": "2025-06-04T03:32:19.722Z",
+              "updatedAt": "2026-10-05T20:42:20.778Z",
+              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "image": {
+                "data": {
+                  "id": 617,
+                  "attributes": {
+                    "name": "UEFA Nations League.png",
+                    "alternativeText": "UEFA Nations League",
+                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
+                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
+                        "mime": "image/png",
+                        "name": "thumbnail_UEFA Nations League.png",
+                        "path": null,
+                        "size": 18.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 18713
+                      }
+                    },
+                    "hash": "UEFA_Nations_League_4e013598f2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 13.86,
+                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:20.769Z",
+                    "updatedAt": "2026-10-05T20:42:20.769Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43197,
+      "attributes": {
+        "diary_description": "Liga 1: Juan Pablo II College vs Deportivo Garcilaso",
+        "diary_hour": "15:15:00",
+        "date_diary": "2026-11-15",
+        "createdAt": "2026-11-15T13:05:44.472Z",
+        "updatedAt": "2026-11-15T13:33:30.314Z",
+        "publishedAt": "2026-11-15T13:33:30.353Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 774,
+              "attributes": {
+                "embed_name": "Liga1max",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1735,
+              "attributes": {
+                "embed_name": "Liga1max Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9saWdhMW1heHR2Lmh0bWw=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1570,
+              "attributes": {
+                "embed_name": "Liga1max OP2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4X29wMg==",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "Perú",
+              "createdAt": "2023-11-22T14:50:06.355Z",
+              "updatedAt": "2026-10-05T20:42:16.483Z",
+              "publishedAt": "2023-11-22T15:10:18.533Z",
+              "image": {
+                "data": {
+                  "id": 582,
+                  "attributes": {
+                    "name": "Perú.png",
+                    "alternativeText": "Perú",
+                    "caption": "sync:5f6a169bdc2360f67c3374fa128c8d66",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_Peru_1b704f494e.png",
+                        "hash": "thumbnail_Peru_1b704f494e",
+                        "mime": "image/png",
+                        "name": "thumbnail_Perú.png",
+                        "path": null,
+                        "size": 4.76,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 4756
+                      }
+                    },
+                    "hash": "Peru_1b704f494e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.65,
+                    "url": "/uploads/Peru_1b704f494e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:16.469Z",
+                    "updatedAt": "2026-10-05T20:42:16.469Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -761,9 +1449,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 9,
+      "pageSize": 17,
       "pageCount": 1,
-      "total": 9
+      "total": 17
     }
   }
 }
