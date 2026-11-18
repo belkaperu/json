@@ -1,38 +1,22 @@
 {
   "data": [
     {
-      "id": 43332,
+      "id": 43372,
       "attributes": {
-        "diary_description": "Nitto ATP Finals - Men's Singles: Ben Shelton vs Alexander Zverev",
-        "diary_hour": "14:30:00",
+        "diary_description": "NBA: Toronto Raptors vs New York Knicks",
+        "diary_hour": "19:30:00",
         "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T19:45:19.592Z",
-        "updatedAt": "2026-11-17T19:46:54.390Z",
-        "publishedAt": "2026-11-17T19:46:54.427Z",
+        "createdAt": "2026-11-18T00:23:40.310Z",
+        "updatedAt": "2026-11-18T00:25:55.196Z",
+        "publishedAt": "2026-11-18T00:25:55.234Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 640,
+              "id": 1778,
               "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 832,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1738,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
+                "embed_name": "NBA 01",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTAx",
                 "idioma": "Español"
               }
             }
@@ -40,109 +24,45 @@
         },
         "country": {
           "data": {
-            "id": 53,
+            "id": 4,
             "attributes": {
-              "name": "ATP TENIS",
-              "createdAt": "2024-01-25T06:16:42.975Z",
-              "updatedAt": "2026-10-06T11:53:51.709Z",
-              "publishedAt": "2024-01-25T06:16:44.102Z",
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
               "image": {
                 "data": {
-                  "id": 351,
+                  "id": 569,
                   "attributes": {
-                    "name": "Tenis_a5d5fcd1d1.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 64,
-                    "height": 64,
-                    "formats": null,
-                    "hash": "Tenis_a5d5fcd1d1_594ebf0186",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.18,
-                    "url": "/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2025-08-03T14:36:38.398Z",
-                    "updatedAt": "2025-08-03T14:36:38.398Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43297,
-      "attributes": {
-        "diary_description": "Liga de Naciones UEFA: Ucrania vs Georgia",
-        "diary_hour": "14:45:00",
-        "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:13:20.073Z",
-        "updatedAt": "2026-11-17T12:13:53.216Z",
-        "publishedAt": "2026-11-17T12:13:53.253Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 835,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 140,
-            "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-10-05T20:42:20.778Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
-              "image": {
-                "data": {
-                  "id": 617,
-                  "attributes": {
-                    "name": "UEFA Nations League.png",
-                    "alternativeText": "UEFA Nations League",
-                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
-                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
                         "mime": "image/png",
-                        "name": "thumbnail_UEFA Nations League.png",
+                        "name": "thumbnail_NBA.png",
                         "path": null,
-                        "size": 18.71,
+                        "size": 10.36,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 18713
+                        "sizeInBytes": 10359
                       }
                     },
-                    "hash": "UEFA_Nations_League_4e013598f2",
+                    "hash": "NBA_c1f26796ba",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 13.86,
-                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.769Z",
-                    "updatedAt": "2026-10-05T20:42:20.769Z",
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -158,91 +78,14 @@
       }
     },
     {
-      "id": 43299,
+      "id": 43361,
       "attributes": {
-        "diary_description": "Liga de Naciones UEFA: Israel vs Austria",
-        "diary_hour": "14:45:00",
+        "diary_description": "NHL: Tampa Bay Lightning vs Washington Capitals",
+        "diary_hour": "19:30:00",
         "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:13:21.697Z",
-        "updatedAt": "2026-11-17T12:14:05.119Z",
-        "publishedAt": "2026-11-17T12:14:05.156Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 140,
-            "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-10-05T20:42:20.778Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
-              "image": {
-                "data": {
-                  "id": 617,
-                  "attributes": {
-                    "name": "UEFA Nations League.png",
-                    "alternativeText": "UEFA Nations League",
-                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
-                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Nations League.png",
-                        "path": null,
-                        "size": 18.71,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 18713
-                      }
-                    },
-                    "hash": "UEFA_Nations_League_4e013598f2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 13.86,
-                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.769Z",
-                    "updatedAt": "2026-10-05T20:42:20.769Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43300,
-      "attributes": {
-        "diary_description": "Liga de Naciones UEFA: Irlanda vs Kosovo",
-        "diary_hour": "14:45:00",
-        "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:13:22.352Z",
-        "updatedAt": "2026-11-17T12:14:10.628Z",
-        "publishedAt": "2026-11-17T12:14:10.666Z",
+        "createdAt": "2026-11-18T00:16:42.171Z",
+        "updatedAt": "2026-11-18T00:22:25.732Z",
+        "publishedAt": "2026-11-18T00:22:25.775Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -258,45 +101,45 @@
         },
         "country": {
           "data": {
-            "id": 140,
+            "id": 42,
             "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-10-05T20:42:20.778Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
               "image": {
                 "data": {
-                  "id": 617,
+                  "id": 571,
                   "attributes": {
-                    "name": "UEFA Nations League.png",
-                    "alternativeText": "UEFA Nations League",
-                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
-                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
                         "mime": "image/png",
-                        "name": "thumbnail_UEFA Nations League.png",
+                        "name": "thumbnail_NHL.png",
                         "path": null,
-                        "size": 18.71,
+                        "size": 19.71,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 18713
+                        "sizeInBytes": 19712
                       }
                     },
-                    "hash": "UEFA_Nations_League_4e013598f2",
+                    "hash": "NHL_a792e23ddd",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 13.86,
-                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.769Z",
-                    "updatedAt": "2026-10-05T20:42:20.769Z",
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -312,381 +155,17 @@
       }
     },
     {
-      "id": 43302,
+      "id": 43362,
       "attributes": {
-        "diary_description": "Liga de Naciones UEFA: Bosnia y Herzegovina vs Rumania",
-        "diary_hour": "14:45:00",
+        "diary_description": "NHL: Chicago Blackhawks vs Toronto Maple Leafs",
+        "diary_hour": "19:30:00",
         "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:13:23.584Z",
-        "updatedAt": "2026-11-17T12:14:22.983Z",
-        "publishedAt": "2026-11-17T12:14:23.020Z",
+        "createdAt": "2026-11-18T00:16:42.780Z",
+        "updatedAt": "2026-11-18T00:22:33.094Z",
+        "publishedAt": "2026-11-18T00:22:33.132Z",
         "destacado": false,
         "embeds": {
           "data": [
-            {
-              "id": 838,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 140,
-            "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-10-05T20:42:20.778Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
-              "image": {
-                "data": {
-                  "id": 617,
-                  "attributes": {
-                    "name": "UEFA Nations League.png",
-                    "alternativeText": "UEFA Nations League",
-                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
-                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Nations League.png",
-                        "path": null,
-                        "size": 18.71,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 18713
-                      }
-                    },
-                    "hash": "UEFA_Nations_League_4e013598f2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 13.86,
-                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.769Z",
-                    "updatedAt": "2026-10-05T20:42:20.769Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43327,
-      "attributes": {
-        "diary_description": "Liga de Naciones UEFA: Gales vs Portugal",
-        "diary_hour": "14:45:00",
-        "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:13:18.569Z",
-        "updatedAt": "2026-11-17T18:17:49.463Z",
-        "publishedAt": "2026-11-17T18:17:49.490Z",
-        "destacado": true,
-        "embeds": {
-          "data": [
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 833,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1736,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BubW92aWwuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 799,
-              "attributes": {
-                "embed_name": "SporTV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dg==",
-                "idioma": "Portugués"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 140,
-            "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-10-05T20:42:20.778Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
-              "image": {
-                "data": {
-                  "id": 617,
-                  "attributes": {
-                    "name": "UEFA Nations League.png",
-                    "alternativeText": "UEFA Nations League",
-                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
-                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Nations League.png",
-                        "path": null,
-                        "size": 18.71,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 18713
-                      }
-                    },
-                    "hash": "UEFA_Nations_League_4e013598f2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 13.86,
-                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.769Z",
-                    "updatedAt": "2026-10-05T20:42:20.769Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43328,
-      "attributes": {
-        "diary_description": "Liga de Naciones UEFA: Dinamarca vs Noruega",
-        "diary_hour": "14:45:00",
-        "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:13:19.284Z",
-        "updatedAt": "2026-11-17T18:17:54.987Z",
-        "publishedAt": "2026-11-17T18:17:55.015Z",
-        "destacado": true,
-        "embeds": {
-          "data": [
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 834,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1742,
-              "attributes": {
-                "embed_name": "ESPN4 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuNHR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1224,
-              "attributes": {
-                "embed_name": "FOX Sports 1 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 140,
-            "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-10-05T20:42:20.778Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
-              "image": {
-                "data": {
-                  "id": 617,
-                  "attributes": {
-                    "name": "UEFA Nations League.png",
-                    "alternativeText": "UEFA Nations League",
-                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
-                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Nations League.png",
-                        "path": null,
-                        "size": 18.71,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 18713
-                      }
-                    },
-                    "hash": "UEFA_Nations_League_4e013598f2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 13.86,
-                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.769Z",
-                    "updatedAt": "2026-10-05T20:42:20.769Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43333,
-      "attributes": {
-        "diary_description": "Liga de Naciones UEFA: Hungría vs Irlanda del Norte",
-        "diary_hour": "14:45:00",
-        "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:13:20.991Z",
-        "updatedAt": "2026-11-17T19:47:12.359Z",
-        "publishedAt": "2026-11-17T19:47:12.402Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 563,
-              "attributes": {
-                "embed_name": "Sportv 3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0djM=",
-                "idioma": "Portugués"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 140,
-            "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-10-05T20:42:20.778Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
-              "image": {
-                "data": {
-                  "id": 617,
-                  "attributes": {
-                    "name": "UEFA Nations League.png",
-                    "alternativeText": "UEFA Nations League",
-                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
-                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Nations League.png",
-                        "path": null,
-                        "size": 18.71,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 18713
-                      }
-                    },
-                    "hash": "UEFA_Nations_League_4e013598f2",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 13.86,
-                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.769Z",
-                    "updatedAt": "2026-10-05T20:42:20.769Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43335,
-      "attributes": {
-        "diary_description": "Liga de Naciones UEFA: Polonia vs Suecia",
-        "diary_hour": "14:45:00",
-        "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:13:22.859Z",
-        "updatedAt": "2026-11-17T19:48:22.147Z",
-        "publishedAt": "2026-11-17T19:48:22.182Z",
-        "destacado": true,
-        "embeds": {
-          "data": [
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
-                "idioma": "Español"
-              }
-            },
             {
               "id": 846,
               "attributes": {
@@ -694,297 +173,50 @@
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc=",
                 "idioma": "Español"
               }
-            },
-            {
-              "id": 771,
-              "attributes": {
-                "embed_name": "Sportv 2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNwb3J0djI=",
-                "idioma": "Portugués"
-              }
-            },
-            {
-              "id": 1737,
-              "attributes": {
-                "embed_name": "ESPN5 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuNXR2Lmh0bWw=",
-                "idioma": "Español"
-              }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 140,
+            "id": 42,
             "attributes": {
-              "name": "UEFA Nations League",
-              "createdAt": "2025-06-04T03:32:19.722Z",
-              "updatedAt": "2026-10-05T20:42:20.778Z",
-              "publishedAt": "2025-06-04T03:32:23.804Z",
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
               "image": {
                 "data": {
-                  "id": 617,
+                  "id": 571,
                   "attributes": {
-                    "name": "UEFA Nations League.png",
-                    "alternativeText": "UEFA Nations League",
-                    "caption": "sync:a0bf026722ec217b7278f9d3c1d9714f",
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Nations_League_4e013598f2.png",
-                        "hash": "thumbnail_UEFA_Nations_League_4e013598f2",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
                         "mime": "image/png",
-                        "name": "thumbnail_UEFA Nations League.png",
+                        "name": "thumbnail_NHL.png",
                         "path": null,
-                        "size": 18.71,
+                        "size": 19.71,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 18713
+                        "sizeInBytes": 19712
                       }
                     },
-                    "hash": "UEFA_Nations_League_4e013598f2",
+                    "hash": "NHL_a792e23ddd",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 13.86,
-                    "url": "/uploads/UEFA_Nations_League_4e013598f2.png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.769Z",
-                    "updatedAt": "2026-10-05T20:42:20.769Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43319,
-      "attributes": {
-        "diary_description": "Amistoso Internacional: Chile vs Colombia",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:33:26.383Z",
-        "updatedAt": "2026-11-17T12:35:00.330Z",
-        "publishedAt": "2026-11-17T12:35:00.366Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 736,
-              "attributes": {
-                "embed_name": "Caracol TV",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhcmFjb2w=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 133,
-            "attributes": {
-              "name": "Amistosos Paises",
-              "createdAt": "2025-03-01T00:14:07.871Z",
-              "updatedAt": "2026-10-05T21:07:28.197Z",
-              "publishedAt": "2025-03-01T00:14:09.910Z",
-              "image": {
-                "data": {
-                  "id": 630,
-                  "attributes": {
-                    "name": "amistoso paises.png",
-                    "alternativeText": null,
-                    "caption": null,
-                    "width": 282,
-                    "height": 282,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_amistoso_paises_5bc0d82212.png",
-                        "hash": "thumbnail_amistoso_paises_5bc0d82212",
-                        "mime": "image/png",
-                        "name": "thumbnail_amistoso paises.png",
-                        "path": null,
-                        "size": 46.01,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 46013
-                      }
-                    },
-                    "hash": "amistoso_paises_5bc0d82212",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 21.97,
-                    "url": "/uploads/amistoso_paises_5bc0d82212.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T21:07:24.010Z",
-                    "updatedAt": "2026-10-05T21:07:24.010Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43311,
-      "attributes": {
-        "diary_description": "Liga de Naciones CONCACAF: Estados Unidos vs Haití",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:20:47.230Z",
-        "updatedAt": "2026-11-17T12:24:28.814Z",
-        "publishedAt": "2026-11-17T12:24:28.850Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 790,
-              "attributes": {
-                "embed_name": "Universo",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 90,
-            "attributes": {
-              "name": "CONCACAF Nations League",
-              "createdAt": "2024-03-21T19:02:25.065Z",
-              "updatedAt": "2026-10-05T20:42:02.224Z",
-              "publishedAt": "2024-03-21T19:02:26.413Z",
-              "image": {
-                "data": {
-                  "id": 469,
-                  "attributes": {
-                    "name": "CONCACAF Nations League.png",
-                    "alternativeText": "CONCACAF Nations League",
-                    "caption": "sync:b28c74350954bf003a7012d9501ee250",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_CONCACAF_Nations_League_8ee1fcd433.png",
-                        "hash": "thumbnail_CONCACAF_Nations_League_8ee1fcd433",
-                        "mime": "image/png",
-                        "name": "thumbnail_CONCACAF Nations League.png",
-                        "path": null,
-                        "size": 12.32,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 12319
-                      }
-                    },
-                    "hash": "CONCACAF_Nations_League_8ee1fcd433",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 7.31,
-                    "url": "/uploads/CONCACAF_Nations_League_8ee1fcd433.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:02.212Z",
-                    "updatedAt": "2026-10-05T20:42:02.212Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43316,
-      "attributes": {
-        "diary_description": "Liga de Naciones CONCACAF: French Guyana vs St. Vincent / Grenadines",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-11-17",
-        "createdAt": "2026-11-17T12:26:02.497Z",
-        "updatedAt": "2026-11-17T12:26:09.844Z",
-        "publishedAt": "2026-11-17T12:26:09.881Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1224,
-              "attributes": {
-                "embed_name": "FOX Sports 1 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 90,
-            "attributes": {
-              "name": "CONCACAF Nations League",
-              "createdAt": "2024-03-21T19:02:25.065Z",
-              "updatedAt": "2026-10-05T20:42:02.224Z",
-              "publishedAt": "2024-03-21T19:02:26.413Z",
-              "image": {
-                "data": {
-                  "id": 469,
-                  "attributes": {
-                    "name": "CONCACAF Nations League.png",
-                    "alternativeText": "CONCACAF Nations League",
-                    "caption": "sync:b28c74350954bf003a7012d9501ee250",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_CONCACAF_Nations_League_8ee1fcd433.png",
-                        "hash": "thumbnail_CONCACAF_Nations_League_8ee1fcd433",
-                        "mime": "image/png",
-                        "name": "thumbnail_CONCACAF Nations League.png",
-                        "path": null,
-                        "size": 12.32,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 12319
-                      }
-                    },
-                    "hash": "CONCACAF_Nations_League_8ee1fcd433",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 7.31,
-                    "url": "/uploads/CONCACAF_Nations_League_8ee1fcd433.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:02.212Z",
-                    "updatedAt": "2026-10-05T20:42:02.212Z",
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -1062,6 +294,314 @@
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:02.212Z",
                     "updatedAt": "2026-10-05T20:42:02.212Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43373,
+      "attributes": {
+        "diary_description": "NBA: Minnesota Timberwolves vs Portland Trail Blazers",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-11-17",
+        "createdAt": "2026-11-18T00:23:40.969Z",
+        "updatedAt": "2026-11-18T00:27:22.280Z",
+        "publishedAt": "2026-11-18T00:27:22.320Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1780,
+              "attributes": {
+                "embed_name": "NBA 02",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTAy",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "image": {
+                "data": {
+                  "id": 569,
+                  "attributes": {
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_NBA.png",
+                        "path": null,
+                        "size": 10.36,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10359
+                      }
+                    },
+                    "hash": "NBA_c1f26796ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43374,
+      "attributes": {
+        "diary_description": "NBA: San Antonio Spurs vs Detroit Pistons",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-11-17",
+        "createdAt": "2026-11-18T00:23:41.673Z",
+        "updatedAt": "2026-11-18T00:28:41.626Z",
+        "publishedAt": "2026-11-18T00:28:41.664Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1782,
+              "attributes": {
+                "embed_name": "NBA 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTAz",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "image": {
+                "data": {
+                  "id": 569,
+                  "attributes": {
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_NBA.png",
+                        "path": null,
+                        "size": 10.36,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10359
+                      }
+                    },
+                    "hash": "NBA_c1f26796ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43363,
+      "attributes": {
+        "diary_description": "NHL: Minnesota Wild vs Nashville Predators",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-11-17",
+        "createdAt": "2026-11-18T00:16:43.473Z",
+        "updatedAt": "2026-11-18T00:22:43.067Z",
+        "publishedAt": "2026-11-18T00:22:43.108Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43364,
+      "attributes": {
+        "diary_description": "NHL: St. Louis Blues vs Anaheim Ducks",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-11-17",
+        "createdAt": "2026-11-18T00:16:44.112Z",
+        "updatedAt": "2026-11-18T00:22:49.704Z",
+        "publishedAt": "2026-11-18T00:22:49.742Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -1245,14 +785,322 @@
           "data": []
         }
       }
+    },
+    {
+      "id": 43365,
+      "attributes": {
+        "diary_description": "NHL: Vegas Golden Knights vs Dallas Stars",
+        "diary_hour": "22:00:00",
+        "date_diary": "2026-11-17",
+        "createdAt": "2026-11-18T00:16:45.008Z",
+        "updatedAt": "2026-11-18T00:22:55.654Z",
+        "publishedAt": "2026-11-18T00:22:55.691Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43366,
+      "attributes": {
+        "diary_description": "NHL: San Jose Sharks vs Calgary Flames",
+        "diary_hour": "22:00:00",
+        "date_diary": "2026-11-17",
+        "createdAt": "2026-11-18T00:16:45.878Z",
+        "updatedAt": "2026-11-18T00:23:01.332Z",
+        "publishedAt": "2026-11-18T00:23:01.369Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43375,
+      "attributes": {
+        "diary_description": "NBA: LA Clippers vs Utah Jazz",
+        "diary_hour": "22:30:00",
+        "date_diary": "2026-11-17",
+        "createdAt": "2026-11-18T00:23:42.292Z",
+        "updatedAt": "2026-11-18T00:28:49.851Z",
+        "publishedAt": "2026-11-18T00:28:49.888Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1784,
+              "attributes": {
+                "embed_name": "NBA 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTA0",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "image": {
+                "data": {
+                  "id": 569,
+                  "attributes": {
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_NBA.png",
+                        "path": null,
+                        "size": 10.36,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10359
+                      }
+                    },
+                    "hash": "NBA_c1f26796ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 43376,
+      "attributes": {
+        "diary_description": "NBA: Los Angeles Lakers vs Charlotte Hornets",
+        "diary_hour": "23:00:00",
+        "date_diary": "2026-11-17",
+        "createdAt": "2026-11-18T00:23:42.951Z",
+        "updatedAt": "2026-11-18T00:28:57.328Z",
+        "publishedAt": "2026-11-18T00:28:57.366Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1786,
+              "attributes": {
+                "embed_name": "NBA 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTA1",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "image": {
+                "data": {
+                  "id": 569,
+                  "attributes": {
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_NBA.png",
+                        "path": null,
+                        "size": 10.36,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10359
+                      }
+                    },
+                    "hash": "NBA_c1f26796ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
     }
   ],
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 15,
+      "pageSize": 14,
       "pageCount": 1,
-      "total": 15
+      "total": 14
     }
   }
 }
