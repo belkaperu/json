@@ -1,68 +1,68 @@
 {
   "data": [
     {
-      "id": 43423,
+      "id": 43464,
       "attributes": {
-        "diary_description": "NBA: Indiana Pacers vs Houston Rockets",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T23:32:14.073Z",
-        "updatedAt": "2026-11-18T23:32:24.555Z",
-        "publishedAt": "2026-11-18T23:32:24.593Z",
+        "diary_description": "Brasileirão: Vasco da Gama vs Internacional",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-11-19",
+        "createdAt": "2026-11-19T05:14:20.688Z",
+        "updatedAt": "2026-11-19T05:15:59.703Z",
+        "publishedAt": "2026-11-19T05:15:59.730Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1791,
+              "id": 1549,
               "attributes": {
-                "embed_name": "NBA 01",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTAx",
-                "idioma": "Inglés"
+                "embed_name": "Premiere BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
+                "idioma": "Portugués"
               }
             }
           ]
         },
         "country": {
           "data": {
-            "id": 4,
+            "id": 1,
             "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "name": "Brasil",
+              "createdAt": "2023-11-22T14:40:01.140Z",
+              "updatedAt": "2026-10-05T20:42:01.571Z",
+              "publishedAt": "2023-11-22T14:42:50.953Z",
               "image": {
                 "data": {
-                  "id": 569,
+                  "id": 464,
                   "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "name": "Brasil.png",
+                    "alternativeText": "Brasil",
+                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
                     "width": 256,
                     "height": 256,
                     "formats": {
                       "thumbnail": {
                         "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
+                        "hash": "thumbnail_Brasil_f83563ade6",
                         "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
+                        "name": "thumbnail_Brasil.png",
                         "path": null,
-                        "size": 10.36,
+                        "size": 10.27,
                         "width": 156,
                         "height": 156,
-                        "sizeInBytes": 10359
+                        "sizeInBytes": 10272
                       }
                     },
-                    "hash": "NBA_c1f26796ba",
+                    "hash": "Brasil_f83563ade6",
                     "ext": ".png",
                     "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "size": 2.61,
+                    "url": "/uploads/Brasil_f83563ade6.png",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "createdAt": "2026-10-05T20:42:01.559Z",
+                    "updatedAt": "2026-10-05T20:42:01.559Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -78,269 +78,14 @@
       }
     },
     {
-      "id": 43425,
+      "id": 43465,
       "attributes": {
-        "diary_description": "NBA: Cleveland Cavaliers vs Memphis Grizzlies",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T23:34:22.363Z",
-        "updatedAt": "2026-11-18T23:34:29.129Z",
-        "publishedAt": "2026-11-18T23:34:29.167Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1792,
-              "attributes": {
-                "embed_name": "NBA 02",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTAy",
-                "idioma": "Inglés"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43426,
-      "attributes": {
-        "diary_description": "NBA: Miami Heat vs Milwaukee Bucks",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T16:14:31.119Z",
-        "updatedAt": "2026-11-18T23:35:50.673Z",
-        "publishedAt": "2026-11-18T23:35:50.708Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 838,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1738,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1793,
-              "attributes": {
-                "embed_name": "NBA 03",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTAz",
-                "idioma": "Inglés"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43428,
-      "attributes": {
-        "diary_description": "NBA: Orlando Magic vs Philadelphia 76ers",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T23:36:41.326Z",
-        "updatedAt": "2026-11-18T23:36:48.359Z",
-        "publishedAt": "2026-11-18T23:36:48.396Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1794,
-              "attributes": {
-                "embed_name": "NBA 04",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTA0",
-                "idioma": "Inglés"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43392,
-      "attributes": {
-        "diary_description": "Brasileirão: Corinthians vs Botafogo",
-        "diary_hour": "19:30:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T11:14:59.370Z",
-        "updatedAt": "2026-11-18T11:15:35.608Z",
-        "publishedAt": "2026-11-18T11:15:35.636Z",
+        "diary_description": "Brasileirão: Vitória vs Red Bull Bragantino",
+        "diary_hour": "17:30:00",
+        "date_diary": "2026-11-19",
+        "createdAt": "2026-11-19T05:14:21.360Z",
+        "updatedAt": "2026-11-19T05:16:02.895Z",
+        "publishedAt": "2026-11-19T05:16:02.922Z",
         "destacado": false,
         "embeds": {
           "data": [
@@ -351,14 +96,6 @@
                 "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMw==",
                 "idioma": "Portugués"
               }
-            },
-            {
-              "id": 1484,
-              "attributes": {
-                "embed_name": "Premiere 4 BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlNA==",
-                "idioma": "Portugués"
-              }
             }
           ]
         },
@@ -418,22 +155,22 @@
       }
     },
     {
-      "id": 43393,
+      "id": 43466,
       "attributes": {
-        "diary_description": "Brasileirão: Grêmio vs Bahia",
+        "diary_description": "Brasileirão: São Paulo vs Fluminense",
         "diary_hour": "19:30:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T11:15:00.132Z",
-        "updatedAt": "2026-11-18T11:15:39.239Z",
-        "publishedAt": "2026-11-18T11:15:39.267Z",
+        "date_diary": "2026-11-19",
+        "createdAt": "2026-11-19T05:14:22.135Z",
+        "updatedAt": "2026-11-19T05:16:06.581Z",
+        "publishedAt": "2026-11-19T05:16:06.607Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 1550,
+              "id": 1480,
               "attributes": {
-                "embed_name": "Premiere 5 BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlNQ==",
+                "embed_name": "Premiere 2 BR",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMg==",
                 "idioma": "Portugués"
               }
             }
@@ -480,869 +217,6 @@
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:01.559Z",
                     "updatedAt": "2026-10-05T20:42:01.559Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43430,
-      "attributes": {
-        "diary_description": "NBA: Brooklyn Nets vs Chicago Bulls",
-        "diary_hour": "19:30:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T23:47:25.727Z",
-        "updatedAt": "2026-11-18T23:47:35.198Z",
-        "publishedAt": "2026-11-18T23:47:35.235Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1795,
-              "attributes": {
-                "embed_name": "NBA 05",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTA1",
-                "idioma": "Inglés"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43432,
-      "attributes": {
-        "diary_description": "NBA: Toronto Raptors vs Washington Wizards",
-        "diary_hour": "19:30:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T23:50:37.422Z",
-        "updatedAt": "2026-11-18T23:51:32.745Z",
-        "publishedAt": "2026-11-18T23:51:32.783Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1796,
-              "attributes": {
-                "embed_name": "NBA 06",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bmJhMDY=",
-                "idioma": "Inglés"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43419,
-      "attributes": {
-        "diary_description": "NHL: Detroit Red Wings vs Boston Bruins",
-        "diary_hour": "19:30:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T16:17:21.281Z",
-        "updatedAt": "2026-11-18T16:17:30.358Z",
-        "publishedAt": "2026-11-18T16:17:30.395Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 938,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 42,
-            "attributes": {
-              "name": "NHL",
-              "createdAt": "2023-12-27T15:19:09.753Z",
-              "updatedAt": "2026-10-05T20:42:15.144Z",
-              "publishedAt": "2023-12-27T15:19:43.009Z",
-              "image": {
-                "data": {
-                  "id": 571,
-                  "attributes": {
-                    "name": "NHL.png",
-                    "alternativeText": "NHL",
-                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
-                        "hash": "thumbnail_NHL_a792e23ddd",
-                        "mime": "image/png",
-                        "name": "thumbnail_NHL.png",
-                        "path": null,
-                        "size": 19.71,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 19712
-                      }
-                    },
-                    "hash": "NHL_a792e23ddd",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 10.27,
-                    "url": "/uploads/NHL_a792e23ddd.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:15.134Z",
-                    "updatedAt": "2026-10-05T20:42:15.134Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43420,
-      "attributes": {
-        "diary_description": "NHL: New Jersey Devils vs Montreal Canadiens",
-        "diary_hour": "19:30:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T16:17:21.961Z",
-        "updatedAt": "2026-11-18T16:17:52.940Z",
-        "publishedAt": "2026-11-18T16:17:52.975Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 936,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 42,
-            "attributes": {
-              "name": "NHL",
-              "createdAt": "2023-12-27T15:19:09.753Z",
-              "updatedAt": "2026-10-05T20:42:15.144Z",
-              "publishedAt": "2023-12-27T15:19:43.009Z",
-              "image": {
-                "data": {
-                  "id": 571,
-                  "attributes": {
-                    "name": "NHL.png",
-                    "alternativeText": "NHL",
-                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
-                        "hash": "thumbnail_NHL_a792e23ddd",
-                        "mime": "image/png",
-                        "name": "thumbnail_NHL.png",
-                        "path": null,
-                        "size": 19.71,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 19712
-                      }
-                    },
-                    "hash": "NHL_a792e23ddd",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 10.27,
-                    "url": "/uploads/NHL_a792e23ddd.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:15.134Z",
-                    "updatedAt": "2026-10-05T20:42:15.134Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43434,
-      "attributes": {
-        "diary_description": "NBA: New Orleans Pelicans vs Detroit Pistons",
-        "diary_hour": "20:00:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-19T00:07:11.105Z",
-        "updatedAt": "2026-11-19T00:07:20.260Z",
-        "publishedAt": "2026-11-19T00:07:20.309Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1790,
-              "attributes": {
-                "embed_name": "NBA 07",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bmJhMDc=",
-                "idioma": "Inglés"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43436,
-      "attributes": {
-        "diary_description": "NBA: Oklahoma City Thunder vs Atlanta Hawks",
-        "diary_hour": "20:00:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-19T00:08:39.913Z",
-        "updatedAt": "2026-11-19T00:08:47.060Z",
-        "publishedAt": "2026-11-19T00:08:47.099Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1798,
-              "attributes": {
-                "embed_name": "NBA 08",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bmJhMDg=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43438,
-      "attributes": {
-        "diary_description": "NBA: Dallas Mavericks vs Golden State Warriors",
-        "diary_hour": "20:00:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-19T00:10:24.069Z",
-        "updatedAt": "2026-11-19T00:10:32.420Z",
-        "publishedAt": "2026-11-19T00:10:32.458Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1800,
-              "attributes": {
-                "embed_name": "NBA 09",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bmJhMDk=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43415,
-      "attributes": {
-        "diary_description": "NBA: Denver Nuggets vs Boston Celtics",
-        "diary_hour": "21:30:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T16:16:39.851Z",
-        "updatedAt": "2026-11-18T16:16:53.249Z",
-        "publishedAt": "2026-11-18T16:16:53.288Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 832,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1738,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43440,
-      "attributes": {
-        "diary_description": "NBA: Los Angeles Lakers vs Utah Jazz",
-        "diary_hour": "22:00:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-19T00:11:28.601Z",
-        "updatedAt": "2026-11-19T00:11:46.307Z",
-        "publishedAt": "2026-11-19T00:11:46.343Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1802,
-              "attributes": {
-                "embed_name": "NBA 10",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bmJhMTA=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43442,
-      "attributes": {
-        "diary_description": "NBA: Sacramento Kings vs Phoenix Suns",
-        "diary_hour": "22:00:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-19T00:12:43.033Z",
-        "updatedAt": "2026-11-19T00:12:50.916Z",
-        "publishedAt": "2026-11-19T00:12:50.956Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1804,
-              "attributes": {
-                "embed_name": "NBA 11",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bmJhMTE=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43421,
-      "attributes": {
-        "diary_description": "NHL: Utah Mammoth vs Colorado Avalanche",
-        "diary_hour": "22:00:00",
-        "date_diary": "2026-11-18",
-        "createdAt": "2026-11-18T16:17:22.615Z",
-        "updatedAt": "2026-11-18T16:17:57.655Z",
-        "publishedAt": "2026-11-18T16:17:57.692Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 934,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 42,
-            "attributes": {
-              "name": "NHL",
-              "createdAt": "2023-12-27T15:19:09.753Z",
-              "updatedAt": "2026-10-05T20:42:15.144Z",
-              "publishedAt": "2023-12-27T15:19:43.009Z",
-              "image": {
-                "data": {
-                  "id": 571,
-                  "attributes": {
-                    "name": "NHL.png",
-                    "alternativeText": "NHL",
-                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
-                        "hash": "thumbnail_NHL_a792e23ddd",
-                        "mime": "image/png",
-                        "name": "thumbnail_NHL.png",
-                        "path": null,
-                        "size": 19.71,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 19712
-                      }
-                    },
-                    "hash": "NHL_a792e23ddd",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 10.27,
-                    "url": "/uploads/NHL_a792e23ddd.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:15.134Z",
-                    "updatedAt": "2026-10-05T20:42:15.134Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -1361,9 +235,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 17,
+      "pageSize": 3,
       "pageCount": 1,
-      "total": 17
+      "total": 3
     }
   }
 }
