@@ -1,0 +1,67 @@
+{
+  "ejecutado": "2026-11-25T18:59:41.731Z",
+  "salida": [
+    {
+      "nombre": "sin_cache_buster",
+      "url": "https://agenda18.com/agenda.json?v=1.12",
+      "status": 200,
+      "bytes": 38108,
+      "date": "Wed, 25 Nov 2026 18:59:41 GMT",
+      "age": null,
+      "cache-control": null,
+      "etag": "W/\"6b07145e-952b\"",
+      "last-modified": "Wed, 25 Nov 2026 17:01:18 GMT",
+      "cf-cache-status": null,
+      "server": "nginx",
+      "content-type": "application/json",
+      "partidos": 21,
+      "fechas": [
+        "2026-11-25"
+      ],
+      "primer_hora_actualizada": "2026-11-25T15:59:34.226Z"
+    },
+    {
+      "nombre": "con_cache_buster",
+      "url": "https://agenda18.com/agenda.json?v=1.12&_=1795633180578",
+      "status": 200,
+      "bytes": 38108,
+      "date": "Wed, 25 Nov 2026 18:59:41 GMT",
+      "age": null,
+      "cache-control": null,
+      "etag": "W/\"6b07145e-952b\"",
+      "last-modified": "Wed, 25 Nov 2026 17:01:18 GMT",
+      "cf-cache-status": null,
+      "server": "nginx",
+      "content-type": "application/json",
+      "partidos": 21,
+      "fechas": [
+        "2026-11-25"
+      ],
+      "primer_hora_actualizada": "2026-11-25T15:59:34.226Z"
+    },
+    {
+      "nombre": "sin_query",
+      "url": "https://agenda18.com/agenda.json",
+      "status": 200,
+      "bytes": 38108,
+      "date": "Wed, 25 Nov 2026 18:59:41 GMT",
+      "age": null,
+      "cache-control": null,
+      "etag": "W/\"6b07145e-952b\"",
+      "last-modified": "Wed, 25 Nov 2026 17:01:18 GMT",
+      "cf-cache-status": null,
+      "server": "nginx",
+      "content-type": "application/json",
+      "partidos": 21,
+      "fechas": [
+        "2026-11-25"
+      ],
+      "primer_hora_actualizada": "2026-11-25T15:59:34.226Z"
+    },
+    {
+      "nombre": "config_js",
+      "url": "https://futbollibrestream.pe/js//config.js?v=1.12",
+      "error": "FetchError: request to https://futbollibrestream.pe/js//config.js?v=1.12 failed, reason: "
+    }
+  ]
+}
