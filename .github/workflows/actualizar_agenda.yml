@@ -3,9 +3,11 @@ name: Actualizador de Agenda Automático
 on:
   schedule:
     # GitHub retrasa y descarta muchas ejecuciones de cron: con */15 en la práctica sólo corría
-    # ~1 vez cada 7 horas. Con */10 y más margen de ejecución las corridas son mucho más frecuentes.
+    # ~1 vez cada 7 horas. Con */10 las corridas son más frecuentes.
     - cron: '*/10 * * * *'
   workflow_dispatch: # Permite actualizar manualmente desde la web de GitHub
+  repository_dispatch: # Permite forzar la actualización desde un cron externo (ver README)
+    types: [actualizar-agenda]
   push:
     branches:
       - main
@@ -43,6 +45,9 @@ jobs:
         run: node index.js
 
       - name: Subir el archivo JSON actualizado al repositorio
+        env:
+          # Rama destino: normalmente "main"; en una rama de trabajo nunca escribe en main.
+          RAMA_DESTINO: ${{ github.ref_name }}
         run: |
           git config --global user.name "Agenda Bot"
           git config --global user.email "bot@agenda.com"
@@ -57,8 +62,8 @@ jobs:
 
           # Reintenta el push por si otro proceso subió cambios en paralelo.
           for intento in 1 2 3; do
-            if git pull --rebase origin main && git push origin HEAD:main; then
-              echo "JSON actualizado subido correctamente."
+            if git pull --rebase origin "$RAMA_DESTINO" && git push origin "HEAD:$RAMA_DESTINO"; then
+              echo "JSON actualizado subido correctamente a $RAMA_DESTINO."
               exit 0
             fi
             echo "Push falló (intento $intento). Reintentando..."
