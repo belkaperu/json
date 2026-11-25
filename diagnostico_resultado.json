@@ -1,0 +1,88 @@
+{
+  "ejecutado_en": "2026-11-25T18:55:20.562Z",
+  "runner": "GitHub Actions 1000004445",
+  "node": "v22.23.5",
+  "resultados": [
+    {
+      "nombre": "agenda18_sin_headers",
+      "url": "https://agenda18.com/agenda.json?v=1.12",
+      "status": 200,
+      "ok": true,
+      "ms": 378,
+      "bytes": 38108,
+      "contentType": "application/json",
+      "inicio": "{\"data\":[{\"id\":43991,\"attributes\":{\"diary_description\":\"UEFA Champions League: Slavia Praga vs Villarreal\",\"diary_hour\":\"12:45:00\",\"date_diary\":\"2026-11-25\",\"cr",
+      "agenda": {
+        "partidos": 21,
+        "fechas": [
+          "2026-11-25"
+        ]
+      }
+    },
+    {
+      "nombre": "agenda18_browser",
+      "url": "https://agenda18.com/agenda.json?v=1.12",
+      "status": 200,
+      "ok": true,
+      "ms": 114,
+      "bytes": 38108,
+      "contentType": "application/json",
+      "inicio": "{\"data\":[{\"id\":43991,\"attributes\":{\"diary_description\":\"UEFA Champions League: Slavia Praga vs Villarreal\",\"diary_hour\":\"12:45:00\",\"date_diary\":\"2026-11-25\",\"cr",
+      "agenda": {
+        "partidos": 21,
+        "fechas": [
+          "2026-11-25"
+        ]
+      }
+    },
+    {
+      "nombre": "config_futbollibre",
+      "url": "https://futbollibrestream.pe/js//config.js?v=1.12",
+      "ok": false,
+      "error": "FetchError: request to https://futbollibrestream.pe/js//config.js?v=1.12 failed, reason: ",
+      "causa": null,
+      "ms": 146
+    },
+    {
+      "nombre": "megadeportes",
+      "url": "https://megadeportesplus.su/agenda.php",
+      "ok": false,
+      "error": "FetchError: request to https://megadeportesplus.su/agenda.php failed, reason: getaddrinfo ENOTFOUND megadeportesplus.su",
+      "causa": null,
+      "ms": 223
+    },
+    {
+      "nombre": "proxy_jina",
+      "url": "https://r.jina.ai/https://agenda18.com/agenda.json",
+      "status": 200,
+      "ok": true,
+      "ms": 702,
+      "bytes": 38229,
+      "contentType": "text/plain; charset=utf-8",
+      "inicio": "Title: URL Source: https://agenda18.com/agenda.json Published Time: Wed, 25 Nov 2026 17:01:18 GMT Markdown Content: {\"data\":[{\"id\":43991,\"attributes\":{\"diar",
+      "agenda": null
+    },
+    {
+      "nombre": "proxy_allorigins",
+      "url": "https://api.allorigins.win/raw?url=https%3A%2F%2Fagenda18.com%2Fagenda.json",
+      "status": 522,
+      "ok": false,
+      "ms": 19675,
+      "bytes": 7256,
+      "contentType": "text/html; charset=UTF-8",
+      "inicio": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endi",
+      "agenda": null
+    },
+    {
+      "nombre": "proxy_codetabs",
+      "url": "https://api.codetabs.com/v1/proxy?quest=https://agenda18.com/agenda.json",
+      "status": 522,
+      "ok": false,
+      "ms": 19918,
+      "bytes": 7243,
+      "contentType": "text/html; charset=UTF-8",
+      "inicio": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endi",
+      "agenda": null
+    }
+  ]
+}
