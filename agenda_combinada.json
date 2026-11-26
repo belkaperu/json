@@ -1,1441 +1,6 @@
 {
   "data": [
     {
-      "id": 43991,
-      "attributes": {
-        "diary_description": "UEFA Champions League: Slavia Praga vs Villarreal",
-        "diary_hour": "12:45:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:56:52.947Z",
-        "updatedAt": "2026-11-25T11:59:19.542Z",
-        "publishedAt": "2026-11-25T11:59:19.581Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 831,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1738,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44028,
-      "attributes": {
-        "diary_description": "UEFA Champions League: Sabah FA vs Barcelona",
-        "diary_hour": "12:45:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:56:52.039Z",
-        "updatedAt": "2026-11-25T15:59:34.226Z",
-        "publishedAt": "2026-11-25T15:59:34.254Z",
-        "destacado": true,
-        "embeds": {
-          "data": [
-            {
-              "id": 1750,
-              "attributes": {
-                "embed_name": "TNT 4 UK",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdWJvbGF6by5jb20vZHJtL3RudHNwb3J0czR1ay5waHA=",
-                "idioma": "Inglés"
-              }
-            },
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 827,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1736,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BubW92aWwuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1071,
-              "attributes": {
-                "embed_name": "Unimas",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 206,
-              "attributes": {
-                "embed_name": "TUDN USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1743,
-              "attributes": {
-                "embed_name": "TUDN USA Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby90dWRudXNhdHYuaHRtbA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 324,
-              "attributes": {
-                "embed_name": "Univision",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 43999,
-      "attributes": {
-        "diary_description": "Championship: Stoke City vs Millwall",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:23.945Z",
-        "updatedAt": "2026-11-25T12:00:23.067Z",
-        "publishedAt": "2026-11-25T12:00:23.103Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 933,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 8,
-            "attributes": {
-              "name": "Inglaterra",
-              "createdAt": "2023-11-22T15:34:59.892Z",
-              "updatedAt": "2026-10-05T20:42:10.455Z",
-              "publishedAt": "2023-11-22T15:35:01.179Z",
-              "image": {
-                "data": {
-                  "id": 533,
-                  "attributes": {
-                    "name": "Inglaterra.png",
-                    "alternativeText": "Inglaterra",
-                    "caption": "sync:cc7139abf87b3875d4e2b65efe05369d",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Inglaterra_850a05f039.png",
-                        "hash": "thumbnail_Inglaterra_850a05f039",
-                        "mime": "image/png",
-                        "name": "thumbnail_Inglaterra.png",
-                        "path": null,
-                        "size": 4.85,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 4846
-                      }
-                    },
-                    "hash": "Inglaterra_850a05f039",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.69,
-                    "url": "/uploads/Inglaterra_850a05f039.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:10.445Z",
-                    "updatedAt": "2026-10-05T20:42:10.445Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44029,
-      "attributes": {
-        "diary_description": "UEFA Champions League: Atlético de Madrid vs Viking",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:06.696Z",
-        "updatedAt": "2026-11-25T19:04:30.624Z",
-        "publishedAt": "2026-11-25T19:04:30.664Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 656,
-              "attributes": {
-                "embed_name": "ESPN3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 849,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1741,
-              "attributes": {
-                "embed_name": "ESPN3 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuM3R2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44030,
-      "attributes": {
-        "diary_description": "UEFA Champions League: Brujas vs Liverpool",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:07.404Z",
-        "updatedAt": "2026-11-25T19:05:02.379Z",
-        "publishedAt": "2026-11-25T19:05:02.419Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 657,
-              "attributes": {
-                "embed_name": "ESPN",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 846,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1736,
-              "attributes": {
-                "embed_name": "ESPN Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BubW92aWwuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44031,
-      "attributes": {
-        "diary_description": "UEFA Champions League: Inter de Milán vs Stuttgart",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:08.107Z",
-        "updatedAt": "2026-11-25T19:05:59.501Z",
-        "publishedAt": "2026-11-25T19:05:59.544Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 520,
-              "attributes": {
-                "embed_name": "ESPN4",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 838,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1742,
-              "attributes": {
-                "embed_name": "ESPN4 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuNHR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44032,
-      "attributes": {
-        "diary_description": "UEFA Champions League: Lille vs Bayern Múnich",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:08.816Z",
-        "updatedAt": "2026-11-25T19:06:21.323Z",
-        "publishedAt": "2026-11-25T19:06:21.363Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 832,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1738,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44033,
-      "attributes": {
-        "diary_description": "UEFA Champions League: París Saint-Germain vs Roma",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:09.564Z",
-        "updatedAt": "2026-11-25T19:06:57.523Z",
-        "publishedAt": "2026-11-25T19:06:57.566Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 938,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1737,
-              "attributes": {
-                "embed_name": "ESPN5 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuNXR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44034,
-      "attributes": {
-        "diary_description": "UEFA Champions League: Shakhtar Donetsk vs Fenerbahçe",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:11.683Z",
-        "updatedAt": "2026-11-25T19:07:56.682Z",
-        "publishedAt": "2026-11-25T19:07:56.718Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 972,
-              "attributes": {
-                "embed_name": "ESPN6",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG42",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 936,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1739,
-              "attributes": {
-                "embed_name": "ESPN6 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuNnR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44035,
-      "attributes": {
-        "diary_description": "UEFA Champions League: Sporting de Lisboa vs Manchester United",
-        "diary_hour": "15:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:12.649Z",
-        "updatedAt": "2026-11-25T19:08:12.997Z",
-        "publishedAt": "2026-11-25T19:08:13.035Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 653,
-              "attributes": {
-                "embed_name": "ESPN7",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG43",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 934,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1740,
-              "attributes": {
-                "embed_name": "ESPN7 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuN3R2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 33,
-            "attributes": {
-              "name": "UEFA Champions League",
-              "createdAt": "2023-11-27T14:41:16.567Z",
-              "updatedAt": "2026-10-05T20:42:20.368Z",
-              "publishedAt": "2023-11-27T14:41:19.033Z",
-              "image": {
-                "data": {
-                  "id": 614,
-                  "attributes": {
-                    "name": "UEFA Champions League.png",
-                    "alternativeText": "UEFA Champions League",
-                    "caption": "sync:a21cf624a0d460512cf3cf17e6b81fb7",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_UEFA_Champions_League_55b8e331ba.png",
-                        "hash": "thumbnail_UEFA_Champions_League_55b8e331ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_UEFA Champions League.png",
-                        "path": null,
-                        "size": 13.04,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 13035
-                      }
-                    },
-                    "hash": "UEFA_Champions_League_55b8e331ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 6.68,
-                    "url": "/uploads/UEFA_Champions_League_55b8e331ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:20.359Z",
-                    "updatedAt": "2026-10-05T20:42:20.359Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44000,
-      "attributes": {
-        "diary_description": "Segunda División: Colón vs Atenas",
-        "diary_hour": "16:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:19.691Z",
-        "updatedAt": "2026-11-25T12:00:28.639Z",
-        "publishedAt": "2026-11-25T12:00:28.667Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 935,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 16,
-            "attributes": {
-              "name": "Uruguay",
-              "createdAt": "2023-11-22T15:49:02.025Z",
-              "updatedAt": "2026-10-05T20:42:21.652Z",
-              "publishedAt": "2023-11-22T15:49:03.589Z",
-              "image": {
-                "data": {
-                  "id": 624,
-                  "attributes": {
-                    "name": "Uruguay.png",
-                    "alternativeText": "Uruguay",
-                    "caption": "sync:978fd395e8bede7b6fd0422074580ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Uruguay_6184fe6ea1.png",
-                        "hash": "thumbnail_Uruguay_6184fe6ea1",
-                        "mime": "image/png",
-                        "name": "thumbnail_Uruguay.png",
-                        "path": null,
-                        "size": 7.49,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 7489
-                      }
-                    },
-                    "hash": "Uruguay_6184fe6ea1",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.03,
-                    "url": "/uploads/Uruguay_6184fe6ea1.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:21.644Z",
-                    "updatedAt": "2026-10-05T20:42:21.644Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44021,
-      "attributes": {
-        "diary_description": "NBA: Philadelphia 76ers vs Miami Heat",
-        "diary_hour": "17:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T12:05:39.504Z",
-        "updatedAt": "2026-11-25T12:07:03.083Z",
-        "publishedAt": "2026-11-25T12:07:03.122Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 640,
-              "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 932,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1738,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 586,
-              "attributes": {
-                "embed_name": "ESPN 3 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 308,
-              "attributes": {
-                "embed_name": "ESPN MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1808,
-              "attributes": {
-                "embed_name": "ESPN1 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbl91c2E=",
-                "idioma": "Inglés"
-              }
-            },
-            {
-              "id": 1557,
-              "attributes": {
-                "embed_name": "ESPN3 MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1791,
-              "attributes": {
-                "embed_name": "NBA 01",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTAx",
-                "idioma": "Inglés"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "NBA",
-              "createdAt": "2023-11-22T15:09:03.810Z",
-              "updatedAt": "2026-10-05T20:42:14.877Z",
-              "publishedAt": "2023-11-22T15:10:22.869Z",
-              "image": {
-                "data": {
-                  "id": 569,
-                  "attributes": {
-                    "name": "NBA.png",
-                    "alternativeText": "NBA",
-                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
-                        "hash": "thumbnail_NBA_c1f26796ba",
-                        "mime": "image/png",
-                        "name": "thumbnail_NBA.png",
-                        "path": null,
-                        "size": 10.36,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10359
-                      }
-                    },
-                    "hash": "NBA_c1f26796ba",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 5.96,
-                    "url": "/uploads/NBA_c1f26796ba.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:14.867Z",
-                    "updatedAt": "2026-10-05T20:42:14.867Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44002,
-      "attributes": {
-        "diary_description": "Brasileirão: Atlético Mineiro vs Corinthians",
-        "diary_hour": "18:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:33.360Z",
-        "updatedAt": "2026-11-25T12:00:56.261Z",
-        "publishedAt": "2026-11-25T12:00:56.287Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1549,
-              "attributes": {
-                "embed_name": "Premiere BR",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ==",
-                "idioma": "Portugués"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "Brasil",
-              "createdAt": "2023-11-22T14:40:01.140Z",
-              "updatedAt": "2026-10-05T20:42:01.571Z",
-              "publishedAt": "2023-11-22T14:42:50.953Z",
-              "image": {
-                "data": {
-                  "id": 464,
-                  "attributes": {
-                    "name": "Brasil.png",
-                    "alternativeText": "Brasil",
-                    "caption": "sync:f3e09192a153fd3b6f99937345f9bcb9",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Brasil_f83563ade6.png",
-                        "hash": "thumbnail_Brasil_f83563ade6",
-                        "mime": "image/png",
-                        "name": "thumbnail_Brasil.png",
-                        "path": null,
-                        "size": 10.27,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 10272
-                      }
-                    },
-                    "hash": "Brasil_f83563ade6",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 2.61,
-                    "url": "/uploads/Brasil_f83563ade6.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:01.559Z",
-                    "updatedAt": "2026-10-05T20:42:01.559Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44001,
-      "attributes": {
-        "diary_description": "Liga BetPlay: Independiente Santa Fe vs Once Caldas",
-        "diary_hour": "18:20:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:40.164Z",
-        "updatedAt": "2026-11-25T12:00:42.683Z",
-        "publishedAt": "2026-11-25T12:00:42.720Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 1818,
-              "attributes": {
-                "embed_name": "Win Sports +",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1744,
-              "attributes": {
-                "embed_name": "Win Sports + | opc3",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby93aW5wbHVzLmh0bWw=",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 17,
-            "attributes": {
-              "name": "Colombia",
-              "createdAt": "2023-11-22T15:49:17.121Z",
-              "updatedAt": "2026-10-05T20:42:03.931Z",
-              "publishedAt": "2023-11-22T15:49:18.322Z",
-              "image": {
-                "data": {
-                  "id": 482,
-                  "attributes": {
-                    "name": "Colombia.png",
-                    "alternativeText": "Colombia",
-                    "caption": "sync:1816c30293680864d026651562c12130",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Colombia_4e2c37acbb.png",
-                        "hash": "thumbnail_Colombia_4e2c37acbb",
-                        "mime": "image/png",
-                        "name": "thumbnail_Colombia.png",
-                        "path": null,
-                        "size": 5.13,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 5130
-                      }
-                    },
-                    "hash": "Colombia_4e2c37acbb",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.32,
-                    "url": "/uploads/Colombia_4e2c37acbb.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:03.920Z",
-                    "updatedAt": "2026-10-05T20:42:03.920Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
-      "id": 44004,
-      "attributes": {
-        "diary_description": "Liga Profesional Argentina: Boca Juniors vs Independiente Rivadavia",
-        "diary_hour": "19:00:00",
-        "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T11:57:47.393Z",
-        "updatedAt": "2026-11-25T12:01:39.522Z",
-        "publishedAt": "2026-11-25T12:01:39.557Z",
-        "destacado": false,
-        "embeds": {
-          "data": [
-            {
-              "id": 645,
-              "attributes": {
-                "embed_name": "ESPN5",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 932,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1737,
-              "attributes": {
-                "embed_name": "ESPN5 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuNXR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 793,
-              "attributes": {
-                "embed_name": "ESPN Premium",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1746,
-              "attributes": {
-                "embed_name": "ESPN Premium Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BucHJlbWl1bTIuaHRtbA==",
-                "idioma": "Español"
-              }
-            }
-          ]
-        },
-        "country": {
-          "data": {
-            "id": 72,
-            "attributes": {
-              "name": "Argentina",
-              "createdAt": "2024-02-25T19:00:29.066Z",
-              "updatedAt": "2026-10-05T20:42:00.316Z",
-              "publishedAt": "2024-02-25T19:00:31.510Z",
-              "image": {
-                "data": {
-                  "id": 454,
-                  "attributes": {
-                    "name": "Argentina.png",
-                    "alternativeText": "Argentina",
-                    "caption": "sync:f45cda7cc379498bceed7470d1f44847",
-                    "width": 256,
-                    "height": 256,
-                    "formats": {
-                      "thumbnail": {
-                        "ext": ".png",
-                        "url": "/uploads/thumbnail_Argentina_de4252220c.png",
-                        "hash": "thumbnail_Argentina_de4252220c",
-                        "mime": "image/png",
-                        "name": "thumbnail_Argentina.png",
-                        "path": null,
-                        "size": 6.1,
-                        "width": 156,
-                        "height": 156,
-                        "sizeInBytes": 6096
-                      }
-                    },
-                    "hash": "Argentina_de4252220c",
-                    "ext": ".png",
-                    "mime": "image/png",
-                    "size": 1.69,
-                    "url": "/uploads/Argentina_de4252220c.png",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "createdAt": "2026-10-05T20:42:00.303Z",
-                    "updatedAt": "2026-10-05T20:42:00.303Z",
-                    "publishedAt": "2026-10-16T00:33:53.236Z",
-                    "focalPoint": null
-                  }
-                }
-              }
-            }
-          }
-        },
-        "deportes": "futbol",
-        "channels": {
-          "data": []
-        }
-      }
-    },
-    {
       "id": 44022,
       "attributes": {
         "diary_description": "NBA: Charlotte Hornets vs Chicago Bulls",
@@ -1513,54 +78,654 @@
       }
     },
     {
-      "id": 44025,
+      "id": 44062,
       "attributes": {
-        "diary_description": "NBA: Oklahoma City Thunder vs Minnesota Timberwolves",
-        "diary_hour": "19:30:00",
+        "diary_description": "NHL: Tampa Bay Lightning vs Carolina Hurricanes",
+        "diary_hour": "19:00:00",
         "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T12:05:42.154Z",
-        "updatedAt": "2026-11-25T12:08:34.951Z",
-        "publishedAt": "2026-11-25T12:08:34.988Z",
+        "createdAt": "2026-11-25T21:38:19.079Z",
+        "updatedAt": "2026-11-25T21:39:13.824Z",
+        "publishedAt": "2026-11-25T21:39:13.868Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 640,
+              "id": 520,
               "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "embed_name": "ESPN4",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1060,
+              "id": 835,
               "attributes": {
                 "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM=",
                 "idioma": "Español"
               }
             },
             {
-              "id": 1738,
+              "id": 1742,
               "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
+                "embed_name": "ESPN4 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuNHR2Lmh0bWw=",
                 "idioma": "Español"
               }
-            },
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44065,
+      "attributes": {
+        "diary_description": "NHL: Pittsburgh Penguins vs Calgary Flames",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:17.034Z",
+        "updatedAt": "2026-11-26T00:04:06.940Z",
+        "publishedAt": "2026-11-26T00:04:06.979Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
             {
-              "id": 308,
+              "id": 833,
               "attributes": {
-                "embed_name": "ESPN MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA==",
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
                 "idioma": "Español"
               }
-            },
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44066,
+      "attributes": {
+        "diary_description": "NHL: Washington Capitals vs Philadelphia Flyers",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:18.368Z",
+        "updatedAt": "2026-11-26T00:04:25.101Z",
+        "publishedAt": "2026-11-26T00:04:25.139Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
             {
-              "id": 1808,
+              "id": 834,
               "attributes": {
-                "embed_name": "ESPN1 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbl91c2E=",
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44069,
+      "attributes": {
+        "diary_description": "NHL: Boston Bruins vs Winnipeg Jets",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:20.009Z",
+        "updatedAt": "2026-11-26T00:15:11.868Z",
+        "publishedAt": "2026-11-26T00:15:11.907Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 827,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44070,
+      "attributes": {
+        "diary_description": "NHL: New York Islanders vs St. Louis Blues",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:20.653Z",
+        "updatedAt": "2026-11-26T00:15:18.309Z",
+        "publishedAt": "2026-11-26T00:15:18.347Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 831,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44071,
+      "attributes": {
+        "diary_description": "NHL: Florida Panthers vs Ottawa Senators",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:21.205Z",
+        "updatedAt": "2026-11-26T00:15:26.764Z",
+        "publishedAt": "2026-11-26T00:15:26.801Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 849,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44072,
+      "attributes": {
+        "diary_description": "NHL: Columbus Blue Jackets vs New Jersey Devils",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:21.837Z",
+        "updatedAt": "2026-11-26T00:15:39.188Z",
+        "publishedAt": "2026-11-26T00:15:39.225Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 846,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44073,
+      "attributes": {
+        "diary_description": "NHL: Buffalo Sabres vs New York Rangers",
+        "diary_hour": "19:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:22.445Z",
+        "updatedAt": "2026-11-26T00:15:46.130Z",
+        "publishedAt": "2026-11-26T00:15:46.169Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 838,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44040,
+      "attributes": {
+        "diary_description": "NBA: New York Knicks vs Cleveland Cavaliers",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T12:05:41.054Z",
+        "updatedAt": "2026-11-25T21:30:46.603Z",
+        "publishedAt": "2026-11-25T21:30:46.646Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1793,
+              "attributes": {
+                "embed_name": "NBA 03",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTAz",
                 "idioma": "Inglés"
               }
             }
@@ -1607,6 +772,200 @@
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:14.867Z",
                     "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44041,
+      "attributes": {
+        "diary_description": "NBA: Oklahoma City Thunder vs Minnesota Timberwolves",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T12:05:42.154Z",
+        "updatedAt": "2026-11-25T21:31:41.165Z",
+        "publishedAt": "2026-11-25T21:31:41.206Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1060,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1738,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 308,
+              "attributes": {
+                "embed_name": "ESPN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1808,
+              "attributes": {
+                "embed_name": "ESPN1 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbl91c2E=",
+                "idioma": "Inglés"
+              }
+            },
+            {
+              "id": 1794,
+              "attributes": {
+                "embed_name": "NBA 04",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTA0",
+                "idioma": "Inglés"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "image": {
+                "data": {
+                  "id": 569,
+                  "attributes": {
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_NBA.png",
+                        "path": null,
+                        "size": 10.36,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10359
+                      }
+                    },
+                    "hash": "NBA_c1f26796ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44074,
+      "attributes": {
+        "diary_description": "NHL: Detroit Red Wings vs Vancouver Canucks",
+        "diary_hour": "19:30:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:24.180Z",
+        "updatedAt": "2026-11-26T00:15:53.060Z",
+        "publishedAt": "2026-11-26T00:15:53.098Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 832,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -1731,6 +1090,314 @@
       }
     },
     {
+      "id": 44042,
+      "attributes": {
+        "diary_description": "NBA: Memphis Grizzlies vs LA Clippers",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T12:05:42.805Z",
+        "updatedAt": "2026-11-25T21:32:09.419Z",
+        "publishedAt": "2026-11-25T21:32:09.462Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1796,
+              "attributes": {
+                "embed_name": "NBA 06",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bmJhMDY=",
+                "idioma": "Inglés"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "image": {
+                "data": {
+                  "id": 569,
+                  "attributes": {
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_NBA.png",
+                        "path": null,
+                        "size": 10.36,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10359
+                      }
+                    },
+                    "hash": "NBA_c1f26796ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44044,
+      "attributes": {
+        "diary_description": "NBA: Milwaukee Bucks vs Brooklyn Nets",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T12:05:43.436Z",
+        "updatedAt": "2026-11-25T21:32:30.403Z",
+        "publishedAt": "2026-11-25T21:32:30.442Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1795,
+              "attributes": {
+                "embed_name": "NBA 05",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW5iYTA1",
+                "idioma": "Inglés"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "image": {
+                "data": {
+                  "id": 569,
+                  "attributes": {
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_NBA.png",
+                        "path": null,
+                        "size": 10.36,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10359
+                      }
+                    },
+                    "hash": "NBA_c1f26796ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44075,
+      "attributes": {
+        "diary_description": "NHL: Dallas Stars vs Nashville Predators",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:24.758Z",
+        "updatedAt": "2026-11-26T00:16:01.749Z",
+        "publishedAt": "2026-11-26T00:16:01.782Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 938,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44076,
+      "attributes": {
+        "diary_description": "NHL: Minnesota Wild vs Utah Mammoth",
+        "diary_hour": "20:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:25.496Z",
+        "updatedAt": "2026-11-26T00:16:09.811Z",
+        "publishedAt": "2026-11-26T00:16:09.847Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 936,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
       "id": 44005,
       "attributes": {
         "diary_description": "Liga BetPlay: Atlético Nacional vs Independiente Medellín",
@@ -1816,54 +1483,22 @@
       }
     },
     {
-      "id": 44024,
+      "id": 44045,
       "attributes": {
-        "diary_description": "NBA: Portland Trail Blazers vs San Antonio Spurs",
-        "diary_hour": "22:00:00",
+        "diary_description": "NBA: Houston Rockets vs Phoenix Suns",
+        "diary_hour": "20:30:00",
         "date_diary": "2026-11-25",
-        "createdAt": "2026-11-25T12:05:45.786Z",
-        "updatedAt": "2026-11-25T12:07:46.299Z",
-        "publishedAt": "2026-11-25T12:07:46.340Z",
+        "createdAt": "2026-11-25T12:05:44.254Z",
+        "updatedAt": "2026-11-25T21:33:30.689Z",
+        "publishedAt": "2026-11-25T21:33:30.736Z",
         "destacado": false,
         "embeds": {
           "data": [
             {
-              "id": 640,
+              "id": 1790,
               "attributes": {
-                "embed_name": "ESPN2",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1059,
-              "attributes": {
-                "embed_name": "Disney+",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1738,
-              "attributes": {
-                "embed_name": "ESPN2 Movil",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 308,
-              "attributes": {
-                "embed_name": "ESPN MX",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA==",
-                "idioma": "Español"
-              }
-            },
-            {
-              "id": 1808,
-              "attributes": {
-                "embed_name": "ESPN1 USA",
-                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbl91c2E=",
+                "embed_name": "NBA 07",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bmJhMDc=",
                 "idioma": "Inglés"
               }
             }
@@ -1910,6 +1545,431 @@
                     "provider_metadata": null,
                     "createdAt": "2026-10-05T20:42:14.867Z",
                     "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44077,
+      "attributes": {
+        "diary_description": "NHL: Colorado Avalanche vs Montreal Canadiens",
+        "diary_hour": "21:30:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:26.042Z",
+        "updatedAt": "2026-11-26T00:16:28.085Z",
+        "publishedAt": "2026-11-26T00:16:28.120Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 934,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44078,
+      "attributes": {
+        "diary_description": "NHL: Seattle Kraken vs Chicago Blackhawks",
+        "diary_hour": "21:40:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:26.560Z",
+        "updatedAt": "2026-11-26T00:16:36.403Z",
+        "publishedAt": "2026-11-26T00:16:36.439Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 933,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44046,
+      "attributes": {
+        "diary_description": "NBA: Golden State Warriors vs Sacramento Kings",
+        "diary_hour": "22:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T12:05:45.080Z",
+        "updatedAt": "2026-11-25T21:34:05.594Z",
+        "publishedAt": "2026-11-25T21:34:05.633Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 1798,
+              "attributes": {
+                "embed_name": "NBA 08",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bmJhMDg=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "image": {
+                "data": {
+                  "id": 569,
+                  "attributes": {
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_NBA.png",
+                        "path": null,
+                        "size": 10.36,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10359
+                      }
+                    },
+                    "hash": "NBA_c1f26796ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44047,
+      "attributes": {
+        "diary_description": "NBA: Portland Trail Blazers vs San Antonio Spurs",
+        "diary_hour": "22:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T12:05:45.786Z",
+        "updatedAt": "2026-11-25T21:34:21.278Z",
+        "publishedAt": "2026-11-25T21:34:21.313Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 640,
+              "attributes": {
+                "embed_name": "ESPN2",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1059,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1738,
+              "attributes": {
+                "embed_name": "ESPN2 Movil",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9zdzMuaHRtbD9nZXQ9aHR0cHM6Ly93d3cuZ29scGVydXR2Lnh5ei9yZXByby9lc3BuMnR2Lmh0bWw=",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 308,
+              "attributes": {
+                "embed_name": "ESPN MX",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA==",
+                "idioma": "Español"
+              }
+            },
+            {
+              "id": 1808,
+              "attributes": {
+                "embed_name": "ESPN1 USA",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbl91c2E=",
+                "idioma": "Inglés"
+              }
+            },
+            {
+              "id": 1800,
+              "attributes": {
+                "embed_name": "NBA 09",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bmJhMDk=",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "NBA",
+              "createdAt": "2023-11-22T15:09:03.810Z",
+              "updatedAt": "2026-10-05T20:42:14.877Z",
+              "publishedAt": "2023-11-22T15:10:22.869Z",
+              "image": {
+                "data": {
+                  "id": 569,
+                  "attributes": {
+                    "name": "NBA.png",
+                    "alternativeText": "NBA",
+                    "caption": "sync:bab27ab7072ef64e534632a4ada85ecc",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NBA_c1f26796ba.png",
+                        "hash": "thumbnail_NBA_c1f26796ba",
+                        "mime": "image/png",
+                        "name": "thumbnail_NBA.png",
+                        "path": null,
+                        "size": 10.36,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 10359
+                      }
+                    },
+                    "hash": "NBA_c1f26796ba",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 5.96,
+                    "url": "/uploads/NBA_c1f26796ba.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:14.867Z",
+                    "updatedAt": "2026-10-05T20:42:14.867Z",
+                    "publishedAt": "2026-10-16T00:33:53.236Z",
+                    "focalPoint": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deportes": "futbol",
+        "channels": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 44079,
+      "attributes": {
+        "diary_description": "NHL: Anaheim Ducks vs San Jose Sharks",
+        "diary_hour": "22:00:00",
+        "date_diary": "2026-11-25",
+        "createdAt": "2026-11-25T21:38:27.934Z",
+        "updatedAt": "2026-11-26T00:16:45.484Z",
+        "publishedAt": "2026-11-26T00:16:45.514Z",
+        "destacado": false,
+        "embeds": {
+          "data": [
+            {
+              "id": 935,
+              "attributes": {
+                "embed_name": "Disney+",
+                "embed_iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0",
+                "idioma": "Español"
+              }
+            }
+          ]
+        },
+        "country": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "NHL",
+              "createdAt": "2023-12-27T15:19:09.753Z",
+              "updatedAt": "2026-10-05T20:42:15.144Z",
+              "publishedAt": "2023-12-27T15:19:43.009Z",
+              "image": {
+                "data": {
+                  "id": 571,
+                  "attributes": {
+                    "name": "NHL.png",
+                    "alternativeText": "NHL",
+                    "caption": "sync:071933481c25f1ffa3b949e60d19a7bf",
+                    "width": 256,
+                    "height": 256,
+                    "formats": {
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "/uploads/thumbnail_NHL_a792e23ddd.png",
+                        "hash": "thumbnail_NHL_a792e23ddd",
+                        "mime": "image/png",
+                        "name": "thumbnail_NHL.png",
+                        "path": null,
+                        "size": 19.71,
+                        "width": 156,
+                        "height": 156,
+                        "sizeInBytes": 19712
+                      }
+                    },
+                    "hash": "NHL_a792e23ddd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 10.27,
+                    "url": "/uploads/NHL_a792e23ddd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "createdAt": "2026-10-05T20:42:15.134Z",
+                    "updatedAt": "2026-10-05T20:42:15.134Z",
                     "publishedAt": "2026-10-16T00:33:53.236Z",
                     "focalPoint": null
                   }
@@ -2037,9 +2097,9 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 21,
+      "pageSize": 25,
       "pageCount": 1,
-      "total": 21
+      "total": 25
     }
   }
 }
